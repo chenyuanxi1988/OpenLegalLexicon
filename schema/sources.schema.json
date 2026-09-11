@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]+$"
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+      },
+      "provider": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+      },
+      "origin": {
+        "enum": [
+          "CN",
+          "TW",
+          "HK",
+          "SG",
+          "US",
+          "UK",
+          "EU",
+          "INTERNATIONAL"
+        ]
+      },
+      "url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "download_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "license": {
+        "enum": [
+          "OGDL-Taiwan-1.0",
+          "CC-BY-4.0"
+        ]
+      },
+      "license_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "license_evidence_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "redistribution": {
+        "enum": [
+          "permitted",
+          "pending",
+          "excluded"
+        ]
+      },
+      "attribution": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+      },
+      "snapshot": {
+        "type": "string",
+        "pattern": "^data/snapshots/[a-z0-9-]+\\.jsonl$"
+      },
+      "snapshot_sha256": {
+        "type": "string",
+        "pattern": "^[a-f0-9]{64}$"
+      },
+      "retrieved": {
+        "type": "string",
+        "format": "date"
+      },
+      "expected_records": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "pages": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "scope": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+      },
+      "review": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+      }
+    },
+    "required": [
+      "id",
+      "title",
+      "provider",
+      "origin",
+      "url",
+      "license",
+      "license_url",
+      "license_evidence_url",
+      "redistribution",
+      "attribution",
+      "snapshot",
+      "snapshot_sha256",
+      "retrieved",
+      "expected_records",
+      "pages",
+      "scope",
+      "review"
+    ]
+  },
+  "uniqueItems": true,
+  "minItems": 1
+}

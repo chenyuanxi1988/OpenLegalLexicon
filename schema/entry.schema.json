@@ -1,0 +1,388 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]+$"
+    },
+    "forms": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "zh_Hant": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+        },
+        "zh_Hans": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+        }
+      },
+      "required": [
+        "zh_Hant",
+        "zh_Hans",
+        "en"
+      ]
+    },
+    "script_conversion": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "method": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+        },
+        "review": {
+          "enum": [
+            "machine_generated",
+            "editorial_checked"
+          ]
+        }
+      },
+      "required": [
+        "method",
+        "review"
+      ]
+    },
+    "source_origin": {
+      "enum": [
+        "CN",
+        "TW",
+        "HK",
+        "SG",
+        "US",
+        "UK",
+        "EU",
+        "INTERNATIONAL"
+      ]
+    },
+    "jurisdictions": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "CN",
+          "TW",
+          "HK",
+          "SG",
+          "US",
+          "UK",
+          "EU",
+          "INTERNATIONAL"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 0
+    },
+    "jurisdiction_basis": {
+      "enum": [
+        "not_assessed",
+        "explicit_source",
+        "editorial_with_evidence"
+      ]
+    },
+    "legal_status": {
+      "enum": [
+        "not_assessed",
+        "current",
+        "historical",
+        "deprecated"
+      ]
+    },
+    "domains": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "administrative",
+          "ai",
+          "civil",
+          "company",
+          "competition",
+          "constitutional",
+          "contracts",
+          "core",
+          "criminal",
+          "dispute_resolution",
+          "employment",
+          "family",
+          "finance",
+          "intellectual_property",
+          "m_and_a",
+          "privacy",
+          "property",
+          "tax",
+          "trade",
+          "unclassified"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 1
+    },
+    "domain_basis": {
+      "enum": [
+        "source_collection",
+        "automatic_keyword_rules",
+        "editorial"
+      ]
+    },
+    "kind": {
+      "enum": [
+        "term",
+        "statute",
+        "institution",
+        "role",
+        "document",
+        "action",
+        "abbreviation",
+        "unclassified"
+      ]
+    },
+    "kind_basis": {
+      "enum": [
+        "automatic_surface_rules",
+        "editorial"
+      ]
+    },
+    "alignment": {
+      "enum": [
+        "source_association",
+        "contextual_translation",
+        "exact_equivalent",
+        "near_equivalent"
+      ]
+    },
+    "pronunciation": {
+      "anyOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "system": {
+              "const": "hanyu_pinyin"
+            },
+            "tone_numbers": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+            },
+            "rime": {
+              "type": "string",
+              "pattern": "^[a-zvü]+(?: [a-zvü]+)*$"
+            },
+            "method": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+            },
+            "review": {
+              "enum": [
+                "machine_generated",
+                "editorial_checked"
+              ]
+            }
+          },
+          "required": [
+            "system",
+            "tone_numbers",
+            "rime",
+            "method",
+            "review"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "scope_note": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+    },
+    "learning_note": {
+      "type": "string",
+      "pattern": "^[^\\x00-\\x1f\\x7f]*$"
+    },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "source_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]+$"
+          },
+          "record": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+          },
+          "page": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "context": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+          },
+          "source_updated": {
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "date"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "source_id",
+          "record",
+          "page",
+          "context",
+          "source_updated"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 1
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "type": {
+            "enum": [
+              "related",
+              "contrast",
+              "abbreviation_of",
+              "replaced_by"
+            ]
+          },
+          "target": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]+$"
+          },
+          "evidence": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+          }
+        },
+        "required": [
+          "type",
+          "target",
+          "evidence"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 0
+    },
+    "license": {
+      "enum": [
+        "OGDL-Taiwan-1.0",
+        "CC-BY-4.0"
+      ]
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "extraction": {
+          "enum": [
+            "validated"
+          ]
+        },
+        "translation": {
+          "enum": [
+            "source_attributed",
+            "editorial_checked"
+          ]
+        },
+        "editor": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "extraction",
+        "translation",
+        "editor"
+      ]
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "compound_or_annotated_chinese",
+          "template_or_placeholder",
+          "long_chinese_label",
+          "multiple_or_annotated_translations",
+          "invalid_bilingual_text",
+          "suspected_translation_error",
+          "historic_name",
+          "pronunciation_needs_review"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 0
+    },
+    "status": {
+      "enum": [
+        "source_attributed",
+        "editorial_checked",
+        "quarantined"
+      ]
+    }
+  },
+  "required": [
+    "schema_version",
+    "id",
+    "forms",
+    "script_conversion",
+    "source_origin",
+    "jurisdictions",
+    "jurisdiction_basis",
+    "legal_status",
+    "domains",
+    "domain_basis",
+    "kind",
+    "kind_basis",
+    "alignment",
+    "pronunciation",
+    "scope_note",
+    "learning_note",
+    "references",
+    "relations",
+    "license",
+    "review",
+    "flags",
+    "status"
+  ],
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/chenyuanxi1988/OpenLegalLexicon/schema/entry.schema.json"
+}
