@@ -3,7 +3,7 @@
 # Pronunciations include machine-generated readings; fixed weight is not corpus frequency.
 ---
 name: openlegal_hans
-version: "0.1.0.dev3"
+version: "0.1.0.dev4"
 sort: by_weight
 use_preset_vocabulary: false
 columns: [text, code, weight]

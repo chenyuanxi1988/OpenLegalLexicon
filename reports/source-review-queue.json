@@ -3,1048 +3,6 @@
     {
       "members": [
         {
-          "context": "中华人民共和国民法典（2020）",
-          "domain_basis": "editorial",
-          "domains": [
-            "family"
-          ],
-          "en": "estate of a deceased person",
-          "flags": [],
-          "id": "cn-estate",
-          "jurisdiction_basis": "editorial_with_evidence",
-          "jurisdictions": [
-            "CN"
-          ],
-          "kind": "term",
-          "kind_basis": "editorial",
-          "record": "cn-estate",
-          "source_id": "oll-cn-core",
-          "status": "evidence_linked",
-          "translation_review": "project_authored",
-          "zh_Hans": "遗产",
-          "zh_Hant": "遺產"
-        },
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "family"
-          ],
-          "en": "decedent's estate",
-          "flags": [],
-          "id": "tw-judicial-71372bab5c5d36694394",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1929",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "遗产",
-          "zh_Hant": "遺產"
-        }
-      ],
-      "priority": 100,
-      "reasons": [
-        "homograph_with_reviewed_or_editorial_entry"
-      ],
-      "zh_Hans": "遗产"
-    },
-    {
-      "members": [
-        {
-          "context": "中华人民共和国民法典（2020）",
-          "domain_basis": "editorial",
-          "domains": [
-            "civil",
-            "privacy"
-          ],
-          "en": "right to privacy",
-          "flags": [],
-          "id": "cn-privacy-right",
-          "jurisdiction_basis": "editorial_with_evidence",
-          "jurisdictions": [
-            "CN"
-          ],
-          "kind": "term",
-          "kind_basis": "editorial",
-          "record": "cn-privacy-right",
-          "source_id": "oll-cn-core",
-          "status": "evidence_linked",
-          "translation_review": "project_authored",
-          "zh_Hans": "隐私权",
-          "zh_Hant": "隱私權"
-        },
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "privacy"
-          ],
-          "en": "right of privacy",
-          "flags": [],
-          "id": "tw-judicial-f51b19a8aa715d7aa0a0",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1998",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "隐私权",
-          "zh_Hant": "隱私權"
-        }
-      ],
-      "priority": 100,
-      "reasons": [
-        "homograph_with_reviewed_or_editorial_entry"
-      ],
-      "zh_Hans": "隐私权"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "domicile",
-          "flags": [],
-          "id": "tw-judicial-1666a6f037bdd0fd046f",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "594",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "住所",
-          "zh_Hant": "住所"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "domicile",
-          "flags": [],
-          "id": "tw-tipo-trademark-2afd19f051c73a328838",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "168",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "住所",
-          "zh_Hant": "住所"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "住所"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "infringement",
-          "flags": [],
-          "id": "tw-judicial-49a3906ef3ddcf667cf6",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "859",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "侵害",
-          "zh_Hant": "侵害"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "infringement",
-          "flags": [],
-          "id": "tw-tipo-trademark-dbef844413f14da096fa",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "300",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "侵害",
-          "zh_Hant": "侵害"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "侵害"
-    },
-    {
-      "members": [
-        {
-          "context": "行政訴訟及懲戒廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "Provisional Injunction",
-          "flags": [],
-          "id": "tw-judicial-740ca5593310664a8df9",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1130",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "假处分",
-          "zh_Hant": "假處分"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "preliminary injunction",
-          "flags": [],
-          "id": "tw-tipo-trademark-165a4a3c2c54bca201de",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "421",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "假处分",
-          "zh_Hant": "假處分"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "假处分"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "official notice",
-          "flags": [],
-          "id": "tw-judicial-7e48e18f4d6cf3822348",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "148",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "公告",
-          "zh_Hant": "公告"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "Publication",
-          "flags": [],
-          "id": "tw-tipo-trademark-ea46511c76f0f7ca111c",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "455",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "公告",
-          "zh_Hant": "公告"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "公告"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "applicable mutatis mutandis",
-          "flags": [],
-          "id": "tw-judicial-76f51850575f4763d000",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1561",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "准用",
-          "zh_Hant": "準用"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "mutatis mutandis",
-          "flags": [],
-          "id": "tw-tipo-trademark-cb4067a746b0c584a8a7",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "367",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "准用",
-          "zh_Hant": "準用"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "准用"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "precedent(s)",
-          "flags": [],
-          "id": "tw-judicial-63ad91b54ff753c266ee",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "622",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "判例",
-          "zh_Hant": "判例"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "precedent",
-          "flags": [],
-          "id": "tw-tipo-trademark-ea61914f555c64f53b5a",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "418",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "判例",
-          "zh_Hant": "判例"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "判例"
-    },
-    {
-      "members": [
-        {
-          "context": "民事廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "appeal",
-          "flags": [],
-          "id": "tw-judicial-242b0a50acd7e329c8a9",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1286",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "异议",
-          "zh_Hant": "異議"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "opposition",
-          "flags": [],
-          "id": "tw-tipo-trademark-360b06314e80cd2f977f",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "386",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "异议",
-          "zh_Hant": "異議"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "异议"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "opposition proceeding",
-          "flags": [],
-          "id": "tw-judicial-869ca82f32d727bde533",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1287",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "异议程序",
-          "zh_Hant": "異議程序"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "opposition proceeding",
-          "flags": [],
-          "id": "tw-tipo-trademark-e5fb93e5f017f8df57fd",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "388",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "异议程序",
-          "zh_Hant": "異議程序"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "异议程序"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "presume",
-          "flags": [],
-          "id": "tw-judicial-3696f3fe6d9788e617ff",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1267",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "推定",
-          "zh_Hant": "推定"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "presume",
-          "flags": [],
-          "id": "tw-tipo-trademark-acf7bae286573e87bc5d",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "424",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "推定",
-          "zh_Hant": "推定"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "推定"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "revocation",
-          "flags": [],
-          "id": "tw-judicial-3177a2492df11ca5917f",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1643",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "撤销",
-          "zh_Hant": "撤銷"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "cancel",
-          "flags": [],
-          "id": "tw-tipo-trademark-dec384c977bfb4253ec4",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "61",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "撤销",
-          "zh_Hant": "撤銷"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "撤销"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "Government Official",
-          "flags": [],
-          "id": "tw-judicial-d93174a9bac5c5bda259",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "905",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "政府公报",
-          "zh_Hant": "政府公報"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "Official Gazette",
-          "flags": [],
-          "id": "tw-tipo-trademark-b84065c11778807899c1",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "378",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "政府公报",
-          "zh_Hant": "政府公報"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "政府公报"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "permission",
-          "flags": [],
-          "id": "tw-judicial-a6f2196afd88940998c1",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1022",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "核准",
-          "zh_Hant": "核准"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "allowance",
-          "flags": [],
-          "id": "tw-tipo-trademark-41cf74b59f0f9c35d6c7",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "22",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "核准",
-          "zh_Hant": "核准"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "approve",
-          "flags": [],
-          "id": "tw-tipo-trademark-abb1835267c2f4ece061",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "36",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "核准",
-          "zh_Hant": "核准"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "核准"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "statutory period",
-          "flags": [],
-          "id": "tw-judicial-9feec0f984ab60f66a5f",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "769",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "法定期间",
-          "zh_Hant": "法定期間"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "statutory period",
-          "flags": [],
-          "id": "tw-tipo-trademark-6638963967b2ff947ec6",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "540",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "法定期间",
-          "zh_Hant": "法定期間"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "法定期间"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "application period",
-          "flags": [],
-          "id": "tw-judicial-71c70242440d02df8e0f",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "407",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "申请期间",
-          "zh_Hant": "申請期間"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "prosecution of the application",
-          "flags": [],
-          "id": "tw-tipo-trademark-6f66fb2f4f3eef2e0b87",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "451",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "申请期间",
-          "zh_Hant": "申請期間"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "申请期间"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "recording",
-          "flags": [],
-          "id": "tw-judicial-a7fb7b1d454fc8a1857b",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1445",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "登记",
-          "zh_Hant": "登記"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "recordation",
-          "flags": [],
-          "id": "tw-tipo-trademark-8efed26a9b9a87781d9f",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "465",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "登记",
-          "zh_Hant": "登記"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "登记"
-    },
-    {
-      "members": [
-        {
-          "context": "民事廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "Third Party",
-          "flags": [],
-          "id": "tw-judicial-ba9697a9c0c93e3fd1a7",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1298",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "第三人",
-          "zh_Hant": "第三人"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "third party",
-          "flags": [],
-          "id": "tw-tipo-trademark-9eed2463bbf08ab38564",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "554",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "第三人",
-          "zh_Hant": "第三人"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "第三人"
-    },
-    {
-      "members": [
-        {
-          "context": "民事廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "authentication",
-          "flags": [],
-          "id": "tw-judicial-f0b0b42978137adea32b",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "2061",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "证明",
-          "zh_Hant": "證明"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "identification",
-          "flags": [],
-          "id": "tw-tipo-trademark-5b1a9cda0682f227e278",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "278",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "证明",
-          "zh_Hant": "證明"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "justify",
-          "flags": [],
-          "id": "tw-tipo-trademark-f361a025fdd7e30953e0",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "334",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "证明",
-          "zh_Hant": "證明"
-        }
-      ],
-      "priority": 95,
-      "reasons": [
-        "homograph_across_source_collections",
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "证明"
-    },
-    {
-      "members": [
-        {
-          "context": "民事廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "dispute_resolution"
-          ],
-          "en": "appeal",
-          "flags": [],
-          "id": "tw-judicial-c2ad5e1e8e8973156eac",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "25",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "上诉",
-          "zh_Hant": "上訴"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "appeal",
-          "flags": [],
-          "id": "tw-tipo-trademark-2a3d66098325b5263797",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "27",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_review": "source_attributed",
-          "zh_Hans": "上诉",
-          "zh_Hant": "上訴"
-        }
-      ],
-      "priority": 70,
-      "reasons": [
-        "homograph_across_source_collections"
-      ],
-      "zh_Hans": "上诉"
-    },
-    {
-      "members": [
-        {
           "context": "憲法法庭書記廳",
           "domain_basis": "automatic_keyword_rules",
           "domains": [
@@ -1060,6 +18,7 @@
           "record": "1175",
           "source_id": "tw-judicial",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "商标法",
           "zh_Hant": "商標法"
@@ -1080,6 +39,7 @@
           "record": "564",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "商标法",
           "zh_Hant": "商標法"
@@ -1109,6 +69,7 @@
           "record": "933",
           "source_id": "tw-judicial",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "相对人",
           "zh_Hant": "相對人"
@@ -1129,6 +90,7 @@
           "record": "932",
           "source_id": "tw-judicial",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "相对人",
           "zh_Hant": "相對人"
@@ -1158,6 +120,7 @@
           "record": "1767",
           "source_id": "tw-judicial",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "辅佐人",
           "zh_Hant": "輔佐人"
@@ -1178,6 +141,7 @@
           "record": "1766",
           "source_id": "tw-judicial",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "辅佐人",
           "zh_Hant": "輔佐人"
@@ -1209,6 +173,7 @@
           "record": "513",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "与…近似",
           "zh_Hant": "與…近似"
@@ -1231,6 +196,7 @@
           "record": "514",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "与…近似",
           "zh_Hant": "與…近似"
@@ -1262,6 +228,7 @@
           "record": "187",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "给与权利（或资格）",
           "zh_Hant": "給與權利（或資格）"
@@ -1284,6 +251,7 @@
           "record": "186",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "给与权利（或资格）",
           "zh_Hant": "給與權利（或資格）"
@@ -1313,6 +281,7 @@
           "record": "571",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "与贸易有关之智慧财产权协定",
           "zh_Hant": "與貿易有關之智慧財產權協定"
@@ -1333,6 +302,7 @@
           "record": "570",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "与贸易有关之智慧财产权协定",
           "zh_Hant": "與貿易有關之智慧財產權協定"
@@ -1362,6 +332,7 @@
           "record": "608",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "世界智慧财产权组织",
           "zh_Hant": "世界智慧財產權組織"
@@ -1382,6 +353,7 @@
           "record": "607",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "世界智慧财产权组织",
           "zh_Hant": "世界智慧財產權組織"
@@ -1411,6 +383,7 @@
           "record": "14",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "争议解决方案",
           "zh_Hant": "爭議解決方案"
@@ -1431,6 +404,7 @@
           "record": "15",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "争议解决方案",
           "zh_Hant": "爭議解決方案"
@@ -1460,6 +434,7 @@
           "record": "264",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "产品或服务与产地之关联性",
           "zh_Hant": "產品或服務與產地之關聯性"
@@ -1480,6 +455,7 @@
           "record": "263",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "产品或服务与产地之关联性",
           "zh_Hant": "產品或服務與產地之關聯性"
@@ -1509,6 +485,7 @@
           "record": "523",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "使用声明",
           "zh_Hant": "使用聲明"
@@ -1529,6 +506,7 @@
           "record": "19",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "使用声明",
           "zh_Hant": "使用聲明"
@@ -1549,6 +527,7 @@
           "record": "522",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "使用声明",
           "zh_Hant": "使用聲明"
@@ -1578,6 +557,7 @@
           "record": "2",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "使用声明之修正",
           "zh_Hant": "使用聲明之修正"
@@ -1598,6 +578,7 @@
           "record": "1",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "使用声明之修正",
           "zh_Hant": "使用聲明之修正"
@@ -1627,6 +608,7 @@
           "record": "94",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "共同体商标",
           "zh_Hant": "共同體商標"
@@ -1647,6 +629,7 @@
           "record": "123",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "共同体商标",
           "zh_Hant": "共同體商標"
@@ -1667,6 +650,7 @@
           "record": "124",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "共同体商标",
           "zh_Hant": "共同體商標"
@@ -1696,6 +680,7 @@
           "record": "64",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "共同体新式样",
           "zh_Hant": "共同體新式樣"
@@ -1716,6 +701,7 @@
           "record": "63",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "共同体新式样",
           "zh_Hant": "共同體新式樣"
@@ -1745,6 +731,7 @@
           "record": "380",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "内部市场协调局",
           "zh_Hant": "內部市場協調局"
@@ -1765,6 +752,7 @@
           "record": "381",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "内部市场协调局",
           "zh_Hant": "內部市場協調局"
@@ -1794,6 +782,7 @@
           "record": "6",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "反网域名称抢注消费者保护法",
           "zh_Hant": "反網域名稱搶註消費者保護法"
@@ -1814,6 +803,7 @@
           "record": "7",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "反网域名称抢注消费者保护法",
           "zh_Hant": "反網域名稱搶註消費者保護法"
@@ -1843,6 +833,7 @@
           "record": "559",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "商标审查程序手册",
           "zh_Hant": "商標審查程序手冊"
@@ -1863,6 +854,7 @@
           "record": "560",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "商标审查程序手册",
           "zh_Hant": "商標審查程序手冊"
@@ -1892,6 +884,7 @@
           "record": "573",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "商标诉愿暨上诉委员会",
           "zh_Hant": "商標訴願暨上訴委員會"
@@ -1912,6 +905,7 @@
           "record": "572",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "商标诉愿暨上诉委员会",
           "zh_Hant": "商標訴願暨上訴委員會"
@@ -1941,6 +935,7 @@
           "record": "412",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "委任状",
           "zh_Hant": "委任狀"
@@ -1961,6 +956,7 @@
           "record": "413",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "委任状",
           "zh_Hant": "委任狀"
@@ -1990,6 +986,7 @@
           "record": "519",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "服务标章",
           "zh_Hant": "服務標章"
@@ -2010,6 +1007,7 @@
           "record": "518",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "服务标章",
           "zh_Hant": "服務標章"
@@ -2039,6 +1037,7 @@
           "record": "176",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "欧洲法院",
           "zh_Hant": "歐洲法院"
@@ -2059,6 +1058,7 @@
           "record": "175",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "欧洲法院",
           "zh_Hant": "歐洲法院"
@@ -2088,6 +1088,7 @@
           "record": "55",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "法院第一审",
           "zh_Hant": "法院第一審"
@@ -2108,6 +1109,7 @@
           "record": "56",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "法院第一审",
           "zh_Hant": "法院第一審"
@@ -2137,6 +1139,7 @@
           "record": "276",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "网际网路名称与号码分配组织",
           "zh_Hant": "網際網路名稱與號碼分配組織"
@@ -2157,6 +1160,7 @@
           "record": "275",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "网际网路名称与号码分配组织",
           "zh_Hant": "網際網路名稱與號碼分配組織"
@@ -2186,6 +1190,7 @@
           "record": "594",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "美国专利商标局",
           "zh_Hant": "美國專利商標局"
@@ -2206,6 +1211,7 @@
           "record": "593",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "美国专利商标局",
           "zh_Hant": "美國專利商標局"
@@ -2235,6 +1241,7 @@
           "record": "592",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "美国专利季刊",
           "zh_Hant": "美國專利季刊"
@@ -2255,6 +1262,7 @@
           "record": "591",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "美国专利季刊",
           "zh_Hant": "美國專利季刊"
@@ -2284,6 +1292,7 @@
           "record": "59",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "联邦巡回上诉法院",
           "zh_Hant": "聯邦巡迴上訴法院"
@@ -2304,6 +1313,7 @@
           "record": "60",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "联邦巡回上诉法院",
           "zh_Hant": "聯邦巡迴上訴法院"
@@ -2333,6 +1343,7 @@
           "record": "162",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "分割",
           "zh_Hant": "分割"
@@ -2353,6 +1364,7 @@
           "record": "164",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "分割",
           "zh_Hant": "分割"
@@ -2380,6 +1392,7 @@
           "record": "75",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "分类",
           "zh_Hant": "分類"
@@ -2400,6 +1413,7 @@
           "record": "76",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "分类",
           "zh_Hant": "分類"
@@ -2427,6 +1441,7 @@
           "record": "102",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "处理",
           "zh_Hant": "處理"
@@ -2447,6 +1462,7 @@
           "record": "103",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "处理",
           "zh_Hant": "處理"
@@ -2474,6 +1490,7 @@
           "record": "599",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "宣誓书",
           "zh_Hant": "宣誓書"
@@ -2494,6 +1511,7 @@
           "record": "17",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "宣誓书",
           "zh_Hant": "宣誓書"
@@ -2521,6 +1539,7 @@
           "record": "144",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "指定",
           "zh_Hant": "指定"
@@ -2541,6 +1560,7 @@
           "record": "148",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "指定",
           "zh_Hant": "指定"
@@ -2568,6 +1588,7 @@
           "record": "78",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "条款",
           "zh_Hant": "條款"
@@ -2588,6 +1609,7 @@
           "record": "452",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "条款",
           "zh_Hant": "條款"
@@ -2615,6 +1637,7 @@
           "record": "383",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "气味商标",
           "zh_Hant": "氣味商標"
@@ -2635,6 +1658,7 @@
           "record": "502",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "气味商标",
           "zh_Hant": "氣味商標"
@@ -2662,6 +1686,7 @@
           "record": "579",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "美国法典",
           "zh_Hant": "美國法典"
@@ -2682,6 +1707,7 @@
           "record": "578",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "美国法典",
           "zh_Hant": "美國法典"
@@ -2709,6 +1735,7 @@
           "record": "58",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "联邦法规法典",
           "zh_Hant": "聯邦法規法典"
@@ -2729,6 +1756,7 @@
           "record": "57",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "联邦法规法典",
           "zh_Hant": "聯邦法規法典"
@@ -2756,6 +1784,7 @@
           "record": "365",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "误认",
           "zh_Hant": "誤認"
@@ -2776,6 +1805,7 @@
           "record": "363",
           "source_id": "tw-tipo-trademark",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "误认",
           "zh_Hant": "誤認"
@@ -2803,6 +1833,7 @@
           "record": "1852",
           "source_id": "tw-judicial",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "调解室",
           "zh_Hant": "調解室"
@@ -2823,6 +1854,7 @@
           "record": "1853",
           "source_id": "tw-judicial",
           "status": "source_attributed",
+          "translation_note": "",
           "translation_review": "source_attributed",
           "zh_Hans": "调解室",
           "zh_Hant": "調解室"
@@ -2833,11 +1865,12 @@
       "zh_Hans": "调解室"
     }
   ],
-  "homograph_review_groups_total": 56,
+  "homograph_review_groups_total": 36,
   "limits": [
     "Source origin does not establish legal jurisdiction.",
     "Surface-kind and domain rules are machine-generated candidates, not legal review.",
-    "Original source translations remain source-attributed until independently reviewed."
+    "Original source translations remain source-attributed until independently reviewed.",
+    "Quarantine is an unresolved outcome, not a completed translation review."
   ],
   "purpose": "Deterministic prioritization only; no item is legally reviewed by appearing in this queue.",
   "single_high_value_candidates": [
@@ -2860,6 +1893,7 @@
         "record": "8",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "七十九年特种考试台湾省基层公务人员考试规则",
         "zh_Hant": "七十九年特種考試台灣省基層公務人員考試規則"
@@ -2890,6 +1924,7 @@
         "record": "102",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中央政府兴建台湾北部第二高速公路建设公债发行条例",
         "zh_Hant": "中央政府興建台灣北部第二高速公路建設公債發行條例"
@@ -2920,6 +1955,7 @@
         "record": "873",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "保险经纪人、代理人及公证人",
         "zh_Hant": "保險經紀人、代理人及公證人"
@@ -2950,6 +1986,7 @@
         "record": "437",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "全民健康保险特殊诊疗项目及药材事前审查作业要点",
         "zh_Hant": "全民健康保險特殊診療項目及藥材事前審查作業要點"
@@ -2980,6 +2017,7 @@
         "record": "438",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "全民健康保险高科技诊疗项目及审查程序作业要点",
         "zh_Hant": "全民健康保險高科技診療項目及審查程序作業要點"
@@ -3010,6 +2048,7 @@
         "record": "1190",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "国立阳明医学院医学系公费学生待遇及毕业后分发服务实施要点",
         "zh_Hant": "國立陽明醫學院醫學系公費學生待遇及畢業後分發服務實施要點"
@@ -3040,6 +2079,7 @@
         "record": "1616",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "违反道路交通管理事件统一裁罚标准及处理细则",
         "zh_Hant": "違反道路交通管理事件統一裁罰標準及處理細則"
@@ -3070,6 +2110,7 @@
         "record": "841",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "金马地区役龄男子检定为已训乙种国民兵实施办法",
         "zh_Hant": "金馬地區役齡男子檢定為已訓乙種國民兵實施辦法"
@@ -3098,6 +2139,7 @@
         "record": "23",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "下水道法",
         "zh_Hant": "下水道法"
@@ -3125,6 +2167,7 @@
         "record": "1246",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "专科学校法",
         "zh_Hant": "專科學校法"
@@ -3152,6 +2195,7 @@
         "record": "694",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "两性工作平等法",
         "zh_Hant": "兩性工作平等法"
@@ -3179,6 +2223,7 @@
         "record": "110",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中华民国专属经济海域及大陆礁层法",
         "zh_Hant": "中華民國專屬經濟海域及大陸礁層法"
@@ -3206,6 +2251,7 @@
         "record": "108",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中华民国四十八年短期公债发行条例",
         "zh_Hant": "中華民國四十八年短期公債發行條例"
@@ -3233,6 +2279,7 @@
         "record": "109",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中华民国训政时期约法",
         "zh_Hant": "中華民國訓政時期約法"
@@ -3260,6 +2307,7 @@
         "record": "111",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中华民国领海及邻接区法",
         "zh_Hant": "中華民國領海及鄰接區法"
@@ -3287,6 +2335,7 @@
         "record": "96",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中央公教人员福利互助办法",
         "zh_Hant": "中央公教人員福利互助辦法"
@@ -3314,6 +2363,7 @@
         "record": "101",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中央政府建设公债及借款条例",
         "zh_Hant": "中央政府建設公債及借款條例"
@@ -3341,6 +2391,7 @@
         "record": "100",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中央法规标准法",
         "zh_Hant": "中央法規標準法"
@@ -3368,6 +2419,7 @@
         "record": "107",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中央警察大学组织条例",
         "zh_Hant": "中央警察大學組織條例"
@@ -3395,6 +2447,7 @@
         "record": "95",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "中小企业发展条例",
         "zh_Hant": "中小企業發展條例"
@@ -3422,6 +2475,7 @@
         "record": "251",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "主任公证人",
         "zh_Hant": "主任公證人"
@@ -3449,6 +2503,7 @@
         "record": "259",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "主计机构人员设置管理条例",
         "zh_Hant": "主計機構人員設置管理條例"
@@ -3476,6 +2531,7 @@
         "record": "9",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "九二一震灾重建暂行条例",
         "zh_Hant": "九二一震災重建暫行條例"
@@ -3503,6 +2559,7 @@
         "record": "14",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "人民团体法",
         "zh_Hant": "人民團體法"
@@ -3530,6 +2587,7 @@
         "record": "1545",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "会计师法",
         "zh_Hant": "會計師法"
@@ -3557,6 +2615,7 @@
         "record": "882",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "促进产业升级条例",
         "zh_Hant": "促進產業升級條例"
@@ -3584,6 +2643,7 @@
         "record": "883",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "促进产业升级条例施行细则",
         "zh_Hant": "促進產業升級條例施行細則"
@@ -3611,6 +2671,7 @@
         "record": "881",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "促进民间参与公共建设法",
         "zh_Hant": "促進民間參與公共建設法"
@@ -3638,6 +2699,7 @@
         "record": "875",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "保证人",
         "zh_Hant": "保證人"
@@ -3665,6 +2727,7 @@
         "record": "869",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "保险代理人经纪人公证人管理规则",
         "zh_Hant": "保險代理人經紀人公證人管理規則"
@@ -3692,6 +2755,7 @@
         "record": "855",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "信用合作社法",
         "zh_Hant": "信用合作社法"
@@ -3719,6 +2783,7 @@
         "record": "1943",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "储蓄互助社法",
         "zh_Hant": "儲蓄互助社法"
@@ -3746,6 +2811,7 @@
         "record": "693",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "儿童福利法",
         "zh_Hant": "兒童福利法"
@@ -3773,6 +2839,7 @@
         "record": "432",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "光碟管理条例",
         "zh_Hant": "光碟管理條例"
@@ -3800,6 +2867,7 @@
         "record": "443",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "全国军公教人员待遇支给办法",
         "zh_Hant": "全國軍公教人員待遇支給辦法"
@@ -3827,6 +2895,7 @@
         "record": "439",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "全民健康保险医事服务机构医疗服务审查办法",
         "zh_Hant": "全民健康保險醫事服務機構醫療服務審查辦法"
@@ -3854,6 +2923,7 @@
         "record": "440",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "全民健康保险医疗办法",
         "zh_Hant": "全民健康保險醫療辦法"
@@ -3881,6 +2951,7 @@
         "record": "435",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "全民健康保险法",
         "zh_Hant": "全民健康保險法"
@@ -3908,6 +2979,7 @@
         "record": "436",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "全民健康保险法施行细则",
         "zh_Hant": "全民健康保險法施行細則"
@@ -3935,6 +3007,7 @@
         "record": "140",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公共债务法",
         "zh_Hant": "公共債務法"
@@ -3962,6 +3035,7 @@
         "record": "156",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人力发展中心组织条例",
         "zh_Hant": "公務人力發展中心組織條例"
@@ -3989,6 +3063,7 @@
         "record": "158",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员任用法",
         "zh_Hant": "公務人員任用法"
@@ -4016,6 +3091,7 @@
         "record": "161",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员住宅及福利委员会组织条例",
         "zh_Hant": "公務人員住宅及福利委員會組織條例"
@@ -4043,6 +3119,7 @@
         "record": "164",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员保险法",
         "zh_Hant": "公務人員保險法"
@@ -4070,6 +3147,7 @@
         "record": "165",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员保险法施行细则",
         "zh_Hant": "公務人員保險法施行細則"
@@ -4097,6 +3175,7 @@
         "record": "162",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员保障法",
         "zh_Hant": "公務人員保障法"
@@ -4124,6 +3203,7 @@
         "record": "166",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员俸给法",
         "zh_Hant": "公務人員俸給法"
@@ -4151,6 +3231,7 @@
         "record": "167",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员俸给法施行细则",
         "zh_Hant": "公務人員俸給法施行細則"
@@ -4178,6 +3259,7 @@
         "record": "171",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员抚恤法",
         "zh_Hant": "公務人員撫卹法"
@@ -4205,6 +3287,7 @@
         "record": "160",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员考绩法",
         "zh_Hant": "公務人員考績法"
@@ -4232,6 +3315,7 @@
         "record": "159",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员考试法",
         "zh_Hant": "公務人員考試法"
@@ -4259,6 +3343,7 @@
         "record": "168",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员退休法",
         "zh_Hant": "公務人員退休法"
@@ -4286,6 +3371,7 @@
         "record": "169",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员退休法施行细则",
         "zh_Hant": "公務人員退休法施行細則"
@@ -4313,6 +3399,7 @@
         "record": "170",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公务人员高等考试暨普通考试训练办法",
         "zh_Hant": "公務人員高等考試暨普通考試訓練辦法"
@@ -4340,6 +3427,7 @@
         "record": "178",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公教人员退休金其他现金给与补偿金发给办法",
         "zh_Hant": "公教人員退休金其他現金給與補償金發給辦法"
@@ -4367,6 +3455,7 @@
         "record": "126",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公文程式条例",
         "zh_Hant": "公文程式條例"
@@ -4394,6 +3483,7 @@
         "record": "189",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公职人员利益冲突回避法",
         "zh_Hant": "公職人員利益衝突迴避法"
@@ -4421,6 +3511,7 @@
         "record": "190",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公职人员财产申报法",
         "zh_Hant": "公職人員財產申報法"
@@ -4448,6 +3539,7 @@
         "record": "192",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公职人员财产申报资料审核及查阅办法",
         "zh_Hant": "公職人員財產申報資料審核及查閱辦法"
@@ -4475,6 +3567,7 @@
         "record": "193",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公职人员选举罢免法",
         "zh_Hant": "公職人員選舉罷免法"
@@ -4502,6 +3595,7 @@
         "record": "186",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公营事业移转民营条例",
         "zh_Hant": "公營事業移轉民營條例"
@@ -4529,6 +3623,7 @@
         "record": "196",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "公证人",
         "zh_Hant": "公證人"
@@ -4556,6 +3651,7 @@
         "record": "614",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "兵役法施行法",
         "zh_Hant": "兵役法施行法"
@@ -4583,6 +3679,7 @@
         "record": "698",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "典押当业管理规则",
         "zh_Hant": "典押當業管理規則"
@@ -4610,6 +3707,7 @@
         "record": "2044",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "兽医师法",
         "zh_Hant": "獸醫師法"
@@ -4637,6 +3735,7 @@
         "record": "120",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "内政部役政署组织条例",
         "zh_Hant": "內政部役政署組織條例"
@@ -4664,6 +3763,7 @@
         "record": "121",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "内政部消防署组织条例",
         "zh_Hant": "內政部消防署組織條例"
@@ -4691,6 +3791,7 @@
         "record": "955",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "军事教育条例",
         "zh_Hant": "軍事教育條例"
@@ -4718,6 +3819,7 @@
         "record": "951",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "军人保险条例",
         "zh_Hant": "軍人保險條例"
@@ -4745,6 +3847,7 @@
         "record": "950",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "军人及其家属优待条例",
         "zh_Hant": "軍人及其家屬優待條例"
@@ -4772,6 +3875,7 @@
         "record": "954",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "军人抚恤条例",
         "zh_Hant": "軍人撫卹條例"
@@ -4799,6 +3903,7 @@
         "record": "1607",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "农业发展条例",
         "zh_Hant": "農業發展條例"
@@ -4826,6 +3931,7 @@
         "record": "1608",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "农业发展条例施行细则",
         "zh_Hant": "農業發展條例施行細則"
@@ -4853,6 +3959,7 @@
         "record": "1600",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "农民健康保险条例",
         "zh_Hant": "農民健康保險條例"
@@ -4880,6 +3987,7 @@
         "record": "1609",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "农药管理法",
         "zh_Hant": "農藥管理法"
@@ -4907,6 +4015,7 @@
         "record": "984",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "冤狱赔偿法",
         "zh_Hant": "冤獄賠償法"
@@ -4934,6 +4043,7 @@
         "record": "1156",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "动产担保交易法",
         "zh_Hant": "動產擔保交易法"
@@ -4961,6 +4071,7 @@
         "record": "1152",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "动员戡乱时期劳资纠纷处理办法",
         "zh_Hant": "動員戡亂時期勞資糾紛處理辦法"
@@ -4988,6 +4099,7 @@
         "record": "1150",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "动员戡乱时期国家安全法",
         "zh_Hant": "動員戡亂時期國家安全法"
@@ -5015,6 +4127,7 @@
         "record": "1151",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "动员戡乱时期国家安全法施行细则",
         "zh_Hant": "動員戡亂時期國家安全法施行細則"
@@ -5042,6 +4155,7 @@
         "record": "1148",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "动物传染病防治条例",
         "zh_Hant": "動物傳染病防治條例"
@@ -5069,6 +4183,7 @@
         "record": "1147",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "动物保护法",
         "zh_Hant": "動物保護法"
@@ -5096,6 +4211,7 @@
         "record": "1146",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "动物用药品管理法",
         "zh_Hant": "動物用藥品管理法"
@@ -5123,6 +4239,7 @@
         "record": "1398",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "劳资争议处理法",
         "zh_Hant": "勞資爭議處理法"
@@ -5150,6 +4267,7 @@
         "record": "1157",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "区域计划法",
         "zh_Hant": "區域計畫法"
@@ -5177,6 +4295,7 @@
         "record": "1158",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "区域计划法施行细则",
         "zh_Hant": "區域計劃法施行細則"
@@ -5204,6 +4323,7 @@
         "record": "1477",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "华侨身分证明条例",
         "zh_Hant": "華僑身分證明條例"
@@ -5231,6 +4351,7 @@
         "record": "1833",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "卫星广播电视法",
         "zh_Hant": "衛星廣播電視法"
@@ -5258,6 +4379,7 @@
         "record": "989",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "原住民敬老福利生活津贴暂行条例",
         "zh_Hant": "原住民敬老福利生活津貼暫行條例"
@@ -5285,6 +4407,7 @@
         "record": "988",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "原住民族教育法",
         "zh_Hant": "原住民族教育法"
@@ -5312,6 +4435,7 @@
         "record": "987",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "原住民身分法",
         "zh_Hant": "原住民身分法"
@@ -5339,6 +4463,7 @@
         "record": "990",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "原告",
         "zh_Hant": "原告"
@@ -5366,6 +4491,7 @@
         "record": "985",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "原子能法",
         "zh_Hant": "原子能法"
@@ -5393,6 +4519,7 @@
         "record": "206",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "反共抗俄战士授田条例",
         "zh_Hant": "反共抗俄戰士授田條例"
@@ -5420,6 +4547,7 @@
         "record": "284",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "召集规则",
         "zh_Hant": "召集規則"
@@ -5447,6 +4575,7 @@
         "record": "320",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "台北市市区道路管理规则",
         "zh_Hant": "台北市市區道路管理規則"
@@ -5474,6 +4603,7 @@
         "record": "1688",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "台湾地区与大陆地区人民关系条例",
         "zh_Hant": "臺灣地區與大陸地區人民關係條例"
@@ -5501,6 +4631,7 @@
         "record": "324",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "台湾省工厂工人退休规则",
         "zh_Hant": "台灣省工廠工人退休規則"
@@ -5528,6 +4659,7 @@
         "record": "325",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "台湾省放领公有耕地扶植自耕农实施要点",
         "zh_Hant": "台灣省放領公有耕地扶植自耕農實施要點"
@@ -5555,6 +4687,7 @@
         "record": "329",
         "source_id": "tw-judicial",
         "status": "source_attributed",
+        "translation_note": "",
         "translation_review": "source_attributed",
         "zh_Hans": "台湾省烟酒专卖暂行条例",
         "zh_Hant": "台灣省菸酒專賣暫行條例"
@@ -5567,6 +4700,55 @@
     }
   ],
   "single_high_value_candidates_total": 374,
-  "source_attributed_entries": 2713,
-  "unclassified_source_entries": 1484
+  "source_attributed_entries": 2673,
+  "unclassified_source_entries": 1467,
+  "unresolved_quality_items": [
+    {
+      "context": "憲法法庭書記廳",
+      "domain_basis": "editorial",
+      "domains": [
+        "administrative"
+      ],
+      "en": "Government Official",
+      "flags": [
+        "suspected_translation_error"
+      ],
+      "id": "tw-judicial-d93174a9bac5c5bda259",
+      "jurisdiction_basis": "not_assessed",
+      "jurisdictions": [],
+      "kind": "document",
+      "kind_basis": "editorial",
+      "record": "905",
+      "source_id": "tw-judicial",
+      "status": "quarantined",
+      "translation_note": "待核查：原 HTML 确为 Government Official，缺少能够表示公报刊物的词语；与同形商标来源 Official Gazette 不一致。标记疑似不完整译文并隔离，未擅自补译。",
+      "translation_review": "source_attributed",
+      "zh_Hans": "政府公报",
+      "zh_Hant": "政府公報"
+    },
+    {
+      "context": "A13070000G",
+      "domain_basis": "editorial",
+      "domains": [
+        "intellectual_property"
+      ],
+      "en": "prosecution of the application",
+      "flags": [
+        "suspected_translation_error"
+      ],
+      "id": "tw-tipo-trademark-6f66fb2f4f3eef2e0b87",
+      "jurisdiction_basis": "not_assessed",
+      "jurisdictions": [],
+      "kind": "term",
+      "kind_basis": "editorial",
+      "record": "451",
+      "source_id": "tw-tipo-trademark",
+      "status": "quarantined",
+      "translation_note": "待核查：原 CSV 将“申请期间”对应 prosecution of the application；USPTO 对 prosecution 的用法涉及申请办理与审查程序，不能直接确认其为时间期间。标记疑似译义错位并隔离，未改写原文。",
+      "translation_review": "source_attributed",
+      "zh_Hans": "申请期间",
+      "zh_Hant": "申請期間"
+    }
+  ],
+  "unresolved_quality_items_total": 2
 }

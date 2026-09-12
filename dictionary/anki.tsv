@@ -848,8 +848,8 @@ tw-judicial-15dd04a13396771a365b:zh-en	票面金额	face value	来源地区 TW /
 tw-judicial-15dd04a13396771a365b:en-zh	face value	票面金额	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1290	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-15fe5636b7b796714fda:zh-en	建筑管理	construction regulation	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:896	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-15fe5636b7b796714fda:en-zh	construction regulation	建筑管理	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:896	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-1666a6f037bdd0fd046f:zh-en	住所	domicile	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:594	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-1666a6f037bdd0fd046f:en-zh	domicile	住所	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:594	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-1666a6f037bdd0fd046f:zh-en	住所	domicile	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 domicile；本次只复核词对和概念类别，不把住所、居所及通信地址当作同一概念，成立要件仍须结合具体法域。	tw-judicial:594	OpenLegalLexicon origin::TW review::source_attributed domain::civil
+tw-judicial-1666a6f037bdd0fd046f:en-zh	domicile	住所	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 domicile；本次只复核词对和概念类别，不把住所、居所及通信地址当作同一概念，成立要件仍须结合具体法域。	tw-judicial:594	OpenLegalLexicon origin::TW review::source_attributed domain::civil
 tw-judicial-167aaa5e434d662f6cc8:zh-en	退休俸及生活补助费人员自行就任公职支领待遇注意事项	Precautionary Matters on Payment of Compensation to Those Who after Receipt of Pension or Living Subsidy Voluntarily Resume Public Service	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1101	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-167aaa5e434d662f6cc8:en-zh	Precautionary Matters on Payment of Compensation to Those Who after Receipt of Pension or Living Subsidy Voluntarily Resume Public Service	退休俸及生活补助费人员自行就任公职支领待遇注意事项	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1101	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-169012f8029b3fdcbaca:zh-en	销售货物或劳务	sale of goods or services	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1864	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -1084,8 +1084,8 @@ tw-judicial-23758603d5a8f7ef94f1:zh-en	假日生活辅导	holiday consulting	来
 tw-judicial-23758603d5a8f7ef94f1:en-zh	holiday consulting	假日生活辅导	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:1128	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-23dae6508d5dbd3ecd3f:zh-en	一事不再理	res judicata	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:6	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-23dae6508d5dbd3ecd3f:en-zh	res judicata	一事不再理	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:6	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-242b0a50acd7e329c8a9:zh-en	异议	appeal	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1286	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-242b0a50acd7e329c8a9:en-zh	appeal	异议	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1286	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-242b0a50acd7e329c8a9:zh-en	异议	appeal	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源将异议译作 appeal，同表上诉也用 appeal；保留原文并提示程序歧义，不将异议和上诉自动作为同义词。	tw-judicial:1286	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
+tw-judicial-242b0a50acd7e329c8a9:en-zh	appeal	异议	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源将异议译作 appeal，同表上诉也用 appeal；保留原文并提示程序歧义，不将异议和上诉自动作为同义词。	tw-judicial:1286	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-244c29d6d53ec7514ede:zh-en	少年及家事厅	Juvenile and Family Department	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:214	OpenLegalLexicon origin::TW review::source_attributed domain::family
 tw-judicial-244c29d6d53ec7514ede:en-zh	Juvenile and Family Department	少年及家事厅	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:214	OpenLegalLexicon origin::TW review::source_attributed domain::family
 tw-judicial-24769a2d3bec55ed2d50:zh-en	纳税义务	duty of tax payment	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1076	OpenLegalLexicon origin::TW review::source_attributed domain::tax
@@ -1288,8 +1288,8 @@ tw-judicial-31494547132495f59b5a:zh-en	大学法施行细则	Enforcement Rules o
 tw-judicial-31494547132495f59b5a:en-zh	Enforcement Rules of the University Act	大学法施行细则	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:59	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-316659185f12c54dc831:zh-en	职务法庭	Disciplinary Chamber of the Judiciary	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:2007	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-316659185f12c54dc831:en-zh	Disciplinary Chamber of the Judiciary	职务法庭	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:2007	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-3177a2492df11ca5917f:zh-en	撤销	revocation	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1643	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-3177a2492df11ca5917f:en-zh	revocation	撤销	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1643	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-3177a2492df11ca5917f:zh-en	撤销	revocation	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源采用名词 revocation 表示撤销行为；未指定撤销对象，不能把合同撤销、行政决定撤销等制度规则一并套用。	tw-judicial:1643	OpenLegalLexicon origin::TW review::source_attributed domain::core
+tw-judicial-3177a2492df11ca5917f:en-zh	revocation	撤销	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源采用名词 revocation 表示撤销行为；未指定撤销对象，不能把合同撤销、行政决定撤销等制度规则一并套用。	tw-judicial:1643	OpenLegalLexicon origin::TW review::source_attributed domain::core
 tw-judicial-31780bd2cfa27e35fd00:zh-en	中央政府建设公债及借款条例	Central Government Development Bonds and Loans Act	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:101	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-31780bd2cfa27e35fd00:en-zh	Central Government Development Bonds and Loans Act	中央政府建设公债及借款条例	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:101	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-31817bbed08d202869f0:zh-en	概括授权	general authorization	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1550	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -1380,8 +1380,8 @@ tw-judicial-364cf5ad83ebef79612a:zh-en	适用	application	来源地区 TW / 法�
 tw-judicial-364cf5ad83ebef79612a:en-zh	application	适用	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1860	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-364f934c247e4cc0229a:zh-en	发言人室	Office of the Spokesperson	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1449	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-364f934c247e4cc0229a:en-zh	Office of the Spokesperson	发言人室	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1449	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-3696f3fe6d9788e617ff:zh-en	推定	presume	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1267	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-3696f3fe6d9788e617ff:en-zh	presume	推定	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1267	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-3696f3fe6d9788e617ff:zh-en	推定	presume	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源采用动词 presume；保留该词形，不将推定与事实证明或未明确反证规则的结论混同。	tw-judicial:1267	OpenLegalLexicon origin::TW review::source_attributed domain::core
+tw-judicial-3696f3fe6d9788e617ff:en-zh	presume	推定	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源采用动词 presume；保留该词形，不将推定与事实证明或未明确反证规则的结论混同。	tw-judicial:1267	OpenLegalLexicon origin::TW review::source_attributed domain::core
 tw-judicial-369998ef806f3df8a4aa:zh-en	旁听席	Audience	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1008	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-369998ef806f3df8a4aa:en-zh	Audience	旁听席	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1008	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-36b6b4263ed4e273d4ca:zh-en	不动产	real property	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:86	OpenLegalLexicon origin::TW review::source_attributed domain::property
@@ -1728,8 +1728,8 @@ tw-judicial-496a60e6233f790c3758:zh-en	口头诽谤	slander	来源地区 TW / �
 tw-judicial-496a60e6233f790c3758:en-zh	slander	口头诽谤	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:30	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-4996df4185423086b3e0:zh-en	受处分人	person liable to penalty	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:710	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-4996df4185423086b3e0:en-zh	person liable to penalty	受处分人	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:710	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-49a3906ef3ddcf667cf6:zh-en	侵害	infringement	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:859	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-49a3906ef3ddcf667cf6:en-zh	infringement	侵害	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:859	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-49a3906ef3ddcf667cf6:zh-en	侵害	infringement	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 infringement，未给出具体受侵害权利；保持通用术语分类，不将全部侵害限定为知识产权侵权。	tw-judicial:859	OpenLegalLexicon origin::TW review::source_attributed domain::core
+tw-judicial-49a3906ef3ddcf667cf6:en-zh	infringement	侵害	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 infringement，未给出具体受侵害权利；保持通用术语分类，不将全部侵害限定为知识产权侵权。	tw-judicial:859	OpenLegalLexicon origin::TW review::source_attributed domain::core
 tw-judicial-49aea133796de1d13b55:zh-en	私运货物	smuggling goods	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:672	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-49aea133796de1d13b55:en-zh	smuggling goods	私运货物	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:672	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-49c91c7497b8283ad365:zh-en	诉愿及诉讼之权利	rights of lodging complaints and instituting legal proceedings	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1498	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
@@ -2150,8 +2150,8 @@ tw-judicial-639095c50a97413895ed:zh-en	中华民国四十八年短期公债发�
 tw-judicial-639095c50a97413895ed:en-zh	Act Governing the Issuance of 1959 Short -Term Public Bond	中华民国四十八年短期公债发行条例	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:108	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-63a7420bc31dc2723fbb:zh-en	副总统	Vice President	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1142	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-63a7420bc31dc2723fbb:en-zh	Vice President	副总统	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1142	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-63ad91b54ff753c266ee:zh-en	判例	precedent(s)	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:622	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-63ad91b54ff753c266ee:en-zh	precedent(s)	判例	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:622	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-63ad91b54ff753c266ee:zh-en	判例	precedent(s)	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源记作 precedent(s)，括号表示单复数形式；保留原文。本次不据术语推定先例拘束力，也不把历史判例制度标作现行。	tw-judicial:622	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
+tw-judicial-63ad91b54ff753c266ee:en-zh	precedent(s)	判例	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源记作 precedent(s)，括号表示单复数形式；保留原文。本次不据术语推定先例拘束力，也不把历史判例制度标作现行。	tw-judicial:622	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-63ba23a107dcc3d23cee:zh-en	法律上义务	statutory duty	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:791	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-63ba23a107dcc3d23cee:en-zh	statutory duty	法律上义务	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:791	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-6418d827b0ccf52300f1:zh-en	公务人力发展中心组织条例	Organization Act of the Civil Service Development Institute	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:156	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -2362,8 +2362,8 @@ tw-judicial-70add85d30689229cba6:zh-en	台湾南投地方法院南投简易庭	T
 tw-judicial-70add85d30689229cba6:en-zh	Taiwan Nantou District Court Nantou Summary Court	台湾南投地方法院南投简易庭	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1697	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-7119b0563940f49243b7:zh-en	行政救济	administrative remedy	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:577	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
 tw-judicial-7119b0563940f49243b7:en-zh	administrative remedy	行政救济	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:577	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
-tw-judicial-71372bab5c5d36694394:zh-en	遗产	decedent's estate	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1929	OpenLegalLexicon origin::TW review::source_attributed domain::family
-tw-judicial-71372bab5c5d36694394:en-zh	decedent's estate	遗产	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1929	OpenLegalLexicon origin::TW review::source_attributed domain::family
+tw-judicial-71372bab5c5d36694394:zh-en	遗产	decedent's estate	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 decedent's estate，明确带有被继承人限定；不把孤立的 estate 一律对应为遗产，也不与中国大陆核心层记录合并。	tw-judicial:1929	OpenLegalLexicon origin::TW review::source_attributed domain::family
+tw-judicial-71372bab5c5d36694394:en-zh	decedent's estate	遗产	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 decedent's estate，明确带有被继承人限定；不把孤立的 estate 一律对应为遗产，也不与中国大陆核心层记录合并。	tw-judicial:1929	OpenLegalLexicon origin::TW review::source_attributed domain::family
 tw-judicial-714a7b8deaeab9dedfa1:zh-en	确定判决	final / irrevocable judgment / final court decision	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1823	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-714a7b8deaeab9dedfa1:en-zh	final / irrevocable judgment / final court decision	确定判决	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1823	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-715782f2cbf950ff449d:zh-en	在途期间	time for journey to the court	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:495	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -2378,8 +2378,8 @@ tw-judicial-71b40a4d284d43d76766:zh-en	刑事上之诉究	criminal prosecution	�
 tw-judicial-71b40a4d284d43d76766:en-zh	criminal prosecution	刑事上之诉究	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:453	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
 tw-judicial-71c40057afe0459c34bc:zh-en	公证结婚礼堂	Notary Marriage Auditorium	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:201	OpenLegalLexicon origin::TW review::source_attributed domain::family
 tw-judicial-71c40057afe0459c34bc:en-zh	Notary Marriage Auditorium	公证结婚礼堂	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:201	OpenLegalLexicon origin::TW review::source_attributed domain::family
-tw-judicial-71c70242440d02df8e0f:zh-en	申请期间	application period	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:407	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-71c70242440d02df8e0f:en-zh	application period	申请期间	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:407	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-71c70242440d02df8e0f:zh-en	申请期间	application period	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 application period，保留期间表达；不要与另一来源 prosecution of the application 所指的申请办理过程直接互换。	tw-judicial:407	OpenLegalLexicon origin::TW review::source_attributed domain::core
+tw-judicial-71c70242440d02df8e0f:en-zh	application period	申请期间	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 application period，保留期间表达；不要与另一来源 prosecution of the application 所指的申请办理过程直接互换。	tw-judicial:407	OpenLegalLexicon origin::TW review::source_attributed domain::core
 tw-judicial-71d55f4a704b380a33e3:zh-en	缴税证明	tax certification	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:2046	OpenLegalLexicon origin::TW review::source_attributed domain::tax
 tw-judicial-71d55f4a704b380a33e3:en-zh	tax certification	缴税证明	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:2046	OpenLegalLexicon origin::TW review::source_attributed domain::tax
 tw-judicial-71d99372b5a4cae69aa7:zh-en	永久结合关系	relationship of lifetime association	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:393	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -2398,8 +2398,8 @@ tw-judicial-73d229f37aa2e6f9ef2c:zh-en	解释	interpretation	来源地区 TW / �
 tw-judicial-73d229f37aa2e6f9ef2c:en-zh	interpretation	解释	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1585	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-73e16f1370394cfb1092:zh-en	共有人	co-owner	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:446	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-73e16f1370394cfb1092:en-zh	co-owner	共有人	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:446	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-740ca5593310664a8df9:zh-en	假处分	Provisional Injunction	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳		tw-judicial:1130	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-740ca5593310664a8df9:en-zh	Provisional Injunction	假处分	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳		tw-judicial:1130	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-740ca5593310664a8df9:zh-en	假处分	Provisional Injunction	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳	来源为行政诉讼及惩戒厅，采用 Provisional Injunction；按程序术语编排，不因含“处分”二字归为行政处罚。具体保全要件未作跨法域核验。	tw-judicial:1130	OpenLegalLexicon origin::TW review::source_attributed domain::administrative domain::dispute_resolution
+tw-judicial-740ca5593310664a8df9:en-zh	Provisional Injunction	假处分	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳	来源为行政诉讼及惩戒厅，采用 Provisional Injunction；按程序术语编排，不因含“处分”二字归为行政处罚。具体保全要件未作跨法域核验。	tw-judicial:1130	OpenLegalLexicon origin::TW review::source_attributed domain::administrative domain::dispute_resolution
 tw-judicial-745538bace737eddce41:zh-en	集会游行法	Assembly and Parade Act	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1519	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-745538bace737eddce41:en-zh	Assembly and Parade Act	集会游行法	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1519	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-7465a02ad0aa2154fb80:zh-en	志愿士兵服役条例	Act of Military Service for Volunteer Enlisted Men	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:638	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -2442,8 +2442,8 @@ tw-judicial-7665540d15ca1d340af9:zh-en	土地公告现值	government-declared va
 tw-judicial-7665540d15ca1d340af9:en-zh	government-declared value of land	土地公告现值	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:31	OpenLegalLexicon origin::TW review::source_attributed domain::property
 tw-judicial-768a4f13693b0c0702f5:zh-en	冤狱赔偿法	Act of Compensation for Wrongful Detentions and Executions	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:984	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-768a4f13693b0c0702f5:en-zh	Act of Compensation for Wrongful Detentions and Executions	冤狱赔偿法	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:984	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-76f51850575f4763d000:zh-en	准用	applicable mutatis mutandis	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1561	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-76f51850575f4763d000:en-zh	applicable mutatis mutandis	准用	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1561	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-76f51850575f4763d000:zh-en	准用	applicable mutatis mutandis	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源保留 applicable mutatis mutandis 整体表达；其中 mutatis mutandis 为拉丁语短语，不能当作首字母缩写拆读。本次未核验任何具体准用条款。	tw-judicial:1561	OpenLegalLexicon origin::TW review::source_attributed domain::core
+tw-judicial-76f51850575f4763d000:en-zh	applicable mutatis mutandis	准用	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源保留 applicable mutatis mutandis 整体表达；其中 mutatis mutandis 为拉丁语短语，不能当作首字母缩写拆读。本次未核验任何具体准用条款。	tw-judicial:1561	OpenLegalLexicon origin::TW review::source_attributed domain::core
 tw-judicial-77048d602d54b8ea2835:zh-en	秘书长室主任	Director	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1070	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-77048d602d54b8ea2835:en-zh	Director	秘书长室主任	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1070	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-770664a9bc417ecd2872:zh-en	船舶失事	shipwreck	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1324	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -2560,8 +2560,8 @@ tw-judicial-7dd7b9a6eb1b279bd2d8:zh-en	已登记不动产	registered estate	来�
 tw-judicial-7dd7b9a6eb1b279bd2d8:en-zh	registered estate	已登记不动产	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:77	OpenLegalLexicon origin::TW review::source_attributed domain::property
 tw-judicial-7e441eae59a81aa6acd1:zh-en	性行为自由	freedom of sexual behavior	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:728	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-7e441eae59a81aa6acd1:en-zh	freedom of sexual behavior	性行为自由	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:728	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-7e48e18f4d6cf3822348:zh-en	公告	official notice	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:148	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-7e48e18f4d6cf3822348:en-zh	official notice	公告	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:148	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-7e48e18f4d6cf3822348:zh-en	公告	official notice	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 official notice，偏重通知这一名词表达；公告也可指公布行为，本次不补推其形式或法律效力。	tw-judicial:148	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
+tw-judicial-7e48e18f4d6cf3822348:en-zh	official notice	公告	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 official notice，偏重通知这一名词表达；公告也可指公布行为，本次不补推其形式或法律效力。	tw-judicial:148	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
 tw-judicial-7e580e7a0d9f62b46fbe:zh-en	习惯	custom	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1322	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-7e580e7a0d9f62b46fbe:en-zh	custom	习惯	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1322	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-7eac035b8c5691dcfbff:zh-en	台湾高等法院	Taiwan High Court	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1708	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
@@ -2684,8 +2684,8 @@ tw-judicial-8640aa5a2bf467748148:zh-en	司法院主管预算	Budget of Judicail 
 tw-judicial-8640aa5a2bf467748148:en-zh	Budget of Judicail Yuan and Its Subordinate Organs	司法院主管预算	来源地区 TW / 法域 待核查 / 會計處		tw-judicial:304	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-865f21eeb75ab5dcab6c:zh-en	地上权人	owner of superficies	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:483	OpenLegalLexicon origin::TW review::source_attributed domain::property
 tw-judicial-865f21eeb75ab5dcab6c:en-zh	owner of superficies	地上权人	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:483	OpenLegalLexicon origin::TW review::source_attributed domain::property
-tw-judicial-869ca82f32d727bde533:zh-en	异议程序	opposition proceeding	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1287	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-869ca82f32d727bde533:en-zh	opposition proceeding	异议程序	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1287	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-869ca82f32d727bde533:zh-en	异议程序	opposition proceeding	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 opposition proceeding；与单独“异议”记录的 appeal 保持区分，不由提供单位或中文同形推定具体制度归属。	tw-judicial:1287	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
+tw-judicial-869ca82f32d727bde533:en-zh	opposition proceeding	异议程序	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 opposition proceeding；与单独“异议”记录的 appeal 保持区分，不由提供单位或中文同形推定具体制度归属。	tw-judicial:1287	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-86c1a466ba46df18a72f:zh-en	溢价、溢额	premium	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1557	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-86c1a466ba46df18a72f:en-zh	premium	溢价、溢额	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1557	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-86ca9bcf8eeb0e501886:zh-en	编审	Executive Officer	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1828	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3074,8 +3074,8 @@ tw-judicial-9fc6d83d645e0aa1807c:zh-en	律师惩戒	lawyers' discipline	来源�
 tw-judicial-9fc6d83d645e0aa1807c:en-zh	lawyers' discipline	律师惩戒	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:899	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-9fdb723426c4dfd18e6c:zh-en	公务机密维护	Protection of Official Confidential Information	来源地区 TW / 法域 待核查 / 政風處		tw-judicial:177	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-9fdb723426c4dfd18e6c:en-zh	Protection of Official Confidential Information	公务机密维护	来源地区 TW / 法域 待核查 / 政風處		tw-judicial:177	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-9feec0f984ab60f66a5f:zh-en	法定期间	statutory period	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:769	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-9feec0f984ab60f66a5f:en-zh	statutory period	法定期间	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:769	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-9feec0f984ab60f66a5f:zh-en	法定期间	statutory period	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 statutory period；只表示来源中的法定期间词对，不据此提供期间长度、起算点或延长规则。	tw-judicial:769	OpenLegalLexicon origin::TW review::source_attributed domain::core
+tw-judicial-9feec0f984ab60f66a5f:en-zh	statutory period	法定期间	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 statutory period；只表示来源中的法定期间词对，不据此提供期间长度、起算点或延长规则。	tw-judicial:769	OpenLegalLexicon origin::TW review::source_attributed domain::core
 tw-judicial-9ffa1e2921304d7a86f1:zh-en	政府采购法	Government Procurement Act	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:906	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-9ffa1e2921304d7a86f1:en-zh	Government Procurement Act	政府采购法	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:906	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-9ffede58d2f9fd80c510:zh-en	误写	clerical error	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1765	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3222,8 +3222,8 @@ tw-judicial-a6b7dae1d060f54454a3:zh-en	全民健康保险法施行细则	Enforce
 tw-judicial-a6b7dae1d060f54454a3:en-zh	Enforcement Rules of the National Health Insurance Act	全民健康保险法施行细则	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:436	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a6c7774f3a6a4a96d803:zh-en	舱口单	Hatch List	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1914	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a6c7774f3a6a4a96d803:en-zh	Hatch List	舱口单	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1914	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-a6f2196afd88940998c1:zh-en	核准	permission	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1022	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-a6f2196afd88940998c1:en-zh	permission	核准	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1022	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-a6f2196afd88940998c1:zh-en	核准	permission	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源采用名词 permission；只标示核准这一行为类别，不把所有许可、核准及审批程序认作完全等同。	tw-judicial:1022	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
+tw-judicial-a6f2196afd88940998c1:en-zh	permission	核准	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源采用名词 permission；只标示核准这一行为类别，不把所有许可、核准及审批程序认作完全等同。	tw-judicial:1022	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
 tw-judicial-a6f48f9e1340e666682b:zh-en	台湾屏东地方法院	Taiwan Pingtung District Court	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1699	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-a6f48f9e1340e666682b:en-zh	Taiwan Pingtung District Court	台湾屏东地方法院	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1699	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-a6f85336afde23b410ee:zh-en	少年及家事法院	Juvenile and Family Court	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:212	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::family
@@ -3242,8 +3242,8 @@ tw-judicial-a78c435efbc5218662bc:zh-en	中央警察大学组织条例	Organizati
 tw-judicial-a78c435efbc5218662bc:en-zh	Organization Act of the Central Police University	中央警察大学组织条例	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:107	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a7a011c6d5333b343960:zh-en	新闻局	Government Information Office	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1539	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a7a011c6d5333b343960:en-zh	Government Information Office	新闻局	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1539	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-a7fb7b1d454fc8a1857b:zh-en	登记	recording	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1445	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-a7fb7b1d454fc8a1857b:en-zh	recording	登记	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1445	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-a7fb7b1d454fc8a1857b:zh-en	登记	recording	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 recording；未指明登记对象，不把登记一概理解为设权、对抗或公告生效。	tw-judicial:1445	OpenLegalLexicon origin::TW review::source_attributed domain::core
+tw-judicial-a7fb7b1d454fc8a1857b:en-zh	recording	登记	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 recording；未指明登记对象，不把登记一概理解为设权、对抗或公告生效。	tw-judicial:1445	OpenLegalLexicon origin::TW review::source_attributed domain::core
 tw-judicial-a7fc9ac857da17a4e763:zh-en	被告及辅佐人席	Defendant and Assistant ad litem	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1336	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a7fc9ac857da17a4e763:en-zh	Defendant and Assistant ad litem	被告及辅佐人席	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1336	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a8334a53a05d4cb2e68d:zh-en	一般诽谤	slander	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:7	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3540,8 +3540,8 @@ tw-judicial-ba04610519ec0a46f657:zh-en	逃漏税	tax evasion	来源地区 TW / �
 tw-judicial-ba04610519ec0a46f657:en-zh	tax evasion	逃漏税	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1105	OpenLegalLexicon origin::TW review::source_attributed domain::tax
 tw-judicial-ba779e482d8e64961d1b:zh-en	省县自治法	Self-Governance Act for Provinces and Counties	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:928	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-ba779e482d8e64961d1b:en-zh	Self-Governance Act for Provinces and Counties	省县自治法	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:928	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-ba9697a9c0c93e3fd1a7:zh-en	第三人	Third Party	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1298	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-ba9697a9c0c93e3fd1a7:en-zh	Third Party	第三人	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1298	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-ba9697a9c0c93e3fd1a7:zh-en	第三人	Third Party	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源用 Third Party；仅确认第三人这一角色表达，不直接推定其已参加诉讼或具有特定程序地位。	tw-judicial:1298	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::dispute_resolution
+tw-judicial-ba9697a9c0c93e3fd1a7:en-zh	Third Party	第三人	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源用 Third Party；仅确认第三人这一角色表达，不直接推定其已参加诉讼或具有特定程序地位。	tw-judicial:1298	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::dispute_resolution
 tw-judicial-baad5b91b8c7a5e0989d:zh-en	国会参与决策权	parliamentary power of decision-making participation	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1221	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-baad5b91b8c7a5e0989d:en-zh	parliamentary power of decision-making participation	国会参与决策权	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1221	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-bace1138ca4cfeb1591e:zh-en	民主政治	democratic politics	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:363	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3692,8 +3692,8 @@ tw-judicial-c284d361bdc8f7b46107:zh-en	时效	limitation period	来源地区 TW 
 tw-judicial-c284d361bdc8f7b46107:en-zh	limitation period	时效	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1009	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-c293a0d1ff1b3b59856e:zh-en	公法上效果	effect in public law	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:154	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
 tw-judicial-c293a0d1ff1b3b59856e:en-zh	effect in public law	公法上效果	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:154	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
-tw-judicial-c2ad5e1e8e8973156eac:zh-en	上诉	appeal	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:25	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
-tw-judicial-c2ad5e1e8e8973156eac:en-zh	appeal	上诉	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:25	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
+tw-judicial-c2ad5e1e8e8973156eac:zh-en	上诉	appeal	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源用 appeal；保留其程序动作分类。同表“异议”也译作 appeal，不以同一英文合并两种中文程序。	tw-judicial:25	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
+tw-judicial-c2ad5e1e8e8973156eac:en-zh	appeal	上诉	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源用 appeal；保留其程序动作分类。同表“异议”也译作 appeal，不以同一英文合并两种中文程序。	tw-judicial:25	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-c2ce63b2be8132175b7a:zh-en	立法院	Legislative Yuan	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:414	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-c2ce63b2be8132175b7a:en-zh	Legislative Yuan	立法院	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:414	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-c2fd83aec4da1d287d46:zh-en	医师诊察室	Diagnosis Room	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:2022	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -4056,8 +4056,6 @@ tw-judicial-d8bd634df4e113135d57:zh-en	党务	affairs of the party	来源地区 
 tw-judicial-d8bd634df4e113135d57:en-zh	affairs of the party	党务	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:2094	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-d8e9529e8b9af75f619d:zh-en	执行费	execution fees	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:1232	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-d8e9529e8b9af75f619d:en-zh	execution fees	执行费	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:1232	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-d93174a9bac5c5bda259:zh-en	政府公报	Government Official	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:905	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-d93174a9bac5c5bda259:en-zh	Government Official	政府公报	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:905	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-d9480096d649ee986ece:zh-en	转介	Referral	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:2016	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-d9480096d649ee986ece:en-zh	Referral	转介	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:2016	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-d95c9414d28394b1777b:zh-en	数罪并罚	combination of sentences for multiple offence	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 combination of sentences for multiple offence；保留来源表述，不以中文同形直接推定与中国大陆数罪并罚规则完全等义。	tw-judicial:1814	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
@@ -4412,8 +4410,8 @@ tw-judicial-f08b088c8f6adedbdcef:zh-en	行政处分	Administrative Act	来源地
 tw-judicial-f08b088c8f6adedbdcef:en-zh	Administrative Act	行政处分	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳		tw-judicial:579	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
 tw-judicial-f09e5aec4eed1b6e2756:zh-en	唯一死刑	mandatory death penalty	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1178	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
 tw-judicial-f09e5aec4eed1b6e2756:en-zh	mandatory death penalty	唯一死刑	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1178	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
-tw-judicial-f0b0b42978137adea32b:zh-en	证明	authentication	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:2061	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-f0b0b42978137adea32b:en-zh	authentication	证明	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:2061	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-f0b0b42978137adea32b:zh-en	证明	authentication	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源用 authentication，另两条商标来源使用 identification 和 justify；保留差异，不提供脱离语境的一对一通用替换。	tw-judicial:2061	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::dispute_resolution
+tw-judicial-f0b0b42978137adea32b:en-zh	authentication	证明	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源用 authentication，另两条商标来源使用 identification 和 justify；保留差异，不提供脱离语境的一对一通用替换。	tw-judicial:2061	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::dispute_resolution
 tw-judicial-f0d9df144b3286c72050:zh-en	典权人	dien-holder	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:701	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-f0d9df144b3286c72050:en-zh	dien-holder	典权人	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:701	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-f0fb75fc036a3b1c943d:zh-en	司法行政厅	Department of Judicial Administration	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:292	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
@@ -4492,8 +4490,8 @@ tw-judicial-f4ee3008b9acd7f90e68:zh-en	保证金	deposit;guarantee deposit	来�
 tw-judicial-f4ee3008b9acd7f90e68:en-zh	deposit;guarantee deposit	保证金	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:876	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-f508250bae7f4d1bcbfa:zh-en	仲裁判断	Arbitration Award	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:427	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-f508250bae7f4d1bcbfa:en-zh	Arbitration Award	仲裁判断	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:427	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
-tw-judicial-f51b19a8aa715d7aa0a0:zh-en	隐私权	right of privacy	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1998	OpenLegalLexicon origin::TW review::source_attributed domain::privacy
-tw-judicial-f51b19a8aa715d7aa0a0:en-zh	right of privacy	隐私权	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1998	OpenLegalLexicon origin::TW review::source_attributed domain::privacy
+tw-judicial-f51b19a8aa715d7aa0a0:zh-en	隐私权	right of privacy	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 right of privacy；保留与核心层 right to privacy 的表述差异，不据此宣称各法域保护范围相同。	tw-judicial:1998	OpenLegalLexicon origin::TW review::source_attributed domain::privacy
+tw-judicial-f51b19a8aa715d7aa0a0:en-zh	right of privacy	隐私权	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源用 right of privacy；保留与核心层 right to privacy 的表述差异，不据此宣称各法域保护范围相同。	tw-judicial:1998	OpenLegalLexicon origin::TW review::source_attributed domain::privacy
 tw-judicial-f52ea1f270e948bf6ec1:zh-en	伪造税戳	forged stamp	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1121	OpenLegalLexicon origin::TW review::source_attributed domain::tax
 tw-judicial-f52ea1f270e948bf6ec1:en-zh	forged stamp	伪造税戳	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1121	OpenLegalLexicon origin::TW review::source_attributed domain::tax
 tw-judicial-f57ba3ca868e57cde735:zh-en	台湾云林地方法院斗六简易庭	Taiwan Yunlin District Court Douliu Summary Court	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1725	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
@@ -4794,8 +4792,8 @@ tw-tipo-trademark-15f08b2903f4e860f393:zh-en	根据、理由	ground	来源地区
 tw-tipo-trademark-15f08b2903f4e860f393:en-zh	ground	根据、理由	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:269	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-162d69fb05824f1e23c3:zh-en	不公平竞争	unfair competition	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:582	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-162d69fb05824f1e23c3:en-zh	unfair competition	不公平竞争	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:582	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-165a4a3c2c54bca201de:zh-en	假处分	preliminary injunction	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:421	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-165a4a3c2c54bca201de:en-zh	preliminary injunction	假处分	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:421	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-165a4a3c2c54bca201de:zh-en	假处分	preliminary injunction	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用 preliminary injunction；保留与另一来源 Provisional Injunction 的差别，不将两种表述当作已核验的跨法域同义词。	tw-tipo-trademark:421	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
+tw-tipo-trademark-165a4a3c2c54bca201de:en-zh	preliminary injunction	假处分	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用 preliminary injunction；保留与另一来源 Provisional Injunction 的差别，不将两种表述当作已核验的跨法域同义词。	tw-tipo-trademark:421	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
 tw-tipo-trademark-166fc9b61ef8c2c0a479:zh-en	法人、社团法人	corporation	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:117	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-166fc9b61ef8c2c0a479:en-zh	corporation	法人、社团法人	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:117	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-16cc42b2fd5a29255981:zh-en	利益担保	security interest	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:507	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -4872,14 +4870,14 @@ tw-tipo-trademark-293c2f35ac6bf8d49d15:zh-en	协约国互惠权之取得或基�
 tw-tipo-trademark-293c2f35ac6bf8d49d15:en-zh	establishing entitlement under a Treaty	协约国互惠权之取得或基于协约而创建之特别优惠权	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:194	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-296895ab6e93455bceb2:zh-en	确认判决诉讼	declaratory judgment action	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:133	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-296895ab6e93455bceb2:en-zh	declaratory judgment action	确认判决诉讼	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:133	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-2a3d66098325b5263797:zh-en	上诉	appeal	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:27	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-2a3d66098325b5263797:en-zh	appeal	上诉	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:27	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-2a3d66098325b5263797:zh-en	上诉	appeal	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 appeal；并不表明所有商标救济都是上诉，具体机关、审级及程序范围仍待依据核验。	tw-tipo-trademark:27	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
+tw-tipo-trademark-2a3d66098325b5263797:en-zh	appeal	上诉	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 appeal；并不表明所有商标救济都是上诉，具体机关、审级及程序范围仍待依据核验。	tw-tipo-trademark:27	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
 tw-tipo-trademark-2a5cf2e6e4cacb059fed:zh-en	先天的识别性	inherent distinctiveness	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:301	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-2a5cf2e6e4cacb059fed:en-zh	inherent distinctiveness	先天的识别性	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:301	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-2af6a865a3434f7ff51e:zh-en	引证的注册商标并未使用	The cited registration is not in use.	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:589	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-2af6a865a3434f7ff51e:en-zh	The cited registration is not in use.	引证的注册商标并未使用	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:589	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-2afd19f051c73a328838:zh-en	住所	domicile	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:168	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-2afd19f051c73a328838:en-zh	domicile	住所	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:168	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-2afd19f051c73a328838:zh-en	住所	domicile	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 domicile；不从通信地址或申请人填写的联系资料反推法律住所，保留独立来源记录。	tw-tipo-trademark:168	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-2afd19f051c73a328838:en-zh	domicile	住所	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 domicile；不从通信地址或申请人填写的联系资料反推法律住所，保留独立来源记录。	tw-tipo-trademark:168	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-2ca6a84159c7ae4469b3:zh-en	处理	conduct	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:102	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-2ca6a84159c7ae4469b3:en-zh	conduct	处理	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:102	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-2d488519a1ad1ab21d35:zh-en	美国最高法院	U.S. Supreme Court	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:577	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -4914,8 +4912,8 @@ tw-tipo-trademark-340cf193227bf5ae6c14:zh-en	联邦巡回上诉法院	CAFC	来�
 tw-tipo-trademark-340cf193227bf5ae6c14:en-zh	CAFC	联邦巡回上诉法院	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:59	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-351726b7b5d444b82c74:zh-en	期满、届满	expiration	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:208	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-351726b7b5d444b82c74:en-zh	expiration	期满、届满	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:208	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-360b06314e80cd2f977f:zh-en	异议	opposition	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:386	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-360b06314e80cd2f977f:en-zh	opposition	异议	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:386	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-360b06314e80cd2f977f:zh-en	异议	opposition	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 opposition；与另一来源的 appeal 分列，不能只凭“异议”中文同形替换不同程序的名称。	tw-tipo-trademark:386	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
+tw-tipo-trademark-360b06314e80cd2f977f:en-zh	opposition	异议	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 opposition；与另一来源的 appeal 分列，不能只凭“异议”中文同形替换不同程序的名称。	tw-tipo-trademark:386	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
 tw-tipo-trademark-3666c9095b79a22fd1a0:zh-en	第二来源	secondary source	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:506	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-3666c9095b79a22fd1a0:en-zh	secondary source	第二来源	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:506	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-36e18c6d50c1a98c3da8:zh-en	赞助者	sponsorship	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:536	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -4974,8 +4972,8 @@ tw-tipo-trademark-41a1d4692a3fe90f22f2:zh-en	五边形	pentagon	来源地区 TW 
 tw-tipo-trademark-41a1d4692a3fe90f22f2:en-zh	pentagon	五边形	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:404	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-41bb05eb9df3fb1bd34b:zh-en	名誉、名声	reputation	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:493	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-41bb05eb9df3fb1bd34b:en-zh	reputation	名誉、名声	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:493	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-41cf74b59f0f9c35d6c7:zh-en	核准	allowance	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:22	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-41cf74b59f0f9c35d6c7:en-zh	allowance	核准	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:22	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-41cf74b59f0f9c35d6c7:zh-en	核准	allowance	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用名词 allowance；与动词 approve 分列保存，不把其其他语境中的津贴等含义带入此业务词对。	tw-tipo-trademark:22	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-41cf74b59f0f9c35d6c7:en-zh	allowance	核准	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用名词 allowance；与动词 approve 分列保存，不把其其他语境中的津贴等含义带入此业务词对。	tw-tipo-trademark:22	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-42713e1ded045e2c9532:zh-en	把…归因（于）	refer	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:469	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-42713e1ded045e2c9532:en-zh	refer	把…归因（于）	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:469	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-42b8acf5fb2eac6a17db:zh-en	发音、读音	pronounce	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:444	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5082,8 +5080,8 @@ tw-tipo-trademark-59f1219b48731a279059:zh-en	注册	registration	来源地区 TW
 tw-tipo-trademark-59f1219b48731a279059:en-zh	registration	注册	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:476	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-5a146a3407fc65932545:zh-en	可靠证据	credible evidence	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:121	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-5a146a3407fc65932545:en-zh	credible evidence	可靠证据	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:121	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-5b1a9cda0682f227e278:zh-en	证明	identification	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:278	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-5b1a9cda0682f227e278:en-zh	identification	证明	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:278	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-5b1a9cda0682f227e278:zh-en	证明	identification	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 identification；与 authentication、justify 记录分别保留。具体识别、确认或证明的对象未由词表给出。	tw-tipo-trademark:278	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-5b1a9cda0682f227e278:en-zh	identification	证明	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 identification；与 authentication、justify 记录分别保留。具体识别、确认或证明的对象未由词表给出。	tw-tipo-trademark:278	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-5b2e3825451d6ebcb0f3:zh-en	固定的	litmus	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:346	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-5b2e3825451d6ebcb0f3:en-zh	litmus	固定的	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:346	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-5b4d7f0eea36bb9e9ffa:zh-en	反对、抗拒	oppose	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:385	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5138,8 +5136,8 @@ tw-tipo-trademark-65fd90fc5c5d9355781b:zh-en	企业的信誉	the goodwill of the
 tw-tipo-trademark-65fd90fc5c5d9355781b:en-zh	the goodwill of the business	企业的信誉	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:260	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-6628732bb99293e8d5a4:zh-en	反向的混淆误认	reverse confusion	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:497	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-6628732bb99293e8d5a4:en-zh	reverse confusion	反向的混淆误认	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:497	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-6638963967b2ff947ec6:zh-en	法定期间	statutory period	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:540	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-6638963967b2ff947ec6:en-zh	statutory period	法定期间	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:540	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-6638963967b2ff947ec6:zh-en	法定期间	statutory period	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 statutory period；具体申请或争议程序中的期限需按相应依据核验，不能由该通用词条推算。	tw-tipo-trademark:540	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-6638963967b2ff947ec6:en-zh	statutory period	法定期间	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 statutory period；具体申请或争议程序中的期限需按相应依据核验，不能由该通用词条推算。	tw-tipo-trademark:540	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-66e8af843289d5773d6c:zh-en	书面同意	written consent	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:611	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-66e8af843289d5773d6c:en-zh	written consent	书面同意	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:611	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-66ee731a0ee66094f89b:zh-en	提出展期之请求	to file a Request for an Extension of Time	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:221	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5188,8 +5186,6 @@ tw-tipo-trademark-6f1e87924f20a2047c38:zh-en	法人	juristic person	来源地区
 tw-tipo-trademark-6f1e87924f20a2047c38:en-zh	juristic person	法人	来源地区 TW / 法域 待核查 / A13070000G	商标词表来源译作 juristic person；保留来源译法及知识产权使用语境，不与其他来源或中国大陆“法人”记录合并。	tw-tipo-trademark:335	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::company domain::intellectual_property
 tw-tipo-trademark-6f4458b76af159cfc2fa:zh-en	指定	designation	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:144	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-6f4458b76af159cfc2fa:en-zh	designation	指定	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:144	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-6f66fb2f4f3eef2e0b87:zh-en	申请期间	prosecution of the application	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:451	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-6f66fb2f4f3eef2e0b87:en-zh	prosecution of the application	申请期间	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:451	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-7006f1a8f3a37979861d:zh-en	联合式商标	composite mark	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:97	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-7006f1a8f3a37979861d:en-zh	composite mark	联合式商标	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:97	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-702f78fed73fcb1e2276:zh-en	学说、原理	doctrine	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:165	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5314,8 +5310,8 @@ tw-tipo-trademark-8c6dd5c6ee0836dd7c23:zh-en	使用声明	allegation of use	来�
 tw-tipo-trademark-8c6dd5c6ee0836dd7c23:en-zh	allegation of use	使用声明	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:19	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-8cbb2ee85f8f72a9783d:zh-en	美国专利季刊	United States Patent Quarterly	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:592	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-8cbb2ee85f8f72a9783d:en-zh	United States Patent Quarterly	美国专利季刊	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:592	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-8efed26a9b9a87781d9f:zh-en	登记	recordation	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:465	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-8efed26a9b9a87781d9f:en-zh	recordation	登记	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:465	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-8efed26a9b9a87781d9f:zh-en	登记	recordation	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 recordation；保留与 recording 的表述差别，不据词形确定登记产生的法律效果。	tw-tipo-trademark:465	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-8efed26a9b9a87781d9f:en-zh	recordation	登记	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 recordation；保留与 recording 的表述差别，不据词形确定登记产生的法律效果。	tw-tipo-trademark:465	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-8f1f35fc0e74056348a0:zh-en	相关消费大众	relevant purchasing public	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:487	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-8f1f35fc0e74056348a0:en-zh	relevant purchasing public	相关消费大众	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:487	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-8f29c54a71473b1b4425:zh-en	废除	repeal	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:490	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5384,8 +5380,8 @@ tw-tipo-trademark-9e1ddfe4de7da1f509bc:zh-en	情况、环境、情势	circumstan
 tw-tipo-trademark-9e1ddfe4de7da1f509bc:en-zh	circumstance	情况、环境、情势	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:70	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-9ea5139d6f49029e986d:zh-en	优先权请求	priority claim	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:433	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-9ea5139d6f49029e986d:en-zh	priority claim	优先权请求	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:433	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-9eed2463bbf08ab38564:zh-en	第三人	third party	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:554	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-9eed2463bbf08ab38564:en-zh	third party	第三人	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:554	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-9eed2463bbf08ab38564:zh-en	第三人	third party	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 third party；相对于何方为第三人须看具体关系，不与另一来源的角色记录自动合并。	tw-tipo-trademark:554	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-9eed2463bbf08ab38564:en-zh	third party	第三人	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 third party；相对于何方为第三人须看具体关系，不与另一来源的角色记录自动合并。	tw-tipo-trademark:554	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-9f9e81e585febc12ccc7:zh-en	妨碍、阻碍	hinder (+from)	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:272	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-9f9e81e585febc12ccc7:en-zh	hinder (+from)	妨碍、阻碍	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:272	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-a0170c9fc2df90c6205b:zh-en	商标实际使用于商业上	actual use of a mark in commerce	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:12	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5448,8 +5444,8 @@ tw-tipo-trademark-aa507b0162c8db952918:zh-en	观念、意义	meaning	来源地�
 tw-tipo-trademark-aa507b0162c8db952918:en-zh	meaning	观念、意义	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:355	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-aba04c7b559ef7a28dd4:zh-en	指示相同来源	to indicate the same source	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:297	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-aba04c7b559ef7a28dd4:en-zh	to indicate the same source	指示相同来源	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:297	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-abb1835267c2f4ece061:zh-en	核准	approve	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:36	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-abb1835267c2f4ece061:en-zh	approve	核准	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:36	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-abb1835267c2f4ece061:zh-en	核准	approve	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用动词 approve；另一记录为名词 allowance。保留词形及来源差别，未据此补充特定法定核准条件。	tw-tipo-trademark:36	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-abb1835267c2f4ece061:en-zh	approve	核准	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用动词 approve；另一记录为名词 allowance。保留词形及来源差别，未据此补充特定法定核准条件。	tw-tipo-trademark:36	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ac636eca206f8dee34cd:zh-en	共同体新式样	CDR	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:63	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ac636eca206f8dee34cd:en-zh	CDR	共同体新式样	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:63	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ac72e8bdfdfc5a45770c:zh-en	描写、描绘、叙述	describe	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:142	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5464,8 +5460,8 @@ tw-tipo-trademark-acd4145ff07d04e256a7:zh-en	字母与数字符号构成的	alph
 tw-tipo-trademark-acd4145ff07d04e256a7:en-zh	alphanumeric	字母与数字符号构成的	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:24	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-aced61c1f5ce3eb27172:zh-en	管辖权	jurisdiction	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:332	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-aced61c1f5ce3eb27172:en-zh	jurisdiction	管辖权	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:332	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-acf7bae286573e87bc5d:zh-en	推定	presume	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:424	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-acf7bae286573e87bc5d:en-zh	presume	推定	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:424	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-acf7bae286573e87bc5d:zh-en	推定	presume	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用动词 presume；不由该词条推定具体举证责任或反证规则。	tw-tipo-trademark:424	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-acf7bae286573e87bc5d:en-zh	presume	推定	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用动词 presume；不由该词条推定具体举证责任或反证规则。	tw-tipo-trademark:424	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ad654fc1f9dcdd54ec33:zh-en	使用声明	SOU	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:522	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ad654fc1f9dcdd54ec33:en-zh	SOU	使用声明	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:522	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ad6888498f40e3bfd890:zh-en	相关的商品或服务	associated goods/services	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:46	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5522,8 +5518,8 @@ tw-tipo-trademark-b73b3c31cb1a460ff9f7:zh-en	指定	dictate	来源地区 TW / �
 tw-tipo-trademark-b73b3c31cb1a460ff9f7:en-zh	dictate	指定	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:148	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-b79c0c7a988619948c14:zh-en	国民、国家、民族	nation	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:370	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-b79c0c7a988619948c14:en-zh	nation	国民、国家、民族	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:370	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-b84065c11778807899c1:zh-en	政府公报	Official Gazette	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:378	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-b84065c11778807899c1:en-zh	Official Gazette	政府公报	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:378	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-b84065c11778807899c1:zh-en	政府公报	Official Gazette	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 Official Gazette，按官方刊物类别编排；保留独立记录，不借此静默修正另一来源的 Government Official。具体刊物及发行机关未核验。	tw-tipo-trademark:378	OpenLegalLexicon origin::TW review::source_attributed domain::administrative domain::intellectual_property
+tw-tipo-trademark-b84065c11778807899c1:en-zh	Official Gazette	政府公报	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 Official Gazette，按官方刊物类别编排；保留独立记录，不借此静默修正另一来源的 Government Official。具体刊物及发行机关未核验。	tw-tipo-trademark:378	OpenLegalLexicon origin::TW review::source_attributed domain::administrative domain::intellectual_property
 tw-tipo-trademark-b87405ba9dab9d48bf82:zh-en	退费	arrange a refund	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:39	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-b87405ba9dab9d48bf82:en-zh	arrange a refund	退费	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:39	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-b8a71aefaa007274d0d3:zh-en	徽章、符号、纹章图案	emblem	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:181	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5626,8 +5622,8 @@ tw-tipo-trademark-ca12d594a39de3f65a64:zh-en	头衔、称号	title	来源地区 
 tw-tipo-trademark-ca12d594a39de3f65a64:en-zh	title	头衔、称号	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:557	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ca4a2446bfb9ec2ad5d0:zh-en	战胜拒绝注册事由	overcoming the refusal	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:392	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ca4a2446bfb9ec2ad5d0:en-zh	overcoming the refusal	战胜拒绝注册事由	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:392	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-cb4067a746b0c584a8a7:zh-en	准用	mutatis mutandis	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:367	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-cb4067a746b0c584a8a7:en-zh	mutatis mutandis	准用	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:367	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-cb4067a746b0c584a8a7:zh-en	准用	mutatis mutandis	来源地区 TW / 法域 待核查 / A13070000G	来源采用拉丁语短语 mutatis mutandis；用于商标词表的准用表达，不据此判定某一法条可直接适用或无需调整。	tw-tipo-trademark:367	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-cb4067a746b0c584a8a7:en-zh	mutatis mutandis	准用	来源地区 TW / 法域 待核查 / A13070000G	来源采用拉丁语短语 mutatis mutandis；用于商标词表的准用表达，不据此判定某一法条可直接适用或无需调整。	tw-tipo-trademark:367	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-cb4203d3eae470aaab6c:zh-en	联想、相关	associate	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:45	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-cb4203d3eae470aaab6c:en-zh	associate	联想、相关	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:45	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-cb46a0d5f2cbf5913dea:zh-en	未登记的、未注册的	unregistrable	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:586	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5700,8 +5696,8 @@ tw-tipo-trademark-d9aec458ae21d1491e7d:zh-en	打字形式（指商标系以打�
 tw-tipo-trademark-d9aec458ae21d1491e7d:en-zh	Typed form	打字形式（指商标系以打字形式表现）	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:576	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-d9b8e7616b74eb900052:zh-en	行销、交易	marketing	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:350	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-d9b8e7616b74eb900052:en-zh	marketing	行销、交易	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:350	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-dbef844413f14da096fa:zh-en	侵害	infringement	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:300	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-dbef844413f14da096fa:en-zh	infringement	侵害	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:300	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-dbef844413f14da096fa:zh-en	侵害	infringement	来源地区 TW / 法域 待核查 / A13070000G	商标词表用 infringement；保留知识产权业务语境，不能据同形中文与其他来源记录自动合并。	tw-tipo-trademark:300	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-dbef844413f14da096fa:en-zh	infringement	侵害	来源地区 TW / 法域 待核查 / A13070000G	商标词表用 infringement；保留知识产权业务语境，不能据同形中文与其他来源记录自动合并。	tw-tipo-trademark:300	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-dc3164ac68c8183058a4:zh-en	声明不专用	disclaimer	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:153	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-dc3164ac68c8183058a4:en-zh	disclaimer	声明不专用	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:153	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-dcff07d4dd045ccf9f1f:zh-en	商标注册之延展	renewals of trademark registrations	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:489	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5712,8 +5708,8 @@ tw-tipo-trademark-dd7476749f071c62b994:zh-en	声誉坏、不名誉	disrepute	来
 tw-tipo-trademark-dd7476749f071c62b994:en-zh	disrepute	声誉坏、不名誉	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:157	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-dd82a83222eded597c14:zh-en	无效	Invalidity	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:322	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-dd82a83222eded597c14:en-zh	Invalidity	无效	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:322	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-dec384c977bfb4253ec4:zh-en	撤销	cancel	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:61	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-dec384c977bfb4253ec4:en-zh	cancel	撤销	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:61	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-dec384c977bfb4253ec4:zh-en	撤销	cancel	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用动词 cancel；保留与 revocation 的词形差异，具体撤销对象、程序与效力未核验。	tw-tipo-trademark:61	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-dec384c977bfb4253ec4:en-zh	cancel	撤销	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用动词 cancel；保留与 revocation 的词形差异，具体撤销对象、程序与效力未核验。	tw-tipo-trademark:61	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-dee495d9a60f799bb017:zh-en	适当、妥当、正当、得体	propriety	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:450	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-dee495d9a60f799bb017:en-zh	propriety	适当、妥当、正当、得体	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:450	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-df3cc9a4851faf678086:zh-en	美国专利商标局	United States Patent and Trademark Office	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:594	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5758,8 +5754,8 @@ tw-tipo-trademark-e5a3351bcf6031a5fde9:zh-en	申请案	application	来源地区 
 tw-tipo-trademark-e5a3351bcf6031a5fde9:en-zh	application	申请案	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:35	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-e5e04262ecfa04d3a0dd:zh-en	优先权申请日	priority filing date	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:435	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-e5e04262ecfa04d3a0dd:en-zh	priority filing date	优先权申请日	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:435	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-e5fb93e5f017f8df57fd:zh-en	异议程序	opposition proceeding	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:388	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-e5fb93e5f017f8df57fd:en-zh	opposition proceeding	异议程序	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:388	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-e5fb93e5f017f8df57fd:zh-en	异议程序	opposition proceeding	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 opposition proceeding；只保留程序名称对应，提起条件、主体及期限尚未独立核验。	tw-tipo-trademark:388	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
+tw-tipo-trademark-e5fb93e5f017f8df57fd:en-zh	opposition proceeding	异议程序	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 opposition proceeding；只保留程序名称对应，提起条件、主体及期限尚未独立核验。	tw-tipo-trademark:388	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
 tw-tipo-trademark-e6ab30f260a893a5873f:zh-en	原始国、来源国	country of origin	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:120	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-e6ab30f260a893a5873f:en-zh	country of origin	原始国、来源国	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:120	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-e6fb482d3a9f89518eec:zh-en	由...构成	consist of	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:107	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5778,10 +5774,10 @@ tw-tipo-trademark-e9a5aaaa270663906a0d:zh-en	正当使用	fair use	来源地区 
 tw-tipo-trademark-e9a5aaaa270663906a0d:en-zh	fair use	正当使用	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:211	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ea1d3729336141af237b:zh-en	否定、,拒绝	deny	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:140	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ea1d3729336141af237b:en-zh	deny	否定、,拒绝	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:140	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-ea46511c76f0f7ca111c:zh-en	公告	Publication	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:455	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-ea46511c76f0f7ca111c:en-zh	Publication	公告	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:455	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-ea61914f555c64f53b5a:zh-en	判例	precedent	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:418	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-ea61914f555c64f53b5a:en-zh	precedent	判例	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:418	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-ea46511c76f0f7ca111c:zh-en	公告	Publication	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 Publication；保留该业务词对，与 official notice 记录分别展示，不据此确定特定公告程序或期限。	tw-tipo-trademark:455	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-ea46511c76f0f7ca111c:en-zh	Publication	公告	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 Publication；保留该业务词对，与 official notice 记录分别展示，不据此确定特定公告程序或期限。	tw-tipo-trademark:455	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-ea61914f555c64f53b5a:zh-en	判例	precedent	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 precedent；不同法域下判例、裁判先例及其效力需另行核验，不仅凭译名认定拘束力。	tw-tipo-trademark:418	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
+tw-tipo-trademark-ea61914f555c64f53b5a:en-zh	precedent	判例	来源地区 TW / 法域 待核查 / A13070000G	商标来源用 precedent；不同法域下判例、裁判先例及其效力需另行核验，不仅凭译名认定拘束力。	tw-tipo-trademark:418	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::intellectual_property
 tw-tipo-trademark-ea71913a62e83a5f7bdc:zh-en	正式地、正规地	formally	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:236	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ea71913a62e83a5f7bdc:en-zh	formally	正式地、正规地	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:236	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-ea83489799979cd8a251:zh-en	机关、企业、创立	establishment	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:195	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
@@ -5826,8 +5822,8 @@ tw-tipo-trademark-f1603273223c293b7ed9:zh-en	初步检索	preliminary search	来
 tw-tipo-trademark-f1603273223c293b7ed9:en-zh	preliminary search	初步检索	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:423	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-f260d9de53f4ea5d198a:zh-en	切开、分开	dissect	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:158	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-f260d9de53f4ea5d198a:en-zh	dissect	切开、分开	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:158	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-f361a025fdd7e30953e0:zh-en	证明	justify	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:334	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-f361a025fdd7e30953e0:en-zh	justify	证明	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:334	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-f361a025fdd7e30953e0:zh-en	证明	justify	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用动词 justify；与其他“证明”的名词译法分列，保留词形差异和语境限制。	tw-tipo-trademark:334	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-f361a025fdd7e30953e0:en-zh	justify	证明	来源地区 TW / 法域 待核查 / A13070000G	商标来源采用动词 justify；与其他“证明”的名词译法分列，保留词形差异和语境限制。	tw-tipo-trademark:334	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-f48d99662751d0b3fc59:zh-en	驳回诉讼	dismissal	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:155	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-f48d99662751d0b3fc59:en-zh	dismissal	驳回诉讼	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:155	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-f49b2563f774e8b13c53:zh-en	美国专利商标局	USPTO	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:593	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property

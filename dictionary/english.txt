@@ -1050,7 +1050,6 @@ Government Ethics Officer
 government fee
 government fund
 Government Information Office
-Government Official
 Government Procurement Act
 government published land value
 government-declared value of land
@@ -1871,7 +1870,6 @@ propose
 propose mark
 proposition
 propriety
-prosecution of the application
 Prosecutor
 prosecutor
 Prosecutor Lounge

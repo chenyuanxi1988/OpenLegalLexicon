@@ -19,8 +19,8 @@
 三次元的、立体的	三次元的、立體的	three dimensional		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:555	tw-tipo-trademark-1ef562ea7f214e99ce1a	OGDL-Taiwan-1.0	source_attributed			
 上市证券	上市證券	listed securities	shang4 shi4 zheng4 quan4	finance	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:24	tw-judicial-cc591ed5a1525e326833	OGDL-Taiwan-1.0	source_attributed			
 上柜证券	上櫃證券	over-the-counter securities	shang4 gui4 zheng4 quan4	finance	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:29	tw-judicial-7f874195018b780c3f7b	OGDL-Taiwan-1.0	source_attributed			
-上诉	上訴	appeal	shang4 su4	dispute_resolution	待核查	TW	unclassified	民事廳		tw-judicial:25	tw-judicial-c2ad5e1e8e8973156eac	OGDL-Taiwan-1.0	source_attributed			
-上诉	上訴	appeal	shang4 su4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:27	tw-tipo-trademark-2a3d66098325b5263797	OGDL-Taiwan-1.0	source_attributed			
+上诉	上訴	appeal	shang4 su4	dispute_resolution	待核查	TW	action	民事廳		tw-judicial:25	tw-judicial-c2ad5e1e8e8973156eac	OGDL-Taiwan-1.0	source_attributed		民事厅来源用 appeal；保留其程序动作分类。同表“异议”也译作 appeal，不以同一英文合并两种中文程序。	
+上诉	上訴	appeal	shang4 su4	dispute_resolution,intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:27	tw-tipo-trademark-2a3d66098325b5263797	OGDL-Taiwan-1.0	source_attributed		商标来源用 appeal；并不表明所有商标救济都是上诉，具体机关、审级及程序范围仍待依据核验。	
 上诉/抗告权	上訴/抗告權	right of appeal		dispute_resolution	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:26	tw-judicial-6f0f3157955ea24785bf	OGDL-Taiwan-1.0	source_attributed			
 上诉事件维持率	上訴事件維持率	Affirmed Appeals Rate	shang4 su4 shi4 jian4 wei2 chi2 lv4	dispute_resolution	待核查	TW	unclassified	統計處		tw-judicial:28	tw-judicial-f83088a5f880c367c7cf	OGDL-Taiwan-1.0	source_attributed			
 上诉人及诉讼代理人席	上訴人及訴訟代理人席	Appellant and Agent ad litem	shang4 su4 ren2 ji2 su4 song4 dai4 li3 ren2 xi2	dispute_resolution	待核查	TW	unclassified	司法行政廳		tw-judicial:27	tw-judicial-c3032e15654ab472ec92	OGDL-Taiwan-1.0	source_attributed			
@@ -242,8 +242,8 @@
 估计所得额	估計所得額	estimated income	gu1 ji4 suo3 de5 e2	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:595	tw-judicial-05caf0bcb8af2db2ee95	OGDL-Taiwan-1.0	source_attributed			
 佃农	佃農	tenant farmer	dian4 nong2	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:597	tw-judicial-5d4ff73d13d035f5ff7e	OGDL-Taiwan-1.0	source_attributed			
 但书	但書	proviso	dan4 shu1	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:598	tw-judicial-5a25df67f04b282203ca	OGDL-Taiwan-1.0	source_attributed			
-住所	住所	domicile	zhu4 suo3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:594	tw-judicial-1666a6f037bdd0fd046f	OGDL-Taiwan-1.0	source_attributed			
-住所	住所	domicile	zhu4 suo3	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:168	tw-tipo-trademark-2afd19f051c73a328838	OGDL-Taiwan-1.0	source_attributed			
+住所	住所	domicile	zhu4 suo3	civil	待核查	TW	term	憲法法庭書記廳		tw-judicial:594	tw-judicial-1666a6f037bdd0fd046f	OGDL-Taiwan-1.0	source_attributed		来源用 domicile；本次只复核词对和概念类别，不把住所、居所及通信地址当作同一概念，成立要件仍须结合具体法域。	
+住所	住所	domicile	zhu4 suo3	intellectual_property	待核查	TW	term	A13070000G		tw-tipo-trademark:168	tw-tipo-trademark-2afd19f051c73a328838	OGDL-Taiwan-1.0	source_attributed		商标来源用 domicile；不从通信地址或申请人填写的联系资料反推法律住所，保留独立来源记录。	
 佐理员	佐理員	Assistant	zuo3 li3 yuan2	unclassified	待核查	TW	unclassified	司法行政廳		tw-judicial:596	tw-judicial-388342ca3ca078984ed1	OGDL-Taiwan-1.0	source_attributed			
 体格合适性	體格合適性	physical fitness	ti3 ge2 he2 shi4 xing4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:2111	tw-judicial-4c9d2ab4883b4f5a980e	OGDL-Taiwan-1.0	source_attributed			
 作为义务	作為義務	legal duty to act	zuo4 wei2 yi4 wu4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:599	tw-judicial-2f0888e9f3a4d3f10d84	OGDL-Taiwan-1.0	source_attributed			
@@ -264,8 +264,8 @@
 依据美国商标法第44条项规定，申请人必须从原属国取得境外注册权。所谓原属国，依该条规定，系指凡有设营业所或住所之所在国而言，否则以国籍定之，但以美国为缔约国成员之一始有适用，如不适用，则以获准商标注册之相关国家为其原属国。	依據美國商標法第44條項規定，申請人必須從原屬國取得境外註冊權。所謂原屬國，依該條規定，係指凡有設營業所或住所之所在國而言，否則以國籍定之，但以美國為締約國成員之一始有適用，如不適用，則以獲准商標註冊之相關國家為其原屬國。	An applicant must own a foreign registration from the applicant's country of origin under U. S. Trademark Act Section44 (e).		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:34	tw-tipo-trademark-150a32de180267f08f05	OGDL-Taiwan-1.0	source_attributed			
 依职权	依職權	ex officio	yi1 zhi2 quan2	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:200	tw-tipo-trademark-ce1bec86e1a72bf0f265	OGDL-Taiwan-1.0	source_attributed			
 依附式之比例代表制	依附式之比例代表制	proportional representation by way of attachment	yi1 fu4 shi4 zhi1 bi3 li4 dai4 biao3 zhi4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:691	tw-judicial-2807305d5f4ae81cddf4	OGDL-Taiwan-1.0	source_attributed			
-侵害	侵害	infringement	qin1 hai4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:859	tw-judicial-49a3906ef3ddcf667cf6	OGDL-Taiwan-1.0	source_attributed			
-侵害	侵害	infringement	qin1 hai4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:300	tw-tipo-trademark-dbef844413f14da096fa	OGDL-Taiwan-1.0	source_attributed			
+侵害	侵害	infringement	qin1 hai4	core	待核查	TW	term	憲法法庭書記廳		tw-judicial:859	tw-judicial-49a3906ef3ddcf667cf6	OGDL-Taiwan-1.0	source_attributed		来源用 infringement，未给出具体受侵害权利；保持通用术语分类，不将全部侵害限定为知识产权侵权。	
+侵害	侵害	infringement	qin1 hai4	intellectual_property	待核查	TW	term	A13070000G		tw-tipo-trademark:300	tw-tipo-trademark-dbef844413f14da096fa	OGDL-Taiwan-1.0	source_attributed		商标词表用 infringement；保留知识产权业务语境，不能据同形中文与其他来源记录自动合并。	
 侵害鉴定专业机构	侵害鑑定專業機構	professional infringement analysis agencies	qin1 hai4 jian4 ding4 zhuan1 ye4 ji1 gou4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:860	tw-judicial-40279d30f929791eb28c	OGDL-Taiwan-1.0	source_attributed			
 侵害鉴定报告	侵害鑑定報告	infringement analysis report	qin1 hai4 jian4 ding4 bao4 gao4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:861	tw-judicial-79d3c568273260383f38	OGDL-Taiwan-1.0	source_attributed			
 侵权行为	侵權行為	tortious acts; torts	qin1 quan2 xing2 wei2	civil	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:862	tw-judicial-e7164edac898101e492c	OGDL-Taiwan-1.0	source_attributed			
@@ -317,8 +317,8 @@
 值星庭长室	值星庭長室	On-Duty Division-Chief Judge Office	zhi2 xing1 ting2 zhang3 shi4	unclassified	待核查	TW	unclassified	司法行政廳		tw-judicial:974	tw-judicial-92eaf9bd4a4945230ce1	OGDL-Taiwan-1.0	source_attributed			
 假冒	假冒	passing off	jia3 mao4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:401	tw-tipo-trademark-e84b4e13fed749d6414b	OGDL-Taiwan-1.0	source_attributed			
 假名、笔名、雅号	假名、筆名、雅號	pseudonym		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:454	tw-tipo-trademark-964ed6c8e4e11393c139	OGDL-Taiwan-1.0	source_attributed			
-假处分	假處分	Provisional Injunction	jia3 chu3 fen4	unclassified	待核查	TW	unclassified	行政訴訟及懲戒廳		tw-judicial:1130	tw-judicial-740ca5593310664a8df9	OGDL-Taiwan-1.0	source_attributed			
-假处分	假處分	preliminary injunction	jia3 chu3 fen4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:421	tw-tipo-trademark-165a4a3c2c54bca201de	OGDL-Taiwan-1.0	source_attributed			
+假处分	假處分	Provisional Injunction	jia3 chu3 fen4	administrative,dispute_resolution	待核查	TW	term	行政訴訟及懲戒廳		tw-judicial:1130	tw-judicial-740ca5593310664a8df9	OGDL-Taiwan-1.0	source_attributed		来源为行政诉讼及惩戒厅，采用 Provisional Injunction；按程序术语编排，不因含“处分”二字归为行政处罚。具体保全要件未作跨法域核验。	
+假处分	假處分	preliminary injunction	jia3 chu3 fen4	dispute_resolution,intellectual_property	待核查	TW	term	A13070000G		tw-tipo-trademark:421	tw-tipo-trademark-165a4a3c2c54bca201de	OGDL-Taiwan-1.0	source_attributed		商标来源采用 preliminary injunction；保留与另一来源 Provisional Injunction 的差别，不将两种表述当作已核验的跨法域同义词。	
 假扣押	假扣押	provisional attachment	jia3 kou4 ya1	unclassified	待核查	TW	unclassified	行政訴訟及懲戒廳		tw-judicial:1129	tw-judicial-5ba79df293e8276eb9aa	OGDL-Taiwan-1.0	source_attributed			
 假日生活辅导	假日生活輔導	holiday consulting	jia4 ri4 sheng1 huo2 fu3 dao3	unclassified	待核查	TW	unclassified	少年及家事廳		tw-judicial:1128	tw-judicial-23758603d5a8f7ef94f1	OGDL-Taiwan-1.0	source_attributed			
 停业处分	停業處分	suspension from practice	ting2 ye4 chu3 fen4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1127	tw-judicial-3c0bce21f14122c0eb32	OGDL-Taiwan-1.0	source_attributed			
@@ -404,8 +404,8 @@
 公司负责人	公司負責人	responsible person of the corporation	gong1 si1 fu4 ze2 ren2	company	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:130	tw-judicial-be0f9d5d17f89faa390d	OGDL-Taiwan-1.0	source_attributed			
 公同共有人	公同共有人	joint owners	gong1 tong2 gong4 you3 ren2	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:144	tw-judicial-c471185a44f1c5f9368b	OGDL-Taiwan-1.0	source_attributed			
 公同关系	公同關係	joint relationship	gong1 tong2 guan1 xi4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:145	tw-judicial-e90430e91c24a3405a8e	OGDL-Taiwan-1.0	source_attributed			
-公告	公告	official notice	gong1 gao4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:148	tw-judicial-7e48e18f4d6cf3822348	OGDL-Taiwan-1.0	source_attributed			
-公告	公告	Publication	gong1 gao4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:455	tw-tipo-trademark-ea46511c76f0f7ca111c	OGDL-Taiwan-1.0	source_attributed			
+公告	公告	official notice	gong1 gao4	administrative	待核查	TW	term	憲法法庭書記廳		tw-judicial:148	tw-judicial-7e48e18f4d6cf3822348	OGDL-Taiwan-1.0	source_attributed		来源用 official notice，偏重通知这一名词表达；公告也可指公布行为，本次不补推其形式或法律效力。	
+公告	公告	Publication	gong1 gao4	intellectual_property	待核查	TW	term	A13070000G		tw-tipo-trademark:455	tw-tipo-trademark-ea46511c76f0f7ca111c	OGDL-Taiwan-1.0	source_attributed		商标来源用 Publication；保留该业务词对，与 official notice 记录分别展示，不据此确定特定公告程序或期限。	
 公告土地现值	公告土地現值	government assessed land value	gong1 gao4 tu3 di4 xian4 zhi2	property	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:149	tw-judicial-35b528cebb25d50972fe	OGDL-Taiwan-1.0	source_attributed			
 公告地价	公告地價	government published land value	gong1 gao4 di4 jia4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:150	tw-judicial-37674fe393382c139806	OGDL-Taiwan-1.0	source_attributed			
 公平交易法	公平交易法	Fair Trade Act	gong1 ping2 jiao1 yi4 fa3	competition	待核查	TW	statute	憲法法庭書記廳		tw-judicial:132	tw-judicial-a49f56a93ad1ec34a0b0	OGDL-Taiwan-1.0	source_attributed			
@@ -533,8 +533,8 @@
 决算	決算	Financial Statement	jue2 suan4	unclassified	待核查	TW	unclassified	會計處		tw-judicial:658	tw-judicial-bf4c4e542f8612f6790c	OGDL-Taiwan-1.0	source_attributed			
 决算法	決算法	Financial Statement Act	jue2 suan4 fa3	unclassified	待核查	TW	unclassified	會計處		tw-judicial:659	tw-judicial-fba50f5a6a8af4bc4dbb	OGDL-Taiwan-1.0	source_attributed			
 准予公告	准予公告	be approved for publication	zhun3 yu3 gong1 gao4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:37	tw-tipo-trademark-a9b474549805f19e7542	OGDL-Taiwan-1.0	source_attributed			
-准用	準用	applicable mutatis mutandis	zhun3 yong4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1561	tw-judicial-76f51850575f4763d000	OGDL-Taiwan-1.0	source_attributed			
-准用	準用	mutatis mutandis	zhun3 yong4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:367	tw-tipo-trademark-cb4067a746b0c584a8a7	OGDL-Taiwan-1.0	source_attributed			
+准用	準用	applicable mutatis mutandis	zhun3 yong4	core	待核查	TW	term	憲法法庭書記廳		tw-judicial:1561	tw-judicial-76f51850575f4763d000	OGDL-Taiwan-1.0	source_attributed		来源保留 applicable mutatis mutandis 整体表达；其中 mutatis mutandis 为拉丁语短语，不能当作首字母缩写拆读。本次未核验任何具体准用条款。	
+准用	準用	mutatis mutandis	zhun3 yong4	intellectual_property	待核查	TW	term	A13070000G		tw-tipo-trademark:367	tw-tipo-trademark-cb4067a746b0c584a8a7	OGDL-Taiwan-1.0	source_attributed		来源采用拉丁语短语 mutatis mutandis；用于商标词表的准用表达，不据此判定某一法条可直接适用或无需调整。	
 准财产权	準財產權	quasi-property rights	zhun3 cai2 chan3 quan2	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:460	tw-tipo-trademark-b51a3b461dae9a55c942	OGDL-Taiwan-1.0	source_attributed			
 减俸	減俸	salary cut	jian3 feng4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1437	tw-judicial-fbb095302a1874a5fb35	OGDL-Taiwan-1.0	source_attributed			
 减刑	減刑	reduction of punishment	jian3 xing2	criminal	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1436	tw-judicial-6c4d5be0881e8457e78e	OGDL-Taiwan-1.0	source_attributed			
@@ -580,8 +580,8 @@
 初步审阅	初步審閱	preliminary review	chu1 bu4 shen3 yue4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:422	tw-tipo-trademark-186fe015b449aa11aab2	OGDL-Taiwan-1.0	source_attributed			
 初步检索	初步檢索	preliminary search	chu1 bu4 jian3 suo3	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:423	tw-tipo-trademark-f1603273223c293b7ed9	OGDL-Taiwan-1.0	source_attributed			
 删除、擦去	刪除、擦去	delete		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:138	tw-tipo-trademark-9592e29dfd152b6c0129	OGDL-Taiwan-1.0	source_attributed			
-判例	判例	precedent(s)	pan4 li4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:622	tw-judicial-63ad91b54ff753c266ee	OGDL-Taiwan-1.0	source_attributed			
-判例	判例	precedent	pan4 li4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:418	tw-tipo-trademark-ea61914f555c64f53b5a	OGDL-Taiwan-1.0	source_attributed			
+判例	判例	precedent(s)	pan4 li4	dispute_resolution	待核查	TW	term	憲法法庭書記廳		tw-judicial:622	tw-judicial-63ad91b54ff753c266ee	OGDL-Taiwan-1.0	source_attributed		来源记作 precedent(s)，括号表示单复数形式；保留原文。本次不据术语推定先例拘束力，也不把历史判例制度标作现行。	
+判例	判例	precedent	pan4 li4	dispute_resolution,intellectual_property	待核查	TW	term	A13070000G		tw-tipo-trademark:418	tw-tipo-trademark-ea61914f555c64f53b5a	OGDL-Taiwan-1.0	source_attributed		商标来源用 precedent；不同法域下判例、裁判先例及其效力需另行核验，不仅凭译名认定拘束力。	
 判例法	判例法	decisional law	pan4 li4 fa3	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:131	tw-tipo-trademark-57c9a817f8c75edef227	OGDL-Taiwan-1.0	source_attributed			
 判决	判決	judgment	pan4 jue2	dispute_resolution	待核查	TW	unclassified	民事廳		tw-judicial:618	tw-judicial-3f172215317504a08fa5	OGDL-Taiwan-1.0	source_attributed			
 判决不适用法规或适用不当	判決不適用法規或適用不當	law not applied to or wrongly applied to judgment	pan4 jue2 bu4 shi4 yong4 fa3 gui1 huo4 shi4 yong4 bu4 dang4	dispute_resolution	待核查	TW	unclassified	民事廳		tw-judicial:619	tw-judicial-5c4fd8ca7df3c418a5ec	OGDL-Taiwan-1.0	source_attributed			
@@ -1366,10 +1366,10 @@
 开庭报到处	開庭報到處	Check-in Counter (Court)	kai1 ting2 bao4 dao4 chu4	unclassified	待核查	TW	unclassified	司法行政廳		tw-judicial:1513	tw-judicial-fbd4095c74e0d2153004	OGDL-Taiwan-1.0	source_attributed			
 开标室	開標室	Bidding Room	kai1 biao1 shi4	unclassified	待核查	TW	unclassified	司法行政廳		tw-judicial:1515	tw-judicial-42cfea76c7b089da6b5a	OGDL-Taiwan-1.0	source_attributed			
 开航通知书	開航通知書	departure notice or authorization	kai1 hang2 tong1 zhi1 shu1	unclassified	待核查	TW	document	憲法法庭書記廳		tw-judicial:1514	tw-judicial-2f0ab4e82ca9262b847b	OGDL-Taiwan-1.0	source_attributed			
-异议	異議	appeal	yi4 yi4	unclassified	待核查	TW	unclassified	民事廳		tw-judicial:1286	tw-judicial-242b0a50acd7e329c8a9	OGDL-Taiwan-1.0	source_attributed			
-异议	異議	opposition	yi4 yi4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:386	tw-tipo-trademark-360b06314e80cd2f977f	OGDL-Taiwan-1.0	source_attributed			
-异议程序	異議程序	opposition proceeding	yi4 yi4 cheng2 xu4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1287	tw-judicial-869ca82f32d727bde533	OGDL-Taiwan-1.0	source_attributed			
-异议程序	異議程序	opposition proceeding	yi4 yi4 cheng2 xu4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:388	tw-tipo-trademark-e5fb93e5f017f8df57fd	OGDL-Taiwan-1.0	source_attributed			
+异议	異議	appeal	yi4 yi4	dispute_resolution	待核查	TW	action	民事廳		tw-judicial:1286	tw-judicial-242b0a50acd7e329c8a9	OGDL-Taiwan-1.0	source_attributed		民事厅来源将异议译作 appeal，同表上诉也用 appeal；保留原文并提示程序歧义，不将异议和上诉自动作为同义词。	
+异议	異議	opposition	yi4 yi4	dispute_resolution,intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:386	tw-tipo-trademark-360b06314e80cd2f977f	OGDL-Taiwan-1.0	source_attributed		商标来源用 opposition；与另一来源的 appeal 分列，不能只凭“异议”中文同形替换不同程序的名称。	
+异议程序	異議程序	opposition proceeding	yi4 yi4 cheng2 xu4	dispute_resolution	待核查	TW	term	憲法法庭書記廳		tw-judicial:1287	tw-judicial-869ca82f32d727bde533	OGDL-Taiwan-1.0	source_attributed		来源用 opposition proceeding；与单独“异议”记录的 appeal 保持区分，不由提供单位或中文同形推定具体制度归属。	
+异议程序	異議程序	opposition proceeding	yi4 yi4 cheng2 xu4	dispute_resolution,intellectual_property	待核查	TW	term	A13070000G		tw-tipo-trademark:388	tw-tipo-trademark-e5fb93e5f017f8df57fd	OGDL-Taiwan-1.0	source_attributed		商标来源用 opposition proceeding；只保留程序名称对应，提起条件、主体及期限尚未独立核验。	
 引水法	引水法	Pilotage Law	yin3 shui3 fa3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:226	tw-judicial-d6c081360c009d6a09f3	OGDL-Taiwan-1.0	source_attributed			
 引渡法	引渡法	Law of Extradition	yin3 du4 fa3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:227	tw-judicial-0d3ffc10e869abd970ee	OGDL-Taiwan-1.0	source_attributed			
 引证的注册商标	引證的註冊商標	cited registration	yin3 zheng4 de5 zhu4 ce4 shang1 biao1	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:71	tw-tipo-trademark-20be9b206c9ad1ffeb85	OGDL-Taiwan-1.0	source_attributed			
@@ -1544,8 +1544,8 @@
 接近使用传播媒体之权利	接近使用傳播媒體之權利	right of access to the media	jie1 jin4 shi3 yong4 chuan2 bo1 mei2 ti3 zhi1 quan2 li4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1264	tw-judicial-884abe7ad52bf555e95e	OGDL-Taiwan-1.0	source_attributed			
 控告、对…提起诉讼	控告、對…提起訴訟	suing		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:548	tw-tipo-trademark-28bd15dbe6a19c35a86d	OGDL-Taiwan-1.0	source_attributed			
 控股股东	控股股東	controlling shareholder	kong4 gu3 gu3 dong1	company	CN	INTERNATIONAL	role	中华人民共和国公司法（2023修订）	不是只按是否持股超过百分之五十作机械判断；应逐项核对第二百六十五条。	oll-cn-core:cn-controlling-shareholder	cn-controlling-shareholder	CC-BY-4.0	project_authored	出资或持股符合条文比例，或者凭表决权足以对股东会决议产生重大影响的股东。	项目释译，非官方译文；与不一定具有股东身份的实际控制人区分。	中华人民共和国公司法（2023修订） 第265条 https://fgk.chinatax.gov.cn/zcfgk/c100009/c5233383/content.html
-推定	推定	presume	tui1 ding4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1267	tw-judicial-3696f3fe6d9788e617ff	OGDL-Taiwan-1.0	source_attributed			
-推定	推定	presume	tui1 ding4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:424	tw-tipo-trademark-acf7bae286573e87bc5d	OGDL-Taiwan-1.0	source_attributed			
+推定	推定	presume	tui1 ding4	core	待核查	TW	action	憲法法庭書記廳		tw-judicial:1267	tw-judicial-3696f3fe6d9788e617ff	OGDL-Taiwan-1.0	source_attributed		来源采用动词 presume；保留该词形，不将推定与事实证明或未明确反证规则的结论混同。	
+推定	推定	presume	tui1 ding4	intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:424	tw-tipo-trademark-acf7bae286573e87bc5d	OGDL-Taiwan-1.0	source_attributed		商标来源采用动词 presume；不由该词条推定具体举证责任或反证规则。	
 推定使用日期	推定使用日期	constructive use date	tui1 ding4 shi3 yong4 ri4 qi1	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:109	tw-tipo-trademark-94ace379c63eb116f335	OGDL-Taiwan-1.0	source_attributed			
 推定死亡	推定死亡	presumed to be dead	tui1 ding4 si3 wang2	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1268	tw-judicial-618ef81c3744e42be06a	OGDL-Taiwan-1.0	source_attributed			
 推计核定	推計核定	assessment by imputation	tui1 ji4 he2 ding4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1269	tw-judicial-351ea21da66631ceec80	OGDL-Taiwan-1.0	source_attributed			
@@ -1575,8 +1575,8 @@
 撤回	撤回	withdraw	che4 hui2	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:609	tw-tipo-trademark-a274bc3e869739e9da65	OGDL-Taiwan-1.0	source_attributed			
 撤回同意	撤回同意	withdrawal of consent	che4 hui2 tong2 yi4	privacy	CN	INTERNATIONAL	term	中华人民共和国个人信息保护法（2021）	应提供便捷撤回方式；撤回不影响此前基于同意开展的处理活动效力。	oll-cn-core:cn-withdraw-consent	cn-withdraw-consent	CC-BY-4.0	project_authored	个人撤回先前作为个人信息处理依据的同意的权利。	项目释译，非官方译文；withdrawal 不意味着此前全部处理自动违法。	中华人民共和国个人信息保护法（2021） 第15条 https://www.cac.gov.cn/2021-08/20/c_1631050028355286.htm
 撤回异议	撤回異議	withdraw an opposition	che4 hui2 yi4 yi4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:610	tw-tipo-trademark-0cd3b9ffbbb5fb8dc7c9	OGDL-Taiwan-1.0	source_attributed			
-撤销	撤銷	revocation	che4 xiao1	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1643	tw-judicial-3177a2492df11ca5917f	OGDL-Taiwan-1.0	source_attributed			
-撤销	撤銷	cancel	che4 xiao1	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:61	tw-tipo-trademark-dec384c977bfb4253ec4	OGDL-Taiwan-1.0	source_attributed			
+撤销	撤銷	revocation	che4 xiao1	core	待核查	TW	action	憲法法庭書記廳		tw-judicial:1643	tw-judicial-3177a2492df11ca5917f	OGDL-Taiwan-1.0	source_attributed		来源采用名词 revocation 表示撤销行为；未指定撤销对象，不能把合同撤销、行政决定撤销等制度规则一并套用。	
+撤销	撤銷	cancel	che4 xiao1	intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:61	tw-tipo-trademark-dec384c977bfb4253ec4	OGDL-Taiwan-1.0	source_attributed		商标来源采用动词 cancel；保留与 revocation 的词形差异，具体撤销对象、程序与效力未核验。	
 撤销或废止	撤銷或廢止	rescission or repeal (cancellation or abolishment)	che4 xiao1 huo4 fei4 zhi3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1644	tw-judicial-19f12a73da8be0e61d52	OGDL-Taiwan-1.0	source_attributed			
 撤销登记	撤銷登記	revocation of registration	che4 xiao1 deng1 ji4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1645	tw-judicial-8993932f84c3c7164515	OGDL-Taiwan-1.0	source_attributed			
 撤销缓刑	撤銷緩刑	revocation of probation	che4 xiao1 huan3 xing2	criminal	CN	INTERNATIONAL	term	中华人民共和国刑法（含刑法修正案十二的现行合并文本）	第七十七条区分新罪/漏罪与严重违反监督管理规定等撤销路径。	oll-cn-criminal:cn-revocation-probation	cn-revocation-probation	CC-BY-4.0	project_authored	缓刑人员在考验期内犯新罪、发现漏罪或严重违反法定监督管理规定等情况下，依法撤销缓刑并处理刑罚的制度。	项目释译，非官方译文；英文仅服务中国大陆刑法学习语境，不主张跨法域概念完全等同。	中华人民共和国刑法（含刑法修正案十二的现行合并文本） 第77条 https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml
@@ -1598,8 +1598,7 @@
 政党	政黨	political party	zheng4 dang3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:917	tw-judicial-bc4194a1339dea8083ea	OGDL-Taiwan-1.0	source_attributed			
 政务官	政務官	political appointee	zheng4 wu4 guan1	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:915	tw-judicial-aec2331a89425f9d99cb	OGDL-Taiwan-1.0	source_attributed			
 政务官退职酬劳金给与条例	政務官退職酬勞金給與條例	Act Governing the Pension of the Special Political Officials	zheng4 wu4 guan1 tui4 zhi2 chou2 lao2 jin1 ji3 yu3 tiao2 li4	unclassified	待核查	TW	statute	憲法法庭書記廳		tw-judicial:916	tw-judicial-9347862785b0a193eed1	OGDL-Taiwan-1.0	source_attributed			
-政府公报	政府公報	Government Official	zheng4 fu3 gong1 bao4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:905	tw-judicial-d93174a9bac5c5bda259	OGDL-Taiwan-1.0	source_attributed			
-政府公报	政府公報	Official Gazette	zheng4 fu3 gong1 bao4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:378	tw-tipo-trademark-b84065c11778807899c1	OGDL-Taiwan-1.0	source_attributed			
+政府公报	政府公報	Official Gazette	zheng4 fu3 gong1 bao4	administrative,intellectual_property	待核查	TW	document	A13070000G		tw-tipo-trademark:378	tw-tipo-trademark-b84065c11778807899c1	OGDL-Taiwan-1.0	source_attributed		商标来源用 Official Gazette，按官方刊物类别编排；保留独立记录，不借此静默修正另一来源的 Government Official。具体刊物及发行机关未核验。	
 政府发展经济社会向国外借款及保证条例	政府發展經濟社會向國外借款及保證條例	Act Governing Foreign Loans and Guarantee for Government to Develop Economy and Society	zheng4 fu3 fa1 zhan3 jing1 ji4 she4 hui4 xiang4 guo2 wai4 jie4 kuan3 ji2 bao3 zheng4 tiao2 li4	unclassified	待核查	TW	statute	憲法法庭書記廳		tw-judicial:907	tw-judicial-811c560bed96bc0103c9	OGDL-Taiwan-1.0	source_attributed			
 政府机关	政府機關	government agency	zheng4 fu3 ji1 guan1	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:261	tw-tipo-trademark-0e5a80343d8f64e4521f	OGDL-Taiwan-1.0	source_attributed			
 政府采购法	政府採購法	Government Procurement Act	zheng4 fu3 cai3 gou4 fa3	unclassified	待核查	TW	statute	憲法法庭書記廳		tw-judicial:906	tw-judicial-9ffa1e2921304d7a86f1	OGDL-Taiwan-1.0	source_attributed			
@@ -1750,9 +1749,9 @@
 标志、做记号	標誌、做記號	marking		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:351	tw-tipo-trademark-8395298cb232a3f6e7ea	OGDL-Taiwan-1.0	source_attributed			
 标章类型	標章類型	types of marks	biao1 zhang1 lei4 xing2	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:575	tw-tipo-trademark-06b3ab0c82175f4ad7ee	OGDL-Taiwan-1.0	source_attributed			
 样品、样本	樣品、樣本	specimen		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:534	tw-tipo-trademark-c27e7ee869c2916460ba	OGDL-Taiwan-1.0	source_attributed			
-核准	核准	permission	he2 zhun3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1022	tw-judicial-a6f2196afd88940998c1	OGDL-Taiwan-1.0	source_attributed			
-核准	核准	allowance	he2 zhun3	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:22	tw-tipo-trademark-41cf74b59f0f9c35d6c7	OGDL-Taiwan-1.0	source_attributed			
-核准	核准	approve	he2 zhun3	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:36	tw-tipo-trademark-abb1835267c2f4ece061	OGDL-Taiwan-1.0	source_attributed			
+核准	核准	permission	he2 zhun3	administrative	待核查	TW	action	憲法法庭書記廳		tw-judicial:1022	tw-judicial-a6f2196afd88940998c1	OGDL-Taiwan-1.0	source_attributed		来源采用名词 permission；只标示核准这一行为类别，不把所有许可、核准及审批程序认作完全等同。	
+核准	核准	allowance	he2 zhun3	intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:22	tw-tipo-trademark-41cf74b59f0f9c35d6c7	OGDL-Taiwan-1.0	source_attributed		商标来源采用名词 allowance；与动词 approve 分列保存，不把其其他语境中的津贴等含义带入此业务词对。	
+核准	核准	approve	he2 zhun3	intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:36	tw-tipo-trademark-abb1835267c2f4ece061	OGDL-Taiwan-1.0	source_attributed		商标来源采用动词 approve；另一记录为名词 allowance。保留词形及来源差别，未据此补充特定法定核准条件。	
 核子反应器设施管制法	核子反應器設施管制法	Nuclear Reactor Facilities Regulation Act	he2 zi3 fan3 ying4 qi4 she4 shi1 guan3 zhi4 fa3	unclassified	待核查	TW	statute	憲法法庭書記廳		tw-judicial:1020	tw-judicial-c497378a83f562ad2e2f	OGDL-Taiwan-1.0	source_attributed			
 核子损害赔偿法	核子損害賠償法	Nuclear Reactor Facilities Regulation Act	he2 zi3 sun3 hai4 pei2 chang2 fa3	unclassified	待核查	TW	statute	憲法法庭書記廳		tw-judicial:1021	tw-judicial-136bf0637a6035b1cf90	OGDL-Taiwan-1.0	source_attributed			
 核课权	核課權	taxing power	he2 ke4 quan2	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1023	tw-judicial-33754bfb6dc343f30b9d	OGDL-Taiwan-1.0	source_attributed			
@@ -1877,8 +1876,8 @@
 法定代表人	法定代表人	legal representative of a legal person	fa3 ding4 dai4 biao3 ren2	company,civil	CN	INTERNATIONAL	role	中华人民共和国民法典（2020）	其以法人名义从事民事活动的法律后果由法人承受；内部代表权限制不得对抗善意相对人。	oll-cn-core:cn-legal-representative	cn-legal-representative	CC-BY-4.0	project_authored	依法律或者法人章程代表法人从事民事活动的负责人。	项目释译，非官方译文；加上 of a legal person 以区别一般律师或代理人。	中华人民共和国民法典（2020） 第61条 https://www.court.gov.cn/zixun/xiangqing/233181.html
 法定扶养义务	法定扶養義務	legal support obligation	fa3 ding4 fu2 yang3 yi4 wu4	family	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:768	tw-judicial-28c1ccc2bc03be8de8ed	OGDL-Taiwan-1.0	source_attributed			
 法定抵销	法定抵銷	statutory set-off	fa3 ding4 di3 xiao1	contracts	CN	INTERNATIONAL	term	中华人民共和国民法典（2020）	标的物种类、品质等须满足条文条件；主张抵销应通知对方且不得附条件或期限。	oll-cn-core:cn-statutory-setoff	cn-statutory-setoff	CC-BY-4.0	project_authored	互负债务的当事人在符合法定条件时，以自己的债务抵销对方到期债务的制度。	项目释译，非官方译文；set-off 不等于任意扣款。	中华人民共和国民法典（2020） 第568条 https://www.court.gov.cn/zixun/xiangqing/233181.html
-法定期间	法定期間	statutory period	fa3 ding4 qi1 jian1	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:769	tw-judicial-9feec0f984ab60f66a5f	OGDL-Taiwan-1.0	source_attributed			
-法定期间	法定期間	statutory period	fa3 ding4 qi1 jian1	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:540	tw-tipo-trademark-6638963967b2ff947ec6	OGDL-Taiwan-1.0	source_attributed			
+法定期间	法定期間	statutory period	fa3 ding4 qi1 jian1	core	待核查	TW	term	憲法法庭書記廳		tw-judicial:769	tw-judicial-9feec0f984ab60f66a5f	OGDL-Taiwan-1.0	source_attributed		来源用 statutory period；只表示来源中的法定期间词对，不据此提供期间长度、起算点或延长规则。	
+法定期间	法定期間	statutory period	fa3 ding4 qi1 jian1	intellectual_property	待核查	TW	term	A13070000G		tw-tipo-trademark:540	tw-tipo-trademark-6638963967b2ff947ec6	OGDL-Taiwan-1.0	source_attributed		商标来源用 statutory period；具体申请或争议程序中的期限需按相应依据核验，不能由该通用词条推算。	
 法定程序	法定程序	legal procedure	fa3 ding4 cheng2 xu4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:770	tw-judicial-66a835b4998f6c6cebe3	OGDL-Taiwan-1.0	source_attributed			
 法定继承人	法定繼承人	statutory successor	fa3 ding4 ji4 cheng2 ren2	family	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:772	tw-judicial-2f612858a3ebdd730891	OGDL-Taiwan-1.0	source_attributed			
 法定预算	法定預算	Legal Budget	fa3 ding4 yu4 suan4	unclassified	待核查	TW	unclassified	會計處		tw-judicial:771	tw-judicial-94e7ef482b99ccbd003c	OGDL-Taiwan-1.0	source_attributed			
@@ -2015,8 +2014,7 @@
 申请复查	申請復查	petition for review	shen1 qing3 fu4 cha2	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:406	tw-judicial-21748f2ae4a623bd78b8	OGDL-Taiwan-1.0	source_attributed			
 申请恢复申请案	申請恢復申請案	petition to revive an application	shen1 qing3 hui1 fu4 shen1 qing3 an4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:410	tw-tipo-trademark-52552ecb90aeffa0d7c0	OGDL-Taiwan-1.0	source_attributed			
 申请日	申請日	filing date	shen1 qing3 ri4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:224	tw-tipo-trademark-f66943a2097a6869585f	OGDL-Taiwan-1.0	source_attributed			
-申请期间	申請期間	application period	shen1 qing3 qi1 jian1	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:407	tw-judicial-71c70242440d02df8e0f	OGDL-Taiwan-1.0	source_attributed			
-申请期间	申請期間	prosecution of the application	shen1 qing3 qi1 jian1	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:451	tw-tipo-trademark-6f66fb2f4f3eef2e0b87	OGDL-Taiwan-1.0	source_attributed			
+申请期间	申請期間	application period	shen1 qing3 qi1 jian1	core	待核查	TW	term	憲法法庭書記廳		tw-judicial:407	tw-judicial-71c70242440d02df8e0f	OGDL-Taiwan-1.0	source_attributed		来源用 application period，保留期间表达；不要与另一来源 prosecution of the application 所指的申请办理过程直接互换。	
 申请案	申請案	application	shen1 qing3 an4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:35	tw-tipo-trademark-e5a3351bcf6031a5fde9	OGDL-Taiwan-1.0	source_attributed			
 申请费	申請費	filing fee	shen1 qing3 fei4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:225	tw-tipo-trademark-7723fb6e617540839a8b	OGDL-Taiwan-1.0	source_attributed			
 申辩权	申辯權	right to present a defense	shen1 bian4 quan2	administrative	CN	INTERNATIONAL	term	中华人民共和国行政处罚法（2021修订）	行政机关必须复核当事人提出的事实、理由和证据；成立的应予采纳，并不得因申辩而给予更重处罚。	oll-cn-admin-labor:cn-admin-defense-right	cn-admin-defense-right	CC-BY-4.0	project_authored	行政处罚程序中，当事人针对拟处罚事实、理由、依据或证据提出辩解和反驳的程序性权利。	项目释译，非官方译文；present a defense 用于突出对拟处罚事项的辩解，不把该权利等同于刑事辩护权。	中华人民共和国行政处罚法（2021修订） 第7,44,45条 https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211778/content.html
@@ -2033,8 +2031,8 @@
 留职停薪	留職停薪	Retain the Position without Pay	liu2 zhi2 ting2 xin1	unclassified	待核查	TW	unclassified	人事處		tw-judicial:1052	tw-judicial-fbdffd34fc8435a95337	OGDL-Taiwan-1.0	source_attributed			
 畜牧法	畜牧法	Animal Industry Act	xu4 mu4 fa3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1050	tw-judicial-7d6ee88b5257e5480e2d	OGDL-Taiwan-1.0	source_attributed			
 病假	病假	Sick Leave	bing4 jia4	unclassified	待核查	TW	unclassified	人事處		tw-judicial:1053	tw-judicial-95c22efba572ab442685	OGDL-Taiwan-1.0	source_attributed			
-登记	登記	recording	deng1 ji4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1445	tw-judicial-a7fb7b1d454fc8a1857b	OGDL-Taiwan-1.0	source_attributed			
-登记	登記	recordation	deng1 ji4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:465	tw-tipo-trademark-8efed26a9b9a87781d9f	OGDL-Taiwan-1.0	source_attributed			
+登记	登記	recording	deng1 ji4	core	待核查	TW	action	憲法法庭書記廳		tw-judicial:1445	tw-judicial-a7fb7b1d454fc8a1857b	OGDL-Taiwan-1.0	source_attributed		来源用 recording；未指明登记对象，不把登记一概理解为设权、对抗或公告生效。	
+登记	登記	recordation	deng1 ji4	intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:465	tw-tipo-trademark-8efed26a9b9a87781d9f	OGDL-Taiwan-1.0	source_attributed		商标来源用 recordation；保留与 recording 的表述差别，不据词形确定登记产生的法律效果。	
 登记处	登記處	Registry Office	deng1 ji4 chu4	unclassified	待核查	TW	unclassified	司法行政廳		tw-judicial:1446	tw-judicial-5eab6963f224f3bea01f	OGDL-Taiwan-1.0	source_attributed			
 登记处、注册处	登記處、註冊處	registry		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:479	tw-tipo-trademark-4c1c6979d6268f19295d	OGDL-Taiwan-1.0	source_attributed			
 监印室	監印室	Seal Imprinting Room	jian1 yin4 shi4	unclassified	待核查	TW	unclassified	司法行政廳		tw-judicial:1656	tw-judicial-b5e0b24f3d3698f53992	OGDL-Taiwan-1.0	source_attributed			
@@ -2206,8 +2204,8 @@
 第一审法院（地方法院）	第一審法院（地方法院）	court of the first instance / District Court		dispute_resolution	待核查	TW	unclassified	民事廳		tw-judicial:1294	tw-judicial-089ed759051bbd4166b2	OGDL-Taiwan-1.0	source_attributed			
 第一届国民大会代表出缺递补补充条例	第一屆國民大會代表出缺遞補補充條例	Act Governing Replacement of Any Vacant Seat of the First Term National Assembly	di4 yi1 jie4 guo2 min2 da4 hui4 dai4 biao3 chu1 que1 di4 bu3 bu3 chong1 tiao2 li4	unclassified	待核查	TW	statute	憲法法庭書記廳		tw-judicial:1292	tw-judicial-3d701a500af092ff6094	OGDL-Taiwan-1.0	source_attributed			
 第一科	第一科	First Section	di4 yi1 ke1	unclassified	待核查	TW	unclassified	司法行政廳		tw-judicial:1293	tw-judicial-318e8d76aa4d3928e78f	OGDL-Taiwan-1.0	source_attributed			
-第三人	第三人	Third Party	di4 san1 ren2	unclassified	待核查	TW	unclassified	民事廳		tw-judicial:1298	tw-judicial-ba9697a9c0c93e3fd1a7	OGDL-Taiwan-1.0	source_attributed			
-第三人	第三人	third party	di4 san1 ren2	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:554	tw-tipo-trademark-9eed2463bbf08ab38564	OGDL-Taiwan-1.0	source_attributed			
+第三人	第三人	Third Party	di4 san1 ren2	civil,dispute_resolution	待核查	TW	role	民事廳		tw-judicial:1298	tw-judicial-ba9697a9c0c93e3fd1a7	OGDL-Taiwan-1.0	source_attributed		民事厅来源用 Third Party；仅确认第三人这一角色表达，不直接推定其已参加诉讼或具有特定程序地位。	
+第三人	第三人	third party	di4 san1 ren2	intellectual_property	待核查	TW	role	A13070000G		tw-tipo-trademark:554	tw-tipo-trademark-9eed2463bbf08ab38564	OGDL-Taiwan-1.0	source_attributed		商标来源用 third party；相对于何方为第三人须看具体关系，不与另一来源的角色记录自动合并。	
 第三人异议	第三人異議	observations	di4 san1 ren2 yi4 yi4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:376	tw-tipo-trademark-4b53be8fc52fcf29a879	OGDL-Taiwan-1.0	source_attributed			
 第三审	第三審	third instance	di4 san1 shen3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1300	tw-judicial-b0e7e5f0d7476bcc10b0	OGDL-Taiwan-1.0	source_attributed			
 第三审法院	第三審法院	third instance	di4 san1 shen3 fa3 yuan4	dispute_resolution	待核查	TW	institution	憲法法庭書記廳		tw-judicial:1301	tw-judicial-100b3762b5057f3472be	OGDL-Taiwan-1.0	source_attributed			
@@ -2596,9 +2594,9 @@
 证券交易税	證券交易稅	securities transaction tax	zheng4 quan4 jiao1 yi4 shui4	finance,tax	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:2060	tw-judicial-071448eedeffddb5ca53	OGDL-Taiwan-1.0	source_attributed			
 证据	證據	evidence	zheng4 ju4	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:198	tw-tipo-trademark-54e24ae4cc0be6e7331f	OGDL-Taiwan-1.0	source_attributed			
 证据的价值	證據的價值	evidentiary value	zheng4 ju4 de5 jia4 zhi2	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:199	tw-tipo-trademark-d67e621a1358a4ee6d62	OGDL-Taiwan-1.0	source_attributed			
-证明	證明	authentication	zheng4 ming2	unclassified	待核查	TW	unclassified	民事廳		tw-judicial:2061	tw-judicial-f0b0b42978137adea32b	OGDL-Taiwan-1.0	source_attributed			
-证明	證明	identification	zheng4 ming2	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:278	tw-tipo-trademark-5b1a9cda0682f227e278	OGDL-Taiwan-1.0	source_attributed			
-证明	證明	justify	zheng4 ming2	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:334	tw-tipo-trademark-f361a025fdd7e30953e0	OGDL-Taiwan-1.0	source_attributed			
+证明	證明	authentication	zheng4 ming2	civil,dispute_resolution	待核查	TW	action	民事廳		tw-judicial:2061	tw-judicial-f0b0b42978137adea32b	OGDL-Taiwan-1.0	source_attributed		民事厅来源用 authentication，另两条商标来源使用 identification 和 justify；保留差异，不提供脱离语境的一对一通用替换。	
+证明	證明	identification	zheng4 ming2	intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:278	tw-tipo-trademark-5b1a9cda0682f227e278	OGDL-Taiwan-1.0	source_attributed		商标来源用 identification；与 authentication、justify 记录分别保留。具体识别、确认或证明的对象未由词表给出。	
+证明	證明	justify	zheng4 ming2	intellectual_property	待核查	TW	action	A13070000G		tw-tipo-trademark:334	tw-tipo-trademark-f361a025fdd7e30953e0	OGDL-Taiwan-1.0	source_attributed		商标来源采用动词 justify；与其他“证明”的名词译法分列，保留词形差异和语境限制。	
 证明力	證明力	degree of proof	zheng4 ming2 li4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:2062	tw-judicial-24d91ccfcd172cfd1423	OGDL-Taiwan-1.0	source_attributed			
 证明标章	證明標章	certification mark	zheng4 ming2 biao1 zhang1	intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:66	tw-tipo-trademark-91223f6f5df65bfbe00d	OGDL-Taiwan-1.0	source_attributed			
 证物	證物	evidence	zheng4 wu4	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:2063	tw-judicial-a75e2ffbe660dc6b64f7	OGDL-Taiwan-1.0	source_attributed			
@@ -2805,7 +2803,7 @@
 道路交通管理	道路交通管理	road traffic regulation	dao4 lu4 jiao1 tong1 guan3 li3	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1614	tw-judicial-7cac50034eb7b2542b73	OGDL-Taiwan-1.0	source_attributed			
 道路交通管理处罚条例	道路交通管理處罰條例	Road Traffic Management and Penalty Act	dao4 lu4 jiao1 tong1 guan3 li3 chu3 fa2 tiao2 li4	unclassified	待核查	TW	statute	憲法法庭書記廳		tw-judicial:1615	tw-judicial-9c138a01cb60860e990e	OGDL-Taiwan-1.0	source_attributed			
 遗产	遺產	estate of a deceased person	yi2 chan3	family	CN	INTERNATIONAL	term	中华人民共和国民法典（2020）	依法或依性质不得继承的财产不能继承；应注意与他人财产的区分。	oll-cn-core:cn-estate	cn-estate	CC-BY-4.0	project_authored	自然人死亡时遗留的个人合法财产。	项目释译，非官方译文；estate 在其他语境还可指地产，本词限定继承语境。	中华人民共和国民法典（2020） 第1122条 https://www.court.gov.cn/zixun/xiangqing/233181.html
-遗产	遺產	decedent's estate	yi2 chan3	family	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1929	tw-judicial-71372bab5c5d36694394	OGDL-Taiwan-1.0	source_attributed			
+遗产	遺產	decedent's estate	yi2 chan3	family	待核查	TW	term	憲法法庭書記廳		tw-judicial:1929	tw-judicial-71372bab5c5d36694394	OGDL-Taiwan-1.0	source_attributed		来源用 decedent's estate，明确带有被继承人限定；不把孤立的 estate 一律对应为遗产，也不与中国大陆核心层记录合并。	
 遗产上权利	遺產上權利	right to the estate	yi2 chan3 shang4 quan2 li4	family	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1930	tw-judicial-d20afbc7bef698b1cfac	OGDL-Taiwan-1.0	source_attributed			
 遗产价值	遺產價值	value of the estate	yi2 chan3 jia4 zhi2	family	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1935	tw-judicial-10d497acbb99deef06dc	OGDL-Taiwan-1.0	source_attributed			
 遗产及赠与税法	遺產及贈與稅法	Estate and Gift Tax Act	yi2 chan3 ji2 zeng4 yu3 shui4 fa3	family,tax	待核查	TW	statute	憲法法庭書記廳		tw-judicial:1931	tw-judicial-78f9dad52ea384645da3	OGDL-Taiwan-1.0	source_attributed			
@@ -2895,7 +2893,7 @@
 除非证据记纪录显示 申请人可能使用商标于违法交易。	除非證據記紀錄顯示 申請人可能使用商標於違法交易。	The Office will not make an inquiry unless evidence of record clearly indicates that the applicant may be trafficking in marks.		intellectual_property	待核查	TW	unclassified	A13070000G		tw-tipo-trademark:305	tw-tipo-trademark-be42a5910c2e103bfb08	OGDL-Taiwan-1.0	source_attributed			
 陪同人、诉讼参加人及代理人席	陪同人、訴訟參加人及代理人席	Support Person, Participant, and Representative of Victims		dispute_resolution	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1370	tw-judicial-b4b2aa3791c9a8dc263f	OGDL-Taiwan-1.0	source_attributed			
 隐私权	隱私權	right to privacy	yin3 si1 quan2	civil,privacy	CN	INTERNATIONAL	term	中华人民共和国民法典（2020）	个人信息中的私密信息优先适用隐私权规定；个人信息与隐私并非完全同义。	oll-cn-core:cn-privacy-right	cn-privacy-right	CC-BY-4.0	project_authored	自然人对私人生活安宁及不愿他人知晓的私密空间、活动和信息所享有的权利。	项目释译，非官方译文；本词条说明民法典语境，不直接概括全部数据保护权利。	中华人民共和国民法典（2020） 第1032,1034条 https://www.court.gov.cn/zixun/xiangqing/233181.html
-隐私权	隱私權	right of privacy	yin3 si1 quan2	privacy	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1998	tw-judicial-f51b19a8aa715d7aa0a0	OGDL-Taiwan-1.0	source_attributed			
+隐私权	隱私權	right of privacy	yin3 si1 quan2	privacy	待核查	TW	term	憲法法庭書記廳		tw-judicial:1998	tw-judicial-f51b19a8aa715d7aa0a0	OGDL-Taiwan-1.0	source_attributed		来源用 right of privacy；保留与核心层 right to privacy 的表述差异，不据此宣称各法域保护范围相同。	
 集会游行法	集會遊行法	Assembly and Parade Act	ji2 hui4 you2 xing2 fa3	unclassified	待核查	TW	statute	憲法法庭書記廳		tw-judicial:1519	tw-judicial-745538bace737eddce41	OGDL-Taiwan-1.0	source_attributed			
 集水区	集水區	catchment area	ji2 shui3 qu1	unclassified	待核查	TW	unclassified	憲法法庭書記廳		tw-judicial:1518	tw-judicial-71a1e7e9a856902f6a09	OGDL-Taiwan-1.0	source_attributed			
 雇员	雇員	Assistant Clerk	gu4 yuan2	unclassified	待核查	TW	unclassified	司法行政廳		tw-judicial:1520	tw-judicial-16ec4dfb35fce4f844af	OGDL-Taiwan-1.0	source_attributed			
