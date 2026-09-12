@@ -6,9 +6,9 @@
 
 本页是公开开发接续入口。阅读顺序为：README（使用与范围）→ 本页（当前结果与下一步）→ WORK_LOG（变更及验证证据）→ DEVELOPMENT_PLAN（完整验收清单）→ AGENTS / CONTRIBUTING（贡献规则）。
 
-最近完成的工程检查点：源码提交 `7b77b794c77997871724ee431ec57b2199add6b2`；[GitHub Actions 34685523972](https://github.com/chenyuanxi1988/OpenLegalLexicon/actions/runs/34685523972) 的 Python 3.10、3.12 和发布任务均成功；下载及队列提交 `f3a84a23097d63926d1ce880af61cdd2ef4fb707` 已发布。23 个 dictionary 文件和编审队列共 24 个生成文件的 Git blob 摘要与本地构建逐项一致。
+最近完成的工程检查点：0.1.0.dev4 源码 `e6274eed59e78c89b3c956b3242b3a72c4d1fc5c`；[GitHub Actions 34702393627](https://github.com/chenyuanxi1988/OpenLegalLexicon/actions/runs/34702393627) 的 Python 3.10、3.12 和发布任务均成功，含 37 项测试及真实 Anki/Rime。生成提交 `04cbfbb767ef0af3915139033deed5579499b4c9` 已发布，23 个 dictionary 文件和编审队列共 24 个文件摘要与本地逐项一致。
 
-下一项可执行工作：先核验 0.1.0.dev4 第三批来源编审的 CI 与下载版。随后读取实时编审队列，继续尚未处理的同形组和机构/法规候选；已处理的前 20 组不重复编辑。两个隔离词对保留在 unresolved_quality_items 中，隔离不等于解决译义问题。
+下一项可执行工作：读取实时编审队列，继续商标法、相对人、辅佐人等未处理同形组，及 WIPO、TRIPS、TLT 等机构/条约/缩写候选；已处理的前 20 组不重复编辑。两个隔离词对保留在 unresolved_quality_items 中，隔离不等于解决译义问题。名称与缩写可从 [WIPO](https://www.wipo.int/en/web/about-wipo)、[WTO TRIPS](https://www.wto.org/english/tratop_e/trips_e/trips_e.htm) 及 [TLT 官方入口](https://www.wipo.int/en/web/treaties/ip/tlt/index)开始核对；这些是下一批研究入口，尚未记为词条复核完成。
 
 每个可验证批次提交实现、公开进度和日志，记录源码提交、实际测试、CI、生成产物提交、未完成项及下一项明确动作。接续时先核对最新 main；本页历史检查点不能覆盖更新的代码和数据。未提交或未执行的工作不得写成已完成。
 

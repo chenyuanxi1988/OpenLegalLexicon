@@ -17,7 +17,7 @@ Traceable Chinese–English legal terminology for study, search and input method
 | 检索 | 中文、英文、拼音、ID，以及领域、来源地区、已核验法域筛选 |
 | 导出 | JSONL、TSV、双向 Anki TSV、核心学习 CSV/Anki、英文候选词表、简体和繁体 Rime 词典及独立方案 |
 | 追溯 | 每份构建附来源与许可、导出行到词条的映射、构建配置、全部证据批次的 SHA-256 摘要 |
-| 上一工程检查点 | GitHub Actions 34685523972：Python 3.10/3.12、33 项测试、构建、真实 Rime、真实 Anki 与发布成功；生成提交 `f3a84a23097d63926d1ce880af61cdd2ef4fb707` 的 23 个下载文件和编审队列摘要已核验 |
+| 最新远端验证 | GitHub Actions 34702393627：Python 3.10/3.12、37 项测试、构建、真实 Rime、真实 Anki 与发布成功；生成提交 `04cbfbb767ef0af3915139033deed5579499b4c9` 的 23 个下载文件和编审队列摘要已核验 |
 
 两家第三方提供机构都位于台湾，词表中同时含本地、外国、国际制度与历史名称。`source_origin=TW` 仅表示来源地区，**不表示术语都适用于台湾，更不表示简体转换后就适用于中国大陆**。未经查证的 `jurisdictions` 留空。原词对是来源中的译文对应，不冒充跨法域的严格等义概念。
 
@@ -27,7 +27,7 @@ Traceable Chinese–English legal terminology for study, search and input method
 
 来源参考层三批共复核 57 条，其中 55 条完成分类与译法说明、2 条译义存疑并隔离；原译文审核状态仍为 source_attributed。1,467 条仍未分类。第三批的原始行核对与改动前后值见 [编审报告](reports/source-review-batch3-2026-09-12.json)。编审队列与下载词典由同一次 CI 发布，避免两个自动流程相互抢占主线。
 
-本批 0.1.0.dev4 本地 37 项测试、全量校验、构建和下载同步检查通过；远端 CI 与发布需按对应提交核验。
+本批 0.1.0.dev4 的 37 项测试、全量校验、构建、真实 Anki/Rime 与下载发布均通过；源码提交 `e6274eed59e78c89b3c956b3242b3a72c4d1fc5c`，逐项结果见 [验证说明](docs/VALIDATION.md)。
 
 模板、占位符、隔离条目及疑似错误译义不进入默认学习/输入法输出。输入法还排除多项中文、附注及过长标签。拼音、简体及部分来源参考层分类由程序生成，状态明确记录。
 
