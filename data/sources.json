@@ -97,5 +97,25 @@
     "snapshot_sha256": "49eddd9998c934a905554f3ebfffef4f19ae7b0267fa758812302baffef07f17",
     "title": "OpenLegalLexicon 中国大陆税务与贸易核心术语（第三批）",
     "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon"
+  },
+  {
+    "attribution": "OpenLegalLexicon contributors：基于已固定、包含刑法修正案（十二）的中国大陆现行刑法合并文本编写的刑事核心释义、学习提示和英文释译；CC BY 4.0。",
+    "expected_records": 35,
+    "format": "editorial_seed",
+    "id": "oll-cn-criminal",
+    "license": "CC-BY-4.0",
+    "license_evidence_url": "https://github.com/chenyuanxi1988/OpenLegalLexicon/blob/main/DATA_LICENSE.md",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "origin": "INTERNATIONAL",
+    "pages": 1,
+    "provider": "OpenLegalLexicon contributors（Codex 辅助编写）",
+    "redistribution": "permitted",
+    "retrieved": "2026-09-12",
+    "review": "AI-assisted source-linked editorial pass; no human expert review; pinned current consolidated Criminal Law evidence; ongoing validity not asserted",
+    "scope": "中国大陆刑法总则高频概念，以及刑法修正案（十二）涉及的公司、企业和行贿相关学习用语；英文为项目释译，不是官方译文或法律专家审核。",
+    "snapshot": "data/snapshots/oll-cn-criminal-2026-09-12.jsonl",
+    "snapshot_sha256": "128bbe17c0671793bda4dd1c598df55ac2ddab8d90e41cbc0ba1c1e9213a85b3",
+    "title": "OpenLegalLexicon 中国大陆刑事核心术语（第四批）",
+    "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon"
   }
 ]
