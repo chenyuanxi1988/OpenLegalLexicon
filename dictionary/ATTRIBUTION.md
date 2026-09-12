@@ -5,6 +5,7 @@
 - OpenLegalLexicon contributors：有法条证据的原创中文释义、学习提示和英文释译；CC BY 4.0。 [资料](https://github.com/chenyuanxi1988/OpenLegalLexicon)；[许可](https://creativecommons.org/licenses/by/4.0/)。
 - OpenLegalLexicon contributors：基于已固定中国大陆法条证据编写的行政与劳动核心释义、学习提示和英文释译；CC BY 4.0。 [资料](https://github.com/chenyuanxi1988/OpenLegalLexicon)；[许可](https://creativecommons.org/licenses/by/4.0/)。
 - OpenLegalLexicon contributors：基于已固定中国大陆增值税法、关税法及对外贸易法证据编写的税务与贸易核心释义、学习提示和英文释译；CC BY 4.0。 [资料](https://github.com/chenyuanxi1988/OpenLegalLexicon)；[许可](https://creativecommons.org/licenses/by/4.0/)。
+- OpenLegalLexicon contributors：基于已固定、包含刑法修正案（十二）的中国大陆现行刑法合并文本编写的刑事核心释义、学习提示和英文释译；CC BY 4.0。 [资料](https://github.com/chenyuanxi1988/OpenLegalLexicon)；[许可](https://creativecommons.org/licenses/by/4.0/)。
 
 OpenLegalLexicon contributors：原创注释、编排及转换，CC BY 4.0。软件 MIT。法条原文摘录依据《中华人民共和国著作权法》第五条第一项，不对法条本身主张著作权。
 

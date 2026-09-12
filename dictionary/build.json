@@ -8,7 +8,7 @@
     "src/openlegallexicon/export.py": "5ca69dc4c0975e7c89ccb6fe76a8902c143c7f8769c7ecf5f29fb1077962fab2",
     "src/openlegallexicon/ingest.py": "5a00f0202fb1ae853439c2bcd337112968b75efc2d589f132cf84438204138df",
     "src/openlegallexicon/io.py": "501ad3937c5dc8e4d7cf8f6fbbc4937fa4470d58a2cddd2de142edc8ed91ac3a",
-    "src/openlegallexicon/legal_html.py": "2ffe731d611850fdc1b5d4dbac813fb7edfe4964adc5f4599d2d71d4976e8d33",
+    "src/openlegallexicon/legal_html.py": "54c260fa50c2298ff241d48b300ebda199edb8e3649558355bda0141ff38e671",
     "src/openlegallexicon/model.py": "6b47f12424e8269eb2aff2a293be6a543ea4f882544471bab42328e4084b3d85",
     "src/openlegallexicon/validate.py": "dfbeddee24cd1867b2b98accb71f9ee9190933750e75211708821f4bce10c1bb"
   },
@@ -21,19 +21,20 @@
   "input_snapshots": {
     "data/snapshots/oll-cn-admin-labor-2026-09-12.jsonl": "5164d395c52733fcd807679c85568538263389b69bc0daa9c1e12cd04bed4316",
     "data/snapshots/oll-cn-core-2026-09-12.jsonl": "5789b294b869846169b4b3ea10ff7c398641927991bfea61b4856da69210e3db",
+    "data/snapshots/oll-cn-criminal-2026-09-12.jsonl": "2bcc71014a44792727d5d64d62341ab15c926b03906fe9364aa9eda5f4685ba3",
     "data/snapshots/oll-cn-tax-trade-2026-09-12.jsonl": "49eddd9998c934a905554f3ebfffef4f19ae7b0267fa758812302baffef07f17",
     "data/snapshots/tw-judicial-2026-09-11.jsonl": "bcab3aa601a2c0be0f86ec7864879b80fef332005f1ab0835927aef84613aae8",
     "data/snapshots/tw-tipo-trademark-2026-09-11.jsonl": "542932dd07a569c96c0a0b818edfa911b810e15b4e9eecc6135211f7590cebfe"
   },
   "schema_version": "1.1.0",
-  "source_registry_sha256": "fcd93dc298b10fe8037c6a264293f081e7009141bd7e144056bdc97f4cdcb04b",
+  "source_registry_sha256": "8442f5f52c4f9751f05c83aa120e887e63b5f12dbeeb36477548faaaec46263c",
   "statistics": {
-    "core_study_entries": 183,
-    "english_completions": 2682,
-    "entries": 2908,
-    "rime_hans_rows": 2583,
-    "rime_hant_rows": 2583,
-    "study_notes": 5816
+    "core_study_entries": 218,
+    "english_completions": 2715,
+    "entries": 2943,
+    "rime_hans_rows": 2610,
+    "rime_hant_rows": 2610,
+    "study_notes": 5886
   },
   "tool_version": "0.1.0.dev3"
 }

@@ -3307,8 +3307,14 @@
   "acceptance of an offer": [
     "cn-acceptance"
   ],
+  "acceptance of bribes by an entity": [
+    "cn-entity-accepting-bribes"
+  ],
   "accessory contract": [
     "tw-judicial-cae4dc5195531c8e5a5b"
+  ],
+  "accessory offender": [
+    "cn-accessory-offender"
   ],
   "acquired distinctiveness": [
     "tw-tipo-trademark-bad65174287506db8e46"
@@ -3458,6 +3464,9 @@
   "affirmative defense": [
     "tw-judicial-6287ffab3cefc50526b6"
   ],
+  "age of criminal responsibility": [
+    "cn-age-criminal-responsibility"
+  ],
   "agency": [
     "cn-agency"
   ],
@@ -3466,6 +3475,9 @@
   ],
   "agent ad litem": [
     "tw-judicial-1ad36418d38d7cc4659c"
+  ],
+  "aggravating circumstances for bribery": [
+    "cn-bribery-aggravating-circumstances"
   ],
   "agreed damages for breach": [
     "cn-agreed-damages"
@@ -3627,6 +3639,9 @@
   "association": [
     "tw-tipo-trademark-ccdee6bdae6108242ef4"
   ],
+  "attempted crime": [
+    "cn-attempted-crime"
+  ],
   "attest": [
     "tw-judicial-41a8cc75f708febdbe43"
   ],
@@ -3734,6 +3749,9 @@
   ],
   "bonded factory or bonded warehouse supervised by Customs": [
     "tw-judicial-d2c67780baf665cecd81"
+  ],
+  "bribery by an entity": [
+    "cn-entity-bribery"
   ],
   "budget": [
     "tw-judicial-c1a83d68c519b9a27fc6"
@@ -3862,6 +3880,9 @@
   "circumstance": [
     "tw-tipo-trademark-9e1ddfe4de7da1f509bc"
   ],
+  "circumstances not subject to the prosecution limitation period": [
+    "cn-no-limitation-prosecution"
+  ],
   "cited registration": [
     "tw-tipo-trademark-20be9b206c9ad1ffeb85"
   ],
@@ -3939,6 +3960,9 @@
   ],
   "combination of sentences for multiple offence": [
     "tw-judicial-d95c9414d28394b1777b"
+  ],
+  "combined punishment for multiple crimes": [
+    "cn-combined-punishment"
   ],
   "commencement date": [
     "tw-tipo-trademark-c45260fd3381771b0d78"
@@ -4243,6 +4267,12 @@
   "creditor's rights": [
     "tw-judicial-6323bff78f00ffb04498"
   ],
+  "crime": [
+    "cn-crime"
+  ],
+  "crime committed by an entity": [
+    "cn-unit-crime"
+  ],
   "criminal activities of an organized pattern": [
     "tw-judicial-15c8fe72763a5f87b153"
   ],
@@ -4257,6 +4287,15 @@
   ],
   "criminal liability": [
     "tw-judicial-1e6dd6d36fafdb2c396a"
+  ],
+  "criminal liability for competing business by directors, supervisors and senior management": [
+    "cn-criminal-competing-business"
+  ],
+  "criminal liability for favoritism in underpriced conversion or sale of assets": [
+    "cn-criminal-low-price-asset-disposal"
+  ],
+  "criminal liability for improper related-party dealings benefiting relatives or friends": [
+    "cn-criminal-related-party-benefit"
   ],
   "criminal prosecution": [
     "tw-judicial-71b40a4d284d43d76766"
@@ -4479,6 +4518,9 @@
   ],
   "disclaimer": [
     "tw-tipo-trademark-dc3164ac68c8183058a4"
+  ],
+  "discontinuance of a crime": [
+    "cn-discontinuance-crime"
   ],
   "discretion": [
     "tw-judicial-2fb0d50b02a5ef228e07"
@@ -4781,6 +4823,9 @@
   ],
   "exemption": [
     "tw-judicial-3395ca3d4b55c67b1263"
+  ],
+  "exemption from criminal punishment": [
+    "cn-exemption-criminal-punishment"
   ],
   "exemption of the punishment": [
     "tw-judicial-e65b523ce1a23bf08f35"
@@ -5424,6 +5469,9 @@
   "inquiry": [
     "tw-tipo-trademark-7917f8213cd877477d68"
   ],
+  "instigator": [
+    "cn-instigator"
+  ],
   "institutional protection mechanism": [
     "tw-judicial-7fceff30419fe3d6725a"
   ],
@@ -5465,6 +5513,9 @@
   ],
   "intention": [
     "tw-judicial-20e63cf5c9238bda1837"
+  ],
+  "intentional crime": [
+    "cn-intentional-crime"
   ],
   "inter partes proceeding": [
     "tw-tipo-trademark-017e10d0a39f5ee9a031"
@@ -5546,6 +5597,9 @@
   ],
   "joint and several guarantee": [
     "cn-joint-several-guarantee"
+  ],
+  "joint crime": [
+    "cn-joint-crime"
   ],
   "joint marital debt": [
     "cn-marital-joint-debt"
@@ -5629,6 +5683,9 @@
   ],
   "just compensation": [
     "tw-judicial-bad25dfeb1207b567ec3"
+  ],
+  "justifiable defense": [
+    "cn-justifiable-defense"
   ],
   "justify": [
     "tw-tipo-trademark-f361a025fdd7e30953e0"
@@ -5807,6 +5864,9 @@
   "limitation period for civil claims": [
     "cn-limitation-period"
   ],
+  "limitation period for criminal prosecution": [
+    "cn-prosecution-limitation"
+  ],
   "limitation period of prosecution": [
     "tw-judicial-5faf9924a3de7de4e4f5"
   ],
@@ -5966,6 +6026,9 @@
   "merger of business": [
     "tw-tipo-trademark-570294549324d42ed9b9"
   ],
+  "meritorious service": [
+    "cn-meritorious-service"
+  ],
   "merits": [
     "tw-tipo-trademark-56afc9f14a9328cd8aff"
   ],
@@ -6093,6 +6156,9 @@
   "necessary measures": [
     "tw-judicial-f5886189a579215ab481"
   ],
+  "necessity": [
+    "cn-necessity"
+  ],
   "negative construction": [
     "tw-judicial-a6afc60dc24b8d7b418a"
   ],
@@ -6101,6 +6167,9 @@
   ],
   "negligence": [
     "tw-judicial-82e68d4c829a0e4bd03b"
+  ],
+  "negligent crime": [
+    "cn-negligent-crime"
   ],
   "negotiable instrument": [
     "tw-judicial-191972bdc161d8b18d12"
@@ -6188,6 +6257,12 @@
   ],
   "offer": [
     "cn-offer"
+  ],
+  "offering bribes to a state functionary": [
+    "cn-bribery"
+  ],
+  "offering bribes to an entity": [
+    "cn-bribery-to-entity"
   ],
   "office action": [
     "tw-tipo-trademark-bbcce0892ea1ec58948c"
@@ -6543,6 +6618,9 @@
   "premium": [
     "tw-judicial-86c1a466ba46df18a72f"
   ],
+  "preparation for a crime": [
+    "cn-crime-preparation"
+  ],
   "prescription drugs": [
     "tw-judicial-b4de315855a1642532b4"
   ],
@@ -6577,6 +6655,9 @@
   "principal impression": [
     "tw-tipo-trademark-c921c9eece91fc49db61"
   ],
+  "principal offender": [
+    "cn-principal-offender"
+  ],
   "principal register": [
     "tw-tipo-trademark-ac8bb5a808bf4e50c489"
   ],
@@ -6595,11 +6676,17 @@
   "principle of informality": [
     "tw-tipo-trademark-2e699155046912d4401a"
   ],
+  "principle of legality in criminal law": [
+    "cn-criminal-legality"
+  ],
   "principle of necessity": [
     "tw-judicial-030761c9536dbfe4926f"
   ],
   "principle of proportionality (Verhaltnismasigkeitsprinzip)": [
     "tw-judicial-40eeb233b3627e5cf385"
+  ],
+  "principle of proportionality between crime, responsibility and punishment": [
+    "cn-criminal-proportionality"
   ],
   "principle of taxation by law": [
     "tw-judicial-5fef71e03bda30826afa"
@@ -6671,6 +6758,7 @@
     "tw-judicial-2cdce3412fbcb8ad75bf"
   ],
   "probation": [
+    "cn-probation",
     "tw-judicial-390fc75944665c89c8fc"
   ],
   "probationary period": [
@@ -6807,6 +6895,9 @@
   "public property": [
     "tw-judicial-fcf28de046991e015802"
   ],
+  "public property for Criminal Law purposes": [
+    "cn-public-property-criminal"
+  ],
   "public prosecution": [
     "tw-judicial-0c8b043722bfcf95429a"
   ],
@@ -6873,6 +6964,7 @@
     "tw-judicial-b0ed1d2abbe91710ed05"
   ],
   "recidivist": [
+    "cn-recidivist",
     "tw-judicial-be8296bb8659fb426422"
   ],
   "recipient": [
@@ -7090,6 +7182,9 @@
   "revocation": [
     "tw-judicial-3177a2492df11ca5917f",
     "tw-tipo-trademark-cf937d25123cce619011"
+  ],
+  "revocation of probation": [
+    "cn-revocation-probation"
   ],
   "revocation of registration": [
     "tw-judicial-8993932f84c3c7164515"
@@ -7329,6 +7424,9 @@
   ],
   "sensitive personal information": [
     "cn-sensitive-information"
+  ],
+  "sentencing": [
+    "cn-sentencing"
   ],
   "separate customs territory": [
     "cn-separate-customs-territory"
@@ -8055,6 +8153,9 @@
   ],
   "voluntary retirement": [
     "tw-judicial-2cafd00515e106907bbb"
+  ],
+  "voluntary surrender": [
+    "cn-voluntary-surrender"
   ],
   "voluntary surrender to the authorities": [
     "tw-judicial-793291e247562a0ab93a"

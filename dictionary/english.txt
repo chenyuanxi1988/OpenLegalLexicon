@@ -11,7 +11,9 @@ academic freedom
 academic performance review
 accelerated payment of subscribed capital
 acceptance of an offer
+acceptance of bribes by an entity
 accessory contract
+accessory offender
 Accountant- General
 Accountant-General
 Accounting Act
@@ -134,11 +136,13 @@ affidavit
 affirmative defense
 Affirmed Appeals Rate
 Affirmed Rulings Rate
+age of criminal responsibility
 agency
 agency in charge of land administration
 agent ad litem
 Agent ad litem of applicant
 Agent ad litem of opposite party
+aggravating circumstances for bribery
 agreed damages for breach
 AGREEMENT ON TRADE-RELATED ASPECTS OF INTELLECTUAL PROPERTY RIGHTS
 agreement provisions
@@ -231,6 +235,7 @@ Associate Clerk
 Associate Technical Specialist
 associated goods/services
 association
+attempted crime
 attest
 attorney
 Attorney Lounge
@@ -288,6 +293,7 @@ bona fides third party
 bonded factory
 bonded factory or bonded warehouse supervised by Customs
 Both are then forwarded to the examining attorney.
+bribery by an entity
 Bride Lounge
 Briefing Room
 budget
@@ -379,6 +385,7 @@ Chinese herb doctor
 Chinese medicine
 chui-fu
 circumstance
+circumstances not subject to the prosecution limitation period
 Circumstantial Judgement
 cited registration
 Citizen Judge Section
@@ -429,6 +436,7 @@ Collective Agreement Act
 collective mark
 collective trademark
 combination of sentences for multiple offence
+combined punishment for multiple crimes
 commencement date
 commerce
 commerce clause
@@ -574,6 +582,8 @@ credit cooperative
 Credit Union Act
 creditor
 creditor's rights
+crime
+crime committed by an entity
 Crime Victims Protection Act
 criminal activities of an organized pattern
 criminal cases
@@ -585,6 +595,9 @@ Criminal Court Room 1
 criminal defamation
 Criminal Department
 criminal liability
+criminal liability for competing business by directors, supervisors and senior management
+criminal liability for favoritism in underpriced conversion or sale of assets
+criminal liability for improper related-party dealings benefiting relatives or friends
 Criminal Negotiation Room
 criminal prosecution
 criminal punishment
@@ -704,6 +717,7 @@ Disciplinary Chamber of the Judiciary
 Disciplinary Court
 discipline action on Certified Public Accountant/CPA
 disclaimer
+discontinuance of a crime
 discretion
 discrimination
 dismissal
@@ -863,6 +877,7 @@ Executive Officer
 Executive Yuan
 Exemption
 exemption
+exemption from criminal punishment
 exemption of the punishment
 exercise of public authority
 exercise the right of claims
@@ -1159,6 +1174,7 @@ injury benefits
 input VAT
 Inquiring Room for the Declared Properties of the Public Servants
 inquiry
+instigator
 institutional protection mechanism
 institutions
 instrument of fraud
@@ -1179,6 +1195,7 @@ intelligence
 intended use
 intent to evade draft
 intention
+intentional crime
 inter partes proceeding
 interest
 Interested Person
@@ -1222,6 +1239,7 @@ J.Y. Interpretation
 Janitor
 joint
 joint and several guarantee
+joint crime
 joint marital debt
 joint owners
 Joint Proceedings
@@ -1270,6 +1288,7 @@ jurisdiction
 juristic person
 just compensation
 Justice(s)
+justifiable defense
 justify
 Juvenile and Family Court
 juvenile and family court division
@@ -1368,6 +1387,7 @@ likelihood of confusion
 likelihood of dilution
 limitation period
 limitation period for civil claims
+limitation period for criminal prosecution
 limitation period of prosecution
 limited capacity for civil juristic acts
 limited liability company
@@ -1446,6 +1466,7 @@ membership
 mere differences in legal interpretations
 merger
 merger of business
+meritorious service
 merits
 Messenger
 Meteorological Act
@@ -1512,9 +1533,11 @@ natural death
 natural person
 Navy Uniforms Act
 necessary measures
+necessity
 negative construction
 negative list for cross-border trade in services
 negligence
+negligent crime
 negotiable instrument
 Negotiable Instruments Act
 net worth of assets
@@ -1559,6 +1582,8 @@ observations
 offender of abstract danger
 offenses against internal and external security
 offer
+offering bribes to a state functionary
+offering bribes to an entity
 office action
 Office for Harmonisation in the Internal Market
 office of hsiang, township, city, or precinct
@@ -1756,6 +1781,7 @@ preliminary review
 preliminary search
 Premier
 premium
+preparation for a crime
 Preschool Education Act
 prescription drugs
 Presidential and Vice Presidential Election and Recall Act
@@ -1776,14 +1802,17 @@ Primary and Junior High School Act
 primary meaning
 primary sentence
 principal impression
+principal offender
 principal register
 principle of clarity and definiteness of law (Rechtsbestimmtheitprinzip)
 principle of equality
 principle of expertise evaluation
 principle of fair taxation
 principle of informality
+principle of legality in criminal law
 principle of necessity
 principle of proportionality (Verhaltnismasigkeitsprinzip)
+principle of proportionality between crime, responsibility and punishment
 principle of taxation by law
 principle of transparency
 printout
@@ -1887,6 +1916,7 @@ public medical service
 public necessity
 public order and good morals
 public property
+public property for Criminal Law purposes
 public prosecution
 Public Relations Office
 public schools teachers
@@ -2056,6 +2086,7 @@ reverse confusion
 review
 Reviewing Case Files and Documents
 revocation
+revocation of probation
 revocation of registration
 revocation of the probation
 right of access to the media
@@ -2163,6 +2194,7 @@ Senior Secretary
 Senior Systems Coordinator
 seniority
 sensitive personal information
+sentencing
 separate customs territory
 separate property
 separating employee
@@ -2642,6 +2674,7 @@ visually perceptible representation
 voluntary payment
 voluntary recusal
 voluntary retirement
+voluntary surrender
 voluntary surrender to the authorities
 Volunteer Service Counter
 Volunteers

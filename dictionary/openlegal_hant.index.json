@@ -1,5 +1,7 @@
 {
   "excluded_entry_ids": [
+    "cn-criminal-low-price-asset-disposal",
+    "cn-public-property-criminal",
     "tw-judicial-01e4e62b418bb8c0b995",
     "tw-judicial-023d1f7b4da8b803ff4e",
     "tw-judicial-02638924a7c38d05a497",
@@ -1003,6 +1005,13 @@
       "text": "不受理判決"
     },
     {
+      "code": "bu shou zhui su qi xian xian zhi de qing xing",
+      "entry_ids": [
+        "cn-no-limitation-prosecution"
+      ],
+      "text": "不受追訴期限限制的情形"
+    },
+    {
       "code": "bu xin ren an",
       "entry_ids": [
         "tw-judicial-fecf2903cf406ee1c49b"
@@ -1294,6 +1303,7 @@
     {
       "code": "che xiao huan xing",
       "entry_ids": [
+        "cn-revocation-probation",
         "tw-judicial-d8216ca3d26445f3b068"
       ],
       "text": "撤銷緩刑"
@@ -1713,6 +1723,13 @@
       "text": "辭職"
     },
     {
+      "code": "cong fan",
+      "entry_ids": [
+        "cn-accessory-offender"
+      ],
+      "text": "從犯"
+    },
+    {
       "code": "cong jia ji zheng",
       "entry_ids": [
         "cn-customs-ad-valorem"
@@ -2042,11 +2059,32 @@
       "text": "但書"
     },
     {
+      "code": "dan wei fan zui",
+      "entry_ids": [
+        "cn-unit-crime"
+      ],
+      "text": "單位犯罪"
+    },
+    {
       "code": "dan wei jue suan",
       "entry_ids": [
         "tw-judicial-33feb611d380f22f652e"
       ],
       "text": "單位決算"
+    },
+    {
+      "code": "dan wei shou hui",
+      "entry_ids": [
+        "cn-entity-accepting-bribes"
+      ],
+      "text": "單位受賄"
+    },
+    {
+      "code": "dan wei xing hui",
+      "entry_ids": [
+        "cn-entity-bribery"
+      ],
+      "text": "單位行賄"
     },
     {
       "code": "dan wei yu suan",
@@ -2647,6 +2685,13 @@
       "text": "動產質權"
     },
     {
+      "code": "dong jian gao tong lei ying ye xing shi ze ren",
+      "entry_ids": [
+        "cn-criminal-competing-business"
+      ],
+      "text": "董監高同類營業刑事責任"
+    },
+    {
       "code": "dong shi",
       "entry_ids": [
         "tw-judicial-07f1af1392cf0325ccf8"
@@ -2799,6 +2844,13 @@
         "tw-judicial-671caa6620b3791afdf1"
       ],
       "text": "端正政風行動方案"
+    },
+    {
+      "code": "dui dan wei xing hui",
+      "entry_ids": [
+        "cn-bribery-to-entity"
+      ],
+      "text": "對單位行賄"
     },
     {
       "code": "dui wai mao yi",
@@ -3401,6 +3453,13 @@
       "text": "反證"
     },
     {
+      "code": "fan zui",
+      "entry_ids": [
+        "cn-crime"
+      ],
+      "text": "犯罪"
+    },
+    {
       "code": "fan zui bei hai ren bao hu fa",
       "entry_ids": [
         "tw-judicial-1af91f8b3cc70e814c16"
@@ -3408,11 +3467,32 @@
       "text": "犯罪被害人保護法"
     },
     {
+      "code": "fan zui wei sui",
+      "entry_ids": [
+        "cn-attempted-crime"
+      ],
+      "text": "犯罪未遂"
+    },
+    {
+      "code": "fan zui yu bei",
+      "entry_ids": [
+        "cn-crime-preparation"
+      ],
+      "text": "犯罪預備"
+    },
+    {
       "code": "fan zui zhi bei hai ren",
       "entry_ids": [
         "tw-judicial-3703ccc97fbc786d5d5a"
       ],
       "text": "犯罪之被害人"
+    },
+    {
+      "code": "fan zui zhong zhi",
+      "entry_ids": [
+        "cn-discontinuance-crime"
+      ],
+      "text": "犯罪中止"
     },
     {
       "code": "fan zui zhu ti",
@@ -4429,6 +4509,13 @@
       "text": "公訴"
     },
     {
+      "code": "gong tong fan zui",
+      "entry_ids": [
+        "cn-joint-crime"
+      ],
+      "text": "共同犯罪"
+    },
+    {
       "code": "gong tong gong you ren",
       "entry_ids": [
         "tw-judicial-c471185a44f1c5f9368b"
@@ -4921,6 +5008,13 @@
         "tw-judicial-20e63cf5c9238bda1837"
       ],
       "text": "故意"
+    },
+    {
+      "code": "gu yi fan zui",
+      "entry_ids": [
+        "cn-intentional-crime"
+      ],
+      "text": "故意犯罪"
     },
     {
       "code": "gu yuan",
@@ -5463,6 +5557,13 @@
       "text": "過失"
     },
     {
+      "code": "guo shi fan zui",
+      "entry_ids": [
+        "cn-negligent-crime"
+      ],
+      "text": "過失犯罪"
+    },
+    {
       "code": "guo wai yong jin",
       "entry_ids": [
         "tw-judicial-ccc2bfac69c79c5c05ed"
@@ -5817,6 +5918,7 @@
     {
       "code": "huan xing",
       "entry_ids": [
+        "cn-probation",
         "tw-judicial-390fc75944665c89c8fc"
       ],
       "text": "緩刑"
@@ -6726,6 +6828,13 @@
       "text": "繳稅證明"
     },
     {
+      "code": "jiao suo fan",
+      "entry_ids": [
+        "cn-instigator"
+      ],
+      "text": "教唆犯"
+    },
+    {
       "code": "jiao tong gong ju pai fang kong qi wu ran wu fa huan biao zhun",
       "entry_ids": [
         "tw-judicial-4fa0d4421a340f61665b"
@@ -6906,6 +7015,13 @@
         "cn-import-export-licensing"
       ],
       "text": "進出口許可證管理"
+    },
+    {
+      "code": "jin ji bi xian",
+      "entry_ids": [
+        "cn-necessity"
+      ],
+      "text": "緊急避險"
     },
     {
       "code": "jin ji ming ling",
@@ -7897,6 +8013,7 @@
     {
       "code": "lei fan",
       "entry_ids": [
+        "cn-recidivist",
         "tw-judicial-be8296bb8659fb426422"
       ],
       "text": "累犯"
@@ -8005,6 +8122,13 @@
         "tw-judicial-f8c6c882d4404126f400"
       ],
       "text": "立法院職權行使法"
+    },
+    {
+      "code": "li gong",
+      "entry_ids": [
+        "cn-meritorious-service"
+      ],
+      "text": "立功"
     },
     {
       "code": "li hai guan xi ren",
@@ -8182,6 +8306,13 @@
         "tw-judicial-9a3132357f6db5761fe7"
       ],
       "text": "糧食管理法"
+    },
+    {
+      "code": "liang xing",
+      "entry_ids": [
+        "cn-sentencing"
+      ],
+      "text": "量刑"
     },
     {
       "code": "liang xing gong zuo ping deng fa",
@@ -8563,6 +8694,13 @@
         "tw-judicial-0944dd076b374eca4dd2"
       ],
       "text": "免刑判決"
+    },
+    {
+      "code": "mian yu xing shi chu fa",
+      "entry_ids": [
+        "cn-exemption-criminal-punishment"
+      ],
+      "text": "免予刑事處罰"
     },
     {
       "code": "mian ze quan",
@@ -11444,6 +11582,7 @@
     {
       "code": "shu zui bing fa",
       "entry_ids": [
+        "cn-combined-punishment",
         "tw-judicial-d95c9414d28394b1777b"
       ],
       "text": "數罪併罰"
@@ -13624,6 +13763,13 @@
       "text": "違警罰法"
     },
     {
+      "code": "wei qin you fei fa mou li xiang guan xing shi ze ren",
+      "entry_ids": [
+        "cn-criminal-related-party-benefit"
+      ],
+      "text": "爲親友非法牟利相關刑事責任"
+    },
+    {
       "code": "wei ren zhuang",
       "entry_ids": [
         "tw-tipo-trademark-3e422f44018dbbc08c08",
@@ -14474,6 +14620,20 @@
       "text": "刑罰權"
     },
     {
+      "code": "xing hui cong zhong chu fa qing xing",
+      "entry_ids": [
+        "cn-bribery-aggravating-circumstances"
+      ],
+      "text": "行賄從重處罰情形"
+    },
+    {
+      "code": "xing hui zui",
+      "entry_ids": [
+        "cn-bribery"
+      ],
+      "text": "行賄罪"
+    },
+    {
       "code": "xing ming quan",
       "entry_ids": [
         "tw-judicial-b8f19473788d18d59e5f"
@@ -14563,6 +14723,13 @@
         "tw-judicial-1e6dd6d36fafdb2c396a"
       ],
       "text": "刑事責任"
+    },
+    {
+      "code": "xing shi ze ren nian ling",
+      "entry_ids": [
+        "cn-age-criminal-responsibility"
+      ],
+      "text": "刑事責任年齡"
     },
     {
       "code": "xing shi zhai quan",
@@ -16805,6 +16972,13 @@
       "text": "正當法律程序"
     },
     {
+      "code": "zheng dang fang wei",
+      "entry_ids": [
+        "cn-justifiable-defense"
+      ],
+      "text": "正當防衛"
+    },
+    {
       "code": "zheng dang shi yong",
       "entry_ids": [
         "tw-tipo-trademark-e9a5aaaa270663906a0d"
@@ -17622,6 +17796,13 @@
       "text": "註冊資本"
     },
     {
+      "code": "zhu fan",
+      "entry_ids": [
+        "cn-principal-offender"
+      ],
+      "text": "主犯"
+    },
+    {
       "code": "zhu guan di zheng ji guan",
       "entry_ids": [
         "tw-judicial-3d00eb3a76497a41696e"
@@ -17955,6 +18136,7 @@
     {
       "code": "zhui su shi xiao",
       "entry_ids": [
+        "cn-prosecution-limitation",
         "tw-judicial-5faf9924a3de7de4e4f5"
       ],
       "text": "追訴時效"
@@ -18096,6 +18278,7 @@
     {
       "code": "zi shou",
       "entry_ids": [
+        "cn-voluntary-surrender",
         "tw-judicial-793291e247562a0ab93a"
       ],
       "text": "自首"
@@ -18379,6 +18562,20 @@
         "cn-customs-mfn-rate"
       ],
       "text": "最惠國稅率"
+    },
+    {
+      "code": "zui xing fa ding yuan ze",
+      "entry_ids": [
+        "cn-criminal-legality"
+      ],
+      "text": "罪刑法定原則"
+    },
+    {
+      "code": "zui ze xing xiang shi ying yuan ze",
+      "entry_ids": [
+        "cn-criminal-proportionality"
+      ],
+      "text": "罪責刑相適應原則"
     },
     {
       "code": "zuo li yuan",

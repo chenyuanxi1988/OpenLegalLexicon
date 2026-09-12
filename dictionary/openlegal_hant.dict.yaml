@@ -114,6 +114,7 @@ columns: [text, code, weight]
 不確定法律概念	bu que ding fa lv gai nian	1
 哺乳室	bu ru shi	1
 不受理判決	bu shou li pan jue	1
+不受追訴期限限制的情形	bu shou zhui su qi xian xian zhi de qing xing	1
 不信任案	bu xin ren an	1
 補正	bu zheng	1
 不作為	bu zuo wei	1
@@ -215,6 +216,7 @@ columns: [text, code, weight]
 創制權	chuang zhi quan	1
 綽號	chuo hao	1
 辭職	ci zhi	1
+從犯	cong fan	1
 從價計徵	cong jia ji zheng	1
 從量計徵	cong liang ji zheng	1
 從契約	cong qi yue	1
@@ -262,7 +264,10 @@ columns: [text, code, weight]
 淡化	dan hua	1
 淡化之虞	dan hua zhi yu	1
 但書	dan shu	1
+單位犯罪	dan wei fan zui	1
 單位決算	dan wei jue suan	1
+單位受賄	dan wei shou hui	1
+單位行賄	dan wei xing hui	1
 單位預算	dan wei yu suan	1
 檔案法	dang an fa	1
 檔案管理局組織條例	dang an guan li ju zu zhi tiao li	1
@@ -348,6 +353,7 @@ columns: [text, code, weight]
 動產擔保交易法	dong chan dan bao jiao yi fa	1
 動產抵押	dong chan di ya	1
 動產質權	dong chan zhi quan	1
+董監高同類營業刑事責任	dong jian gao tong lei ying ye xing shi ze ren	1
 董事	dong shi	1
 董事長	dong shi zhang	1
 動物保護法	dong wu bao hu fa	1
@@ -370,6 +376,7 @@ columns: [text, code, weight]
 讀音	du yin	1
 讀音近似	du yin jin si	1
 端正政風行動方案	duan zheng zheng feng xing dong fang an	1
+對單位行賄	dui dan wei xing hui	1
 對外貿易	dui wai mao yi	1
 對外貿易調查	dui wai mao yi diao cha	1
 對外貿易經營者	dui wai mao yi jing ying zhe	1
@@ -455,8 +462,12 @@ columns: [text, code, weight]
 反向的混淆誤認	fan xiang de hun xiao wu ren	1
 翻譯權	fan yi quan	1
 反證	fan zheng	1
+犯罪	fan zui	1
 犯罪被害人保護法	fan zui bei hai ren bao hu fa	1
+犯罪未遂	fan zui wei sui	1
+犯罪預備	fan zui yu bei	1
 犯罪之被害人	fan zui zhi bei hai ren	1
+犯罪中止	fan zui zhong zhi	1
 犯罪主體	fan zui zhu ti	1
 犯罪組織	fan zui zu zhi	1
 防弊措施	fang bi cuo shi	1
@@ -601,6 +612,7 @@ columns: [text, code, weight]
 公司行為	gong si xing wei	1
 公司章程	gong si zhang cheng	1
 公訴	gong su	1
+共同犯罪	gong tong fan zui	1
 公同共有人	gong tong gong you ren	1
 公同關係	gong tong guan xi	1
 共同訴訟	gong tong su song	1
@@ -671,6 +683,7 @@ columns: [text, code, weight]
 股權優先購買權	gu quan you xian gou mai quan	1
 顧問室	gu wen shi	1
 故意	gu yi	1
+故意犯罪	gu yi fan zui	1
 雇員	gu yuan	1
 股長	gu zhang	1
 觀察指認室	guan cha zhi ren shi	1
@@ -748,6 +761,7 @@ columns: [text, code, weight]
 國民體育法	guo min ti yu fa	1
 國民住宅	guo min zhu zhai	1
 過失	guo shi	1
+過失犯罪	guo shi fan zui	1
 國外佣金	guo wai yong jin	1
 國營事業	guo ying shi ye	1
 國營事業管理辦法	guo ying shi ye guan li ban fa	1
@@ -928,6 +942,7 @@ columns: [text, code, weight]
 教師評審	jiao shi ping shen	1
 教師升等評審	jiao shi sheng deng ping shen	1
 繳稅證明	jiao shui zheng ming	1
+教唆犯	jiao suo fan	1
 交通工具排放空氣污染物罰鍰標準	jiao tong gong ju pai fang kong qi wu ran wu fa huan biao zhun	1
 交通紀錄科	jiao tong ji lu ke	1
 教學自由	jiao xue zi you	1
@@ -954,6 +969,7 @@ columns: [text, code, weight]
 進出口貨物原產地管理	jin chu kou huo wu yuan chan di guan li	1
 進出口稅則	jin chu kou shui ze	1
 進出口許可證管理	jin chu kou xu ke zheng guan li	1
+緊急避險	jin ji bi xian	1
 緊急命令	jin ji ming ling	1
 進口貨物計稅價格	jin kou huo wu ji shui jia ge	1
 禁令解除	jin ling jie chu	1
@@ -1111,6 +1127,7 @@ columns: [text, code, weight]
 立法院	li fa yuan	1
 立法院立法委員選舉罷免法	li fa yuan li fa wei yuan xuan ju ba mian fa	1
 立法院職權行使法	li fa yuan zhi quan xing shi fa	1
+立功	li gong	1
 利害關係人	li hai guan xi ren	1
 離婚	li hun	1
 離婚案件	li hun an jian	1
@@ -1136,6 +1153,7 @@ columns: [text, code, weight]
 連接的	lian jie de	1
 連續三年未使用	lian xu san nian wei shi yong	1
 糧食管理法	liang shi guan li fa	1
+量刑	liang xing	1
 兩性工作平等法	liang xing gong zuo ping deng fa	1
 列印出的資料	lie yin chu de zi liao	1
 臨時會	lin shi hui	1
@@ -1190,6 +1208,7 @@ columns: [text, code, weight]
 免稅額	mian shui e	1
 免訴判決	mian su pan jue	1
 免刑判決	mian xing pan jue	1
+免予刑事處罰	mian yu xing shi chu fa	1
 免責權	mian ze quan	1
 免徵贈與稅	mian zheng zeng yu shui	1
 免徵增值稅	mian zheng zeng zhi shui	1
@@ -1910,6 +1929,7 @@ columns: [text, code, weight]
 未繼承登記不動產辦理強制執行聯繫要點	wei ji cheng deng ji bu dong chan ban li qiang zhi zhi xing lian xi yao dian	1
 未結件數	wei jie jian shu	1
 違警罰法	wei jing fa fa	1
+爲親友非法牟利相關刑事責任	wei qin you fei fa mou li xiang guan xing shi ze ren	1
 委任狀	wei ren zhuang	1
 未上櫃公司	wei shang gui gong si	1
 未上市公司	wei shang shi gong si	1
@@ -2031,6 +2051,8 @@ columns: [text, code, weight]
 刑法	xing fa	1
 刑罰	xing fa	1
 刑罰權	xing fa quan	1
+行賄從重處罰情形	xing hui cong zhong chu fa qing xing	1
+行賄罪	xing hui zui	1
 姓名權	xing ming quan	1
 姓名條例	xing ming tiao li	1
 性侵害犯罪防治法	xing qin hai fan zui fang zhi fa	1
@@ -2044,6 +2066,7 @@ columns: [text, code, weight]
 刑事庭	xing shi ting	1
 刑事廳	xing shi ting	1
 刑事責任	xing shi ze ren	1
+刑事責任年齡	xing shi ze ren nian ling	1
 行使債權	xing shi zhai quan	1
 行為罰	xing wei fa	1
 行憲	xing xian	1
@@ -2363,6 +2386,7 @@ columns: [text, code, weight]
 政黨	zheng dang	1
 正當程序	zheng dang cheng xu	1
 正當法律程序	zheng dang fa lv cheng xu	1
+正當防衛	zheng dang fang wei	1
 正當使用	zheng dang shi yong	1
 政風處	zheng feng chu	1
 政風督導會報	zheng feng du dao hui bao	1
@@ -2479,6 +2503,7 @@ columns: [text, code, weight]
 註冊商標	zhu ce shang biao	1
 註冊證	zhu ce zheng	1
 註冊資本	zhu ce zi ben	1
+主犯	zhu fan	1
 主管地政機關	zhu guan di zheng ji guan	1
 主管機關	zhu guan ji guan	1
 主管稽徵機關	zhu guan ji zheng ji guan	1
@@ -2587,6 +2612,8 @@ columns: [text, code, weight]
 最高司法行政機關	zui gao si fa xing zheng ji guan	1
 最高行政法院	zui gao xing zheng fa yuan	1
 最惠國稅率	zui hui guo shui lv	1
+罪刑法定原則	zui xing fa ding yuan ze	1
+罪責刑相適應原則	zui ze xing xiang shi ying yuan ze	1
 佐理員	zuo li yuan	1
 作品	zuo pin	1
 作為義務	zuo wei yi wu	1
