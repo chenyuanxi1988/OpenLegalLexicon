@@ -82,6 +82,8 @@ oll build --out build/local-1
 
 ## 开发与贡献
 
+Codex 与 ChatGPT 交接统一从 [HANDOFF.md](HANDOFF.md) 开始；主线工作登记见 [COORDINATION.json](COORDINATION.json)。
+
 ```sh
 python -m unittest discover -s tests -v
 oll report --out build/quality.json
