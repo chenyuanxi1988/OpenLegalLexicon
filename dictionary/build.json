@@ -4,10 +4,11 @@
     "src/openlegallexicon/__init__.py": "ee2ff5208668dec4afdfc57c91c04bd586fa3e3bf88838ae0056566b24554676",
     "src/openlegallexicon/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
     "src/openlegallexicon/cli.py": "61a8cf6609efd02975bd0714ce71c32bea6a1e4b8cc48ddc8089e4dfa58a5a9a",
-    "src/openlegallexicon/evidence.py": "59a4fe6d09089cadb358d0ad08486e903d8d3af66f132be37d31f0538de3d87b",
+    "src/openlegallexicon/evidence.py": "f0adf0b2f3b9f707bd887c13c5c7750e0114ca707b5459b184399d3bc4c20ff2",
     "src/openlegallexicon/export.py": "5ca69dc4c0975e7c89ccb6fe76a8902c143c7f8769c7ecf5f29fb1077962fab2",
     "src/openlegallexicon/ingest.py": "5a00f0202fb1ae853439c2bcd337112968b75efc2d589f132cf84438204138df",
     "src/openlegallexicon/io.py": "501ad3937c5dc8e4d7cf8f6fbbc4937fa4470d58a2cddd2de142edc8ed91ac3a",
+    "src/openlegallexicon/legal_html.py": "2ffe731d611850fdc1b5d4dbac813fb7edfe4964adc5f4599d2d71d4976e8d33",
     "src/openlegallexicon/model.py": "6b47f12424e8269eb2aff2a293be6a543ea4f882544471bab42328e4084b3d85",
     "src/openlegallexicon/validate.py": "dfbeddee24cd1867b2b98accb71f9ee9190933750e75211708821f4bce10c1bb"
   },
