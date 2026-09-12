@@ -10,7 +10,7 @@ import tempfile
 from . import __version__
 from .io import digest, write_json, write_jsonl
 from .model import PURE_HAN, eligible, quality_report
-from .evidence import documents, reference_text
+from .evidence import documents, evidence_registry_hashes, reference_text
 
 
 def separated_values(rows, delimiter):
@@ -137,7 +137,8 @@ translator:
             write_json(stage / f'{name}.index.json', {'rows':[{'text':text,'code':code,'entry_ids':ids} for text,code,ids in rows], 'excluded_entry_ids':excluded})
             statistics[f'rime_{suffix}_rows'] = len(rows)
         builder_hashes={p.relative_to(root).as_posix():digest(p) for p in sorted((root/'src/openlegallexicon').glob('*.py'))}
-        write_json(stage / 'build.json', {'tool_version':__version__,'schema_version':'1.1.0','builder_sha256':builder_hashes,'source_registry_sha256':digest(root/'data/sources.json'),'evidence_sha256':digest(root/'data/evidence/laws.json'),'filters':filters,'statistics':statistics,'input_snapshots':{s['snapshot']:s['snapshot_sha256'] for s in selected_sources},'annotations_sha256':digest(root/'data/annotations.json')})
+        evidence_hashes = evidence_registry_hashes(root)
+        write_json(stage / 'build.json', {'tool_version':__version__,'schema_version':'1.1.0','builder_sha256':builder_hashes,'source_registry_sha256':digest(root/'data/sources.json'),'evidence_sha256':evidence_hashes.get('data/evidence/laws.json'),'evidence_registries_sha256':evidence_hashes,'filters':filters,'statistics':statistics,'input_snapshots':{s['snapshot']:s['snapshot_sha256'] for s in selected_sources},'annotations_sha256':digest(root/'data/annotations.json')})
         checksums = {p.name:digest(p) for p in sorted(stage.iterdir()) if p.is_file()}
         write_json(stage / 'SHA256SUMS.json', checksums)
         stage.rename(destination)

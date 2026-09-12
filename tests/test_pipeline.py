@@ -180,6 +180,12 @@ class PipelineTests(unittest.TestCase):
             first=read_json(paths[0]/'SHA256SUMS.json')
             self.assertEqual(first,read_json(paths[1]/'SHA256SUMS.json'))
             for filename,expected in first.items():self.assertEqual(digest(paths[0]/filename),expected)
+            manifest = read_json(paths[0]/'build.json')
+            evidence_files = sorted((ROOT/'data/evidence').glob('laws*.json'))
+            expected_evidence = {p.relative_to(ROOT).as_posix(): digest(p) for p in evidence_files if p.is_file()}
+            self.assertGreater(len(expected_evidence), 1)
+            self.assertEqual(manifest['evidence_registries_sha256'], expected_evidence)
+            self.assertEqual(manifest['evidence_sha256'], expected_evidence['data/evidence/laws.json'])
             with (paths[0]/'legal_dictionary_core.csv').open(encoding='utf-8-sig') as stream:
                 core=list(csv.DictReader(stream))
             self.assertEqual(len(core),self.editorial_count())

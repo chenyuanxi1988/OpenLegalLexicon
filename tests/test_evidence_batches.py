@@ -3,7 +3,8 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from openlegallexicon.evidence import documents
+from openlegallexicon.evidence import documents, evidence_registry_hashes
+from openlegallexicon.io import digest
 
 
 class EvidenceBatchTests(unittest.TestCase):
@@ -26,6 +27,31 @@ class EvidenceBatchTests(unittest.TestCase):
             (evidence / 'laws-invalid.json').write_text(json.dumps({'id': 'not-an-array'}), encoding='utf-8')
             with self.assertRaisesRegex(ValueError, 'JSON array'):
                 documents(root)
+
+    def test_provenance_tracks_batch_changes_and_only_loaded_files(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.assertEqual(evidence_registry_hashes(root), {})
+            evidence = root / 'data' / 'evidence'
+            evidence.mkdir(parents=True)
+            baseline = evidence / 'laws.json'
+            batch = evidence / 'laws-extra.json'
+            baseline.write_text('[{"id":"baseline"}]', encoding='utf-8')
+            batch.write_text('[{"id":"first"}]', encoding='utf-8')
+            (evidence / 'source_targets.json').write_text('[]', encoding='utf-8')
+            (evidence / 'laws-directory.json').mkdir()
+            before = evidence_registry_hashes(root)
+            self.assertEqual(before, {
+                'data/evidence/laws.json': digest(baseline),
+                'data/evidence/laws-extra.json': digest(batch),
+            })
+            batch.write_text('[{"id":"second"}]', encoding='utf-8')
+            after = evidence_registry_hashes(root)
+            self.assertEqual(before['data/evidence/laws.json'], after['data/evidence/laws.json'])
+            self.assertNotEqual(before['data/evidence/laws-extra.json'], after['data/evidence/laws-extra.json'])
+            baseline.unlink()
+            self.assertEqual(evidence_registry_hashes(root), {'data/evidence/laws-extra.json': digest(batch)})
+            self.assertEqual(documents(root), [{'id': 'second'}])
 
 
 if __name__ == '__main__':

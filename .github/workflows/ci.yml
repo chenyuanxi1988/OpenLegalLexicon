@@ -33,6 +33,7 @@ jobs:
       - run: oll build --out build/ci
       - run: python tools/publish_dictionary.py
       - run: python tools/publish_dictionary.py --check
+      - run: python tools/build_source_review_queue.py --limit 100
       - name: Install real Rime engine
         if: matrix.python == '3.12'
         run: sudo apt-get update && sudo apt-get install -y librime-dev librime-bin
@@ -58,19 +59,20 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install -e '.[dev]'
       - run: python tools/publish_dictionary.py
-      - name: Commit generated dictionaries after validation
+      - run: python tools/build_source_review_queue.py --limit 100
+      - name: Commit generated dictionaries and review queue after validation
         run: |
-          git add -- dictionary
+          git add -- dictionary reports/source-review-queue.json
           if git diff --cached --quiet; then exit 0; fi
           validated_sha="$(git rev-parse HEAD)"
           git fetch origin main
           if [ "$(git rev-parse origin/main)" != "$validated_sha" ]; then
-            echo 'main advanced after this run started; skip stale dictionary publication'
+            echo 'main advanced after this run started; skip stale generated publication'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'build: refresh downloadable dictionaries'
+          git commit -m 'build: refresh dictionaries and source review queue'
           if ! git push origin HEAD:main; then
             echo 'main advanced during publication; leave publication to the newer workflow run'
             exit 0

@@ -3,26 +3,30 @@ from pathlib import Path
 
 from opencc import OpenCC
 
-from .io import read_json
+from .io import digest, read_json
 
 
-def documents(root):
-    """Load legal evidence deterministically, baseline first, then domain batches.
-
-    Keeping evidence batches in separate registries lets each legal-domain update
-    pin its own source versions without rewriting the established baseline file.
-    Duplicate document IDs are still rejected by validate_evidence().
-    """
+def document_paths(root):
+    """The exact ordered inputs used by both loading and build provenance."""
     directory = Path(root) / 'data/evidence'
     if not directory.exists():
         return []
     baseline = directory / 'laws.json'
-    paths = ([baseline] if baseline.is_file() else []) + sorted(
+    return ([baseline] if baseline.is_file() else []) + sorted(
         path for path in directory.glob('laws-*.json')
         if path.is_file()
     )
+
+
+def evidence_registry_hashes(root):
+    root = Path(root)
+    return {p.relative_to(root).as_posix(): digest(p) for p in document_paths(root)}
+
+
+def documents(root):
+    """Load baseline and domain batches; duplicate IDs fail validation."""
     docs = []
-    for path in paths:
+    for path in document_paths(root):
         batch = read_json(path)
         if not isinstance(batch, list):
             raise ValueError(f'{path}: evidence registry must be a JSON array')
