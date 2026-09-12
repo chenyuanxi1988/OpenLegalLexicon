@@ -23,6 +23,10 @@ Traceable Chinese–English legal terminology for study, search and input method
 
 ## 使用
 
+无需安装开发环境：[直接下载词典、中文/英文词表和 Rime 文件](dictionary/README.md)。当前为来源参考版，适用范围与未完成核验项目见该目录说明。
+
+以下步骤供开发者或希望自行筛选和构建的使用者：
+
 需要 Python 3.10 或更新版本。在本仓库目录内：
 
 ```sh

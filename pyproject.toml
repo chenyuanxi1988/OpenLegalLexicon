@@ -12,6 +12,7 @@ dependencies = ["jsonschema==4.26.0", "pypinyin==0.55.0", "opencc-python-reimple
 
 [project.optional-dependencies]
 dev = ["beautifulsoup4==4.14.3", "PyYAML==6.0.3"]
+integration = ["anki==26.8.1"]
 
 [project.scripts]
 oll = "openlegallexicon.cli:main"

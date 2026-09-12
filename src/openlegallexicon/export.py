@@ -12,11 +12,15 @@ from .io import digest, write_json, write_jsonl
 from .model import PURE_HAN, eligible, quality_report
 
 
-def tsv(rows):
+def separated_values(rows, delimiter):
     stream = io.StringIO(newline='')
-    writer = csv.writer(stream, delimiter='\t', lineterminator='\n')
+    writer = csv.writer(stream, delimiter=delimiter, lineterminator='\n')
     writer.writerows(rows)
     return stream.getvalue()
+
+
+def tsv(rows):
+    return separated_values(rows, '\t')
 
 
 def rime_rows(entries, script):
@@ -61,6 +65,15 @@ def export_bundle(entries, sources, root, destination, filters):
         for e in active:
             table.append([e['id'],e['forms']['zh_Hans'],e['forms']['zh_Hant'],e['forms']['en'],e['source_origin'],','.join(e['jurisdictions']),','.join(e['domains']),e['pronunciation']['tone_numbers'] if e['pronunciation'] else '',e['review']['translation'],','.join(sorted({r['source_id'] for r in e['references']}))])
         (stage / 'lexicon.tsv').write_text(tsv(table), encoding='utf-8')
+        study=[['中文','繁體','英文','拼音','领域','适用法域','来源地区','类型','来源语境','学习注释','来源记录','条目ID','数据许可','译文审核']]
+        for e in sorted(active,key=lambda e:(e['forms']['zh_Hans'],e['id'])):
+            study.append([e['forms']['zh_Hans'],e['forms']['zh_Hant'],e['forms']['en'],e['pronunciation']['tone_numbers'] if e['pronunciation'] else '',','.join(e['domains']),','.join(e['jurisdictions']) or '待核查',e['source_origin'],e['kind'],e['references'][0]['context'],e['learning_note'],' | '.join(f"{r['source_id']}:{r['record']}" for r in e['references']),e['id'],e['license'],e['review']['translation']])
+        (stage / 'legal_dictionary.tsv').write_text(tsv(study),encoding='utf-8')
+        # BOM lets desktop spreadsheet applications recognize Chinese UTF-8 reliably.
+        (stage / 'legal_dictionary.csv').write_text(separated_values(study,','),encoding='utf-8-sig')
+        for script,suffix in [('zh_Hans','zh'),('zh_Hant','zh_hant')]:
+            words=sorted({e['forms'][script] for e in active if PURE_HAN.fullmatch(e['forms'][script]) and 2<=len(e['forms'][script])<=40})
+            (stage / f'legal_terms_{suffix}.txt').write_text(''.join(w+'\n' for w in words),encoding='utf-8')
         # Custom first-field IDs are visible, stable note keys, not fabricated Anki GUIDs.
         cards = []
         for e in active:
@@ -106,7 +119,8 @@ translator:
             (stage / f'{name}.schema.yaml').write_text(schema, encoding='utf-8')
             write_json(stage / f'{name}.index.json', {'rows':[{'text':text,'code':code,'entry_ids':ids} for text,code,ids in rows], 'excluded_entry_ids':excluded})
             statistics[f'rime_{suffix}_rows'] = len(rows)
-        write_json(stage / 'build.json', {'tool_version':__version__,'schema_version':'1.0.0','filters':filters,'statistics':statistics,'input_snapshots':{s['snapshot']:s['snapshot_sha256'] for s in selected_sources},'annotations_sha256':digest(root/'data/annotations.json')})
+        builder_hashes={p.relative_to(root).as_posix():digest(p) for p in sorted((root/'src/openlegallexicon').glob('*.py'))}
+        write_json(stage / 'build.json', {'tool_version':__version__,'schema_version':'1.0.0','builder_sha256':builder_hashes,'source_registry_sha256':digest(root/'data/sources.json'),'filters':filters,'statistics':statistics,'input_snapshots':{s['snapshot']:s['snapshot_sha256'] for s in selected_sources},'annotations_sha256':digest(root/'data/annotations.json')})
         checksums = {p.name:digest(p) for p in sorted(stage.iterdir()) if p.is_file()}
         write_json(stage / 'SHA256SUMS.json', checksums)
         stage.rename(destination)
