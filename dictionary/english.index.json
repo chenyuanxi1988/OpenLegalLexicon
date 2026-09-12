@@ -3365,8 +3365,26 @@
   "administrative ordinances": [
     "tw-judicial-889f4ff85e2dec59595a"
   ],
+  "administrative penalty": [
+    "cn-admin-penalty"
+  ],
+  "administrative penalty hearing": [
+    "cn-admin-penalty-hearing"
+  ],
   "administrative re-appeal": [
     "tw-judicial-40c7d7b2ff6389e7a0c3"
+  ],
+  "administrative reconsideration": [
+    "cn-admin-reconsideration"
+  ],
+  "administrative reconsideration authority": [
+    "cn-admin-reconsideration-authority"
+  ],
+  "administrative reconsideration hearing": [
+    "cn-admin-reconsideration-hearing"
+  ],
+  "administrative reconsideration office": [
+    "cn-admin-reconsideration-office"
   ],
   "administrative regulation": [
     "tw-judicial-a036d4500c7f86dbf31c"
@@ -3536,6 +3554,9 @@
     "tw-judicial-364cf5ad83ebef79612a",
     "tw-judicial-7a2bdee53870e19ab143",
     "tw-tipo-trademark-e5a3351bcf6031a5fde9"
+  ],
+  "application for administrative reconsideration": [
+    "cn-admin-reconsideration-application"
   ],
   "application period": [
     "tw-judicial-71c70242440d02df8e0f"
@@ -3759,6 +3780,9 @@
   ],
   "case concerning the proclamation of death of a missing proson": [
     "tw-judicial-f00225bff00e7813d99a"
+  ],
+  "case filing for an administrative penalty": [
+    "cn-admin-case-filing"
   ],
   "catchment area": [
     "tw-judicial-71a1e7e9a856902f6a09"
@@ -4014,6 +4038,9 @@
   ],
   "conducts of unfair competition": [
     "tw-judicial-0bdd09a3537a6a845512"
+  ],
+  "confidentiality obligation": [
+    "cn-labor-confidentiality-obligation"
   ],
   "confinement": [
     "tw-judicial-07e52ef197aa9cb129c2"
@@ -4550,6 +4577,9 @@
   "easement": [
     "cn-easement"
   ],
+  "economic compensation for a non-compete restriction": [
+    "cn-labor-noncompete-compensation"
+  ],
   "effect in public law": [
     "tw-judicial-c293a0d1ff1b3b59856e"
   ],
@@ -4577,6 +4607,12 @@
   ],
   "emergency decrees": [
     "tw-judicial-1c5eede60139b3613b44"
+  ],
+  "employee termination of an employment contract by notice": [
+    "cn-labor-employee-notice-termination"
+  ],
+  "employment relationship": [
+    "cn-labor-employment-relationship"
   ],
   "enabling statute": [
     "tw-judicial-9f9cfcb77094c0fe3f6c"
@@ -4841,6 +4877,9 @@
   ],
   "firms": [
     "tw-tipo-trademark-ee4ee17c98d6ca8b0e30"
+  ],
+  "fixed-term employment contract": [
+    "cn-labor-fixed-term-contract"
   ],
   "flexibility of budget execution": [
     "tw-judicial-5a130392308508f6acc5"
@@ -5157,6 +5196,9 @@
   ],
   "immediate assistance": [
     "tw-judicial-17144d3d8f102228fbe9"
+  ],
+  "immediate termination of an employment contract by the employee": [
+    "cn-labor-employee-immediate-termination"
   ],
   "imminent danger": [
     "tw-judicial-60e82864b07de31790d5"
@@ -5535,6 +5577,12 @@
   ],
   "labor": [
     "tw-judicial-6e42ac3145569be3568b"
+  ],
+  "labor dispatch agency": [
+    "cn-labor-dispatch-agency"
+  ],
+  "labor dispatch business permit": [
+    "cn-labor-dispatch-license"
   ],
   "labor insurance": [
     "tw-judicial-85b180c21de87c927ba4"
@@ -5990,6 +6038,9 @@
   "non-appealable": [
     "tw-judicial-08448f8e25b88290f047"
   ],
+  "non-compete restriction": [
+    "cn-labor-noncompete"
+  ],
   "non-generic term": [
     "tw-tipo-trademark-206d9e3206d40a63d8b0"
   ],
@@ -6071,8 +6122,14 @@
   "omission of act": [
     "tw-judicial-b137b1326c960a482e30"
   ],
+  "on-the-spot administrative penalty decision": [
+    "cn-admin-on-the-spot-decision"
+  ],
   "one's mother's adopted daughter": [
     "tw-judicial-d882eac130e05c659958"
+  ],
+  "open-ended employment contract": [
+    "cn-labor-open-ended-contract"
   ],
   "opinion letter": [
     "tw-tipo-trademark-cb68cdd3f831ba1591fe"
@@ -6096,6 +6153,9 @@
   "optical": [
     "tw-tipo-trademark-64c67e33997f349c1178"
   ],
+  "oral application for administrative reconsideration": [
+    "cn-admin-reconsideration-oral-application"
+  ],
   "oral arguments": [
     "tw-judicial-4802149e4286fb3f9fc2"
   ],
@@ -6110,6 +6170,9 @@
   ],
   "ordinary court": [
     "tw-judicial-2d236e1bbd08e0ac2f6b"
+  ],
+  "ordinary procedure for administrative reconsideration": [
+    "cn-admin-reconsideration-ordinary-procedure"
   ],
   "ordinary public officers": [
     "tw-judicial-480998efb13ce015869d"
@@ -6456,6 +6519,9 @@
   "prior censorship": [
     "tw-judicial-b7dffa4bd78ebcf2c26b"
   ],
+  "prior notice of an administrative penalty": [
+    "cn-admin-prior-notice"
+  ],
   "prior use": [
     "tw-tipo-trademark-26ce330e083dd66e3d96"
   ],
@@ -6509,6 +6575,9 @@
   ],
   "probation": [
     "tw-judicial-390fc75944665c89c8fc"
+  ],
+  "probationary period": [
+    "cn-labor-probation-period"
   ],
   "probative": [
     "tw-tipo-trademark-0c8b89c05d78d09a345c",
@@ -6741,6 +6810,9 @@
   ],
   "rectify": [
     "tw-tipo-trademark-26ffa50a62970ce79374"
+  ],
+  "recusal": [
+    "cn-admin-recusal"
   ],
   "recusal by a judge": [
     "tw-judicial-eb75035d5b49684748bb"
@@ -7009,6 +7081,12 @@
   "right to life": [
     "tw-judicial-c68490a260448e0c4a69"
   ],
+  "right to make representations": [
+    "cn-admin-statement-right"
+  ],
+  "right to present a defense": [
+    "cn-admin-defense-right"
+  ],
   "right to privacy": [
     "cn-privacy-right"
   ],
@@ -7161,6 +7239,9 @@
   "service mark": [
     "tw-tipo-trademark-481f43580a81fa480781",
     "tw-tipo-trademark-71ae8824876b0e257971"
+  ],
+  "service period": [
+    "cn-labor-service-period"
   ],
   "settlement": [
     "tw-judicial-1f527e682ea5dc133fdb"
@@ -7322,6 +7403,9 @@
   "statutory duty": [
     "tw-judicial-63ba23a107dcc3d23cee"
   ],
+  "statutory economic compensation": [
+    "cn-labor-economic-compensation"
+  ],
   "statutory peremptory period": [
     "tw-judicial-47efcd74fec9df9d2bba"
   ],
@@ -7437,6 +7521,9 @@
   "suspension from practice": [
     "tw-judicial-3c0bce21f14122c0eb32"
   ],
+  "suspension of administrative reconsideration": [
+    "cn-admin-reconsideration-suspension"
+  ],
   "suspension of duty": [
     "tw-judicial-5844432ef8bca649c474"
   ],
@@ -7538,6 +7625,15 @@
   "term of the Presidency": [
     "tw-judicial-e2396058e34f3138b2ac"
   ],
+  "termination of administrative reconsideration": [
+    "cn-admin-reconsideration-termination"
+  ],
+  "termination of an employment contract": [
+    "cn-labor-contract-termination"
+  ],
+  "termination of an employment contract by mutual agreement": [
+    "cn-labor-mutual-termination"
+  ],
   "termination of business": [
     "tw-judicial-4ded5c9768be9cd4606a"
   ],
@@ -7592,6 +7688,9 @@
   ],
   "time for journey to the court": [
     "tw-judicial-715782f2cbf950ff449d"
+  ],
+  "time limit for applying for administrative reconsideration": [
+    "cn-admin-reconsideration-time-limit"
   ],
   "title": [
     "tw-tipo-trademark-ca12d594a39de3f65a64"
@@ -7691,6 +7790,12 @@
   ],
   "type": [
     "tw-tipo-trademark-ec521fcfaa65764b7dd2"
+  ],
+  "types of administrative penalties": [
+    "cn-admin-penalty-types"
+  ],
+  "types of employment contracts": [
+    "cn-labor-contract-types"
   ],
   "types of marks": [
     "tw-tipo-trademark-06b3ab0c82175f4ad7ee"
@@ -7864,6 +7969,9 @@
   "writ of detention": [
     "tw-judicial-95afd86b73f09f541606"
   ],
+  "written application for administrative reconsideration": [
+    "cn-admin-reconsideration-written-application"
+  ],
   "written call for capital contribution": [
     "cn-notice-capital-call"
   ],
@@ -7873,6 +7981,9 @@
   "written document": [
     "tw-tipo-trademark-90d358adefc67e3b6729"
   ],
+  "written employment contract": [
+    "cn-labor-written-contract"
+  ],
   "written form": [
     "cn-written-form"
   ],
@@ -7881,6 +7992,9 @@
   ],
   "written request": [
     "tw-tipo-trademark-3b7995050f058e0a35d6"
+  ],
+  "written response in administrative reconsideration": [
+    "cn-admin-reconsideration-response"
   ],
   "wrongful imprisonment": [
     "tw-judicial-5e19b7ae5db40b6bec55"

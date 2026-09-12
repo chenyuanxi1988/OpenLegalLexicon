@@ -57,5 +57,25 @@
     "snapshot_sha256": "5789b294b869846169b4b3ea10ff7c398641927991bfea61b4856da69210e3db",
     "title": "OpenLegalLexicon 中国大陆核心术语释义（首批）",
     "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon"
+  },
+  {
+    "attribution": "OpenLegalLexicon contributors：基于已固定中国大陆法条证据编写的行政与劳动核心释义、学习提示和英文释译；CC BY 4.0。",
+    "expected_records": 38,
+    "format": "editorial_seed",
+    "id": "oll-cn-admin-labor",
+    "license": "CC-BY-4.0",
+    "license_evidence_url": "https://github.com/chenyuanxi1988/OpenLegalLexicon/blob/main/DATA_LICENSE.md",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "origin": "INTERNATIONAL",
+    "pages": 1,
+    "provider": "OpenLegalLexicon contributors（Codex 辅助编写）",
+    "redistribution": "permitted",
+    "retrieved": "2026-09-12",
+    "review": "AI-assisted source-linked editorial pass; no human expert review; pinned statutory evidence; ongoing validity not asserted",
+    "scope": "中国大陆行政处罚、行政复议与劳动合同学习用语；法条证据采用已固定的现行官方全文版本，英文为项目释译，不是官方译文或法律专家审核。",
+    "snapshot": "data/snapshots/oll-cn-admin-labor-2026-09-12.jsonl",
+    "snapshot_sha256": "5164d395c52733fcd807679c85568538263389b69bc0daa9c1e12cd04bed4316",
+    "title": "OpenLegalLexicon 中国大陆行政与劳动核心术语（第二批）",
+    "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon"
   }
 ]

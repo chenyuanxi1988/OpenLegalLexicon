@@ -1,7 +1,7 @@
 {
   "annotations_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
   "builder_sha256": {
-    "src/openlegallexicon/__init__.py": "ee2ff5208668dec4afdfc57c91c04bd586fa3e3bf88838ae0056566b24554676",
+    "src/openlegallexicon/__init__.py": "3d86dcc9da53104955268f5a85d808f92cd9213918d44e5eac93184de4f1a492",
     "src/openlegallexicon/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
     "src/openlegallexicon/cli.py": "61a8cf6609efd02975bd0714ce71c32bea6a1e4b8cc48ddc8089e4dfa58a5a9a",
     "src/openlegallexicon/evidence.py": "f0adf0b2f3b9f707bd887c13c5c7750e0114ca707b5459b184399d3bc4c20ff2",
@@ -19,19 +19,20 @@
     "origin": null
   },
   "input_snapshots": {
+    "data/snapshots/oll-cn-admin-labor-2026-09-12.jsonl": "5164d395c52733fcd807679c85568538263389b69bc0daa9c1e12cd04bed4316",
     "data/snapshots/oll-cn-core-2026-09-12.jsonl": "5789b294b869846169b4b3ea10ff7c398641927991bfea61b4856da69210e3db",
     "data/snapshots/tw-judicial-2026-09-11.jsonl": "bcab3aa601a2c0be0f86ec7864879b80fef332005f1ab0835927aef84613aae8",
     "data/snapshots/tw-tipo-trademark-2026-09-11.jsonl": "542932dd07a569c96c0a0b818edfa911b810e15b4e9eecc6135211f7590cebfe"
   },
   "schema_version": "1.1.0",
-  "source_registry_sha256": "97d6784970aa21a3ef23215c78800e1e49ba5db1e49584c434cc553da2df2f43",
+  "source_registry_sha256": "6730ef626af8bf9126fcd00df98f297ed1da4611f8058ae7436ae39e1331d1ee",
   "statistics": {
-    "core_study_entries": 99,
-    "english_completions": 2599,
-    "entries": 2824,
-    "rime_hans_rows": 2500,
-    "rime_hant_rows": 2500,
-    "study_notes": 5648
+    "core_study_entries": 137,
+    "english_completions": 2637,
+    "entries": 2862,
+    "rime_hans_rows": 2538,
+    "rime_hant_rows": 2538,
+    "study_notes": 5724
   },
-  "tool_version": "0.1.0.dev2"
+  "tool_version": "0.1.0.dev3"
 }

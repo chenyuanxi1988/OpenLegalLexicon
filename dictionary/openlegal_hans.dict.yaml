@@ -3,7 +3,7 @@
 # Pronunciations include machine-generated readings; fixed weight is not corpus frequency.
 ---
 name: openlegal_hans
-version: "0.1.0.dev2"
+version: "0.1.0.dev3"
 sort: by_weight
 use_preset_vocabulary: false
 columns: [text, code, weight]
@@ -28,6 +28,7 @@ columns: [text, code, weight]
 保护令	bao hu ling	1
 保护作品完整权	bao hu zuo pin wan zheng quan	1
 保价邮件	bao jia you jian	1
+保密义务	bao mi yi wu	1
 保全程序	bao quan cheng xu	1
 保税工厂	bao shui gong chang	1
 保险	bao xian	1
@@ -156,6 +157,7 @@ columns: [text, code, weight]
 撤销缓刑	che xiao huan xing	1
 撤销或废止	che xiao huo fei zhi	1
 撤销诉讼	che xiao su song	1
+陈述权	chen shu quan	1
 惩戒处分	cheng jie chu fen	1
 惩戒处分议决	cheng jie chu fen yi jue	1
 惩戒法庭	cheng jie fa ting	1
@@ -261,6 +263,7 @@ columns: [text, code, weight]
 档案法	dang an fa	1
 档案管理局组织条例	dang an guan li ju zu zhi tiao li	1
 档案室	dang an shi	1
+当场作出行政处罚决定	dang chang zuo chu xing zheng chu fa jue ding	1
 当然解释	dang ran jie shi	1
 当申请案付诸审查执行程序时	dang shen qing an fu zhu shen cha zhi xing cheng xu shi	1
 当事人	dang shi ren	1
@@ -507,6 +510,7 @@ columns: [text, code, weight]
 副厅长室	fu ting zhang shi	1
 服务标章	fu wu biao zhang	1
 服务奖章	fu wu jiang zhang	1
+服务期	fu wu qi	1
 服务商标	fu wu shang biao	1
 服务台	fu wu tai	1
 抚恤	fu xu	1
@@ -648,6 +652,7 @@ columns: [text, code, weight]
 购买人	gou mai ren	1
 固定的	gu ding de	1
 固定规则	gu ding gui ze	1
+固定期限劳动合同	gu ding qi xian lao dong he tong	1
 股东失权	gu dong shi quan	1
 股份有限公司	gu fen you xian gong si	1
 估计所得额	gu ji suo de e	1
@@ -778,6 +783,7 @@ columns: [text, code, weight]
 话务员	hua wu yuan	1
 缓办措施	huan ban cuo shi	1
 缓刑	huan xing	1
+回避	hui bi	1
 恢复	hui fu	1
 回复请求权	hui fu qing qiu quan	1
 回复原状及损害赔偿	hui fu yuan zhuang ji sun hai pei chang	1
@@ -937,6 +943,7 @@ columns: [text, code, weight]
 警察刑事纪录证明核发条例	jing cha xing shi ji lu zheng ming he fa tiao li	1
 警告函	jing gao han	1
 经过异议期间	jing guo yi yi qi jian	1
+经济补偿	jing ji bu chang	1
 经济部所属事业人员退休抚恤及资遣办法	jing ji bu suo shu shi ye ren yuan tui xiu fu xu ji zi qian ban fa	1
 经济部智慧财产局组织条例	jing ji bu zhi hui cai chan ju zu zhi tiao li	1
 经理	jing li	1
@@ -948,6 +955,8 @@ columns: [text, code, weight]
 警卫值班室	jing wei zhi ban shi	1
 竞选连任	jing xuan lian ren	1
 经验法则	jing yan fa ze	1
+竞业限制	jing ye xian zhi	1
+竞业限制经济补偿	jing ye xian zhi jing ji bu chang	1
 经营者	jing ying zhe	1
 经营者集中	jing ying zhe ji zhong	1
 经营者集中申报	jing ying zhe ji zhong shen bao	1
@@ -1037,12 +1046,17 @@ columns: [text, code, weight]
 来源名称	lai yuan ming cheng	1
 来源指示者	lai yuan zhi shi zhe	1
 蓝能法	lan neng fa	1
+劳动关系	lao dong guan xi	1
+劳动合同类型	lao dong he tong lei xing	1
+劳动合同终止	lao dong he tong zhong zhi	1
 劳动基准法	lao dong ji zhun fa	1
 劳动基准法施行细则	lao dong ji zhun fa shi xing xi ze	1
 劳动检查法	lao dong jian cha fa	1
 劳动条件	lao dong tiao jian	1
 劳动调解法官	lao dong tiao jie fa guan	1
 劳动调解室	lao dong tiao jie shi	1
+劳动者即时解除劳动合同	lao dong zhe ji shi jie chu lao dong he tong	1
+劳动者预告解除劳动合同	lao dong zhe yu gao jie chu lao dong he tong	1
 劳工	lao gong	1
 劳工安全卫生法	lao gong an quan wei sheng fa	1
 劳工保险	lao gong bao xian	1
@@ -1051,6 +1065,8 @@ columns: [text, code, weight]
 劳工保险投保薪资分级表	lao gong bao xian tou bao xin zi fen ji biao	1
 劳工保险诊疗费用支付标准表	lao gong bao xian zhen liao fei yong zhi fu biao zhun biao	1
 老年给付	lao nian ji fu	1
+劳务派遣单位	lao wu pai qian dan wei	1
+劳务派遣经营许可	lao wu pai qian jing ying xu ke	1
 劳资争议处理法	lao zi zheng yi chu li fa	1
 累犯	lei fan	1
 类名	lei ming	1
@@ -1422,6 +1438,7 @@ columns: [text, code, weight]
 社团法人	she tuan fa ren	1
 涉外民事法律适用法	she wai min shi fa lv shi yong fa	1
 申报纳税	shen bao na shui	1
+申辩权	shen bian quan	1
 审查	shen cha	1
 审查科	shen cha ke	1
 审查律师	shen cha lv shi	1
@@ -1512,6 +1529,7 @@ columns: [text, code, weight]
 实用的	shi yong de	1
 适用法规显有错误	shi yong fa gui xian you cuo wu	1
 实用功能	shi yong gong neng	1
+试用期	shi yong qi	1
 使用声明	shi yong sheng ming	1
 使用声明之修正	shi yong sheng ming zhi xiu zheng	1
 使用收益权	shi yong shou yi quan	1
@@ -1543,6 +1561,7 @@ columns: [text, code, weight]
 书记官席	shu ji guan xi	1
 书记官长	shu ji guan zhang	1
 书记官长室	shu ji guan zhang shi	1
+书面劳动合同	shu mian lao dong he tong	1
 书面请求	shu mian qing qiu	1
 书面同意	shu mian tong yi	1
 书面通知	shu mian tong zhi	1
@@ -1886,6 +1905,7 @@ columns: [text, code, weight]
 无法弥补的	wu fa mi bu de	1
 诬告	wu gao	1
 诬告罪	wu gao zui	1
+无固定期限劳动合同	wu gu ding qi xian lao dong he tong	1
 无关系的	wu guan xi de	1
 无过错责任	wu guo cuo ze ren	1
 无记名投票	wu ji ming tou piao	1
@@ -1950,6 +1970,7 @@ columns: [text, code, weight]
 肖像	xiao xiang	1
 协定条款	xie ding tiao kuan	1
 胁迫	xie po	1
+协商解除劳动合同	xie shang jie chu lao dong he tong	1
 协议离婚	xie yi li hun	1
 薪俸	xin feng	1
 信赖保护原则	xin lai bao hu yuan ze	1
@@ -1991,6 +2012,11 @@ columns: [text, code, weight]
 行宪	xing xian	1
 行刑权	xing xing quan	1
 性行为自由	xing xing wei zi you	1
+行政处罚	xing zheng chu fa	1
+行政处罚的种类	xing zheng chu fa de zhong lei	1
+行政处罚立案	xing zheng chu fa li an	1
+行政处罚事先告知	xing zheng chu fa shi xian gao zhi	1
+行政处罚听证	xing zheng chu fa ting zheng	1
 行政处分	xing zheng chu fen	1
 行政措施	xing zheng cuo shi	1
 行政法	xing zheng fa	1
@@ -1999,6 +2025,18 @@ columns: [text, code, weight]
 行政法院	xing zheng fa yuan	1
 行政法院处务规程	xing zheng fa yuan chu wu gui cheng	1
 行政法院组织法	xing zheng fa yuan zu zhi fa	1
+行政复议	xing zheng fu yi	1
+行政复议机构	xing zheng fu yi ji gou	1
+行政复议机关	xing zheng fu yi ji guan	1
+行政复议口头申请	xing zheng fu yi kou tou shen qing	1
+行政复议普通程序	xing zheng fu yi pu tong cheng xu	1
+行政复议申请	xing zheng fu yi shen qing	1
+行政复议申请期限	xing zheng fu yi shen qing qi xian	1
+行政复议书面答复	xing zheng fu yi shu mian da fu	1
+行政复议书面申请	xing zheng fu yi shu mian shen qing	1
+行政复议听证	xing zheng fu yi ting zheng	1
+行政复议中止	xing zheng fu yi zhong zhi	1
+行政复议终止	xing zheng fu yi zhong zhi	1
 行政规则	xing zheng gui ze	1
 行政机关	xing zheng ji guan	1
 行政解释	xing zheng jie shi	1

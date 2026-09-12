@@ -400,6 +400,13 @@
       "text": "保價郵件"
     },
     {
+      "code": "bao mi yi wu",
+      "entry_ids": [
+        "cn-labor-confidentiality-obligation"
+      ],
+      "text": "保密義務"
+    },
+    {
       "code": "bao quan cheng xu",
       "entry_ids": [
         "tw-judicial-d4d63ebc394f24478861"
@@ -1299,6 +1306,13 @@
       "text": "撤銷訴訟"
     },
     {
+      "code": "chen shu quan",
+      "entry_ids": [
+        "cn-admin-statement-right"
+      ],
+      "text": "陳述權"
+    },
+    {
       "code": "cheng jie chu fen",
       "entry_ids": [
         "tw-judicial-6e5a00829776eb761ef4"
@@ -2033,6 +2047,13 @@
         "tw-judicial-e9670a153054a10b7ea8"
       ],
       "text": "檔案室"
+    },
+    {
+      "code": "dang chang zuo chu xing zheng chu fa jue ding",
+      "entry_ids": [
+        "cn-admin-on-the-spot-decision"
+      ],
+      "text": "當場作出行政處罰決定"
     },
     {
       "code": "dang ran jie shi",
@@ -3768,6 +3789,13 @@
       "text": "服務獎章"
     },
     {
+      "code": "fu wu qi",
+      "entry_ids": [
+        "cn-labor-service-period"
+      ],
+      "text": "服務期"
+    },
+    {
       "code": "fu wu shang biao",
       "entry_ids": [
         "tw-tipo-trademark-71ae8824876b0e257971"
@@ -4761,6 +4789,13 @@
       "text": "固定規則"
     },
     {
+      "code": "gu ding qi xian lao dong he tong",
+      "entry_ids": [
+        "cn-labor-fixed-term-contract"
+      ],
+      "text": "固定期限勞動合同"
+    },
+    {
       "code": "gu dong shi quan",
       "entry_ids": [
         "cn-forfeiture-equity"
@@ -5672,6 +5707,13 @@
         "tw-judicial-390fc75944665c89c8fc"
       ],
       "text": "緩刑"
+    },
+    {
+      "code": "hui bi",
+      "entry_ids": [
+        "cn-admin-recusal"
+      ],
+      "text": "迴避"
     },
     {
       "code": "hui fu",
@@ -6788,6 +6830,13 @@
       "text": "經過異議期間"
     },
     {
+      "code": "jing ji bu chang",
+      "entry_ids": [
+        "cn-labor-economic-compensation"
+      ],
+      "text": "經濟補償"
+    },
+    {
       "code": "jing ji bu suo shu shi ye ren yuan tui xiu fu xu ji zi qian ban fa",
       "entry_ids": [
         "tw-judicial-2fef83d2345e18dd79ea"
@@ -6863,6 +6912,20 @@
         "tw-judicial-a00a152dca586c734c73"
       ],
       "text": "經驗法則"
+    },
+    {
+      "code": "jing ye xian zhi",
+      "entry_ids": [
+        "cn-labor-noncompete"
+      ],
+      "text": "競業限制"
+    },
+    {
+      "code": "jing ye xian zhi jing ji bu chang",
+      "entry_ids": [
+        "cn-labor-noncompete-compensation"
+      ],
+      "text": "競業限制經濟補償"
     },
     {
       "code": "jing ying zhe",
@@ -7488,6 +7551,27 @@
       "text": "藍能法"
     },
     {
+      "code": "lao dong guan xi",
+      "entry_ids": [
+        "cn-labor-employment-relationship"
+      ],
+      "text": "勞動關係"
+    },
+    {
+      "code": "lao dong he tong lei xing",
+      "entry_ids": [
+        "cn-labor-contract-types"
+      ],
+      "text": "勞動合同類型"
+    },
+    {
+      "code": "lao dong he tong zhong zhi",
+      "entry_ids": [
+        "cn-labor-contract-termination"
+      ],
+      "text": "勞動合同終止"
+    },
+    {
       "code": "lao dong ji zhun fa",
       "entry_ids": [
         "tw-judicial-4beb614edf74890da4a7"
@@ -7528,6 +7612,20 @@
         "tw-judicial-604635f1892e78e1673f"
       ],
       "text": "勞動調解室"
+    },
+    {
+      "code": "lao dong zhe ji shi jie chu lao dong he tong",
+      "entry_ids": [
+        "cn-labor-employee-immediate-termination"
+      ],
+      "text": "勞動者即時解除勞動合同"
+    },
+    {
+      "code": "lao dong zhe yu gao jie chu lao dong he tong",
+      "entry_ids": [
+        "cn-labor-employee-notice-termination"
+      ],
+      "text": "勞動者預告解除勞動合同"
     },
     {
       "code": "lao gong",
@@ -7584,6 +7682,20 @@
         "tw-judicial-25c2d05c65f3bb226533"
       ],
       "text": "老年給付"
+    },
+    {
+      "code": "lao wu pai qian dan wei",
+      "entry_ids": [
+        "cn-labor-dispatch-agency"
+      ],
+      "text": "勞務派遣單位"
+    },
+    {
+      "code": "lao wu pai qian jing ying xu ke",
+      "entry_ids": [
+        "cn-labor-dispatch-license"
+      ],
+      "text": "勞務派遣經營許可"
     },
     {
       "code": "lao zi zheng yi chu li fa",
@@ -10197,6 +10309,13 @@
       "text": "申報納稅"
     },
     {
+      "code": "shen bian quan",
+      "entry_ids": [
+        "cn-admin-defense-right"
+      ],
+      "text": "申辯權"
+    },
+    {
       "code": "shen cha",
       "entry_ids": [
         "tw-tipo-trademark-4fef1412f1891ba882cd"
@@ -10829,6 +10948,13 @@
       "text": "實用功能"
     },
     {
+      "code": "shi yong qi",
+      "entry_ids": [
+        "cn-labor-probation-period"
+      ],
+      "text": "試用期"
+    },
+    {
       "code": "shi yong sheng ming",
       "entry_ids": [
         "tw-tipo-trademark-72ad92426602f2f5fabd",
@@ -11047,6 +11173,13 @@
         "tw-judicial-f352d6380c9fad44ca55"
       ],
       "text": "書記官長室"
+    },
+    {
+      "code": "shu mian lao dong he tong",
+      "entry_ids": [
+        "cn-labor-written-contract"
+      ],
+      "text": "書面勞動合同"
     },
     {
       "code": "shu mian qing qiu",
@@ -13456,6 +13589,13 @@
       "text": "誣告罪"
     },
     {
+      "code": "wu gu ding qi xian lao dong he tong",
+      "entry_ids": [
+        "cn-labor-open-ended-contract"
+      ],
+      "text": "無固定期限勞動合同"
+    },
+    {
       "code": "wu guan xi de",
       "entry_ids": [
         "tw-tipo-trademark-e58d7db922a0e5fed893"
@@ -13906,6 +14046,13 @@
       "text": "脅迫"
     },
     {
+      "code": "xie shang jie chu lao dong he tong",
+      "entry_ids": [
+        "cn-labor-mutual-termination"
+      ],
+      "text": "協商解除勞動合同"
+    },
+    {
       "code": "xie yi li hun",
       "entry_ids": [
         "tw-judicial-81ef0270e7103644e9db"
@@ -14193,6 +14340,41 @@
       "text": "性行為自由"
     },
     {
+      "code": "xing zheng chu fa",
+      "entry_ids": [
+        "cn-admin-penalty"
+      ],
+      "text": "行政處罰"
+    },
+    {
+      "code": "xing zheng chu fa de zhong lei",
+      "entry_ids": [
+        "cn-admin-penalty-types"
+      ],
+      "text": "行政處罰的種類"
+    },
+    {
+      "code": "xing zheng chu fa li an",
+      "entry_ids": [
+        "cn-admin-case-filing"
+      ],
+      "text": "行政處罰立案"
+    },
+    {
+      "code": "xing zheng chu fa shi xian gao zhi",
+      "entry_ids": [
+        "cn-admin-prior-notice"
+      ],
+      "text": "行政處罰事先告知"
+    },
+    {
+      "code": "xing zheng chu fa ting zheng",
+      "entry_ids": [
+        "cn-admin-penalty-hearing"
+      ],
+      "text": "行政處罰聽證"
+    },
+    {
       "code": "xing zheng chu fen",
       "entry_ids": [
         "tw-judicial-f08b088c8f6adedbdcef"
@@ -14247,6 +14429,90 @@
         "tw-judicial-a1afc17c4baad6d1e518"
       ],
       "text": "行政法院組織法"
+    },
+    {
+      "code": "xing zheng fu yi",
+      "entry_ids": [
+        "cn-admin-reconsideration"
+      ],
+      "text": "行政複議"
+    },
+    {
+      "code": "xing zheng fu yi ji gou",
+      "entry_ids": [
+        "cn-admin-reconsideration-office"
+      ],
+      "text": "行政複議機構"
+    },
+    {
+      "code": "xing zheng fu yi ji guan",
+      "entry_ids": [
+        "cn-admin-reconsideration-authority"
+      ],
+      "text": "行政複議機關"
+    },
+    {
+      "code": "xing zheng fu yi kou tou shen qing",
+      "entry_ids": [
+        "cn-admin-reconsideration-oral-application"
+      ],
+      "text": "行政複議口頭申請"
+    },
+    {
+      "code": "xing zheng fu yi pu tong cheng xu",
+      "entry_ids": [
+        "cn-admin-reconsideration-ordinary-procedure"
+      ],
+      "text": "行政複議普通程序"
+    },
+    {
+      "code": "xing zheng fu yi shen qing",
+      "entry_ids": [
+        "cn-admin-reconsideration-application"
+      ],
+      "text": "行政複議申請"
+    },
+    {
+      "code": "xing zheng fu yi shen qing qi xian",
+      "entry_ids": [
+        "cn-admin-reconsideration-time-limit"
+      ],
+      "text": "行政複議申請期限"
+    },
+    {
+      "code": "xing zheng fu yi shu mian da fu",
+      "entry_ids": [
+        "cn-admin-reconsideration-response"
+      ],
+      "text": "行政複議書面答覆"
+    },
+    {
+      "code": "xing zheng fu yi shu mian shen qing",
+      "entry_ids": [
+        "cn-admin-reconsideration-written-application"
+      ],
+      "text": "行政複議書面申請"
+    },
+    {
+      "code": "xing zheng fu yi ting zheng",
+      "entry_ids": [
+        "cn-admin-reconsideration-hearing"
+      ],
+      "text": "行政複議聽證"
+    },
+    {
+      "code": "xing zheng fu yi zhong zhi",
+      "entry_ids": [
+        "cn-admin-reconsideration-suspension"
+      ],
+      "text": "行政複議中止"
+    },
+    {
+      "code": "xing zheng fu yi zhong zhi",
+      "entry_ids": [
+        "cn-admin-reconsideration-termination"
+      ],
+      "text": "行政複議終止"
     },
     {
       "code": "xing zheng gui ze",

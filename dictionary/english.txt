@@ -102,7 +102,13 @@ administrative litigation procedure
 administrative measures
 administrative objective
 administrative ordinances
+administrative penalty
+administrative penalty hearing
 administrative re-appeal
+administrative reconsideration
+administrative reconsideration authority
+administrative reconsideration hearing
+administrative reconsideration office
 administrative regulation
 administrative remedy
 administrative sanction
@@ -186,6 +192,7 @@ Applicant
 applicant
 applicant's country of origin
 application
+application for administrative reconsideration
 application period
 Appointment
 approve
@@ -317,6 +324,7 @@ capital surplus
 carriage contract
 Case Assignment Office
 case concerning the proclamation of death of a missing proson
+case filing for an administrative penalty
 Cases Closed
 Cases Lodged
 Cashier Office
@@ -479,6 +487,7 @@ Conference of Alteration of Judicial Precedents
 Conference Room
 Conference Room for the Justices of the Constitutional Court
 Confidential Employees
+confidentiality obligation
 confinement
 conflicting marks
 confusion
@@ -748,6 +757,7 @@ duty-paying value
 earnest money securing performance
 easement
 ECJ
+economic compensation for a non-compete restriction
 Education Act for Indigenous Peoples
 effect in public law
 effective date
@@ -759,8 +769,10 @@ eligible male
 emblazon
 emblem
 emergency decrees
+employee termination of an employment contract by notice
 Employee Welfare Fund Act
 Employees Activity Center
+employment relationship
 enabling statute
 enactment
 encouragement of investment
@@ -916,6 +928,7 @@ Fisheries Act
 Fishing Port Act
 Five Power Division
 Five-Yuan System
+fixed-term employment contract
 flexibility of budget execution
 Food Administration Act
 for the Protection of Industrial Property of 1883
@@ -1064,6 +1077,7 @@ illegal conduct
 illegal or delinquent
 illness benefits
 immediate assistance
+immediate termination of an employment contract by the employee
 Immigration Act
 imminent danger
 immoral
@@ -1253,6 +1267,8 @@ kidnap
 Kitchen
 knowledge threshold
 labor
+labor dispatch agency
+labor dispatch business permit
 Labor Inspection Act
 labor insurance
 Labor Insurance Act
@@ -1486,6 +1502,7 @@ no-fault tort liability
 nomination
 non-administrative act
 non-appealable
+non-compete restriction
 non-generic term
 non-gratuitous principle
 non-operating income
@@ -1536,7 +1553,9 @@ olfactory mark
 omission of act
 On-Duty Division-Chief Judge Office
 On-Duty Judge Room
+on-the-spot administrative penalty decision
 one's mother's adopted daughter
+open-ended employment contract
 Operator
 opinion letter
 opinion of the law
@@ -1547,11 +1566,13 @@ opposition
 opposition proceeding
 optical
 Optical Disk Act
+oral application for administrative reconsideration
 oral arguments
 order of disposition
 order to exit within a specified period
 ordinance
 ordinary court
+ordinary procedure for administrative reconsideration
 ordinary public officers
 Organic Act of Central Personnel Administration, Executive Yuan
 Organic Act of Commission on the Disciplinary Sanction of Functionaries
@@ -1740,6 +1761,7 @@ principle of transparency
 printout
 prior application
 prior censorship
+prior notice of an administrative penalty
 prior use
 priority
 priority action
@@ -1764,6 +1786,7 @@ Probation
 probation
 Probation Officer
 Probation Officer Office
+probationary period
 probative
 probative facts
 procedural
@@ -1881,6 +1904,7 @@ recovery
 Recreation Room
 rectangular
 rectify
+recusal
 recusal by a judge
 Recusal of Judges
 Reduction and Exemption Regulations
@@ -2033,6 +2057,8 @@ right to confront with the witness
 right to erasure of personal information
 right to integrity of a work
 right to life
+right to make representations
+right to present a defense
 right to privacy
 Right to property
 right to rectification of personal information
@@ -2114,6 +2140,7 @@ Series
 service mark
 Service Medal
 Service of Process
+service period
 settlement
 Severance
 severe calamity
@@ -2198,6 +2225,7 @@ Statute Governing the Retirement of School Faculty and Staff
 statute of limitation for bringing criminal complaint
 Statute of Privatization of Government-Owned Enterprises
 statutory duty
+statutory economic compensation
 statutory peremptory period
 statutory period
 statutory set-off
@@ -2246,6 +2274,7 @@ suspend the driver's license
 suspend the pending procedure
 suspense of application
 suspension from practice
+suspension of administrative reconsideration
 suspension of duty
 suspension of issuing notice of tax payment
 suspension of the limitation period
@@ -2368,6 +2397,9 @@ tenant-farmer
 term extension
 term of the Presidency
 Terminated
+termination of administrative reconsideration
+termination of an employment contract
+termination of an employment contract by mutual agreement
 termination of business
 testify
 The Act Governing Bills Finance Business
@@ -2437,6 +2469,7 @@ Third Section
 three dimensional
 three-dimensional trademark
 time for journey to the court
+time limit for applying for administrative reconsideration
 title
 title transfer documents
 TMEP
@@ -2493,6 +2526,8 @@ trust receipt
 TTAB
 type
 Typed form
+types of administrative penalties
+types of employment contracts
 types of marks
 Typing Room
 U. S. Congress
@@ -2590,10 +2625,13 @@ Witness Lounge
 Witness Protection Act
 World Intellectual Property Organization
 writ of detention
+written application for administrative reconsideration
 written call for capital contribution
 written consent
 written document
+written employment contract
 written form
 written notice
 written request
+written response in administrative reconsideration
 wrongful imprisonment
