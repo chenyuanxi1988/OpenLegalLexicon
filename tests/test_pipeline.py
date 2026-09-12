@@ -141,6 +141,21 @@ class PipelineTests(unittest.TestCase):
         rows,excluded=rime_rows([e],'zh_Hans')
         self.assertEqual(rows,[]);self.assertEqual(excluded,[e['id']])
 
+    def test_suspected_translation_cannot_leak_into_learning_or_completion(self):
+        e=copy.deepcopy(next(e for e in self.entries if e['pronunciation']))
+        e['status']='source_attributed';e['flags']=['suspected_translation_error']
+        self.assertEqual(select([e]), [])
+        self.assertEqual(select([e], include_quarantined=True), [e])
+        with tempfile.TemporaryDirectory() as tmp:
+            out=Path(tmp)/'bundle'
+            stats=export_bundle([e],self.sources,ROOT,out,{})
+            self.assertEqual(stats['study_notes'],0)
+            self.assertEqual(stats['english_completions'],0)
+            self.assertEqual(stats['rime_hans_rows'],0)
+            self.assertEqual(read_json(out/'english.index.json'),{})
+            self.assertEqual(len(list(csv.reader(io.StringIO((out/'legal_dictionary.csv').read_text(encoding='utf-8-sig'))))),1)
+            self.assertFalse(any(not line.startswith('#') for line in (out/'anki.tsv').read_text().splitlines()))
+
     def test_snapshot_tamper_detected(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp);(root/'data/snapshots').mkdir(parents=True)
@@ -221,6 +236,23 @@ class PipelineTests(unittest.TestCase):
         self.assertIn('法域 待核查',result.stdout)
         result=subprocess.run(command+['--limit','0'],env=env,capture_output=True,text=True)
         self.assertEqual(result.returncode,2)
+
+    def test_cli_exposes_source_notes_and_explicit_quarantine_audit(self):
+        env={**os.environ,'PYTHONPATH':str(ROOT/'src')}
+        base=[sys.executable,'-m','openlegallexicon','--root',str(ROOT),'search']
+        ordinary=next(e for e in self.entries if e['id']=='tw-judicial-1666a6f037bdd0fd046f')
+        result=subprocess.run(base+[ordinary['id']],env=env,capture_output=True,text=True)
+        self.assertEqual(result.returncode,0,result.stderr)
+        self.assertFalse(ordinary['definition_zh'])
+        self.assertIn(ordinary['translation_note'],result.stdout)
+        suspect='tw-judicial-d93174a9bac5c5bda259'
+        hidden=subprocess.run(base+[suspect],env=env,capture_output=True,text=True)
+        self.assertEqual(hidden.returncode,0,hidden.stderr)
+        self.assertIn('0 matches',hidden.stdout)
+        audit=subprocess.run(base+[suspect,'--include-quarantined'],env=env,capture_output=True,text=True)
+        self.assertEqual(audit.returncode,0,audit.stderr)
+        self.assertIn('Government Official',audit.stdout)
+        self.assertIn('待核查',audit.stdout)
 
 
 if __name__=='__main__':unittest.main()

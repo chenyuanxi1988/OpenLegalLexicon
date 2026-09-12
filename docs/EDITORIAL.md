@@ -87,4 +87,15 @@ python tools/verify_legal_sources.py --cache /path/to/legal-html --out build/leg
 
 ## 下一阶段编审重点
 
-四批中国大陆核心学习层已经形成 218 条证据型词条，但来源参考层仍有 2,730 条来源对应，其中 1,490 条在自动规则下未分类，且尚未逐条完成法域与译义复核。下一阶段先按高频、机构/法规/缩写、核心领域和同形异义风险建立可审计编审批次；自动规则只用于生成候选队列，不把机器分类状态冒充人工审核完成。
+四批中国大陆核心学习层已经形成 218 条证据型词条，但来源参考层仍有 2,730 条来源对应，其中 1,467 条在自动规则下未分类，且尚未逐条完成法域与译义复核。下一阶段先按高频、机构/法规/缩写、核心领域和同形异义风险建立可审计编审批次；自动规则只用于生成候选队列，不把机器分类状态冒充人工审核完成。
+
+
+## 来源参考层第三批：20 组同形词的 40 条原始记录
+
+本批逐条对照摘要已核验的原始 HTML/CSV，比较前仅做既有 NFC 与空白归一化。补齐遗产、隐私权、住所、假处分、判例、上诉、异议等的类别与词形/语境说明；不补推法域、法条含义或官方法律效果。三批累计处理 57 条，55 条分类/说明复核、2 条隔离；所有 2,730 条来源译文仍保持 source_attributed。详细前后值和原文定位见 [编审报告](../reports/source-review-batch3-2026-09-12.json)。
+
+- 司法院第 905 条“政府公报”原 HTML 确为 Government Official；对照商标快照第 378 条 Official Gazette，前者有词义不完整的疑点。保留原文并隔离，不静默补词。
+- 商标第 451 条“申请期间”原 CSV 确为 prosecution of the application。[USPTO 的 TMEP 说明](https://www.uspto.gov/guidance)将 prosecution 用于申请办理和审查程序；这是本项目标记译义错位疑点的依据之一，不是对源机构意图或替代译文的最终认定。
+- 假处分不因含“处分”就归入行政处罚；准用的拉丁语表达不标成首字母缩写；appeal、opposition、authentication、identification、justify 等保留原词形和程序语境，不能无条件互换。
+
+quarantined 或 suspected_translation_error 记录默认不进入学习与输入法产物；原始快照仍保留，查询时可显式使用 --include-quarantined 查看说明。队列的 unresolved_quality_items 保存未解决事项，不以隔离状态充当复核完成。

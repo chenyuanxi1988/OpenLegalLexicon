@@ -39,6 +39,7 @@ def member_view(entry):
         "status": entry["status"],
         "flags": entry["flags"],
         "translation_review": entry["review"]["translation"],
+        "translation_note": entry.get("translation_note", ""),
     }
 
 
@@ -53,7 +54,8 @@ def build_queue(entries, limit=100):
         if len(members) < 2:
             continue
         source_members = [e for e in members if e["status"] == "source_attributed"]
-        reviewed_members = [e for e in members if e["status"] != "source_attributed"]
+        reviewed_members = [e for e in members if e["status"] in {"editorial_checked", "evidence_linked"}
+                            and "suspected_translation_error" not in e["flags"]]
         if not source_members:
             continue
         source_sets = {source_id(e) for e in source_members}
@@ -110,6 +112,8 @@ def build_queue(entries, limit=100):
 
     source_entries = [e for e in entries if e["status"] == "source_attributed"]
     unclassified = [e for e in source_entries if "unclassified" in e["domains"]]
+    unresolved = [member_view(e) for e in sorted(entries, key=lambda e: e["id"])
+                  if e["status"] == "quarantined" or "suspected_translation_error" in e["flags"]]
     return {
         "purpose": "Deterministic prioritization only; no item is legally reviewed by appearing in this queue.",
         "source_attributed_entries": len(source_entries),
@@ -118,10 +122,13 @@ def build_queue(entries, limit=100):
         "single_high_value_candidates_total": len(singles),
         "homograph_review_groups": groups[:limit],
         "single_high_value_candidates": singles[:limit],
+        "unresolved_quality_items_total": len(unresolved),
+        "unresolved_quality_items": unresolved[:limit],
         "limits": [
             "Source origin does not establish legal jurisdiction.",
             "Surface-kind and domain rules are machine-generated candidates, not legal review.",
             "Original source translations remain source-attributed until independently reviewed.",
+            "Quarantine is an unresolved outcome, not a completed translation review.",
         ],
     }
 

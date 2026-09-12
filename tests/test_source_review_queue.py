@@ -41,6 +41,21 @@ class SourceReviewQueueTests(unittest.TestCase):
         report = build_queue([entry("tw-low", "普通词", domains=["civil"], kind="unclassified")])
         self.assertEqual(report["single_high_value_candidates_total"], 0)
 
+    def test_quarantine_remains_unresolved_and_is_not_a_reviewed_anchor(self):
+        entries = [entry('bad', '公报', status='quarantined', flags=['suspected_translation_error']),
+                   entry('other', '公报', source='tw-tipo-trademark')]
+        report = build_queue(entries)
+        self.assertEqual(report['unresolved_quality_items_total'], 1)
+        self.assertEqual(report['unresolved_quality_items'][0]['id'], 'bad')
+        self.assertNotIn('homograph_with_reviewed_or_editorial_entry', report['homograph_review_groups'][0]['reasons'])
+
+    def test_quality_flag_survives_classification_review_and_limit(self):
+        entries = [entry('b', '乙', status='editorial_checked', flags=['suspected_translation_error']),
+                   entry('a', '甲', status='quarantined')]
+        report = build_queue(entries, limit=1)
+        self.assertEqual(report['unresolved_quality_items_total'], 2)
+        self.assertEqual([e['id'] for e in report['unresolved_quality_items']], ['a'])
+
 
 if __name__ == "__main__":
     unittest.main()

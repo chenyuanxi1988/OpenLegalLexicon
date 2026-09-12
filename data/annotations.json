@@ -1,4 +1,19 @@
 {
+  "tw-judicial-1666a6f037bdd0fd046f": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 domicile；本次只复核词对和概念类别，不把住所、居所及通信地址当作同一概念，成立要件仍须结合具体法域。"
+  },
   "tw-judicial-1cce8fc4e4437dbd19e1": {
     "domain_basis": "editorial",
     "domains": [
@@ -13,6 +28,51 @@
     },
     "status": "editorial_checked",
     "translation_note": "来源同时列出 agency-in-charge 与 authority；仅确认其为主管机关这一公权力主体角色的来源词对，不自动限定具体机关或法域。"
+  },
+  "tw-judicial-242b0a50acd7e329c8a9": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "民事厅来源将异议译作 appeal，同表上诉也用 appeal；保留原文并提示程序歧义，不将异议和上诉自动作为同义词。"
+  },
+  "tw-judicial-3177a2492df11ca5917f": {
+    "domain_basis": "editorial",
+    "domains": [
+      "core"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源采用名词 revocation 表示撤销行为；未指定撤销对象，不能把合同撤销、行政决定撤销等制度规则一并套用。"
+  },
+  "tw-judicial-3696f3fe6d9788e617ff": {
+    "domain_basis": "editorial",
+    "domains": [
+      "core"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源采用动词 presume；保留该词形，不将推定与事实证明或未明确反证规则的结论混同。"
   },
   "tw-judicial-38d26915d51c91de944f": {
     "domain_basis": "editorial",
@@ -61,6 +121,21 @@
     "status": "editorial_checked",
     "translation_note": "本来源使用 mortgage；中国大陆核心层对“抵押权”使用 mortgage right。保留来源差异，不自动宣称两个法域的担保物权制度完全等同。"
   },
+  "tw-judicial-49a3906ef3ddcf667cf6": {
+    "domain_basis": "editorial",
+    "domains": [
+      "core"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 infringement，未给出具体受侵害权利；保持通用术语分类，不将全部侵害限定为知识产权侵权。"
+  },
   "tw-judicial-5b646c403552bd9185c8": {
     "domain_basis": "editorial",
     "domains": [
@@ -92,6 +167,82 @@
     "status": "editorial_checked",
     "translation_note": "来源译作 limitation period of prosecution；保留来源表述，不将其与中国大陆刑法中的追诉时效规则自动视为跨法域完全等义。"
   },
+  "tw-judicial-63ad91b54ff753c266ee": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源记作 precedent(s)，括号表示单复数形式；保留原文。本次不据术语推定先例拘束力，也不把历史判例制度标作现行。"
+  },
+  "tw-judicial-71372bab5c5d36694394": {
+    "domain_basis": "editorial",
+    "domains": [
+      "family"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 decedent's estate，明确带有被继承人限定；不把孤立的 estate 一律对应为遗产，也不与中国大陆核心层记录合并。"
+  },
+  "tw-judicial-71c70242440d02df8e0f": {
+    "domain_basis": "editorial",
+    "domains": [
+      "core"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 application period，保留期间表达；不要与另一来源 prosecution of the application 所指的申请办理过程直接互换。"
+  },
+  "tw-judicial-740ca5593310664a8df9": {
+    "domain_basis": "editorial",
+    "domains": [
+      "administrative",
+      "dispute_resolution"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源为行政诉讼及惩戒厅，采用 Provisional Injunction；按程序术语编排，不因含“处分”二字归为行政处罚。具体保全要件未作跨法域核验。"
+  },
+  "tw-judicial-76f51850575f4763d000": {
+    "domain_basis": "editorial",
+    "domains": [
+      "core"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源保留 applicable mutatis mutandis 整体表达；其中 mutatis mutandis 为拉丁语短语，不能当作首字母缩写拆读。本次未核验任何具体准用条款。"
+  },
   "tw-judicial-793291e247562a0ab93a": {
     "domain_basis": "editorial",
     "domains": [
@@ -106,6 +257,36 @@
     },
     "status": "editorial_checked",
     "translation_note": "来源译作 voluntary surrender to the authorities；保留来源词对，不据此移植中国大陆刑法中自首的构成条件或法律效果。"
+  },
+  "tw-judicial-7e48e18f4d6cf3822348": {
+    "domain_basis": "editorial",
+    "domains": [
+      "administrative"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 official notice，偏重通知这一名词表达；公告也可指公布行为，本次不补推其形式或法律效力。"
+  },
+  "tw-judicial-869ca82f32d727bde533": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 opposition proceeding；与单独“异议”记录的 appeal 保持区分，不由提供单位或中文同形推定具体制度归属。"
   },
   "tw-judicial-8c595a0664bbb33f8335": {
     "domain_basis": "editorial",
@@ -139,6 +320,51 @@
     "status": "editorial_checked",
     "translation_note": "来源同时列出 legal person 与 juristic；保留原始来源译法，不据此认定与中国大陆“法人”的制度范围完全等同。"
   },
+  "tw-judicial-9feec0f984ab60f66a5f": {
+    "domain_basis": "editorial",
+    "domains": [
+      "core"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 statutory period；只表示来源中的法定期间词对，不据此提供期间长度、起算点或延长规则。"
+  },
+  "tw-judicial-a6f2196afd88940998c1": {
+    "domain_basis": "editorial",
+    "domains": [
+      "administrative"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源采用名词 permission；只标示核准这一行为类别，不把所有许可、核准及审批程序认作完全等同。"
+  },
+  "tw-judicial-a7fb7b1d454fc8a1857b": {
+    "domain_basis": "editorial",
+    "domains": [
+      "core"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 recording；未指明登记对象，不把登记一概理解为设权、对抗或公告生效。"
+  },
   "tw-judicial-b67bb0a83939c7711cb9": {
     "domain_basis": "editorial",
     "domains": [
@@ -169,6 +395,22 @@
     "status": "editorial_checked",
     "translation_note": "本来源使用 corporation limited by shares；中国大陆核心层使用 joint stock company。保留两种来源译法，不把公司类型的跨法域对应关系视为已独立核验。"
   },
+  "tw-judicial-ba9697a9c0c93e3fd1a7": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "dispute_resolution"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "民事厅来源用 Third Party；仅确认第三人这一角色表达，不直接推定其已参加诉讼或具有特定程序地位。"
+  },
   "tw-judicial-be8296bb8659fb426422": {
     "domain_basis": "editorial",
     "domains": [
@@ -183,6 +425,21 @@
     },
     "status": "editorial_checked",
     "translation_note": "来源译作 recidivist；仅确认其为刑事法角色类术语，不据此移植其他法域对累犯的成立条件或处罚效果。"
+  },
+  "tw-judicial-c2ad5e1e8e8973156eac": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "民事厅来源用 appeal；保留其程序动作分类。同表“异议”也译作 appeal，不以同一英文合并两种中文程序。"
   },
   "tw-judicial-d8216ca3d26445f3b068": {
     "domain_basis": "editorial",
@@ -199,6 +456,24 @@
     "status": "editorial_checked",
     "translation_note": "来源译作 revocation of the probation；保留来源词对，不据此认定撤销缓刑的法定事由和效果与中国大陆刑法规则相同。"
   },
+  "tw-judicial-d93174a9bac5c5bda259": {
+    "domain_basis": "editorial",
+    "domains": [
+      "administrative"
+    ],
+    "flags": [
+      "suspected_translation_error"
+    ],
+    "kind": "document",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "quarantined",
+    "translation_note": "待核查：原 HTML 确为 Government Official，缺少能够表示公报刊物的词语；与同形商标来源 Official Gazette 不一致。标记疑似不完整译文并隔离，未擅自补译。"
+  },
   "tw-judicial-d95c9414d28394b1777b": {
     "domain_basis": "editorial",
     "domains": [
@@ -213,6 +488,84 @@
     },
     "status": "editorial_checked",
     "translation_note": "来源译作 combination of sentences for multiple offence；保留来源表述，不以中文同形直接推定与中国大陆数罪并罚规则完全等义。"
+  },
+  "tw-judicial-f0b0b42978137adea32b": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "dispute_resolution"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "民事厅来源用 authentication，另两条商标来源使用 identification 和 justify；保留差异，不提供脱离语境的一对一通用替换。"
+  },
+  "tw-judicial-f51b19a8aa715d7aa0a0": {
+    "domain_basis": "editorial",
+    "domains": [
+      "privacy"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源用 right of privacy；保留与核心层 right to privacy 的表述差异，不据此宣称各法域保护范围相同。"
+  },
+  "tw-tipo-trademark-165a4a3c2c54bca201de": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution",
+      "intellectual_property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源采用 preliminary injunction；保留与另一来源 Provisional Injunction 的差别，不将两种表述当作已核验的跨法域同义词。"
+  },
+  "tw-tipo-trademark-2a3d66098325b5263797": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution",
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 appeal；并不表明所有商标救济都是上诉，具体机关、审级及程序范围仍待依据核验。"
+  },
+  "tw-tipo-trademark-2afd19f051c73a328838": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 domicile；不从通信地址或申请人填写的联系资料反推法律住所，保留独立来源记录。"
   },
   "tw-tipo-trademark-32960957d84b6e53d30b": {
     "domain_basis": "editorial",
@@ -229,6 +582,67 @@
     },
     "status": "editorial_checked",
     "translation_note": "商标词表来源使用 competent authority；保留其知识产权业务语境，不与其他来源的“主管机关”记录合并。"
+  },
+  "tw-tipo-trademark-360b06314e80cd2f977f": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution",
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 opposition；与另一来源的 appeal 分列，不能只凭“异议”中文同形替换不同程序的名称。"
+  },
+  "tw-tipo-trademark-41cf74b59f0f9c35d6c7": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源采用名词 allowance；与动词 approve 分列保存，不把其其他语境中的津贴等含义带入此业务词对。"
+  },
+  "tw-tipo-trademark-5b1a9cda0682f227e278": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 identification；与 authentication、justify 记录分别保留。具体识别、确认或证明的对象未由词表给出。"
+  },
+  "tw-tipo-trademark-6638963967b2ff947ec6": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 statutory period；具体申请或争议程序中的期限需按相应依据核验，不能由该通用词条推算。"
   },
   "tw-tipo-trademark-6f1e87924f20a2047c38": {
     "domain_basis": "editorial",
@@ -247,6 +661,100 @@
     "status": "editorial_checked",
     "translation_note": "商标词表来源译作 juristic person；保留来源译法及知识产权使用语境，不与其他来源或中国大陆“法人”记录合并。"
   },
+  "tw-tipo-trademark-6f66fb2f4f3eef2e0b87": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "flags": [
+      "suspected_translation_error"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "quarantined",
+    "translation_note": "待核查：原 CSV 将“申请期间”对应 prosecution of the application；USPTO 对 prosecution 的用法涉及申请办理与审查程序，不能直接确认其为时间期间。标记疑似译义错位并隔离，未改写原文。"
+  },
+  "tw-tipo-trademark-8efed26a9b9a87781d9f": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 recordation；保留与 recording 的表述差别，不据词形确定登记产生的法律效果。"
+  },
+  "tw-tipo-trademark-9eed2463bbf08ab38564": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 third party；相对于何方为第三人须看具体关系，不与另一来源的角色记录自动合并。"
+  },
+  "tw-tipo-trademark-abb1835267c2f4ece061": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源采用动词 approve；另一记录为名词 allowance。保留词形及来源差别，未据此补充特定法定核准条件。"
+  },
+  "tw-tipo-trademark-acf7bae286573e87bc5d": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源采用动词 presume；不由该词条推定具体举证责任或反证规则。"
+  },
+  "tw-tipo-trademark-b84065c11778807899c1": {
+    "domain_basis": "editorial",
+    "domains": [
+      "administrative",
+      "intellectual_property"
+    ],
+    "kind": "document",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 Official Gazette，按官方刊物类别编排；保留独立记录，不借此静默修正另一来源的 Government Official。具体刊物及发行机关未核验。"
+  },
   "tw-tipo-trademark-c76a46791243bb8e877e": {
     "domain_basis": "editorial",
     "domains": [
@@ -263,5 +771,112 @@
     },
     "status": "editorial_checked",
     "translation_note": "商标词表来源译作 ownership；仅确认词对及知识产权语境，不据此把该记录与中国大陆民法典“所有权”的制度内容合并。"
+  },
+  "tw-tipo-trademark-cb4067a746b0c584a8a7": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源采用拉丁语短语 mutatis mutandis；用于商标词表的准用表达，不据此判定某一法条可直接适用或无需调整。"
+  },
+  "tw-tipo-trademark-dbef844413f14da096fa": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标词表用 infringement；保留知识产权业务语境，不能据同形中文与其他来源记录自动合并。"
+  },
+  "tw-tipo-trademark-dec384c977bfb4253ec4": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源采用动词 cancel；保留与 revocation 的词形差异，具体撤销对象、程序与效力未核验。"
+  },
+  "tw-tipo-trademark-e5fb93e5f017f8df57fd": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution",
+      "intellectual_property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 opposition proceeding；只保留程序名称对应，提起条件、主体及期限尚未独立核验。"
+  },
+  "tw-tipo-trademark-ea46511c76f0f7ca111c": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 Publication；保留该业务词对，与 official notice 记录分别展示，不据此确定特定公告程序或期限。"
+  },
+  "tw-tipo-trademark-ea61914f555c64f53b5a": {
+    "domain_basis": "editorial",
+    "domains": [
+      "dispute_resolution",
+      "intellectual_property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源用 precedent；不同法域下判例、裁判先例及其效力需另行核验，不仅凭译名认定拘束力。"
+  },
+  "tw-tipo-trademark-f361a025fdd7e30953e0": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-12 (classification and source comparison only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标来源采用动词 justify；与其他“证明”的名词译法分列，保留词形差异和语境限制。"
   }
 }

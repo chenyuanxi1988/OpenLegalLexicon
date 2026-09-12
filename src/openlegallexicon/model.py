@@ -151,7 +151,8 @@ def load_entries(root):
 
 
 def eligible(entry):
-    return entry["status"] != "quarantined" and "invalid_bilingual_text" not in entry["flags"] and "template_or_placeholder" not in entry["flags"]
+    blocked_flags = {"invalid_bilingual_text", "template_or_placeholder", "suspected_translation_error"}
+    return entry["status"] != "quarantined" and not blocked_flags.intersection(entry["flags"])
 
 
 def select(entries, *, query="", domain=None, jurisdiction=None, origin=None, profile=None, include_quarantined=False):

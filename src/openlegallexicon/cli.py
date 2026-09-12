@@ -71,7 +71,11 @@ def main(argv=None):
                     for e in chosen[:args.limit]:
                         print(f"{e['forms']['zh_Hans']} / {e['forms']['zh_Hant']}\n  {e['forms']['en']}\n  来源地区 {e['source_origin']}；法域 {','.join(e['jurisdictions']) or '待核查'}；领域 {','.join(e['domains'])}\n  {e['id']}；{e['review']['translation']}")
                         if e['definition_zh']:
-                            print(f"  释义：{e['definition_zh']}\n  提示：{e['learning_note']}\n  译法：{e['translation_note']}")
+                            print(f"  释义：{e['definition_zh']}\n  提示：{e['learning_note']}")
+                        if e['translation_note']:
+                            print(f"  译法：{e['translation_note']}")
+                        if e['status'] == 'quarantined' or 'suspected_translation_error' in e['flags']:
+                            print('  待核查：译义或质量问题尚未解决，默认学习与输入法导出排除此条。')
                     print(f'{len(chosen)} matches; showing {min(len(chosen),args.limit)}')
         return 0
     except (ValueError, OSError, KeyError, TypeError) as error:
