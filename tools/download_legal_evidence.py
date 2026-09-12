@@ -73,9 +73,11 @@ def main() -> int:
     for target in targets:
         path = args.cache / f"{target['id']}.html"
         temporary = path.with_suffix('.html.part')
+        # Do not follow redirects. A moved source must be reviewed and its final
+        # official *.gov.cn URL registered explicitly before it can be evidence.
         subprocess.run(
-            [curl, '--fail', '--location', '--proto', '=https', '--proto-redir', '=https',
-             '--max-time', '60', '--retry', '2', '--silent', '--show-error', '--output', str(temporary), target['url']],
+            [curl, '--fail', '--proto', '=https', '--max-time', '60', '--retry', '2',
+             '--silent', '--show-error', '--output', str(temporary), target['url']],
             check=True,
         )
         temporary.replace(path)
