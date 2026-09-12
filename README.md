@@ -4,40 +4,42 @@
 
 Traceable Chinese–English legal terminology for study, search and input methods.
 
-**开发中：0.1.0.dev2。** 当前有可运行的数据管线和词库，尚未完成全领域、全法域覆盖与逐条法律译义复核。完成状态和续作入口见 [PROGRESS.md](PROGRESS.md)，每步记录见 [WORK_LOG.md](WORK_LOG.md)。
+**开发中：0.1.0.dev3。** 当前已有可运行、可验证、可直接下载的数据管线和词库；中国大陆核心学习层已完成首批民商/数据/竞争/知识产权及第二批行政/劳动扩充，但税务、贸易、刑事、来源参考层逐条编审和语音项目适配仍在继续。完成状态和续作入口见 [PROGRESS.md](PROGRESS.md)，每步记录见 [WORK_LOG.md](WORK_LOG.md)。
 
 ## 现在包含什么
 
 | 内容 | 当前结果 |
 | --- | --- |
 | 官方来源快照 | 司法院双语词汇 2,121 行；智慧财产局商标词表 613 行 |
-| 结构化词条 | 2,829 条：2,730 条来源对应 + 99 条有法条证据的项目释义；原表合并的 4 行保留全部行号 |
-| 核心学习层 | 99 条中文释义、学习提示、英文释译及译法说明；五部法律的 101 个具体条文；22 条易混关系 |
+| 结构化词条 | 2,862 条：2,730 条来源对应 + 137 条有法条证据的项目释义；其中 5 条模板/占位来源记录默认不展示 |
+| 核心学习层 | 137 条中文释义、学习提示、英文项目释译及译法说明；覆盖民法典、公司法、个人信息保护法、反垄断法、著作权法、行政处罚法、行政复议法、劳动合同法 |
 | 字段 | 原文、简繁体、英文、拼音、来源、许可、语境、释义、译法说明、法条证据、关系、法域及审核状态 |
 | 检索 | 中文、英文、拼音、ID，以及领域、来源地区、已核验法域筛选 |
-| 导出 | JSONL、TSV、双向 Anki TSV、英文候选词表、简体和繁体 Rime 词典及独立方案 |
+| 导出 | JSONL、TSV、双向 Anki TSV、核心学习 CSV/Anki、英文候选词表、简体和繁体 Rime 词典及独立方案 |
 | 追溯 | 每份构建附来源与许可、导出行到词条的映射、构建配置、SHA-256 摘要 |
+| 最新远端验证 | GitHub Actions 34665866093：Python 3.10/3.12、单测、构建、真实 Rime、真实 Anki 与下载发布全部成功 |
 
-两家提供机构都位于台湾，词表中同时含本地、外国、国际制度与历史名称。`source_origin=TW` 仅表示来源地区，**不表示术语都适用于台湾，更不表示简体转换后就适用于中国大陆**。未经查证的 `jurisdictions` 留空。原词对是来源中的译文对应，不冒充跨法域的严格等义概念。
+两家第三方提供机构都位于台湾，词表中同时含本地、外国、国际制度与历史名称。`source_origin=TW` 仅表示来源地区，**不表示术语都适用于台湾，更不表示简体转换后就适用于中国大陆**。未经查证的 `jurisdictions` 留空。原词对是来源中的译文对应，不冒充跨法域的严格等义概念。
 
-模板、占位符和隔离条目不进入默认学习/输入法输出。输入法还排除多项中文、附注及过长标签。拼音、简体及部分分类由程序生成，状态明确记录；尚不能声称已经由法律专家逐条审核。
+中国大陆核心学习层是 OpenLegalLexicon 原创编写层：中文释义、学习提示和英文均逐条关联具体法律条文，英文状态为 `project_authored`，不是官方正式译文；AI 辅助编辑、机器简繁转换和机器读音均明确标示，也不冒充人工法律专家审核。
+
+模板、占位符和隔离条目不进入默认学习/输入法输出。输入法还排除多项中文、附注及过长标签。拼音、简体及部分来源参考层分类由程序生成，状态明确记录。
 
 ## 使用
 
-学生和教师可先下载 [核心学习词典 CSV](dictionary/legal_dictionary_core.csv) 或 [核心 Anki 闪卡](dictionary/anki_core.tsv)。完整来源参考版与输入法文件见 [dictionary/](dictionary/README.md)。核心层英文标记为 `project_authored`（项目释译），没有冒充官方译文或人工法律专家审核。
+学生和教师可先下载 [核心学习词典 CSV](dictionary/legal_dictionary_core.csv) 或 [核心 Anki 闪卡](dictionary/anki_core.tsv)。完整来源参考版与输入法文件见 [dictionary/](dictionary/README.md)。
 
 按主题或法域查询时，可以增加 `--profile learning`，仅选择有释义和法条证据的词条。例如：
 
 ```sh
-oll search 匿名化 --profile learning --jurisdiction CN
+oll search 行政复议 --profile learning --jurisdiction CN
+oll search 竞业限制 --profile learning --domain employment
 oll build --profile learning --out build/core-study
 ```
 
-核心层来源地区 `INTERNATIONAL` 表示项目编写层，适用法域 `CN` 表示中国大陆法律语境。具体法条版本与出处见 [编审与证据](docs/EDITORIAL.md)。
+核心层来源地区 `INTERNATIONAL` 表示项目编写层，适用法域 `CN` 表示中国大陆法律语境。具体法条版本与出处见 [编审与证据](docs/EDITORIAL.md)；下一批官方文本基线见 [中国大陆领域来源基线](docs/CN_DOMAIN_SOURCE_BASELINE_2026-09-12.md)。
 
-无需安装开发环境：[直接下载词典、中文/英文词表和 Rime 文件](dictionary/README.md)。当前为来源参考版，适用范围与未完成核验项目见该目录说明。
-
-以下步骤供开发者或希望自行筛选和构建的使用者：
+无需安装开发环境：[直接下载词典、中文/英文词表和 Rime 文件](dictionary/README.md)。以下步骤供开发者或希望自行筛选和构建的使用者。
 
 需要 Python 3.10 或更新版本。在本仓库目录内：
 
@@ -56,7 +58,7 @@ oll build --out build/local-1
 
 查询和构建使用仓库内的已存快照，安装依赖后可离线运行。从其他目录运行时传入 `oll --root /path/to/OpenLegalLexicon ...`。每次构建使用新的输出目录，避免覆盖已有产物。
 
-当前默认构建产生 2,725 条可展示词条、5,450 张双向学习记录、2,504 项英文候选，以及简繁各 2,410 行 Rime 词典。筛选后数量会变化；完整审计数据仍保留全部原始记录。词条数、译法数、输入法行数和卡片数分别统计，不能互相当作词库规模。
+最新自动发布构建（`dictionary/build.json`，0.1.0.dev3）包含 **2,862 个结构化记录、137 条核心学习词条、5,724 条双向学习记录、2,637 项英文候选、简繁各 2,538 行 Rime 词典**。筛选后数量会变化；词条数、译法数、输入法行数和卡片数分别统计，不能互相当作词库规模。
 
 ### 输入法
 
@@ -66,13 +68,13 @@ oll build --out build/local-1
 
 ### 学习
 
-`anki.tsv` 含稳定 ID、问题、答案、语境、学习注释、来源、标签。按 [学习导入说明](docs/STUDY.md) 建立一次笔记类型后导入；两种方向各一条记录，重复导入依据 ID 更新。原译文中的并列项保持在一张卡内，不擅自拆成等义术语。
+`anki.tsv` 含稳定 ID、问题、答案、语境、学习注释、来源、标签。按 [学习导入说明](docs/STUDY.md) 建立一次笔记类型后导入；两种方向各一条记录，重复导入依据 ID 更新。`anki_core.tsv` 仅含证据型核心学习层。远端 CI 使用 Anki 26.8.1 官方核心在隔离集合中实际执行导入与重复导入检查。
 
 ## 数据与许可
 
-代码和原创文档采用 [MIT](LICENSE)；第三方数据保留 **OGDL-Taiwan-1.0**，原创数据注释与编排采用 **CC BY 4.0**。详见 [DATA_LICENSE.md](DATA_LICENSE.md)。使用或转发构建结果时，保留其中的 `ATTRIBUTION.md`、`sources.json` 和数据许可文件。
+代码和原创文档采用 [MIT](LICENSE)；第三方数据保留 **OGDL-Taiwan-1.0**，原创数据注释、释义、项目英文释译与编排采用 **CC BY 4.0**。详见 [DATA_LICENSE.md](DATA_LICENSE.md)。使用或转发构建结果时，保留其中的 `ATTRIBUTION.md`、`sources.json` 和数据许可文件。
 
-原始数据许可证据、来源摘要均已保存。香港律政司词表当前未导入，理由见 [来源审查](docs/SOURCE_REVIEW.md)。
+原始数据许可证据、来源摘要均已保存。香港律政司词表当前未导入，理由见 [来源审查](docs/SOURCE_REVIEW.md)。中国大陆法律证据层只保留用于逐条核验的法律文本、版本和摘要；不复制第三方英文译文，也不把整个政府网页视为可自由再分发内容。
 
 ## 开发与贡献
 
@@ -83,4 +85,4 @@ oll report --out build/quality.json
 
 运行真实输入法检查需要 librime 开发库与 `rime_deployer`，见 [验证说明](docs/VALIDATION.md)。字段规则见 [数据结构](docs/DATA_MODEL.md)，贡献与更新流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-下一阶段继续补充中国大陆等法域的来源证据、领域分类和学习注释，并核验 Qwen3-ASR 适配及语音评测；这些工作尚未完成，详见 [开发计划](DEVELOPMENT_PLAN.md)。
+当前开发顺序是：完成现行增值税法、关税法和 2025 年第二次修订《对外贸易法》的证据型核心词条；随后解决含刑法修正案（十二）的现行刑法合并文本；再继续来源参考层逐条编审、私有词库叠加与 Qwen3-ASR/真实音频评测。每个阶段均要求远端 CI、真实 Anki/Rime 验证和下载版发布闭环，详见 [PROGRESS.md](PROGRESS.md) 与 [开发计划](DEVELOPMENT_PLAN.md)。
