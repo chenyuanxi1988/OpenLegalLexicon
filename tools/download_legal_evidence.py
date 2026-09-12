@@ -13,6 +13,7 @@ import json
 from pathlib import Path
 import shutil
 import subprocess
+from urllib.parse import urlparse
 
 from openlegallexicon.io import digest, read_json, write_json
 
@@ -27,6 +28,9 @@ def validate_target(row: object) -> dict:
         raise ValueError('source target id must be non-empty')
     if not isinstance(row['url'], str) or not row['url'].startswith('https://'):
         raise ValueError(f"{row['id']}: HTTPS URL required")
+    host = (urlparse(row['url']).hostname or '').lower().rstrip('.')
+    if host != 'gov.cn' and not host.endswith('.gov.cn'):
+        raise ValueError(f"{row['id']}: source host must be an official *.gov.cn domain")
     if row['jurisdiction'] != 'CN':
         raise ValueError(f"{row['id']}: current evidence bootstrap only accepts CN")
     if not isinstance(row['priority_articles'], list) or not row['priority_articles'] or any(
