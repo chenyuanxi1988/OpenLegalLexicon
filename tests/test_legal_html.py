@@ -23,6 +23,27 @@ class LegalHtmlTests(unittest.TestCase):
             3: '第三条 第三条正文。',
         })
 
+    def test_inserted_article_is_boundary_not_contamination(self):
+        raw = '''<html><body>
+        <p>第一条 第一条正文。</p>
+        <p>第一条之一 插入条文，不应并入第一条。</p>
+        <p>第二条 第二条正文。</p>
+        <p>第三条 第三条正文。</p>
+        </body></html>'''.encode('utf-8')
+        self.assertEqual(extract_articles(raw), {
+            1: '第一条 第一条正文。',
+            2: '第二条 第二条正文。',
+            3: '第三条 第三条正文。',
+        })
+
+    def test_reject_duplicate_or_reordered_inserted_article(self):
+        duplicate = '''<p>第一条 正文。</p><p>第一条之一 插入。</p><p>第一条之一 重复。</p><p>第二条 正文。</p>'''.encode('utf-8')
+        with self.assertRaisesRegex(ValueError, 'Missing, duplicate or reordered'):
+            extract_articles(duplicate)
+        reordered = '''<p>第一条 正文。</p><p>第二条 正文。</p><p>第一条之一 太晚出现。</p>'''.encode('utf-8')
+        with self.assertRaisesRegex(ValueError, 'Missing, duplicate or reordered'):
+            extract_articles(reordered)
+
     def test_reject_missing_or_partial_sequence(self):
         raw = '<p>第二条 只有第二条。</p><p>第三条 只有第三条。</p>'.encode('utf-8')
         with self.assertRaisesRegex(ValueError, 'Missing, duplicate or reordered'):
