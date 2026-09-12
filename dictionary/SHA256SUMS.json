@@ -1,0 +1,18 @@
+{
+  "ATTRIBUTION.md": "c55bd5063ae53078aa17075f0dea11fdaf84ee42bf5fe1a4a436ddcd476013a0",
+  "DATA_LICENSE.md": "4cadc4f9f58c5adc96815200de71ac224cd894d72f0834986c048fb61fe8ac52",
+  "build.json": "737846d5379af6befe04dcdf8157f324f1df70522508ad3735b871f25f3420fc",
+  "english.index.json": "1e82cbc497624ad6fa5a40dfece6f2b36a31afad371928777394fb8a6187beb5",
+  "english.txt": "0eec8b30a13a3daf8041fb55e1782a6a1e557ec9537352a37f3f710ebdd7293b",
+  "legal_dictionary.csv": "3cd7641ba32672a0d3520b687733dbc4a0668e8bd0ee999c55dae05c1abf5c11",
+  "legal_dictionary.tsv": "fda7ad2fd9a2c4f9de9e1d72cb42efee42e2e0abe5db0f9f9f4f507965913282",
+  "legal_terms_zh.txt": "2d6b1f66202a7b333f0362e969e4e37a72ca7136b85df6a7919101aeac7656f1",
+  "legal_terms_zh_hant.txt": "c380cd136958e6d0a322564147a974f4f5f1d9f417aa890dc76658ecc0add75c",
+  "openlegal_hans.dict.yaml": "9099604c770fa2e64502c54867050218542568919d9f1ec20b1d8012d5e80dfd",
+  "openlegal_hans.index.json": "ae00b19053f11e10de68bbfaf906858b1287acdd20a3e288744b1458b69186a4",
+  "openlegal_hans.schema.yaml": "d430420ae1c0dd624e1197f838ee24f0eb44a92ea65da20f684db73bb8370ed8",
+  "openlegal_hant.dict.yaml": "5ad0da07b67cac8158d3e3f6e97e2cd496b43c3f38dc10b80a358521464c27a5",
+  "openlegal_hant.index.json": "750ea4ed093307d4851806f2a8535f4c23b0611f7414fc6afc10072c71b8e1ec",
+  "openlegal_hant.schema.yaml": "04000733b49b9235dac983338858259bebe6683a6b3a617a19b3c3c1c2593914",
+  "sources.json": "1979af2d873e677b794c76f46408cdd1f9310ce855b82cb68c8f2dda51e05974"
+}

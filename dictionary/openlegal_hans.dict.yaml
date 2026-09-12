@@ -1,0 +1,2420 @@
+# Rime dictionary
+# Data: see ATTRIBUTION.md and DATA_LICENSE.md
+# Pronunciations include machine-generated readings; fixed weight is not corpus frequency.
+---
+name: openlegal_hans
+version: "0.1.0.dev1"
+sort: by_weight
+use_preset_vocabulary: false
+columns: [text, code, weight]
+...
+案件收结	an jian shou jie	1
+安迁救济金	an qian jiu ji jin	1
+暗示性商标	an shi xing shang biao	1
+暗示性同意	an shi xing tong yi	1
+安置辅导	an zhi fu dao	1
+巴黎公约	ba li gong yue	1
+罢免	ba mian	1
+罢免权	ba mian quan	1
+办理民事诉讼事件应行注意事项	ban li min shi su song shi jian ying xing zhu yi shi xiang	1
+办理强制执行事件应行注意事项	ban li qiang zhi zhi xing shi jian ying xing zhu yi shi xiang	1
+办理强制执行应行注意事项	ban li qiang zhi zhi xing ying xing zhu yi shi xiang	1
+保安处分	bao an chu fen	1
+报酬	bao chou	1
+报到处	bao dao chu	1
+报关	bao guan	1
+保护范围	bao hu fan wei	1
+保护管束	bao hu guan shu	1
+保护令	bao hu ling	1
+保价邮件	bao jia you jian	1
+保全程序	bao quan cheng xu	1
+保税工厂	bao shui gong chang	1
+保险	bao xian	1
+保险代理人经纪人公证人管理规则	bao xian dai li ren jing ji ren gong zheng ren guan li gui ze	1
+保险法	bao xian fa	1
+保险年资	bao xian nian zi	1
+保险事故	bao xian shi gu	1
+保证	bao zheng	1
+保证金	bao zheng jin	1
+保证契约	bao zheng qi yue	1
+保证人	bao zheng ren	1
+保证债务	bao zheng zhai wu	1
+报值邮件	bao zhi you jian	1
+被保险人	bei bao xian ren	1
+被保险人之量能负担	bei bao xian ren zhi liang neng fu dan	1
+被保证债务	bei bao zheng zhai wu	1
+被告及辅佐人席	bei gao ji fu zuo ren xi	1
+被告及诉讼代理人席	bei gao ji su song dai li ren xi	1
+被害人	bei hai ren	1
+被害人告诉人及代理人席	bei hai ren gao su ren ji dai li ren xi	1
+被继承人	bei ji cheng ren	1
+被继承人财产	bei ji cheng ren cai chan	1
+被上诉人及诉讼代理人席	bei shang su ren ji su song dai li ren xi	1
+被授权人	bei shou quan ren	1
+被收养人	bei shou yang ren	1
+被误解地	bei wu jie di	1
+本俸	ben feng	1
+本国注册或申请	ben guo zhu ce huo shen qing	1
+本身	ben shen	1
+比例代表制	bi li dai biao zhi	1
+比例原则	bi li yuan ze	1
+避免混淆	bi mian hun xiao	1
+避免紧急危难	bi mian jin ji wei nan	1
+必要措施	bi yao cuo shi	1
+必要性原则	bi yao xing yuan ze	1
+变更	bian geng	1
+变更登记	bian geng deng ji	1
+变更判例会议	bian geng pan li hui yi	1
+辩护人席	bian hu ren xi	1
+编审	bian shen	1
+辨识来源	bian shi lai yuan	1
+变造	bian zao	1
+编纂	bian zuan	1
+表面上证据确凿的案件	biao mian shang zheng ju que zao de an jian	1
+表现自我	biao xian zi wo	1
+标章类型	biao zhang lei xing	1
+标准地价评议委员会	biao zhun di jia ping yi wei yuan hui	1
+标准法	biao zhun fa	1
+别除权	bie chu quan	1
+并存	bing cun	1
+并存使用	bing cun shi yong	1
+并存使用协议	bing cun shi yong xie yi	1
+并存协议	bing cun xie yi	1
+病假	bing jia	1
+兵役	bing yi	1
+兵役法	bing yi fa	1
+兵役法施行法	bing yi fa shi xing fa	1
+兵役体检	bing yi ti jian	1
+兵役义务	bing yi yi wu	1
+驳回诉讼	bo hui su song	1
+不变期间	bu bian qi jian	1
+补偿地价	bu chang di jia	1
+补偿费	bu chang fei	1
+补充规定	bu chong gui ding	1
+不当行为	bu dang xing wei	1
+不动产	bu dong chan	1
+不动产估价师法	bu dong chan gu jia shi fa	1
+不动产经纪业管理条例	bu dong chan jing ji ye guan li tiao li	1
+不动产权利变更登记	bu dong chan quan li bian geng deng ji	1
+部分	bu fen	1
+不公平竞争	bu gong ping jing zheng	1
+不公平竞争行为	bu gong ping jing zheng xing wei	1
+补救措施	bu jiu cuo shi	1
+不堪同居之虐待	bu kan tong ju zhi nve dai	1
+不可废止性	bu ke fei zhi xing	1
+不可抗力	bu ke kang li	1
+不可能实行	bu ke neng shi xing	1
+不起诉处分	bu qi su chu fen	1
+不确定法律概念	bu que ding fa lv gai nian	1
+哺乳室	bu ru shi	1
+不受理判决	bu shou li pan jue	1
+不信任案	bu xin ren an	1
+补正	bu zheng	1
+不作为	bu zuo wei	1
+财产权	cai chan quan	1
+裁定	cai ding	1
+裁罚标准	cai fa biao zhun	1
+裁量	cai liang	1
+裁量范围	cai liang fan wei	1
+采尿室	cai niao shi	1
+裁判费	cai pan fei	1
+财团法人	cai tuan fa ren	1
+财物案件处理办法	cai wu an jian chu li ban fa	1
+采验尿液	cai yan niao ye	1
+财政部国库署组织条例	cai zheng bu guo ku shu zu zhi tiao li	1
+财政收支划分法	cai zheng shou zhi hua fen fa	1
+财政责任分配	cai zheng ze ren fen pei	1
+财政自主权	cai zheng zi zhu quan	1
+参谋总长	can mou zong zhang	1
+参审员	can shen yuan	1
+参事	can shi	1
+参事室	can shi shi	1
+餐厅	can ting	1
+参政权	can zheng quan	1
+舱口单	cang kou dan	1
+操作员	cao zuo yuan	1
+差别待遇	cha bie dai yu	1
+查缉	cha ji	1
+阐明权	chan ming quan	1
+产品或服务与产地之关联性	chan pin huo fu wu yu chan di zhi guan lian xing	1
+产业升级	chan ye sheng ji	1
+常备军官	chang bei jun guan	1
+长期居留	chang qi ju liu	1
+常业文官	chang ye wen guan	1
+超出党派	chao chu dang pai	1
+撤回	che hui	1
+撤回异议	che hui yi yi	1
+车祸逃逸	che huo tao yi	1
+车库	che ku	1
+撤销	che xiao	1
+撤销登记	che xiao deng ji	1
+撤销缓刑	che xiao huan xing	1
+撤销或废止	che xiao huo fei zhi	1
+撤销诉讼	che xiao su song	1
+惩戒处分	cheng jie chu fen	1
+惩戒处分议决	cheng jie chu fen yi jue	1
+惩戒法庭	cheng jie fa ting	1
+惩戒法院	cheng jie fa yuan	1
+惩戒机关	cheng jie ji guan	1
+程式设计师	cheng shi she ji shi	1
+诚信	cheng xin	1
+程序	cheng xu	1
+程序监理人	cheng xu jian li ren	1
+惩治盗匪条例	cheng zhi dao fei tiao li	1
+惩治汉奸条例	cheng zhi han jian tiao li	1
+惩治叛乱条例	cheng zhi pan luan tiao li	1
+惩治走私条例	cheng zhi zou si tiao li	1
+褫夺公权	chi duo gong quan	1
+冲动的	chong dong de	1
+冲动的或世故精明的购买	chong dong de huo shi gu jing ming de gou mai	1
+重复处罚	chong fu chu fa	1
+重复追诉	chong fu zhui su	1
+重婚者	chong hun zhe	1
+冲突之商标	chong tu zhi shang biao	1
+重新审理	chong xin shen li	1
+抽象危险犯	chou xiang wei xian fan	1
+出版法	chu ban fa	1
+出版品协调执行小组	chu ban pin xie tiao zhi xing xiao zu	1
+出版自由	chu ban zi you	1
+初步检索	chu bu jian suo	1
+初步审阅	chu bu shen yue	1
+储藏室	chu cang shi	1
+处罚	chu fa	1
+处罚规定	chu fa gui ding	1
+厨房	chu fang	1
+处方用药	chu fang yong yao	1
+处分命令	chu fen ming ling	1
+处理	chu li	1
+出卖及出典	chu mai ji chu dian	1
+出纳	chu na	1
+出纳室	chu na shi	1
+除权判决	chu quan pan jue	1
+初审法院	chu shen fa yuan	1
+初审期间	chu shen qi jian	1
+储蓄互助社法	chu xu hu zhu she fa	1
+处长	chu zhang	1
+处长室	chu zhang shi	1
+出租耕地	chu zu geng di	1
+船舶登记法	chuan bo deng ji fa	1
+船舶法	chuan bo fa	1
+船舶失事	chuan bo shi shi	1
+传唤	chuan huan	1
+船员法	chuan yuan fa	1
+创造性商标	chuang zao xing shang biao	1
+创制权	chuang zhi quan	1
+绰号	chuo hao	1
+辞职	ci zhi	1
+从契约	cong qi yue	1
+从事于公务之权利	cong shi yu gong wu zhi quan li	1
+从刑	cong xing	1
+促进产业升级条例	cu jin chan ye sheng ji tiao li	1
+促进产业升级条例施行细则	cu jin chan ye sheng ji tiao li shi xing xi ze	1
+促进民间参与公共建设法	cu jin min jian can yu gong gong jian she fa	1
+存证信函	cun zheng xin han	1
+措施性法律	cuo shi xing fa lv	1
+错误的描述	cuo wu de miao shu	1
+大法官	da fa guan	1
+大法官办公室	da fa guan ban gong shi	1
+大法官会客室	da fa guan hui ke shi	1
+大法官会议室	da fa guan hui yi shi	1
+大法官书记处	da fa guan shu ji chu	1
+大法官图书资料室	da fa guan tu shu zi liao shi	1
+大法官休息室	da fa guan xiu xi shi	1
+大法官助理	da fa guan zhu li	1
+大法官助理办公室	da fa guan zhu li ban gong shi	1
+大法庭	da fa ting	1
+大礼堂	da li tang	1
+大陆地区人民进入台湾地区许可办法	da lu di qu ren min jin ru tai wan di qu xu ke ban fa	1
+大陆地区人民在台湾定居或居留许可办法	da lu di qu ren min zai tai wan ding ju huo ju liu xu ke ban fa	1
+大学独立学院及专科学校教师资格审查办法	da xue du li xue yuan ji zhuan ke xue xiao jiao shi zi ge shen cha ban fa	1
+大学法	da xue fa	1
+大学法施行细则	da xue fa shi xing xi ze	1
+大学自治	da xue zi zhi	1
+打字室	da zi shi	1
+代表总额	dai biao zong e	1
+逮捕拘禁	dai bu ju jin	1
+代收传真	dai shou chuan zhen	1
+代替利益	dai ti li yi	1
+代位继承	dai wei ji cheng	1
+代位物	dai wei wu	1
+代撰书状	dai zhuan shu zhuang	1
+担保金	dan bao jin	1
+担保提存	dan bao ti cun	1
+担保物	dan bao wu	1
+单方行政行为	dan fang xing zheng xing wei	1
+淡化	dan hua	1
+淡化之虞	dan hua zhi yu	1
+但书	dan shu	1
+单位决算	dan wei jue suan	1
+单位预算	dan wei yu suan	1
+档案法	dang an fa	1
+档案管理局组织条例	dang an guan li ju zu zhi tiao li	1
+档案室	dang an shi	1
+当然解释	dang ran jie shi	1
+当申请案付诸审查执行程序时	dang shen qing an fu zhu shen cha zhi xing cheng xu shi	1
+当事人	dang shi ren	1
+当事人能力	dang shi ren neng li	1
+当事人休息室	dang shi ren xiu xi shi	1
+党务	dang wu	1
+到案	dao an	1
+道路交通安全规则	dao lu jiao tong an quan gui ze	1
+道路交通安全讲习	dao lu jiao tong an quan jiang xi	1
+道路交通管理	dao lu jiao tong guan li	1
+道路交通管理处罚条例	dao lu jiao tong guan li chu fa tiao li	1
+导师	dao shi	1
+灯管维修室	deng guan wei xiu shi	1
+登记	deng ji	1
+登记处	deng ji chu	1
+递补	di bu	1
+第二层意义	di er ceng yi yi	1
+第二科	di er ke	1
+第二来源	di er lai yuan	1
+第二审	di er shen	1
+地方公共团体	di fang gong gong tuan ti	1
+地方货币	di fang huo bi	1
+地方机关	di fang ji guan	1
+地方议会	di fang yi hui	1
+地方议会议长	di fang yi hui yi zhang	1
+地方制度法	di fang zhi du fa	1
+地方自治	di fang zi zhi	1
+地方自治团体	di fang zi zhi tuan ti	1
+抵减税额	di jian shui e	1
+地理标示	di li biao shi	1
+第六科	di liu ke	1
+地名词典	di ming ci dian	1
+第三科	di san ke	1
+第三人	di san ren	1
+第三人异议	di san ren yi yi	1
+第三审	di san shen	1
+第三审法院	di san shen fa yuan	1
+地上权	di shang quan	1
+地上权登记	di shang quan deng ji	1
+地上权人	di shang quan ren	1
+地上物	di shang wu	1
+第四科	di si ke	1
+第五科	di wu ke	1
+地下设施物	di xia she shi wu	1
+抵押权	di ya quan	1
+抵押权人	di ya quan ren	1
+抵押权设定登记	di ya quan she ding deng ji	1
+抵押人	di ya ren	1
+抵押物	di ya wu	1
+第一届国民大会代表出缺递补补充条例	di yi jie guo min da hui dai biao chu que di bu bu chong tiao li	1
+第一科	di yi ke	1
+地政机关	di zheng ji guan	1
+地政士法	di zheng shi fa	1
+点画说明	dian hua shuo ming	1
+电脑键入员	dian nao jian ru yuan	1
+电脑教室	dian nao jiao shi	1
+佃农	dian nong	1
+电气室	dian qi shi	1
+典权	dian quan	1
+典权人	dian quan ren	1
+典试法	dian shi fa	1
+电信法	dian xin fa	1
+典押当业	dian ya dang ye	1
+典押当业管理规则	dian ya dang ye guan li gui ze	1
+电业法	dian ye fa	1
+电影法	dian ying fa	1
+调办事法官	diao ban shi fa guan	1
+调查	diao cha	1
+调查保护室	diao cha bao hu shi	1
+调查权	diao cha quan	1
+调任	diao ren	1
+吊销驾驶执照	diao xiao jia shi zhi zhao	1
+定期改选	ding qi gai xuan	1
+动产担保交易	dong chan dan bao jiao yi	1
+动产担保交易法	dong chan dan bao jiao yi fa	1
+动产抵押	dong chan di ya	1
+董事	dong shi	1
+董事长	dong shi zhang	1
+动物保护法	dong wu bao hu fa	1
+动物传染病防治条例	dong wu chuan ran bing fang zhi tiao li	1
+动物用药品管理法	dong wu yong yao pin guan li fa	1
+动员戡乱时期	dong yuan kan luan shi qi	1
+动员戡乱时期国家安全法	dong yuan kan luan shi qi guo jia an quan fa	1
+动员戡乱时期国家安全法施行细则	dong yuan kan luan shi qi guo jia an quan fa shi xing xi ze	1
+动员戡乱时期劳资纠纷处理办法	dong yuan kan luan shi qi lao zi jiu fen chu li ban fa	1
+动员戡乱时期临时条款	dong yuan kan luan shi qi lin shi tiao kuan	1
+独立参加人	du li can jia ren	1
+度量衡法	du liang heng fa	1
+毒品	du pin	1
+毒品危害防制条例	du pin wei hai fang zhi tiao li	1
+都市计划	du shi ji hua	1
+都市计划法	du shi ji hua fa	1
+都市计划公共实施用地多目标方案	du shi ji hua gong gong shi shi yong di duo mu biao fang an	1
+都市计划用地	du shi ji hua yong di	1
+都市计划桩测定及管理办法	du shi ji hua zhuang ce ding ji guan li ban fa	1
+读音	du yin	1
+读音近似	du yin jin si	1
+端正政风行动方案	duan zheng zheng feng xing dong fang an	1
+对智慧局不具约束力	dui zhi hui ju bu ju yue shu li	1
+盾形纹章	dun xing wen zhang	1
+多媒体简报室	duo mei ti jian bao shi	1
+恶意	e yi	1
+恶意遗弃	e yi yi qi	1
+儿童福利法	er tong fu li fa	1
+二元诉讼制度	er yuan su song zhi du	1
+法定不变期间	fa ding bu bian qi jian	1
+法定程序	fa ding cheng xu	1
+法定扶养义务	fa ding fu yang yi wu	1
+法定继承人	fa ding ji cheng ren	1
+法定期间	fa ding qi jian	1
+法定预算	fa ding yu suan	1
+发给一份核准通知	fa gei yi fen he zhun tong zhi	1
+法官	fa guan	1
+法官回避	fa guan hui bi	1
+法官会议室	fa guan hui yi shi	1
+法官评鉴委员会	fa guan ping jian wei yuan hui	1
+法官评议室	fa guan ping yi shi	1
+法官身份	fa guan shen fen	1
+法官室	fa guan shi	1
+法官席	fa guan xi	1
+法官学院	fa guan xue yuan	1
+法官研究室	fa guan yan jiu shi	1
+法官之回避	fa guan zhi hui bi	1
+法官值勤室	fa guan zhi qin shi	1
+法官助理	fa guan zhu li	1
+法官助理室	fa guan zhu li shi	1
+罚锾	fa huan	1
+罚锾最低额	fa huan zui di e	1
+发回更审	fa hui geng shen	1
+罚金	fa jin	1
+法警	fa jing	1
+法警室	fa jing shi	1
+法警长	fa jing zhang	1
+法律	fa lv	1
+法律案	fa lv an	1
+法律保留原则	fa lv bao liu yuan ze	1
+法律的平等保护	fa lv de ping deng bao hu	1
+法律的效力	fa lv de xiao li	1
+法律见解歧异	fa lv jian jie qi yi	1
+法律救济	fa lv jiu ji	1
+法律明确性原则	fa lv ming que xing yuan ze	1
+法律上地位平等	fa lv shang di wei ping deng	1
+法律上功能性	fa lv shang gong neng xing	1
+法律上见解	fa lv shang jian jie	1
+法律上义务	fa lv shang yi wu	1
+法律审查	fa lv shen cha	1
+法律施行日期条例	fa lv shi xing ri qi tiao li	1
+法律授权	fa lv shou quan	1
+法律之可预见性	fa lv zhi ke yu jian xing	1
+法律秩序之安定性	fa lv zhi xu zhi an ding xing	1
+发票人	fa piao ren	1
+法人	fa ren	1
+法人变更登记	fa ren bian geng deng ji	1
+法人登记	fa ren deng ji	1
+法人解散登记	fa ren jie san deng ji	1
+法人清算终结登记	fa ren qing suan zhong jie deng ji	1
+法人设立登记	fa ren she li deng ji	1
+发生混淆	fa sheng hun xiao	1
+法务部行政执行署	fa wu bu xing zheng zhi xing shu	1
+发言人	fa yan ren	1
+发言人室	fa yan ren shi	1
+法院	fa yuan	1
+法院裁量	fa yuan cai liang	1
+法院第一审	fa yuan di yi shen	1
+法院所在地	fa yuan suo zai di	1
+法院组织法	fa yuan zu zhi fa	1
+法治国	fa zhi guo	1
+反淡化法	fan dan hua fa	1
+反共抗俄战士授田条例	fan gong kang e zhan shi shou tian tiao li	1
+反网域名称抢注消费者保护法	fan wang yu ming cheng qiang zhu xiao fei zhe bao hu fa	1
+反向的混淆误认	fan xiang de hun xiao wu ren	1
+反证	fan zheng	1
+犯罪被害人保护法	fan zui bei hai ren bao hu fa	1
+犯罪之被害人	fan zui zhi bei hai ren	1
+犯罪主体	fan zui zhu ti	1
+犯罪组织	fan zui zu zhi	1
+防弊措施	fang bi cuo shi	1
+妨害兵役治罪条例	fang hai bing yi zhi zui tiao li	1
+妨害国币惩治条例	fang hai guo bi cheng zhi tiao li	1
+防护商标	fang hu shang biao	1
+放弃	fang qi	1
+放射性物料管理法	fang she xing wu liao guan li fa	1
+房屋评定价格	fang wu ping ding jia ge	1
+房屋税	fang wu shui	1
+房屋税条例	fang wu shui tiao li	1
+防止妨害他人自由	fang zhi fang hai ta ren zi you	1
+诽谤除罪化	fei bang chu zui hua	1
+诽谤罪	fei bang zui	1
+非常上诉	fei chang shang su	1
+非常上诉救济	fei chang shang su jiu ji	1
+废除	fei chu	1
+非都市土地使用管制规则	fei du shi tu di shi yong guan zhi gui ze	1
+废弃	fei qi	1
+非属类名之名称	fei shu lei ming zhi ming cheng	1
+非讼事件处理中心	fei song shi jian chu li zhong xin	1
+非行政处分	fei xing zheng chu fen	1
+非要式原则	fei yao shi yuan ze	1
+非营业收入	fei ying ye shou ru	1
+废止	fei zhi	1
+废止营业	fei zhi ying ye	1
+分案室	fen an shi	1
+分割	fen ge	1
+分类	fen lei	1
+分析师	fen xi shi	1
+俸给	feng gei	1
+副本	fu ben	1
+服兵役	fu bing yi	1
+复查	fu cha	1
+副处长	fu chu zhang	1
+副处长室	fu chu zhang shi	1
+副法警长	fu fa jing zhang	1
+福建高等法院金门分院	fu jian gao deng fa yuan jin men fen yuan	1
+福建高等法院金门分院连江庭	fu jian gao deng fa yuan jin men fen yuan lian jiang ting	1
+福建金门地方法院	fu jian jin men di fang fa yuan	1
+福建金门地方法院金城简易庭	fu jian jin men di fang fa yuan jin cheng jian yi ting	1
+福建连江地方法院	fu jian lian jiang di fang fa yuan	1
+福建连江地方法院连江简易庭	fu jian lian jiang di fang fa yuan lian jiang jian yi ting	1
+福建省	fu jian sheng	1
+福建省政府组织规程	fu jian sheng zheng fu zu zhi gui cheng	1
+复决权	fu jue quan	1
+副会计长	fu kuai ji zhang	1
+副会计长室	fu kuai ji zhang shi	1
+副秘书长	fu mi shu zhang	1
+副秘书长室	fu mi shu zhang shi	1
+副秘书长室主任	fu mi shu zhang shi zhu ren	1
+夫妻财产登记	fu qi cai chan deng ji	1
+夫妻财产制契约登记	fu qi cai chan zhi qi yue deng ji	1
+夫妻共同生活	fu qi gong tong sheng huo	1
+附属	fu shu	1
+附条件买卖	fu tiao jian mai mai	1
+副厅长	fu ting zhang	1
+副厅长室	fu ting zhang shi	1
+服务标章	fu wu biao zhang	1
+服务奖章	fu wu jiang zhang	1
+服务商标	fu wu shang biao	1
+服务台	fu wu tai	1
+抚恤	fu xu	1
+辅育院	fu yu yuan	1
+副院长	fu yuan zhang	1
+副院长室	fu yuan zhang shi	1
+副院长室主任	fu yuan zhang shi zhu ren	1
+复职	fu zhi	1
+辅助电子报到区	fu zhu dian zi bao dao qu	1
+付诸新的行政作业	fu zhu xin de xing zheng zuo ye	1
+辅助注册簿	fu zhu zhu ce bu	1
+副总统	fu zong tong	1
+辅佐人	fu zuo ren	1
+概括承受	gai kuo cheng shou	1
+概括授权	gai kuo shou quan	1
+概括条款	gai kuo tiao kuan	1
+概算	gai suan	1
+告发人	gao fa ren	1
+高级管理师	gao ji guan li shi	1
+告诉不合法	gao su bu he fa	1
+告诉乃论	gao su nai lun	1
+告诉期间	gao su qi jian	1
+高雄高等行政法院	gao xiong gao deng xing zheng fa yuan	1
+个别性法律	ge bie xing fa lv	1
+个人身体自由	ge ren shen ti zi you	1
+耕地三七五减租条例	geng di san qi wu jian zu tiao li	1
+耕地租赁契约之终止	geng di zu lin qi yue zhi zhong zhi	1
+更衣室	geng yi shi	1
+更正裁定	geng zheng cai ding	1
+更正户籍登记出生年月日办法	geng zheng hu ji deng ji chu sheng nian yue ri ban fa	1
+更正诉讼程序性的错误	geng zheng su song cheng xu xing de cuo wu	1
+工厂登记证	gong chang deng ji zheng	1
+工厂法	gong chang fa	1
+工厂设立登记规则	gong chang she li deng ji gui ze	1
+工程受益费征收条例	gong cheng shou yi fei zheng shou tiao li	1
+公法	gong fa	1
+公法人	gong fa ren	1
+公法上效果	gong fa shang xiao guo	1
+公法上之不当得利	gong fa shang zhi bu dang de li	1
+公费	gong fei	1
+公告	gong gao	1
+公告地价	gong gao di jia	1
+公告土地现值	gong gao tu di xian zhi	1
+公共地役权	gong gong di yi quan	1
+公共关系室	gong gong guan xi shi	1
+公共关系室主任	gong gong guan xi shi zhu ren	1
+公共利益	gong gong li yi	1
+公共设施保留地	gong gong she shi bao liu di	1
+公共债务法	gong gong zhai wu fa	1
+工会法	gong hui fa	1
+公积	gong ji	1
+公假	gong jia	1
+公教人员退休金其他现金给与补偿金发给办法	gong jiao ren yuan tui xiu jin qi ta xian jin ji yu bu chang jin fa gei ban fa	1
+工具间	gong ju jian	1
+公开透明原则	gong kai tou ming yuan ze	1
+公立学校聘任之教师	gong li xue xiao pin ren zhi jiao shi	1
+功能理论	gong neng li lun	1
+公平交易法	gong ping jiao yi fa	1
+公权力	gong quan li	1
+公权力之行使	gong quan li zhi xing shi	1
+工商企业	gong shang qi ye	1
+公设辩护人	gong she bian hu ren	1
+公设辩护人室	gong she bian hu ren shi	1
+公司法	gong si fa	1
+公司负责人	gong si fu ze ren	1
+公司合并	gong si he bing	1
+公司行为	gong si xing wei	1
+公司章程	gong si zhang cheng	1
+公诉	gong su	1
+公同共有人	gong tong gong you ren	1
+公同关系	gong tong guan xi	1
+共同诉讼	gong tong su song	1
+共同体商标	gong tong ti shang biao	1
+共同体新式样	gong tong ti xin shi yang	1
+公文程式条例	gong wen cheng shi tiao li	1
+公文书	gong wen shu	1
+公务机密维护	gong wu ji mi wei hu	1
+公务人力发展中心组织条例	gong wu ren li fa zhan zhong xin zu zhi tiao li	1
+公务人员保险	gong wu ren yuan bao xian	1
+公务人员保险法	gong wu ren yuan bao xian fa	1
+公务人员保险法施行细则	gong wu ren yuan bao xian fa shi xing xi ze	1
+公务人员保障法	gong wu ren yuan bao zhang fa	1
+公务人员俸给法	gong wu ren yuan feng gei fa	1
+公务人员俸给法施行细则	gong wu ren yuan feng gei fa shi xing xi ze	1
+公务人员抚恤法	gong wu ren yuan fu xu fa	1
+公务人员高等考试暨普通考试训练办法	gong wu ren yuan gao deng kao shi ji pu tong kao shi xun lian ban fa	1
+公务人员考绩法	gong wu ren yuan kao ji fa	1
+公务人员考试法	gong wu ren yuan kao shi fa	1
+公务人员任用法	gong wu ren yuan ren yong fa	1
+公务人员退休法	gong wu ren yuan tui xiu fa	1
+公务人员退休法施行细则	gong wu ren yuan tui xiu fa shi xing xi ze	1
+公务人员住宅及福利委员会组织条例	gong wu ren yuan zhu zhai ji fu li wei yuan hui zu zhi tiao li	1
+公务员惩戒法	gong wu yuan cheng jie fa	1
+公务员惩戒委员会	gong wu yuan cheng jie wei yuan hui	1
+公务员惩戒委员会组织法	gong wu yuan cheng jie wei yuan hui zu zhi fa	1
+公务员服务法	gong wu yuan fu wu fa	1
+公务员请假规则	gong wu yuan qing jia gui ze	1
+工业区开发管理基金	gong ye qu kai fa guan li ji jin	1
+工业区开发管理基金收支保管及运用办法	gong ye qu kai fa guan li ji jin shou zhi bao guan ji yun yong ban fa	1
+公医制度	gong yi zhi du	1
+公印文书	gong yin wen shu	1
+公营事业机关	gong ying shi ye ji guan	1
+公营事业移转民营条例	gong ying shi ye yi zhuan min ying tiao li	1
+公用事业	gong yong shi ye	1
+公用需要	gong yong xu yao	1
+共有	gong you	1
+工友	gong you	1
+公有财产	gong you cai chan	1
+公有地优先承购权	gong you di you xian cheng gou quan	1
+共有人	gong you ren	1
+共有物	gong you wu	1
+公证	gong zheng	1
+公证处	gong zheng chu	1
+公证法	gong zheng fa	1
+公证服务	gong zheng fu wu	1
+公证结婚礼堂	gong zheng jie hun li tang	1
+公证人	gong zheng ren	1
+公证书	gong zheng shu	1
+公职	gong zhi	1
+公职人员财产申报法	gong zhi ren yuan cai chan shen bao fa	1
+公职人员财产申报资料查阅室	gong zhi ren yuan cai chan shen bao zi liao cha yue shi	1
+公职人员财产申报资料审核及查阅办法	gong zhi ren yuan cai chan shen bao zi liao shen he ji cha yue ban fa	1
+公职人员利益冲突回避法	gong zhi ren yuan li yi chong tu hui bi fa	1
+公职人员选举罢免法	gong zhi ren yuan xuan ju ba mian fa	1
+工作权	gong zuo quan	1
+供作证明或证据的	gong zuo zheng ming huo zheng ju de	1
+构成一件商标	gou cheng yi jian shang biao	1
+购买人	gou mai ren	1
+固定的	gu ding de	1
+固定规则	gu ding gui ze	1
+股份有限公司	gu fen you xian gong si	1
+估计所得额	gu ji suo de e	1
+股利	gu li	1
+顾问室	gu wen shi	1
+故意	gu yi	1
+雇员	gu yuan	1
+股长	gu zhang	1
+观察指认室	guan cha zhi ren shi	1
+观护人	guan hu ren	1
+观护人室	guan hu ren shi	1
+官吏	guan li	1
+管理师	guan li shi	1
+管理外汇条例	guan li wai hui tiao li	1
+管收	guan shou	1
+关税	guan shui	1
+关税法	guan shui fa	1
+关税优先权	guan shui you xian quan	1
+关系人	guan xi ren	1
+盥洗室	guan xi shi	1
+管辖权	guan xia quan	1
+关于	guan yu	1
+广播电视法	guang bo dian shi fa	1
+光碟管理条例	guang die guan li tiao li	1
+贵宾室	gui bin shi	1
+规范	gui fan	1
+规费	gui fei	1
+规则	gui ze	1
+规则制定权	gui ze zhi ding quan	1
+国币	guo bi	1
+过渡期间	guo du qi jian	1
+国防部参谋本部组织法	guo fang bu can mou ben bu zu zhi fa	1
+国防部参谋本部组织条例	guo fang bu can mou ben bu zu zhi tiao li	1
+国防部军备局组织条例	guo fang bu jun bei ju zu zhi tiao li	1
+国防部军医局组织条例	guo fang bu jun yi ju zu zhi tiao li	1
+国防部主计局组织条例	guo fang bu zhu ji ju zu zhi tiao li	1
+国防部总政治作战局组织条例	guo fang bu zong zheng zhi zuo zhan ju zu zhi tiao li	1
+国防部组织法	guo fang bu zu zhi fa	1
+国防法	guo fang fa	1
+国防工业发展基金设置条例	guo fang gong ye fa zhan ji jin she zhi tiao li	1
+国会	guo hui	1
+国会参与决策权	guo hui can yu jue ce quan	1
+国会自治	guo hui zi zhi	1
+国际分类	guo ji fen lei	1
+国际合作发展基金会设置条例	guo ji he zuo fa zhan ji jin hui she zhi tiao li	1
+国际金融业务条例	guo ji jin rong ye wu tiao li	1
+国际条约	guo ji tiao yue	1
+国际注册	guo ji zhu ce	1
+国家安全	guo jia an quan	1
+国家安全法	guo jia an quan fa	1
+国家安全会议组织法	guo jia an quan hui yi zu zhi fa	1
+国家档案移转办法	guo jia dang an yi zhuan ban fa	1
+国家公园法	guo jia gong yuan fa	1
+国家机密保护法	guo jia ji mi bao hu fa	1
+国家赔偿	guo jia pei chang	1
+国家赔偿法	guo jia pei chang fa	1
+国家总动员法	guo jia zong dong yuan fa	1
+国军军事勤务致人民伤亡损害补偿条例	guo jun jun shi qin wu zhi ren min shang wang sun hai bu chang tiao li	1
+国军老旧眷村改建条例	guo jun lao jiu juan cun gai jian tiao li	1
+国军老旧眷村改建条例施行细则	guo jun lao jiu juan cun gai jian tiao li shi xing xi ze	1
+国军退除役官兵辅导条例	guo jun tui chu yi guan bing fu dao tiao li	1
+国军退除役官兵辅导条例施行细则	guo jun tui chu yi guan bing fu dao tiao li shi xing xi ze	1
+国军退除役官兵就业安置办法	guo jun tui chu yi guan bing jiu ye an zhi ban fa	1
+国库	guo ku	1
+国库券及短期借款条例	guo ku quan ji duan qi jie kuan tiao li	1
+国库债券	guo ku zhai quan	1
+国立编译馆	guo li bian yi guan	1
+国民大会	guo min da hui	1
+国民大会代表	guo min da hui dai biao	1
+国民大会代表报酬及费用支给条例	guo min da hui dai biao bao chou ji fei yong zhi gei tiao li	1
+国民大会议事规则	guo min da hui yi shi gui ze	1
+国民大会组织法	guo min da hui zu zhi fa	1
+国民法官科	guo min fa guan ke	1
+国民教育法	guo min jiao yu fa	1
+国民体育法	guo min ti yu fa	1
+国民住宅	guo min zhu zhai	1
+过失	guo shi	1
+国外佣金	guo wai yong jin	1
+国营事业	guo ying shi ye	1
+国营事业管理办法	guo ying shi ye guan li ban fa	1
+国营事业管理法	guo ying shi ye guan li fa	1
+海岸巡防法	hai an xun fang fa	1
+海关	hai guan	1
+海关管理货柜办法	hai guan guan li huo gui ban fa	1
+海关管理之保税工厂或保税仓库	hai guan guan li zhi bao shui gong chang huo bao shui cang ku	1
+海关缉私条例	hai guan ji si tiao li	1
+海关进口税	hai guan jin kou shui	1
+海军服制条例	hai jun fu zhi tiao li	1
+海商法	hai shang fa	1
+海上事故	hai shang shi gu	1
+汉翔航空工业股份有限公司设置条例	han xiang hang kong gong ye gu fen you xian gong si she zhi tiao li	1
+航空人员体格检查标准	hang kong ren yuan ti ge jian cha biao zhun	1
+航业法	hang ye fa	1
+合并	he bing	1
+合并申报	he bing shen bao	1
+合法建物	he fa jian wu	1
+合格的	he ge de	1
+合格实授	he ge shi shou	1
+和解	he jie	1
+核课权	he ke quan	1
+合理补偿	he li bu chang	1
+合理确信	he li que xin	1
+合目的性	he mu di xing	1
+合宪	he xian	1
+核准	he zhun	1
+核子反应器设施管制法	he zi fan ying qi she shi guan zhi fa	1
+核子损害赔偿法	he zi sun hai pei chang fa	1
+合作社法	he zuo she fa	1
+合作事业奖励规则	he zuo shi ye jiang li gui ze	1
+候保室	hou bao shi	1
+后备军人	hou bei jun ren	1
+后备军人转任公职考试比叙条例	hou bei jun ren zhuan ren gong zhi kao shi bi xu tiao li	1
+后备军人转任公职考试比叙条例施行细则	hou bei jun ren zhuan ren gong zhi kao shi bi xu tiao li shi xing xi ze	1
+后备军人转任公职时并计军中服役之年资	hou bei jun ren zhuan ren gong zhi shi bing ji jun zhong fu yi zhi nian zi	1
+后婚姻	hou hun yin	1
+候审室	hou shen shi	1
+候讯室	hou xun shi	1
+后注册	hou zhu ce	1
+互惠待遇	hu hui dai yu	1
+户籍	hu ji	1
+户籍法	hu ji fa	1
+护照条例	hu zhao tiao li	1
+华侨身分证明条例	hua qiao shen fen zheng ming tiao li	1
+话务员	hua wu yuan	1
+缓办措施	huan ban cuo shi	1
+缓刑	huan xing	1
+恢复	hui fu	1
+回复请求权	hui fu qing qiu quan	1
+回复原状及损害赔偿	hui fu yuan zhuang ji sun hai pei chang	1
+会客室	hui ke shi	1
+会议室	hui yi shi	1
+会员身分	hui yuan shen fen	1
+婚生子	hun sheng zi	1
+混淆	hun xiao	1
+混淆误认的争议	hun xiao wu ren de zheng yi	1
+混淆之虞	hun xiao zhi yu	1
+婚姻	hun yin	1
+婚姻自由	hun yin zi you	1
+货柜集散站	huo gui ji san zhan	1
+货物	huo wu	1
+货物税	huo wu shui	1
+货物税稽征规则	huo wu shui ji zheng gui ze	1
+货物税条例	huo wu shui tiao li	1
+基本的	ji ben de	1
+基本要件	ji ben yao jian	1
+基本资料维护单位	ji ben zi liao wei hu dan wei	1
+基层公务人员	ji ceng gong wu ren yuan	1
+继承	ji cheng	1
+继承财产	ji cheng cai chan	1
+既成道路	ji cheng dao lu	1
+继承回复请求权	ji cheng hui fu qing qiu quan	1
+继承权	ji cheng quan	1
+继承人	ji cheng ren	1
+继承原因	ji cheng yuan yin	1
+机房	ji fang	1
+给付诉讼	ji fu su song	1
+给付性	ji fu xing	1
+给付行政	ji fu xing zheng	1
+技工	ji gong	1
+机关政风状况	ji guan zheng feng zhuang kuang	1
+几何图案的	ji he tu an de	1
+集会游行法	ji hui you xing fa	1
+既判力	ji pan li	1
+技师法	ji shi fa	1
+技术审查官	ji shu shen cha guan	1
+集水区	ji shui qu	1
+继续犯	ji xu fan	1
+继续审判	ji xu shen pan	1
+羁押	ji ya	1
+羁押法	ji ya fa	1
+羁押候审室	ji ya hou shen shi	1
+羁押室	ji ya shi	1
+机要人员	ji yao ren yuan	1
+基于多种依据之申请	ji yu duo zhong yi ju zhi shen qing	1
+记者	ji zhe	1
+记者室	ji zhe shi	1
+记者席	ji zhe xi	1
+记者休息室	ji zhe xiu xi shi	1
+技正	ji zheng	1
+稽征机关	ji zheng ji guan	1
+稽征资料	ji zheng zi liao	1
+驾车肇事逃逸	jia che zhao shi tao yi	1
+假处分	jia chu fen	1
+加给	jia gei	1
+架构	jia gou	1
+加害人	jia hai ren	1
+假扣押	jia kou ya	1
+假冒	jia mao	1
+假日生活辅导	jia ri sheng huo fu dao	1
+家事调查官	jia shi diao cha guan	1
+家事法庭	jia shi fa ting	1
+家事法院	jia shi fa yuan	1
+家属	jia shu	1
+家属赡养费	jia shu shan yang fei	1
+家庭暴力	jia ting bao li	1
+家庭暴力案件	jia ting bao li an jian	1
+家庭暴力防治法	jia ting bao li fang zhi fa	1
+家庭暴力事件联合服务处	jia ting bao li shi jian lian he fu wu chu	1
+价值判断	jia zhi pan duan	1
+加值型及非加值型营业税法	jia zhi xing ji fei jia zhi xing ying ye shui fa	1
+家族系列商标	jia zu xi lie shang biao	1
+简报室	jian bao shi	1
+检察官	jian cha guan	1
+检察官室	jian cha guan shi	1
+检察官席	jian cha guan xi	1
+监察权	jian cha quan	1
+监察人	jian cha ren	1
+检察事务指令权	jian cha shi wu zhi ling quan	1
+监察委员	jian cha wei yuan	1
+监察院	jian cha yuan	1
+鉴定人休息室	jian ding ren xiu xi shi	1
+监督	jian du	1
+监督寺庙条例	jian du si miao tiao li	1
+简短醒目的广告语	jian duan xing mu di guang gao yu	1
+减俸	jian feng	1
+监护	jian hu	1
+监护人	jian hu ren	1
+间接处分	jian jie chu fen	1
+间接证据	jian jie zheng ju	1
+检举贪渎案件	jian ju tan du an jian	1
+减轻损害	jian qing sun hai	1
+简任秘书	jian ren mi shu	1
+减税或免税	jian shui huo mian shui	1
+检肃流氓条例	jian su liu mang tiao li	1
+检索	jian suo	1
+减刑	jian xing	1
+检验佐理员	jian yan zuo li yuan	1
+简易庭纪录科	jian yi ting ji lu ke	1
+监印室	jian yin shi	1
+兼营营业人营业税额计算办法	jian ying ying ye ren ying ye shui e ji suan ban fa	1
+监狱行刑法	jian yu xing xing fa	1
+见证人	jian zheng ren	1
+兼职	jian zhi	1
+建筑法	jian zhu fa	1
+建筑管理	jian zhu guan li	1
+建筑物使用执照	jian zhu wu shi yong zhi zhao	1
+降级	jiang ji	1
+奖励保护检举贪污渎职办法	jiang li bao hu jian ju tan wu du zhi ban fa	1
+奖励投资	jiang li tou zi	1
+奖励投资条例	jiang li tou zi tiao li	1
+奖励投资条例施行细则	jiang li tou zi tiao li shi xing xi ze	1
+讲学自由	jiang xue zi you	1
+奖章条例	jiang zhang tiao li	1
+较不有名	jiao bu you ming	1
+交叉检索	jiao cha jian suo	1
+交付观察	jiao fu guan cha	1
+缴纳契税	jiao na qi shui	1
+教师评审	jiao shi ping shen	1
+教师升等评审	jiao shi sheng deng ping shen	1
+缴税证明	jiao shui zheng ming	1
+交通工具排放空气污染物罚锾标准	jiao tong gong ju pai fang kong qi wu ran wu fa huan biao zhun	1
+交通纪录科	jiao tong ji lu ke	1
+教学自由	jiao xue zi you	1
+交易管道	jiao yi guan dao	1
+交易前后手	jiao yi qian hou shou	1
+教育人员任用条例	jiao yu ren yuan ren yong tiao li	1
+教育人员任用条例施行细则	jiao yu ren yuan ren yong tiao li shi xing xi ze	1
+矫正	jiao zheng	1
+解除	jie chu	1
+接管人	jie guan ren	1
+戒护场所	jie hu chang suo	1
+接近使用传播媒体之权利	jie jin shi yong chuan bo mei ti zhi quan li	1
+届满日	jie man ri	1
+届期未受清偿	jie qi wei shou qing chang	1
+解散之公司	jie san zhi gong si	1
+解散组织	jie san zu zhi	1
+结社自由	jie she zi you	1
+解释	jie shi	1
+解释宪法	jie shi xian fa	1
+结算申报	jie suan shen bao	1
+戒严法	jie yan fa	1
+戒严时期	jie yan shi qi	1
+戒严时期人民受损权利回复条例	jie yan shi qi ren min shou sun quan li hui fu tiao li	1
+紧急命令	jin ji ming ling	1
+禁令解除	jin ling jie chu	1
+金钱给付	jin qian ji fu	1
+金融机构	jin rong ji gou	1
+金融机构监管接管办法	jin rong ji gou jian guan jie guan ban fa	1
+尽速补偿	jin su bu chang	1
+进修	jin xiu	1
+禁止规定	jin zhi gui ding	1
+警察法	jing cha fa	1
+警察刑事纪录证明核发条例	jing cha xing shi ji lu zheng ming he fa tiao li	1
+警告函	jing gao han	1
+经过异议期间	jing guo yi yi qi jian	1
+经济部所属事业人员退休抚恤及资遣办法	jing ji bu suo shu shi ye ren yuan tui xiu fu xu ji zi qian ban fa	1
+经济部智慧财产局组织条例	jing ji bu zhi hui cai chan ju zu zhi tiao li	1
+经理	jing li	1
+经理人	jing li ren	1
+经签署之宣誓书	jing qian shu zhi xuan shi shu	1
+境外申请	jing wai shen qing	1
+境外注册	jing wai zhu ce	1
+境外注册证明	jing wai zhu ce zheng ming	1
+警卫值班室	jing wei zhi ban shi	1
+竞选连任	jing xuan lian ren	1
+经验法则	jing yan fa ze	1
+警长室	jing zhang shi	1
+经证实的	jing zheng shi de	1
+九二一震灾重建暂行条例	jiu er yi zhen zai chong jian zan xing tiao li	1
+旧受	jiu shou	1
+就源扣缴	jiu yuan kou jiao	1
+就职	jiu zhi	1
+拘禁	ju jin	1
+拒绝	ju jue	1
+拒绝注册	ju jue zhu ce	1
+局通知函	ju tong zhi han	1
+举证责任	ju zheng ze ren	1
+举证责任分配之法则	ju zheng ze ren fen pei zhi fa ze	1
+居住迁徙自由	ju zhu qian xi zi you	1
+居住自由	ju zhu zi you	1
+眷村	juan cun	1
+决定	jue ding	1
+绝对事由	jue dui shi you	1
+决算	jue suan	1
+决算法	jue suan fa	1
+军人保险条例	jun ren bao xian tiao li	1
+军人福利	jun ren fu li	1
+军人抚恤条例	jun ren fu xu tiao li	1
+军人婚姻条例	jun ren hun yin tiao li	1
+军人及其家属优待条例	jun ren ji qi jia shu you dai tiao li	1
+军事教育条例	jun shi jiao yu tiao li	1
+军事审判	jun shi shen pan	1
+军事审判法	jun shi shen pan fa	1
+军事审判机关	jun shi shen pan ji guan	1
+开标室	kai biao shi	1
+开航通知书	kai hang tong zhi shu	1
+开庭报到处	kai ting bao dao chu	1
+看管室	kan guan shi	1
+戡乱时期肃清烟毒条例	kan luan shi qi su qing yan du tiao li	1
+戡乱时期贪污治罪条例	kan luan shi qi tan wu zhi zui tiao li	1
+抗告	kang gao	1
+抗告事件维持率	kang gao shi jian wei chi lv	1
+康乐室	kang le shi	1
+考绩	kao ji	1
+考绩升等	kao ji sheng deng	1
+考试	kao shi	1
+考试法	kao shi fa	1
+考试法施行细则	kao shi fa shi xing xi ze	1
+考试及格人员分发办法	kao shi ji ge ren yuan fen fa ban fa	1
+考试机关	kao shi ji guan	1
+考试院	kao shi yuan	1
+科处行政罚锾	ke chu xing zheng fa huan	1
+可罚性之行为	ke fa xing zhi xing wei	1
+科技调解室	ke ji tiao jie shi	1
+可靠证据	ke kao zheng ju	1
+可能发生的混淆	ke neng fa sheng de hun xiao	1
+课税公平	ke shui gong ping	1
+课税年度	ke shui nian du	1
+课税所得额	ke shui suo de e	1
+课税原因	ke shui yuan yin	1
+可退还的	ke tui huan de	1
+科学工业园区	ke xue gong ye yuan qu	1
+科学工业园区管理局组织条例	ke xue gong ye yuan qu guan li ju zu zhi tiao li	1
+科学工业园区设置管理条例	ke xue gong ye yuan qu she zhi guan li tiao li	1
+课予义务诉讼	ke yu yi wu su song	1
+科员	ke yuan	1
+科长	ke zhang	1
+空军服制条例	kong jun fu zhi tiao li	1
+空气污染防制法	kong qi wu ran fang zhi fa	1
+空气污染物	kong qi wu ran wu	1
+扣除额	kou chu e	1
+扣缴	kou jiao	1
+扣缴义务人	kou jiao yi wu ren	1
+口头诽谤	kou tou fei bang	1
+会计处	kuai ji chu	1
+会计法	kuai ji fa	1
+会计室	kuai ji shi	1
+会计师惩戒	kuai ji shi cheng jie	1
+会计师法	kuai ji shi fa	1
+会计长	kuai ji zhang	1
+会计长室	kuai ji zhang shi	1
+款项发还	kuan xiang fa huan	1
+矿业法	kuang ye fa	1
+扩张理论	kuo zhang li lun	1
+扩张适用	kuo zhang shi yong	1
+来源	lai yuan	1
+来源混淆	lai yuan hun xiao	1
+来源名称	lai yuan ming cheng	1
+来源指示者	lai yuan zhi shi zhe	1
+蓝能法	lan neng fa	1
+劳动基准法	lao dong ji zhun fa	1
+劳动基准法施行细则	lao dong ji zhun fa shi xing xi ze	1
+劳动检查法	lao dong jian cha fa	1
+劳动条件	lao dong tiao jian	1
+劳动调解法官	lao dong tiao jie fa guan	1
+劳动调解室	lao dong tiao jie shi	1
+劳工	lao gong	1
+劳工安全卫生法	lao gong an quan wei sheng fa	1
+劳工保险	lao gong bao xian	1
+劳工保险条例	lao gong bao xian tiao li	1
+劳工保险条例施行细则	lao gong bao xian tiao li shi xing xi ze	1
+劳工保险投保薪资分级表	lao gong bao xian tou bao xin zi fen ji biao	1
+劳工保险诊疗费用支付标准表	lao gong bao xian zhen liao fei yong zhi fu biao zhun biao	1
+老年给付	lao nian ji fu	1
+劳资争议处理法	lao zi zheng yi chu li fa	1
+累犯	lei fan	1
+类名	lei ming	1
+勒赎	lei shu	1
+类型	lei xing	1
+立法	li fa	1
+立法裁量	li fa cai liang	1
+立法机关	li fa ji guan	1
+立法目的	li fa mu di	1
+立法权	li fa quan	1
+理发室	li fa shi	1
+立法授权	li fa shou quan	1
+立法委员	li fa wei yuan	1
+立法委员暨监察委员岁费公费支给暂行条例	li fa wei yuan ji jian cha wei yuan sui fei gong fei zhi gei zan xing tiao li	1
+立法院	li fa yuan	1
+立法院立法委员选举罢免法	li fa yuan li fa wei yuan xuan ju ba mian fa	1
+立法院职权行使法	li fa yuan zhi quan xing shi fa	1
+利害关系人	li hai guan xi ren	1
+离婚	li hun	1
+离婚案件	li hun an jian	1
+离婚后子女探视权	li hun hou zi nv tan shi quan	1
+立即救护	li ji jiu hu	1
+立据的	li ju de	1
+立据的事实	li ju de shi shi	1
+礼貌上之尊称	li mao shang zhi zun cheng	1
+立体商标	li ti shang biao	1
+利息	li xi	1
+利息所得	li xi suo de	1
+利益担保	li yi dan bao	1
+离营军人	li ying jun ren	1
+离职人员	li zhi ren yuan	1
+联邦法规法典	lian bang fa gui fa dian	1
+联邦商标淡化法	lian bang shang biao dan hua fa	1
+联邦巡回上诉法院	lian bang xun hui shang su fa yuan	1
+联合财产	lian he cai chan	1
+联合服务中心	lian he fu wu zhong xin	1
+联合国	lian he guo	1
+联合式商标	lian he shi shang biao	1
+连接的	lian jie de	1
+连续三年未使用	lian xu san nian wei shi yong	1
+粮食管理法	liang shi guan li fa	1
+两性工作平等法	liang xing gong zuo ping deng fa	1
+列印出的资料	lie yin chu de zi liao	1
+临时会	lin shi hui	1
+遴选	lin xuan	1
+领受人	ling shou ren	1
+另外	ling wai	1
+留置	liu zhi	1
+留职停薪	liu zhi ting xin	1
+漏税额	lou shui e	1
+漏税罚	lou shui fa	1
+陆海空军惩罚法	lu hai kong jun cheng fa fa	1
+陆海空军奖励条例	lu hai kong jun jiang li tiao li	1
+陆海空军军官服役条例	lu hai kong jun jun guan fu yi tiao li	1
+陆海空军军官服役条例施行细则	lu hai kong jun jun guan fu yi tiao li shi xing xi ze	1
+陆海空军军官士官任官条例	lu hai kong jun jun guan shi guan ren guan tiao li	1
+陆海空军审判法	lu hai kong jun shen pan fa	1
+陆海空军无军职军官处理办法	lu hai kong jun wu jun zhi jun guan chu li ban fa	1
+陆海空军刑法	lu hai kong jun xing fa	1
+掳人	lu ren	1
+录事	lu shi	1
+律师	lv shi	1
+律师惩戒	lv shi cheng jie	1
+律师法	lv shi fa	1
+律师室	lv shi shi	1
+律师事务所	lv shi shi wu suo	1
+履行债务	lv xing zhai wu	1
+马德里议定书	ma de li yi ding shu	1
+麻醉药品管理条例	ma zui yao pin guan li tiao li	1
+贸易法	mao yi fa	1
+美发室	mei fa shi	1
+美感功能性	mei gan gong neng xing	1
+美国法典	mei guo fa dian	1
+美国国会	mei guo guo hui	1
+美国专利季刊	mei guo zhuan li ji kan	1
+美国专利商标局	mei guo zhuan li shang biao ju	1
+美国最高法院	mei guo zui gao fa yuan	1
+每届总统任满	mei jie zong tong ren man	1
+美洲协约	mei zhou xie yue	1
+秘密证人	mi mi zheng ren	1
+秘书	mi shu	1
+秘书处	mi shu chu	1
+秘书室	mi shu shi	1
+秘书长	mi shu zhang	1
+秘书长室	mi shu zhang shi	1
+秘书长室主任	mi shu zhang shi zhu ren	1
+免除	mian chu	1
+免除其刑	mian chu qi xing	1
+免税	mian shui	1
+免税出口区	mian shui chu kou qu	1
+免税额	mian shui e	1
+免诉判决	mian su pan jue	1
+免刑判决	mian xing pan jue	1
+免责权	mian ze quan	1
+免征赠与税	mian zheng zeng yu shui	1
+免职	mian zhi	1
+免职之惩处处分	mian zhi zhi cheng chu chu fen	1
+描述性	miao shu xing	1
+描述性或说明性商标	miao shu xing huo shuo ming xing shang biao	1
+民法	min fa	1
+民法继承编	min fa ji cheng bian	1
+民法继承编施行法	min fa ji cheng bian shi xing fa	1
+民法亲属编	min fa qin shu bian	1
+民法亲属编施行法	min fa qin shu bian shi xing fa	1
+民法物权编	min fa wu quan bian	1
+民法物权编施行法	min fa wu quan bian shi xing fa	1
+民法债编	min fa zhai bian	1
+民法债编施行法	min fa zhai bian shi xing fa	1
+民法总则编	min fa zong ze bian	1
+民法总则施行法	min fa zong ze shi xing fa	1
+民股	min gu	1
+民事保全程序事件处理要点	min shi bao quan cheng xu shi jian chu li yao dian	1
+民事第一法庭	min shi di yi fa ting	1
+民事纪录科	min shi ji lu ke	1
+民事诉讼	min shi su song	1
+民事诉讼法	min shi su song fa	1
+民事诉讼法施行法	min shi su song fa shi xing fa	1
+民事诉讼费用法	min shi su song fei yong fa	1
+民事厅	min shi ting	1
+民事庭	min shi ting	1
+民事争点整理室	min shi zheng dian zheng li shi	1
+民事执行处	min shi zhi xing chu	1
+民意代表	min yi dai biao	1
+民营公司	min ying gong si	1
+民用航空	min yong hang kong	1
+民用航空法	min yong hang kong fa	1
+民用航空运输业管理规则	min yong hang kong yun shu ye guan li gui ze	1
+民主国家	min zhu guo jia	1
+民主政治	min zhu zheng zhi	1
+命令退休	ming ling tui xiu	1
+明示规定其一者应认为排除其他	ming shi gui ding qi yi zhe ying ren wei pai chu qi ta	1
+命提供担保	ming ti gong dan bao	1
+没收之财产	mo shou zhi cai chan	1
+目的在于商标与商业之保护及其他相关约定	mu di zai yu shang biao yu shang ye zhi bao hu ji qi ta xiang guan yue ding	1
+母法	mu fa	1
+母之养女	mu zhi yang nv	1
+纳税方法	na shui fang fa	1
+纳税义务	na shui yi wu	1
+纳税义务人	na shui yi wu ren	1
+纳税主体	na shui zhu ti	1
+男化妆室	nan hua zhuang shi	1
+男女平等	nan nv ping deng	1
+内部不一致	nei bu bu yi zhi	1
+内部市场协调局	nei bu shi chang xie tiao ju	1
+内阁	nei ge	1
+内乱罪	nei luan zui	1
+内政部消防署组织条例	nei zheng bu xiao fang shu zu zhi tiao li	1
+内政部役政署组织条例	nei zheng bu yi zheng shu zu zhi tiao li	1
+拟制血亲	ni zhi xue qin	1
+年度总决算	nian du zong jue suan	1
+年功俸	nian gong feng	1
+年资	nian zi	1
+农地承租人	nong di cheng zu ren	1
+农会	nong hui	1
+农会法	nong hui fa	1
+农民健康保险	nong min jian kang bao xian	1
+农民健康保险条例	nong min jian kang bao xian tiao li	1
+农田水利会组织规程	nong tian shui li hui zu zhi gui cheng	1
+农田水利会组织通则	nong tian shui li hui zu zhi tong ze	1
+农药管理法	nong yao guan li fa	1
+农业发展条例	nong ye fa zhan tiao li	1
+农业发展条例施行细则	nong ye fa zhan tiao li shi xing xi ze	1
+农业用地	nong ye yong di	1
+女化妆室	nv hua zhuang shi	1
+欧洲法院	ou zhou fa yuan	1
+排放标准	pai fang biao zhun	1
+拍卖抵押物	pai mai di ya wu	1
+排他权	pai ta quan	1
+判决	pan jue	1
+判决不适用法规或适用不当	pan jue bu shi yong fa gui huo shi yong bu dang	1
+判决更正	pan jue geng zheng	1
+判决违法	pan jue wei fa	1
+判例	pan li	1
+判例法	pan li fa	1
+旁听席	pang ting xi	1
+赔偿	pei chang	1
+配偶	pei ou	1
+批准	pi zhun	1
+票据法	piao ju fa	1
+票面金额	piao mian jin e	1
+票券金融管理法	piao quan jin rong guan li fa	1
+聘用人员	pin yong ren yuan	1
+品质保证	pin zhi bao zheng	1
+平等保护原则	ping deng bao hu yuan ze	1
+平等权	ping deng quan	1
+平等原则	ping deng yuan ze	1
+平均地权条例	ping jun di quan tiao li	1
+平均地权条例施行细则	ping jun di quan tiao li shi xing xi ze	1
+平均每法官每月办结件数	ping jun mei fa guan mei yue ban jie jian shu	1
+凭证	ping zheng	1
+破产财团	po chan cai tuan	1
+破产程序	po chan cheng xu	1
+破产法	po chan fa	1
+破产管理人	po chan guan li ren	1
+破产宣告	po chan xuan gao	1
+破产债权	po chan zhai quan	1
+破坏司法信誉案件	po huai si fa xin yu an jian	1
+迫在眉睫的危险	po zai mei jie de wei xian	1
+普通法	pu tong fa	1
+普通法商标	pu tong fa shang biao	1
+普通法院	pu tong fa yuan	1
+普通疾病补助费	pu tong ji bing bu zhu fei	1
+普通伤害补助费	pu tong shang hai bu zhu fei	1
+期货交易法	qi huo jiao yi fa	1
+契税条例	qi shui tiao li	1
+起诉	qi su	1
+其他重大事由	qi ta zhong da shi you	1
+气味商标	qi wei shang biao	1
+气象法	qi xiang fa	1
+企业并购法	qi ye bing gou fa	1
+企业的信誉	qi ye de xin yu	1
+契约当事人	qi yue dang shi ren	1
+契约行为	qi yue xing wei	1
+契约之履行	qi yue zhi lv xing	1
+前婚姻	qian hun yin	1
+签名	qian ming	1
+牵涉	qian she	1
+前审	qian shen	1
+迁徙自由	qian xi zi you	1
+枪砲弹药刀械管制条例	qiang pao dan yao dao xie guan zhi tiao li	1
+强势商标	qiang shi shang biao	1
+强制保险	qiang zhi bao xian	1
+强制工作	qiang zhi gong zuo	1
+强制劳动	qiang zhi lao dong	1
+强制汽车责任保险法	qiang zhi qi che ze ren bao xian fa	1
+强制收买	qiang zhi shou mai	1
+强制执行	qiang zhi zhi xing	1
+强制执行法	qiang zhi zhi xing fa	1
+窃盗犯赃物犯保安处分条例	qie dao fan zang wu fan bao an chu fen tiao li	1
+侵害	qin hai	1
+侵害鉴定报告	qin hai jian ding bao gao	1
+侵害鉴定专业机构	qin hai jian ding zhuan ye ji gou	1
+亲权	qin quan	1
+亲权滥用	qin quan lan yong	1
+侵权行为	qin quan xing wei	1
+亲属法	qin shu fa	1
+亲属会议	qin shu hui yi	1
+亲职教育	qin zhi jiao yu	1
+轻便轨道	qing bian gui dao	1
+清偿	qing chang	1
+清偿提存	qing chang ti cun	1
+情况判决	qing kuang pan jue	1
+请求	qing qiu	1
+清算程序	qing suan cheng xu	1
+清算人	qing suan ren	1
+取得时效	qu de shi xiao	1
+区域计划法	qu yu ji hua fa	1
+区域计划法施行细则	qu yu ji hua fa shi xing xi ze	1
+全国军公教人员待遇支给办法	quan guo jun gong jiao ren yuan dai yu zhi gei ban fa	1
+全国性中央民意代表	quan guo xing zhong yang min yi dai biao	1
+权力分立	quan li fen li	1
+权利金	quan li jin	1
+权利移转证书	quan li yi zhuan zheng shu	1
+权力制衡原则	quan li zhi heng yuan ze	1
+全民健康保险	quan min jian kang bao xian	1
+全民健康保险法	quan min jian kang bao xian fa	1
+全民健康保险法施行细则	quan min jian kang bao xian fa shi xing xi ze	1
+全民健康保险医疗办法	quan min jian kang bao xian yi liao ban fa	1
+全民健康保险医事服务机构医疗服务审查办法	quan min jian kang bao xian yi shi fu wu ji gou yi liao fu wu shen cha ban fa	1
+全名	quan ming	1
+全年综合所得	quan nian zong he suo de	1
+权宜措施	quan yi cuo shi	1
+确定判决	que ding pan jue	1
+确认判决诉讼	que ren pan jue su song	1
+确认诉讼	que ren su song	1
+人格权	ren ge quan	1
+人格尊严	ren ge zun yan	1
+认可	ren ke	1
+人民团体	ren min tuan ti	1
+人民团体法	ren min tuan ti fa	1
+人民之自由权利	ren min zhi zi you quan li	1
+人身保护令状	ren shen bao hu ling zhuang	1
+人身自由	ren shen zi you	1
+人事处	ren shi chu	1
+人事管理	ren shi guan li	1
+人事室	ren shi shi	1
+任意性商标	ren yi xing shang biao	1
+任用	ren yong	1
+认证	ren zheng	1
+仍为有效	reng wei you xiao	1
+入出国及移民法	ru chu guo ji yi min fa	1
+弱势商标	ruo shi shang biao	1
+森林法	sen lin fa	1
+山坡地保育利用条例	shan po di bao yu li yong tiao li	1
+善意诚实	shan yi cheng shi	1
+善意的	shan yi de	1
+善意第三人	shan yi di san ren	1
+善意受让人	shan yi shou rang ren	1
+善意意图使用商标于商业上	shan yi yi tu shi yong shang biao yu shang ye shang	1
+商标	shang biao	1
+商标本质	shang biao ben zhi	1
+商标代理人	shang biao dai li ren	1
+商标的抛弃	shang biao di pao qi	1
+商标法	shang biao fa	1
+商标法施行细则	shang biao fa shi xing xi ze	1
+商标法条约	shang biao fa tiao yue	1
+商标公报	shang biao gong bao	1
+商标局	shang biao ju	1
+商标审查程序手册	shang biao shen cha cheng xu shou ce	1
+商标实际使用于商业上	shang biao shi ji shi yong yu shang ye shang	1
+商标诉愿暨上诉委员会	shang biao su yuan ji shang su wei yuan hui	1
+商标条约执行法	shang biao tiao yue zhi xing fa	1
+商标图样	shang biao tu yang	1
+商标图样之标首	shang biao tu yang zhi biao shou	1
+商标注册	shang biao zhu ce	1
+商标注册之延展	shang biao zhu ce zhi yan zhan	1
+商标专用权	shang biao zhuan yong quan	1
+商港法	shang gang fa	1
+上柜证券	shang gui zheng quan	1
+商品标示法	shang pin biao shi fa	1
+商品及服务之认定	shang pin ji fu wu zhi ren ding	1
+商品检验法	shang pin jian yan fa	1
+商品商标	shang pin shang biao	1
+上市证券	shang shi zheng quan	1
+上诉	shang su	1
+上诉法院	shang su fa yuan	1
+上诉人及诉讼代理人席	shang su ren ji su song dai li ren xi	1
+上诉事件维持率	shang su shi jian wei chi lv	1
+商业	shang ye	1
+商业的印象	shang ye de yin xiang	1
+商业调查官	shang ye diao cha guan	1
+商业会计法	shang ye kuai ji fa	1
+商业会计记帐人	shang ye kuai ji ji zhang ren	1
+商业会计事务	shang ye kuai ji shi wu	1
+商业上	shang ye shang	1
+商业使用声明	shang ye shi yong sheng ming	1
+商业条款	shang ye tiao kuan	1
+商业言论	shang ye yan lun	1
+商业印象	shang ye yin xiang	1
+少年保护官	shao nian bao hu guan	1
+少年调查官	shao nian diao cha guan	1
+少年法庭	shao nian fa ting	1
+少年法院	shao nian fa yuan	1
+少年犯	shao nian fan	1
+少年犯罪	shao nian fan zui	1
+少年福利法	shao nian fu li fa	1
+少年观护所	shao nian guan hu suo	1
+少年候审室	shao nian hou shen shi	1
+少年及家事法庭	shao nian ji jia shi fa ting	1
+少年及家事法院	shao nian ji jia shi fa yuan	1
+少年及家事纪录科	shao nian ji jia shi ji lu ke	1
+少年及家事厅	shao nian ji jia shi ting	1
+少年矫正学校	shao nian jiao zheng xue xiao	1
+少年事件处理法	shao nian shi jian chu li fa	1
+社会安全	she hui an quan	1
+社会保险	she hui bao xian	1
+社会福利	she hui fu li	1
+社会福利事项	she hui fu li shi xiang	1
+社会教育法	she hui jiao yu fa	1
+社会救助	she hui jiu zhu	1
+社会救助法	she hui jiu zhu fa	1
+社会团体许可立案作业规定	she hui tuan ti xu ke li an zuo ye gui ding	1
+社会秩序	she hui zhi xu	1
+社会秩序维护法	she hui zhi xu wei hu fa	1
+设计师	she ji shi	1
+赦免	she mian	1
+赦免法	she mian fa	1
+社团法人	she tuan fa ren	1
+涉外民事法律适用法	she wai min shi fa lv shi yong fa	1
+申报纳税	shen bao na shui	1
+审查	shen cha	1
+审查科	shen cha ke	1
+审查律师	shen cha lv shi	1
+审查中的申请案	shen cha zhong de shen qing an	1
+审核	shen he	1
+审核报告	shen he bao gao	1
+审计报告	shen ji bao gao	1
+审计部	shen ji bu	1
+审计部组织法	shen ji bu zu zhi fa	1
+审计法	shen ji fa	1
+审计机关	shen ji ji guan	1
+审计人员任用条例	shen ji ren yuan ren yong tiao li	1
+审计长	shen ji zhang	1
+审判独立	shen pan du li	1
+审判或追诉职务	shen pan huo zhui su zhi wu	1
+审判机关	shen pan ji guan	1
+审判权	shen pan quan	1
+审判权划分	shen pan quan hua fen	1
+审判事务	shen pan shi wu	1
+审判长	shen pan zhang	1
+审判长席	shen pan zhang xi	1
+审前调查	shen qian diao cha	1
+申请	shen qing	1
+申请案	shen qing an	1
+申请费	shen qing fei	1
+申请复查	shen qing fu cha	1
+申请恢复申请案	shen qing hui fu shen qing an	1
+申请历史	shen qing li shi	1
+申请期间	shen qing qi jian	1
+申请人	shen qing ren	1
+申请人原属国	shen qing ren yuan shu guo	1
+申请日	shen qing ri	1
+申请之商标	shen qing zhi shang biao	1
+身体自由	shen ti zi you	1
+审问	shen wen	1
+身心障碍厕所	shen xin zhang ai ce suo	1
+身心障碍者保护法	shen xin zhang ai zhe bao hu fa	1
+审议	shen yi	1
+生产事业	sheng chan shi ye	1
+生产事业奖励类目及标准	sheng chan shi ye jiang li lei mu ji biao zhun	1
+生产事业研究发展费用适用投资抵减办法	sheng chan shi ye yan jiu fa zhan fei yong shi yong tou zi di jian ban fa	1
+生存权	sheng cun quan	1
+生活共同体	sheng huo gong tong ti	1
+声明	sheng ming	1
+声明不专用	sheng ming bu zhuan yong	1
+声明异议	sheng ming yi yi	1
+升迁	sheng qian	1
+声请	sheng qing	1
+声请人	sheng qing ren	1
+声请人代理人	sheng qing ren dai li ren	1
+声请再审	sheng qing zai shen	1
+省辖市	sheng xia shi	1
+省县自治法	sheng xian zi zhi fa	1
+生效日	sheng xiao ri	1
+生效日期	sheng xiao ri qi	1
+省议会	sheng yi hui	1
+声音商标	sheng yin shang biao	1
+省长	sheng zhang	1
+识别性	shi bie xing	1
+市场批发价格	shi chang pi fa jia ge	1
+世故精明且绝不会被混淆	shi gu jing ming qie jue bu hui bei hun xiao	1
+世故且精明的	shi gu qie jing ming de	1
+实际的混淆	shi ji de hun xiao	1
+实际的日期	shi ji de ri qi	1
+事假	shi jia	1
+事件之本质	shi jian zhi ben zhi	1
+世界智慧财产权组织	shi jie zhi hui cai chan quan zu zhi	1
+视觉可感知的图样	shi jue ke gan zhi de tu yang	1
+视觉上	shi jue shang	1
+事前审查	shi qian shen cha	1
+市区道路条例	shi qu dao lu tiao li	1
+实任检察官	shi ren jian cha guan	1
+实施耕者有其田条例	shi shi geng zhe you qi tian tiao li	1
+事实上功能性	shi shi shang gong neng xing	1
+事实审	shi shi shen	1
+实体核驳	shi ti he bo	1
+视同行政处分	shi tong xing zheng chu fen	1
+实现自我	shi xian zi wo	1
+时效	shi xiao	1
+时效取得地上权登记审查要点	shi xiao qu de di shang quan deng ji shen cha yao dian	1
+时效完成	shi xiao wan cheng	1
+施行日	shi xing ri	1
+市议会	shi yi hui	1
+使用	shi yong	1
+适用	shi yong	1
+实用的	shi yong de	1
+适用法规显有错误	shi yong fa gui xian you cuo wu	1
+实用功能	shi yong gong neng	1
+使用声明	shi yong sheng ming	1
+使用声明之修正	shi yong sheng ming zhi xiu zheng	1
+使用收益权	shi yong shou yi quan	1
+使用证据	shi yong zheng ju	1
+石油管理法	shi you guan li fa	1
+饰有纹章的盾	shi you wen zhang de dun	1
+施政年度	shi zheng nian du	1
+失踪人	shi zong ren	1
+受处分人	shou chu fen ren	1
+收发室	shou fa shi	1
+收费	shou fei	1
+收费处	shou fei chu	1
+收付实现原则	shou fu shi xian yuan ze	1
+受扶养亲属	shou fu yang qin shu	1
+受教育机会	shou jiao yu ji hui	1
+受理件数	shou li jian shu	1
+授权	shou quan	1
+授权合约书	shou quan he yue shu	1
+受让人	shou rang ren	1
+收养	shou yang	1
+收养程序	shou yang cheng xu	1
+收养人	shou yang ren	1
+兽医师法	shou yi shi fa	1
+受益行政处分	shou yi xing zheng chu fen	1
+售状	shou zhuang	1
+赎回不动产的权利	shu hui bu dong chan de quan li	1
+书记	shu ji	1
+书记官	shu ji guan	1
+书记官席	shu ji guan xi	1
+书记官长	shu ji guan zhang	1
+书记官长室	shu ji guan zhang shi	1
+书面请求	shu mian qing qiu	1
+书面同意	shu mian tong yi	1
+书面通知	shu mian tong zhi	1
+书面文件	shu mian wen jian	1
+数罪并罚	shu zui bing fa	1
+双方合议	shuang fang he yi	1
+税负公平	shui fu gong ping	1
+税捐机关	shui juan ji guan	1
+税捐稽征	shui juan ji zheng	1
+税捐稽征法	shui juan ji zheng fa	1
+税捐稽征机关	shui juan ji zheng ji guan	1
+税捐减免	shui juan jian mian	1
+税捐扣除额	shui juan kou chu e	1
+税款	shui kuan	1
+水利法	shui li fa	1
+税率	shui lv	1
+税目	shui mu	1
+水土保持法	shui tu bao chi fa	1
+水污染防治法	shui wu ran fang zhi fa	1
+水源区	shui yuan qu	1
+税则号别	shui ze hao bie	1
+私法	si fa	1
+司法风纪	si fa feng ji	1
+司法风纪访查	si fa feng ji fang cha	1
+司法机关	si fa ji guan	1
+司法解释	si fa jie shi	1
+司法救济	si fa jiu ji	1
+私法人	si fa ren	1
+司法人员	si fa ren yuan	1
+司法认知	si fa ren zhi	1
+司法上受益权	si fa shang shou yi quan	1
+司法审查	si fa shen cha	1
+司法事务官	si fa shi wu guan	1
+司法事务官室	si fa shi wu guan shi	1
+司法受益权	si fa shou yi quan	1
+司法行政监督权	si fa xing zheng jian du quan	1
+司法行政人员	si fa xing zheng ren yuan	1
+司法行政事务	si fa xing zheng shi wu	1
+司法行政厅	si fa xing zheng ting	1
+司法院	si fa yuan	1
+司法院大法官会议法	si fa yuan da fa guan hui yi fa	1
+司法院大法官会议规则	si fa yuan da fa guan hui yi gui ze	1
+司法院大法官审理案件法	si fa yuan da fa guan shen li an jian fa	1
+司法院法官遴选委员会	si fa yuan fa guan lin xuan wei yuan hui	1
+司法院释字解释	si fa yuan shi zi jie shi	1
+司法院收文处	si fa yuan shou wen chu	1
+司法院司法人员研习所	si fa yuan si fa ren yuan yan xi suo	1
+司法院刑事补偿法庭	si fa yuan xing shi bu chang fa ting	1
+司法院职务评定评议委员会	si fa yuan zhi wu ping ding ping yi wei yuan hui	1
+司法院职务评定再复核委员会	si fa yuan zhi wu ping ding zai fu he wei yuan hui	1
+司法院主管决算	si fa yuan zhu guan jue suan	1
+司法院主管预算	si fa yuan zhu guan yu suan	1
+司法院组织法	si fa yuan zu zhi fa	1
+司法周刊社	si fa zhou kan she	1
+司法自主	si fa zi zhu	1
+司法自主性	si fa zi zhu xing	1
+司机室	si ji shi	1
+私立学校法	si li xue xiao fa	1
+私立学校规程	si li xue xiao gui cheng	1
+饲料管理法	si liao guan li fa	1
+私密性	si mi xing	1
+寺庙登记规则	si miao deng ji gui ze	1
+死亡宣告案件	si wang xuan gao an jian	1
+私文书	si wen shu	1
+死刑	si xing	1
+私有土地所有权人	si you tu di suo you quan ren	1
+私运货物	si yun huo wu	1
+送达	song da	1
+溯及既往	su ji ji wang	1
+溯及适用	su ji shi yong	1
+速记员	su ji yuan	1
+肃清烟毒条例	su qing yan du tiao li	1
+诉讼参加	su song can jia	1
+诉讼程序中之救济	su song cheng xu zhong zhi jiu ji	1
+诉讼代理人	su song dai li ren	1
+诉讼费用	su song fei yong	1
+诉讼辅导	su song fu dao	1
+诉讼辅导科	su song fu dao ke	1
+诉讼救助	su song jiu zhu	1
+诉讼理由	su song li you	1
+诉讼能力	su song neng li	1
+诉讼权	su song quan	1
+诉讼行为	su song xing wei	1
+诉讼要点	su song yao dian	1
+肃贪行动方案	su tan xing dong fang an	1
+诉愿	su yuan	1
+诉愿法	su yuan fa	1
+诉愿及诉讼之权利	su yuan ji su song zhi quan li	1
+诉愿审议委员会	su yuan shen yi wei yuan hui	1
+岁出	sui chu	1
+岁出总额	sui chu zong e	1
+岁费	sui fei	1
+岁入	sui ru	1
+所得税	suo de shui	1
+所得税法	suo de shui fa	1
+所得税法施行细则	suo de shui fa shi xing xi ze	1
+所得税免税额	suo de shui mian shui e	1
+所有权	suo you quan	1
+所有人	suo you ren	1
+所长	suo zhang	1
+台北高等行政法院	tai bei gao deng xing zheng fa yuan	1
+台北市国税局	tai bei shi guo shui ju	1
+台北市奖励投资兴建零售市场须知	tai bei shi jiang li tou zi xing jian ling shou shi chang xu zhi	1
+台北市市区道路管理规则	tai bei shi shi qu dao lu guan li gui ze	1
+台湾地区与大陆地区人民关系条例	tai wan di qu yu da lu di qu ren min guan xi tiao li	1
+台湾高等法院	tai wan gao deng fa yuan	1
+台湾高等法院高雄分院	tai wan gao deng fa yuan gao xiong fen yuan	1
+台湾高等法院高雄分院澎湖庭	tai wan gao deng fa yuan gao xiong fen yuan peng hu ting	1
+台湾高等法院花莲分院	tai wan gao deng fa yuan hua lian fen yuan	1
+台湾高等法院花莲分院台东庭	tai wan gao deng fa yuan hua lian fen yuan tai dong ting	1
+台湾高等法院台南分院	tai wan gao deng fa yuan tai nan fen yuan	1
+台湾高等法院台中分院	tai wan gao deng fa yuan tai zhong fen yuan	1
+台湾高雄地方法院	tai wan gao xiong di fang fa yuan	1
+台湾高雄地方法院凤山简易庭	tai wan gao xiong di fang fa yuan feng shan jian yi ting	1
+台湾高雄地方法院冈山简易庭	tai wan gao xiong di fang fa yuan gang shan jian yi ting	1
+台湾高雄地方法院高雄简易庭	tai wan gao xiong di fang fa yuan gao xiong jian yi ting	1
+台湾高雄地方法院旗山简易庭	tai wan gao xiong di fang fa yuan qi shan jian yi ting	1
+台湾高雄少年及家事法院	tai wan gao xiong shao nian ji jia shi fa yuan	1
+台湾花莲地方法院	tai wan hua lian di fang fa yuan	1
+台湾花莲地方法院凤林简易庭	tai wan hua lian di fang fa yuan feng lin jian yi ting	1
+台湾花莲地方法院花莲简易庭	tai wan hua lian di fang fa yuan hua lian jian yi ting	1
+台湾花莲地方法院玉里简易庭	tai wan hua lian di fang fa yuan yu li jian yi ting	1
+台湾基隆地方法院	tai wan ji long di fang fa yuan	1
+台湾基隆地方法院基隆简易庭	tai wan ji long di fang fa yuan ji long jian yi ting	1
+台湾基隆地方法院瑞芳简易庭	tai wan ji long di fang fa yuan rui fang jian yi ting	1
+台湾嘉义地方法院	tai wan jia yi di fang fa yuan	1
+台湾嘉义地方法院嘉义简易庭	tai wan jia yi di fang fa yuan jia yi jian yi ting	1
+台湾嘉义地方法院朴子简易庭	tai wan jia yi di fang fa yuan pu zi jian yi ting	1
+台湾苗栗地方法院	tai wan miao li di fang fa yuan	1
+台湾苗栗地方法院苗栗简易庭	tai wan miao li di fang fa yuan miao li jian yi ting	1
+台湾南投地方法院	tai wan nan tou di fang fa yuan	1
+台湾南投地方法院南投简易庭	tai wan nan tou di fang fa yuan nan tou jian yi ting	1
+台湾南投地方法院埔里简易庭	tai wan nan tou di fang fa yuan pu li jian yi ting	1
+台湾澎湖地方法院	tai wan peng hu di fang fa yuan	1
+台湾澎湖地方法院马公简易庭	tai wan peng hu di fang fa yuan ma gong jian yi ting	1
+台湾屏东地方法院	tai wan ping dong di fang fa yuan	1
+台湾屏东地方法院潮州简易庭	tai wan ping dong di fang fa yuan chao zhou jian yi ting	1
+台湾屏东地方法院屏东简易庭	tai wan ping dong di fang fa yuan ping dong jian yi ting	1
+台湾桥头地方法院	tai wan qiao tou di fang fa yuan	1
+台湾省放领公有耕地扶植自耕农实施要点	tai wan sheng fang ling gong you geng di fu zhi zi geng nong shi shi yao dian	1
+台湾省非都市土地容许使用执行要点	tai wan sheng fei du shi tu di rong xu shi yong zhi xing yao dian	1
+台湾省工厂工人退休规则	tai wan sheng gong chang gong ren tui xiu gui ze	1
+台湾省林务局	tai wan sheng lin wu ju	1
+台湾省省县市立各级学校教职员遴用办法	tai wan sheng sheng xian shi li ge ji xue xiao jiao zhi yuan lin yong ban fa	1
+台湾省烟酒公卖局	tai wan sheng yan jiu gong mai ju	1
+台湾省烟酒专卖暂行条例	tai wan sheng yan jiu zhuan mai zan xing tiao li	1
+台湾士林地方法院	tai wan shi lin di fang fa yuan	1
+台湾士林地方法院内湖简易庭	tai wan shi lin di fang fa yuan nei hu jian yi ting	1
+台湾士林地方法院士林简易庭	tai wan shi lin di fang fa yuan shi lin jian yi ting	1
+台湾台北地方法院	tai wan tai bei di fang fa yuan	1
+台湾台北地方法院台北简易庭	tai wan tai bei di fang fa yuan tai bei jian yi ting	1
+台湾台北地方法院新店简易庭	tai wan tai bei di fang fa yuan xin dian jian yi ting	1
+台湾台东地方法院	tai wan tai dong di fang fa yuan	1
+台湾台东地方法院成功简易庭	tai wan tai dong di fang fa yuan cheng gong jian yi ting	1
+台湾台东地方法院台东简易庭	tai wan tai dong di fang fa yuan tai dong jian yi ting	1
+台湾台南地方法院	tai wan tai nan di fang fa yuan	1
+台湾台南地方法院柳营简易庭	tai wan tai nan di fang fa yuan liu ying jian yi ting	1
+台湾台南地方法院台南简易庭	tai wan tai nan di fang fa yuan tai nan jian yi ting	1
+台湾台南地方法院新市简易庭	tai wan tai nan di fang fa yuan xin shi jian yi ting	1
+台湾台中地方法院	tai wan tai zhong di fang fa yuan	1
+台湾台中地方法院丰原简易庭	tai wan tai zhong di fang fa yuan feng yuan jian yi ting	1
+台湾台中地方法院沙鹿简易庭	tai wan tai zhong di fang fa yuan sha lu jian yi ting	1
+台湾台中地方法院台中简易庭	tai wan tai zhong di fang fa yuan tai zhong jian yi ting	1
+台湾桃园地方法院	tai wan tao yuan di fang fa yuan	1
+台湾桃园地方法院桃园简易庭	tai wan tao yuan di fang fa yuan tao yuan jian yi ting	1
+台湾桃园地方法院中坜简易庭	tai wan tao yuan di fang fa yuan zhong li jian yi ting	1
+台湾新北地方法院	tai wan xin bei di fang fa yuan	1
+台湾新北地方法院板桥简易庭	tai wan xin bei di fang fa yuan ban qiao jian yi ting	1
+台湾新北地方法院三重简易庭	tai wan xin bei di fang fa yuan san chong jian yi ting	1
+台湾新竹地方法院	tai wan xin zhu di fang fa yuan	1
+台湾新竹地方法院新竹简易庭	tai wan xin zhu di fang fa yuan xin zhu jian yi ting	1
+台湾新竹地方法院竹北简易庭	tai wan xin zhu di fang fa yuan zhu bei jian yi ting	1
+台湾新竹地方法院竹东简易庭	tai wan xin zhu di fang fa yuan zhu dong jian yi ting	1
+台湾宜兰地方法院	tai wan yi lan di fang fa yuan	1
+台湾宜兰地方法院罗东简易庭	tai wan yi lan di fang fa yuan luo dong jian yi ting	1
+台湾宜兰地方法院宜兰简易庭	tai wan yi lan di fang fa yuan yi lan jian yi ting	1
+台湾云林地方法院	tai wan yun lin di fang fa yuan	1
+台湾云林地方法院北港简易庭	tai wan yun lin di fang fa yuan bei gang jian yi ting	1
+台湾云林地方法院斗六简易庭	tai wan yun lin di fang fa yuan dou liu jian yi ting	1
+台湾云林地方法院虎尾简易庭	tai wan yun lin di fang fa yuan hu wei jian yi ting	1
+台湾彰化地方法院	tai wan zhang hua di fang fa yuan	1
+台湾彰化地方法院北斗简易庭	tai wan zhang hua di fang fa yuan bei dou jian yi ting	1
+台湾彰化地方法院员林简易庭	tai wan zhang hua di fang fa yuan yuan lin jian yi ting	1
+台湾彰化地方法院彰化简易庭	tai wan zhang hua di fang fa yuan zhang hua jian yi ting	1
+台中高等行政法院	tai zhong gao deng xing zheng fa yuan	1
+弹劾	tan he	1
+弹劾权	tan he quan	1
+贪污治罪条例	tan wu zhi zui tiao li	1
+逃漏税	tao lou shui	1
+逃漏税款	tao lou shui kuan	1
+讨论场所	tao lun chang suo	1
+特别法	te bie fa	1
+特别公课	te bie gong ke	1
+特别牺牲	te bie xi sheng	1
+特别预算	te bie yu suan	1
+特定存活之个人	te ding cun huo zhi ge ren	1
+特定地区	te ding di qu	1
+特许	te xu	1
+特有财产	te you cai chan	1
+特约医事服务机构	te yue yi shi fu wu ji gou	1
+提出	ti chu	1
+提出理由之义务	ti chu li you zhi yi wu	1
+提出一份使用修正声明	ti chu yi fen shi yong xiu zheng sheng ming	1
+提出展期之请求	ti chu zhan qi zhi qing qiu	1
+提存	ti cun	1
+提存法	ti cun fa	1
+提存法施行细则	ti cun fa shi xing xi ze	1
+提存书	ti cun shu	1
+提存所	ti cun suo	1
+提存通知书	ti cun tong zhi shu	1
+提存物	ti cun wu	1
+替代役	ti dai yi	1
+替代役实施条例	ti dai yi shi shi tiao li	1
+体格合适性	ti ge he shi xing	1
+提名	ti ming	1
+提审法	ti shen fa	1
+调解	tiao jie	1
+调解报到处	tiao jie bao dao chu	1
+调解评议室	tiao jie ping yi shi	1
+调解室	tiao jie shi	1
+调解委员	tiao jie wei yuan	1
+调解委员报到准备室	tiao jie wei yuan bao dao zhun bei shi	1
+条款	tiao kuan	1
+条约	tiao yue	1
+停车场	ting che chang	1
+庭务员	ting wu yuan	1
+停业处分	ting ye chu fen	1
+厅长	ting zhang	1
+庭长	ting zhang	1
+厅长室	ting zhang shi	1
+庭长室	ting zhang shi	1
+听证	ting zheng	1
+停止受理	ting zhi shou li	1
+停止诉讼程序	ting zhi su song cheng xu	1
+停止职务	ting zhi zhi wu	1
+停止执行	ting zhi zhi xing	1
+统计处	tong ji chu	1
+统计法	tong ji fa	1
+统计室	tong ji shi	1
+通缉资料室	tong ji zi liao shi	1
+通奸	tong jian	1
+同居	tong ju	1
+同居义务	tong ju yi wu	1
+通体判断原则	tong ti pan duan yuan ze	1
+通译	tong yi	1
+统一发票	tong yi fa piao	1
+统一发票使用办法	tong yi fa piao shi yong ban fa	1
+统一解释	tong yi jie shi	1
+同一来源	tong yi lai yuan	1
+通译室	tong yi shi	1
+同意通知书	tong yi tong zhi shu	1
+统一网域名称争议解决政策	tong yi wang yu ming cheng zheng yi jie jue zheng ce	1
+同音	tong yin	1
+通用名称	tong yong ming cheng	1
+通知函	tong zhi han	1
+通知书	tong zhi shu	1
+透明	tou ming	1
+土地登记规则	tu di deng ji gui ze	1
+土地登记专业代理人管理办法	tu di deng ji zhuan ye dai li ren guan li ban fa	1
+土地法	tu di fa	1
+土地法施行法	tu di fa shi xing fa	1
+土地公告现值	tu di gong gao xian zhi	1
+土地税法	tu di shui fa	1
+土地税法施行细则	tu di shui fa shi xing xi ze	1
+土地税减免规则	tu di shui jian mian gui ze	1
+土地所有人	tu di suo you ren	1
+土地移转现值	tu di yi zhuan xian zhi	1
+土地增值税	tu di zeng zhi shui	1
+土地征收	tu di zheng shou	1
+土地征收法令补充规定	tu di zheng shou fa ling bu chong gui ding	1
+土地征收条例	tu di zheng shou tiao li	1
+图解的	tu jie de	1
+图书室	tu shu shi	1
+图书阅览室	tu shu yue lan shi	1
+涂销登记	tu xiao deng ji	1
+团体标章	tuan ti biao zhang	1
+团体商标	tuan ti shang biao	1
+团体协约法	tuan ti xie yue fa	1
+推定	tui ding	1
+推定使用日期	tui ding shi yong ri qi	1
+推定死亡	tui ding si wang	1
+退费	tui fei	1
+推计核定	tui ji he ding	1
+退税	tui shui	1
+退休	tui xiu	1
+退休公务人员退休金优惠存款办法	tui xiu gong wu ren yuan tui xiu jin you hui cun kuan ban fa	1
+退休金	tui xiu jin	1
+退休金其他现金给与补偿金	tui xiu jin qi ta xian jin ji yu bu chang jin	1
+退学或类此之处分行为	tui xue huo lei ci zhi chu fen xing wei	1
+退职	tui zhi	1
+外观	wai guan	1
+外国护照签证条例	wai guo hu zhao qian zheng tiao li	1
+外患罪	wai huan zui	1
+外交部领事事务局组织条例	wai jiao bu ling shi shi wu ju zu zhi tiao li	1
+外交部外交领事人员讲习所组织条例	wai jiao bu wai jiao ling shi ren yuan jiang xi suo zu zhi tiao li	1
+外交部组织法	wai jiao bu zu zhi fa	1
+万国邮政公约最后议定书	wan guo you zheng gong yue zui hou yi ding shu	1
+完税价格	wan shui jia ge	1
+网际网路名称与号码分配组织	wang ji wang lu ming cheng yu hao ma fen pei zu zhi	1
+网域名称	wang yu ming cheng	1
+未成年子女	wei cheng nian zi nv	1
+未登记不动产	wei deng ji bu dong chan	1
+违法及失职	wei fa ji shi zhi	1
+违法行为	wei fa xing wei	1
+违反道路交通管理事件统一裁罚标准表	wei fan dao lu jiao tong guan li shi jian tong yi cai fa biao zhun biao	1
+未分配盈余	wei fen pei ying yu	1
+未继承登记不动产办理强制执行联系要点	wei ji cheng deng ji bu dong chan ban li qiang zhi zhi xing lian xi yao dian	1
+未结件数	wei jie jian shu	1
+违警罚法	wei jing fa fa	1
+委任状	wei ren zhuang	1
+未上柜公司	wei shang gui gong si	1
+未上市公司	wei shang shi gong si	1
+违宪	wei xian	1
+猥亵	wei xie	1
+猥亵出版品	wei xie chu ban pin	1
+卫星广播电视法	wei xing guang bo dian shi fa	1
+唯一死刑	wei yi si xing	1
+委员	wei yuan	1
+委员长	wei yuan zhang	1
+伪造	wei zao	1
+伪造的	wei zao de	1
+伪造身分	wei zao shen fen	1
+伪造税戳	wei zao shui chuo	1
+文官惩戒	wen guan cheng jie	1
+文化艺术奖助条例	wen hua yi shu jiang zhu tiao li	1
+文化资产保存法	wen hua zi chan bao cun fa	1
+温泉法	wen quan fa	1
+文书科	wen shu ke	1
+文字诽谤	wen zi fei bang	1
+五边形	wu bian xing	1
+无法弥补的	wu fa mi bu de	1
+诬告	wu gao	1
+诬告罪	wu gao zui	1
+无关系的	wu guan xi de	1
+无记名投票	wu ji ming tou piao	1
+物品库	wu pin ku	1
+无期徒刑	wu qi tu xing	1
+五权分立	wu quan fen li	1
+无权占有	wu quan zhan you	1
+误认	wu ren	1
+无使用之期限	wu shi yong zhi qi xian	1
+诬陷	wu xian	1
+无效	wu xiao	1
+误写	wu xie	1
+五院制	wu yuan zhi	1
+物证	wu zheng	1
+无正当事由	wu zheng dang shi you	1
+武职人员	wu zhi ren yuan	1
+习惯	xi guan	1
+洗钱防制法	xi qian fang zhi fa	1
+系统分析师	xi tong fen xi shi	1
+系统工程师	xi tong gong cheng shi	1
+下水道法	xia shui dao fa	1
+限定继承	xian ding ji cheng	1
+宪法	xian fa	1
+宪法法庭	xian fa fa ting	1
+宪法解释	xian fa jie shi	1
+限期离境	xian qi li jing	1
+先天的识别性	xian tian de shi bie xing	1
+线条或点彩	xian tiao huo dian cai	1
+先行通知	xian xing tong zhi	1
+嫌疑犯	xian yi fan	1
+现役军人	xian yi jun ren	1
+先予试用	xian yu shi yong	1
+县长	xian zhang	1
+限制欠税人或欠税营利事业负责人出境办法	xian zhi qian shui ren huo qian shui ying li shi ye fu ze ren chu jing ban fa	1
+相对人	xiang dui ren	1
+相对人代理人	xiang dui ren dai li ren	1
+相对事由	xiang dui shi you	1
+香港澳门关系条例	xiang gang ao men guan xi tiao li	1
+相关	xiang guan	1
+相关的商品或服务	xiang guan de shang pin huo fu wu	1
+相关购买人	xiang guan gou mai ren	1
+相关消费大众	xiang guan xiao fei da zhong	1
+相关性	xiang guan xing	1
+相互	xiang hu	1
+相互承认	xiang hu cheng ren	1
+相似处为	xiang si chu wei	1
+相同的交易管道	xiang tong de jiao yi guan dao	1
+镶牙生管理规则	xiang ya sheng guan li gui ze	1
+消防法	xiao fang fa	1
+消防器具间	xiao fang qi ju jian	1
+消费者	xiao fei zhe	1
+消费者保护法	xiao fei zhe bao hu fa	1
+消极利益	xiao ji li yi	1
+消极性释示	xiao ji xing shi shi	1
+销售货物或劳务	xiao shou huo wu huo lao wu	1
+销售凭证	xiao shou ping zheng	1
+肖像	xiao xiang	1
+协定条款	xie ding tiao kuan	1
+协议离婚	xie yi li hun	1
+薪俸	xin feng	1
+信赖保护原则	xin lai bao hu yuan ze	1
+心理测验	xin li ce yan	1
+心理测验员	xin li ce yan yuan	1
+心理辅导	xin li fu dao	1
+心理辅导员	xin li fu dao yuan	1
+新娘休息室	xin niang xiu xi shi	1
+新市镇开发条例	xin shi zhen kai fa tiao li	1
+新收	xin shou	1
+新台币	xin tai bi	1
+信托业法	xin tuo ye fa	1
+信托占有	xin tuo zhan you	1
+新闻局	xin wen ju	1
+新闻自由	xin wen zi you	1
+信用合作社	xin yong he zuo she	1
+信用合作社法	xin yong he zuo she fa	1
+心证	xin zheng	1
+性别歧视	xing bie qi shi	1
+刑法	xing fa	1
+刑罚	xing fa	1
+刑罚权	xing fa quan	1
+姓名权	xing ming quan	1
+姓名条例	xing ming tiao li	1
+性侵害犯罪防治法	xing qin hai fan zui fang zhi fa	1
+姓氏	xing shi	1
+刑事案件	xing shi an jian	1
+刑事第一法庭	xing shi di yi fa ting	1
+刑事纪录科	xing shi ji lu ke	1
+刑事商谈室	xing shi shang tan shi	1
+刑事上之诉究	xing shi shang zhi su jiu	1
+刑事诉讼法	xing shi su song fa	1
+刑事厅	xing shi ting	1
+刑事庭	xing shi ting	1
+刑事责任	xing shi ze ren	1
+行使债权	xing shi zhai quan	1
+行为罚	xing wei fa	1
+行宪	xing xian	1
+行刑权	xing xing quan	1
+性行为自由	xing xing wei zi you	1
+行政处分	xing zheng chu fen	1
+行政措施	xing zheng cuo shi	1
+行政法	xing zheng fa	1
+行政罚	xing zheng fa	1
+行政法规	xing zheng fa gui	1
+行政法院	xing zheng fa yuan	1
+行政法院处务规程	xing zheng fa yuan chu wu gui cheng	1
+行政法院组织法	xing zheng fa yuan zu zhi fa	1
+行政规则	xing zheng gui ze	1
+行政机关	xing zheng ji guan	1
+行政解释	xing zheng jie shi	1
+行政救济	xing zheng jiu ji	1
+行政命令	xing zheng ming ling	1
+行政契约	xing zheng qi yue	1
+行政上之目的	xing zheng shang zhi mu di	1
+行政诉讼	xing zheng su song	1
+行政诉讼程序	xing zheng su song cheng xu	1
+行政诉讼法	xing zheng su song fa	1
+行政诉讼法庭	xing zheng su song fa ting	1
+行政诉讼及惩戒厅	xing zheng su song ji cheng jie ting	1
+行政诉讼庭	xing zheng su song ting	1
+行政诉讼新制	xing zheng su song xin zhi	1
+行政诉愿	xing zheng su yuan	1
+行政院	xing zheng yuan	1
+行政院公平交易委员会组织条例	xing zheng yuan gong ping jiao yi wei yuan hui zu zhi tiao li	1
+行政院经济建设委员会组织条例	xing zheng yuan jing ji jian she wei yuan hui zu zhi tiao li	1
+行政院人事行政局地方行政研习中心组织条例	xing zheng yuan ren shi xing zheng ju di fang xing zheng yan xi zhong xin zu zhi tiao li	1
+行政院人事行政局组织条例	xing zheng yuan ren shi xing zheng ju zu zhi tiao li	1
+行政院研究发展考核委员会组织条例	xing zheng yuan yan jiu fa zhan kao he wei yuan hui zu zhi tiao li	1
+行政院院长	xing zheng yuan yuan zhang	1
+行政院原住民族委员会组织条例	xing zheng yuan yuan zhu min zu wei yuan hui zu zhi tiao li	1
+行政院主计处电子处理资料中心组织条例	xing zheng yuan zhu ji chu dian zi chu li zi liao zhong xin zu zhi tiao li	1
+行政院主计处组织法	xing zheng yuan zhu ji chu zu zhi fa	1
+行政争讼	xing zheng zheng song	1
+行政执行法	xing zheng zhi xing fa	1
+休假	xiu jia	1
+嗅觉的	xiu jue de	1
+虚报进项税额	xu bao jin xiang shui e	1
+畜牧法	xu mu fa	1
+需用土地人	xu yong tu di ren	1
+选定当事人	xuan ding dang shi ren	1
+悬而未决的	xuan er wei jue de	1
+宣告死亡	xuan gao si wang	1
+选举	xuan ju	1
+宣誓	xuan shi	1
+宣誓书	xuan shi shu	1
+宣誓条例	xuan shi tiao li	1
+选择自由	xuan ze zi you	1
+学生惩处	xue sheng cheng chu	1
+学术审议	xue shu shen yi	1
+学术自由	xue shu zi you	1
+学术自由之制度性保障	xue shu zi you zhi zhi du xing bao zhang	1
+学位授与法	xue wei shou yu fa	1
+学习法官席	xue xi fa guan xi	1
+学习律师席	xue xi lv shi xi	1
+学习生活技能	xue xi sheng huo ji neng	1
+学习司法官室	xue xi si fa guan shi	1
+学习自由	xue xi zi you	1
+学校教职员退休条例	xue xiao jiao zhi yuan tui xiu tiao li	1
+训练	xun lian	1
+讯问室	xun wen shi	1
+押票	ya piao	1
+延长任期	yan chang ren qi	1
+言词	yan ci	1
+言词辩论	yan ci bian lun	1
+研究发展费用	yan jiu fa zhan fei yong	1
+烟酒税法	yan jiu shui fa	1
+研究自由	yan jiu zi you	1
+研考科	yan kao ke	1
+言论自由	yan lun zi you	1
+延期	yan qi	1
+研讨室	yan tao shi	1
+延展期间	yan zhan qi jian	1
+延滞诉讼	yan zhi su song	1
+养父母	yang fu mu	1
+养老给付保险金	yang lao ji fu bao xian jin	1
+养女	yang nv	1
+养子	yang zi	1
+养子女	yang zi nv	1
+药局	yao ju	1
+药师	yao shi	1
+药事法	yao shi fa	1
+药事法施行细则	yao shi fa shi xing xi ze	1
+要式行为	yao shi xing wei	1
+药物广告	yao wu guang gao	1
+药物药商管理法	yao wu yao shang guan li fa	1
+野生动物保育法	ye sheng dong wu bao yu fa	1
+一般诽谤	yi ban fei bang	1
+一般公众	yi ban gong zhong	1
+一般商业名称	yi ban shang ye ming cheng	1
+遗产	yi chan	1
+遗产及赠与税法	yi chan ji zeng yu shui fa	1
+遗产及赠与税法施行细则	yi chan ji zeng yu shui fa shi xing xi ze	1
+遗产价值	yi chan jia zhi	1
+遗产上权利	yi chan shang quan li	1
+遗产税	yi chan shui	1
+遗产税法	yi chan shui fa	1
+一次退休金	yi ci tui xiu jin	1
+已登记不动产	yi deng ji bu dong chan	1
+易服劳役	yi fu lao yi	1
+依附式之比例代表制	yi fu shi zhi bi li dai biao zhi	1
+一夫一妻婚姻制度	yi fu yi qi hun yin zhi du	1
+医护室	yi hu shi	1
+议会	yi hui	1
+议会会议	yi hui hui yi	1
+议会事项	yi hui shi xiang	1
+一件使用样本	yi jian shi yong yang ben	1
+意见书	yi jian shu	1
+易科罚金	yi ke fa jin	1
+医疗保健	yi liao bao jian	1
+医疗法	yi liao fa	1
+医疗服务	yi liao fu wu	1
+医疗给付	yi liao ji fu	1
+役男	yi nan	1
+役男出境处理办法	yi nan chu jing chu li ban fa	1
+以取得标的不动产所有权为目的之占有	yi qu de biao di bu dong chan suo you quan wei mu di zhi zhan you	1
+医师	yi shi	1
+一事不再理	yi shi bu zai li	1
+医师法	yi shi fa	1
+以使用为基础之拒绝条款	yi shi yong wei ji chu zhi ju jue tiao kuan	1
+医师诊察室	yi shi zhen cha shi	1
+已收资本	yi shou zi ben	1
+遗属津贴	yi shu jin tie	1
+遗属利益	yi shu li yi	1
+一体不可分割的	yi ti bu ke fen ge de	1
+意图避免召集	yi tu bi mian zhao ji	1
+意图使用	yi tu shi yong	1
+以图样表示	yi tu yang biao shi	1
+医务室	yi wu shi	1
+一行为重复处罚	yi xing wei chong fu chu fa	1
+异议	yi yi	1
+异议程序	yi yi cheng xu	1
+议员	yi yuan	1
+议员言论免责权	yi yuan yan lun mian ze quan	1
+一造当事人的程序	yi zao dang shi ren de cheng xu	1
+议长	yi zhang	1
+依职权	yi zhi quan	1
+移转登记	yi zhuan deng ji	1
+易滋弊端业务	yi zi bi duan ye wu	1
+引渡法	yin du fa	1
+银行法	yin hang fa	1
+印花税法	yin hua shui fa	1
+姻亲关系	yin qin guan xi	1
+殷实商保	yin shi shang bao	1
+引水法	yin shui fa	1
+饮水机	yin shui ji	1
+隐私权	yin si quan	1
+印象	yin xiang	1
+阴影混淆	yin ying hun xiao	1
+饮用水管理条例	yin yong shui guan li tiao li	1
+银元	yin yuan	1
+引证的注册商标	yin zheng de zhu ce shang biao	1
+引证的注册商标并未使用	yin zheng de zhu ce shang biao bing wei shi yong	1
+应继分	ying ji fen	1
+应考人申请复查考试成绩处理办法	ying kao ren shen qing fu cha kao shi cheng ji chu li ban fa	1
+营利事业所得税	ying li shi ye suo de shui	1
+营利事业所得税查核准则	ying li shi ye suo de shui cha he zhun ze	1
+营利事业所得税结算查核准则	ying li shi ye suo de shui jie suan cha he zhun ze	1
+营利事业所得税结算申报	ying li shi ye suo de shui jie suan shen bao	1
+营业包装	ying ye bao zhuang	1
+营业秘密	ying ye mi mi	1
+营业秘密法	ying ye mi mi fa	1
+营业名称	ying ye ming cheng	1
+营业人	ying ye ren	1
+营业税	ying ye shui	1
+营业税法	ying ye shui fa	1
+营业税法施行细则	ying ye shui fa shi xing xi ze	1
+营业税特种税额查定办法	ying ye shui te zhong shui e cha ding ban fa	1
+营业用税率	ying ye yong shui lv	1
+营业执照	ying ye zhi zhao	1
+营业自由	ying ye zi you	1
+影印	ying yin	1
+营造业法	ying zao ye fa	1
+营造业管理规则	ying zao ye guan li gui ze	1
+永久结合关系	yong jiu jie he guan xi	1
+用纹章装饰	yong wen zhang zhuang shi	1
+用益物权	yong yi wu quan	1
+有偿主义	you chang zhu yi	1
+有二造当事人的程序	you er zao dang shi ren de cheng xu	1
+有给职	you gei zhi	1
+有关的	you guan de	1
+有价证券	you jia zheng quan	1
+邮件损失补偿	you jian sun shi bu chang	1
+游离辐射防护法	you li fu she fang hu fa	1
+有期徒刑	you qi tu xing	1
+优先	you xian	1
+优先承受权	you xian cheng shou quan	1
+有线广播电视法	you xian guang bo dian shi fa	1
+优先考量	you xian kao liang	1
+优先权请求	you xian quan qing qiu	1
+优先权申请日	you xian quan shen qing ri	1
+优先权声明	you xian quan sheng ming	1
+优先适用	you xian shi yong	1
+优先使用权	you xian shi yong quan	1
+优先受偿权	you xian shou chang quan	1
+有效	you xiao	1
+游艺场业辅导管理规则	you yi chang ye fu dao guan li gui ze	1
+油印室	you yin shi	1
+邮政储金汇业局	you zheng chu jin hui ye ju	1
+有正当事由未使用	you zheng dang shi you wei shi yong	1
+邮政法	you zheng fa	1
+邮政规则	you zheng gui ze	1
+邮政机关	you zheng ji guan	1
+邮政事业	you zheng shi ye	1
+幼稚教育法	you zhi jiao yu fa	1
+预备军官	yu bei jun guan	1
+预防性禁制令	yu fang xing jin zhi ling	1
+渔港法	yu gang fa	1
+与贸易有关之智慧财产权协定	yu mao yi you guan zhi zhi hui cai chan quan xie ding	1
+逾期申报	yu qi shen bao	1
+预算	yu suan	1
+预算案	yu suan an	1
+预算法	yu suan fa	1
+预算总额	yu suan zong e	1
+渔业法	yu ye fa	1
+与证人对质之权利	yu zheng ren dui zhi zhi quan li	1
+原本的主体	yuan ben de zhu ti	1
+原告	yuan gao	1
+原告及诉讼代理人席	yuan gao ji su song dai li ren xi	1
+员工活动中心	yuan gong huo dong zhong xin	1
+员工消费合作社	yuan gong xiao fei he zuo she	1
+原有财产	yuan you cai chan	1
+冤狱	yuan yu	1
+冤狱赔偿	yuan yu pei chang	1
+冤狱赔偿法	yuan yu pei chang fa	1
+院长	yuan zhang	1
+院长室	yuan zhang shi	1
+院长室主任	yuan zhang shi zhu ren	1
+原住民敬老福利生活津贴暂行条例	yuan zhu min jing lao fu li sheng huo jin tie zan xing tiao li	1
+原住民身分法	yuan zhu min shen fen fa	1
+原住民族教育法	yuan zhu min zu jiao yu fa	1
+原子能法	yuan zi neng fa	1
+月俸	yue feng	1
+阅卷	yue juan	1
+阅卷室	yue juan shi	1
+月退休金	yue tui xiu jin	1
+运送契约	yun song qi yue	1
+灾害防救法	zai hai fang jiu fa	1
+载货清单	zai huo qing dan	1
+再审	zai shen	1
+再审程序	zai shen cheng xu	1
+再审之诉	zai shen zhi su	1
+再诉愿	zai su yuan	1
+再提名	zai ti ming	1
+在途期间	zai tu qi jian	1
+在先	zai xian	1
+在先使用	zai xian shi yong	1
+栽赃	zai zang	1
+暂缓核发纳税通知书	zan huan he fa na shui tong zhi shu	1
+暂时限制令	zan shi xian zhi ling	1
+赞助者	zan zhu zhe	1
+赃物	zang wu	1
+赃证物库	zang zheng wu ku	1
+责任政治	ze ren zheng zhi	1
+增进公共利益	zeng jin gong gong li yi	1
+赠与	zeng yu	1
+赠与税	zeng yu shui	1
+增资	zeng zi	1
+增资变更登记	zeng zi bian geng deng ji	1
+诈骗工具	zha pian gong ju	1
+债权平等	zhai quan ping deng	1
+债权人	zhai quan ren	1
+债权人的权利	zhai quan ren de quan li	1
+债务	zhai wu	1
+债务人	zhai wu ren	1
+战胜拒绝注册事由	zhan sheng ju jue zhu ce shi you	1
+战时交通电业设备及器材防护条例	zhan shi jiao tong dian ye she bei ji qi cai fang hu tiao li	1
+战士授田凭据处理条例	zhan shi shou tian ping ju chu li tiao li	1
+涨价归公	zhang jia gui gong	1
+招标室	zhao biao shi	1
+召集	zhao ji	1
+召集规则	zhao ji gui ze	1
+这二个商标的读音不相同	zhe er ge shang biao di du yin bu xiang tong	1
+折算一日金额	zhe suan yi ri jin e	1
+这些商品被分类在不同的国际类别	zhe xie shang pin bei fen lei zai bu tong de guo ji lei bie	1
+贞操义务	zhen cao yi wu	1
+真品平行输入	zhen pin ping xing shu ru	1
+征兵	zheng bing	1
+征兵规则	zheng bing gui ze	1
+政党	zheng dang	1
+正当程序	zheng dang cheng xu	1
+正当法律程序	zheng dang fa lv cheng xu	1
+正当使用	zheng dang shi yong	1
+政风处	zheng feng chu	1
+政风督导会报	zheng feng du dao hui bao	1
+政风督导小组	zheng feng du dao xiao zu	1
+政风机构	zheng feng ji gou	1
+政风机构人员设置条例	zheng feng ji gou ren yuan she zhi tiao li	1
+政风人员	zheng feng ren yuan	1
+政风室	zheng feng shi	1
+政府采购法	zheng fu cai gou fa	1
+政府发展经济社会向国外借款及保证条例	zheng fu fa zhan jing ji she hui xiang guo wai jie kuan ji bao zheng tiao li	1
+政府公报	zheng fu gong bao	1
+政府机关	zheng fu ji guan	1
+证据	zheng ju	1
+证据的价值	zheng ju de jia zhi	1
+证明	zheng ming	1
+证明标章	zheng ming biao zhang	1
+证明力	zheng ming li	1
+证券	zheng quan	1
+证券交易法	zheng quan jiao yi fa	1
+证券交易税	zheng quan jiao yi shui	1
+证券交易所得税	zheng quan jiao yi suo de shui	1
+正确课税凭证制度	zheng que ke shui ping zheng zhi du	1
+证人	zheng ren	1
+证人保护法	zheng ren bao hu fa	1
+证人休息室	zheng ren xiu xi shi	1
+征收	zheng shou	1
+整体	zheng ti	1
+证物	zheng wu	1
+政务官	zheng wu guan	1
+政务官退职酬劳金给与条例	zheng wu guan tui zhi chou lao jin ji yu tiao li	1
+争议解决方案	zheng yi jie jue fang an	1
+制裁	zhi cai	1
+职称	zhi cheng	1
+执达员	zhi da yuan	1
+职等	zhi deng	1
+指定	zhi ding	1
+指定使用之商品	zhi ding shi yong zhi shang pin	1
+指定之商品或服务	zhi ding zhi shang pin huo fu wu	1
+志工	zhi gong	1
+职工福利金条例	zhi gong fu li jin tiao li	1
+志工服务台	zhi gong fu wu tai	1
+智慧	zhi hui	1
+智慧财产	zhi hui cai chan	1
+智慧财产法院	zhi hui cai chan fa yuan	1
+智慧财产及商业法院	zhi hui cai chan ji shang ye fa yuan	1
+智慧财产权	zhi hui cai chan quan	1
+直接买受人	zhi jie mai shou ren	1
+直接强制处分	zhi jie qiang zhi chu fen	1
+直接销售人	zhi jie xiao shou ren	1
+治疗室	zhi liao shi	1
+支领退休俸军官士官就任公职停发退休俸办法	zhi ling tui xiu feng jun guan shi guan jiu ren gong zhi ting fa tui xiu feng ban fa	1
+滞纳金	zhi na jin	1
+执票人	zhi piao ren	1
+职权	zhi quan	1
+指示相同来源	zhi shi xiang tong lai yuan	1
+职务法庭	zhi wu fa ting	1
+植物防疫检疫法	zhi wu fang yi jian yi fa	1
+职务列等	zhi wu lie deng	1
+职务评定委员会	zhi wu ping ding wei yuan hui	1
+植物种苗法	zhi wu zhong miao fa	1
+职系	zhi xi	1
+知悉门槛	zhi xi men kan	1
+直辖市	zhi xia shi	1
+执行费	zhi xing fei	1
+执行公司业务	zhi xing gong si ye wu	1
+执行机关	zhi xing ji guan	1
+执行名义	zhi xing ming yi	1
+值星庭长室	zhi xing ting zhang shi	1
+执行刑	zhi xing xing	1
+执行预算之弹性	zhi xing yu suan zhi tan xing	1
+质询	zhi xun	1
+职业上之义务	zhi ye shang zhi yi wu	1
+职业灾害劳工保护法	zhi ye zai hai lao gong bao hu fa	1
+志愿士兵服役条例	zhi yuan shi bing fu yi tiao li	1
+仲裁法庭	zhong cai fa ting	1
+仲裁判断	zhong cai pan duan	1
+仲裁人	zhong cai ren	1
+仲裁协议	zhong cai xie yi	1
+重大变故	zhong da bian gu	1
+重大明显瑕疵	zhong da ming xian xia ci	1
+中华民国领海及邻接区法	zhong hua min guo ling hai ji lin jie qu fa	1
+中华民国四十八年短期公债发行条例	zhong hua min guo si shi ba nian duan qi gong zhai fa xing tiao li	1
+中华民国宪法	zhong hua min guo xian fa	1
+中华民国宪法增修条文	zhong hua min guo xian fa zeng xiu tiao wen	1
+中华民国训政时期约法	zhong hua min guo xun zheng shi qi yue fa	1
+中华民国专属经济海域及大陆礁层法	zhong hua min guo zhuan shu jing ji hai yu ji da lu jiao ceng fa	1
+中华民国总统	zhong hua min guo zong tong	1
+终结	zhong jie	1
+终结件数	zhong jie jian shu	1
+终结事件平均一件所需日数	zhong jie shi jian ping jun yi jian suo xu ri shu	1
+终审法院	zhong shen fa yuan	1
+中小企业发展条例	zhong xiao qi ye fa zhan tiao li	1
+中央法规标准法	zhong yang fa gui biao zhun fa	1
+中央公教人员福利互助办法	zhong yang gong jiao ren yuan fu li hu zhu ban fa	1
+中央机关	zhong yang ji guan	1
+中央健康保险局	zhong yang jian kang bao xian ju	1
+中央警察大学组织条例	zhong yang jing cha da xue zu zhi tiao li	1
+中央民意代表	zhong yang min yi dai biao	1
+中央民意机构	zhong yang min yi ji gou	1
+中央银行法	zhong yang yin hang fa	1
+中央政府建设公债及借款条例	zhong yang zheng fu jian she gong zhai ji jie kuan tiao li	1
+中央政府总预算	zhong yang zheng fu zong yu suan	1
+中央主管机关	zhong yang zhu guan ji guan	1
+中药	zhong yao	1
+中医师	zhong yi shi	1
+州际的	zhou ji de	1
+州际商业	zhou ji shang ye	1
+州立注册	zhou li zhu ce	1
+注册	zhu ce	1
+注册期间	zhu ce qi jian	1
+注册人	zhu ce ren	1
+注册商标	zhu ce shang biao	1
+注册证	zhu ce zheng	1
+主管地政机关	zhu guan di zheng ji guan	1
+主管机关	zhu guan ji guan	1
+主管稽征机关	zhu guan ji zheng ji guan	1
+驻华外国机构及其人员特权暨豁免条例	zhu hua wai guo ji gou ji qi ren yuan te quan ji huo mian tiao li	1
+主计机构人员设置管理条例	zhu ji ji gou ren yuan she zhi guan li tiao li	1
+主机室	zhu ji shi	1
+助理设计师	zhu li she ji shi	1
+著名商标	zhu ming shang biao	1
+主任	zhu ren	1
+主任参事	zhu ren can shi	1
+主任参事室	zhu ren can shi shi	1
+主任调查保护官	zhu ren diao cha bao hu guan	1
+主任公设辩护人	zhu ren gong she bian hu ren	1
+主任公证人	zhu ren gong zheng ren	1
+主任观护人	zhu ren guan hu ren	1
+主任商业调查官	zhu ren shang ye diao cha guan	1
+主任医师	zhu ren yi shi	1
+主商标	zhu shang biao	1
+住所	zhu suo	1
+驻外使领馆组织条例	zhu wai shi ling guan zu zhi tiao li	1
+驻卫警	zhu wei jing	1
+驻卫警室	zhu wei jing shi	1
+驻卫警小队长	zhu wei jing xiao dui zhang	1
+主刑	zhu xing	1
+主要涵义	zhu yao han yi	1
+主要印象	zhu yao yin xiang	1
+主要注册簿	zhu yao zhu ce bu	1
+著作权法	zhu zuo quan fa	1
+转介	zhuan jie	1
+专科学校法	zhuan ke xue xiao fa	1
+专利	zhuan li	1
+专利法	zhuan li fa	1
+专利权人	zhuan li quan ren	1
+专门委员	zhuan men wei yuan	1
+专门职业	zhuan men zhi ye	1
+转任	zhuan ren	1
+转投资	zhuan tou zi	1
+专业评量之原则	zhuan ye ping liang zhi yuan ze	1
+专业人员	zhuan ye ren yuan	1
+专员	zhuan yuan	1
+转运舱单	zhuan yun cang dan	1
+装饰	zhuang shi	1
+赘夫	zhui fu	1
+追加预算	zhui jia yu suan	1
+追认	zhui ren	1
+追诉权	zhui su quan	1
+追诉时效	zhui su shi xiao	1
+准财产权	zhun cai chan quan	1
+准用	zhun yong	1
+准予公告	zhun yu gong gao	1
+资本	zi ben	1
+资本公积	zi ben gong ji	1
+资产净值	zi chan jing zhi	1
+自动电子报到机	zi dong dian zi bao dao ji	1
+自动电子报到区	zi dong dian zi bao dao qu	1
+自动缴纳	zi dong jiao na	1
+自耕能力证明书之申请及核发注意事项	zi geng neng li zheng ming shu zhi shen qing ji he fa zhu yi shi xiang	1
+自来水法	zi lai shui fa	1
+资料	zi liao	1
+资料科	zi liao ke	1
+资料室	zi liao shi	1
+字母与数字符号构成的	zi mu yu shu zi fu hao gou cheng de	1
+资遣	zi qian	1
+自然死亡	zi ran si wang	1
+自首	zi shou	1
+自诉	zi su	1
+自诉代理人律师席	zi su dai li ren lv shi xi	1
+自我负责机制	zi wo fu ze ji zhi	1
+自行回避	zi xing hui bi	1
+资讯处	zi xun chu	1
+资讯管理师	zi xun guan li shi	1
+资讯室	zi xun shi	1
+自用住宅	zi yong zhu zhai	1
+自用住宅用地	zi yong zhu zhai yong di	1
+自用住宅用地税率	zi yong zhu zhai yong di shui lv	1
+自由贸易港区设置管理条例	zi you mao yi gang qu she zhi guan li tiao li	1
+自由民主宪政秩序	zi you min zhu xian zheng zhi xu	1
+自愿退休	zi yuan tui xiu	1
+自治	zi zhi	1
+自主组织权	zi zhu zu zhi quan	1
+总辞	zong ci	1
+综合所得税	zong he suo de shui	1
+宗教团体	zong jiao tuan ti	1
+宗教信仰自由	zong jiao xin yang zi you	1
+总统副总统及特任人员月俸公费支给暂行条例	zong tong fu zong tong ji te ren ren yuan yue feng gong fei zhi gei zan xing tiao li	1
+总统副总统选举罢免法	zong tong fu zong tong xuan ju ba mian fa	1
+总统副总统选举连署及查核办法	zong tong fu zong tong xuan ju lian shu ji cha he ban fa	1
+总统任期	zong tong ren qi	1
+总务科	zong wu ke	1
+走私	zou si	1
+阻却违法	zu que wei fa	1
+租税	zu shui	1
+租税项目	zu shui xiang mu	1
+足以核驳	zu yi he bo	1
+组员	zu yuan	1
+组长	zu zhang	1
+组织犯罪	zu zhi fan zui	1
+组织犯罪防制条例	zu zhi fan zui fang zhi tiao li	1
+组织型态之犯罪活动	zu zhi xing tai zhi fan zui huo dong	1
+罪犯赦免减刑令	zui fan she mian jian xing ling	1
+最高法院	zui gao fa yuan	1
+最高司法审判机关	zui gao si fa shen pan ji guan	1
+最高司法行政机关	zui gao si fa xing zheng ji guan	1
+最高行政法院	zui gao xing zheng fa yuan	1
+佐理员	zuo li yuan	1
+作为义务	zuo wei yi wu	1
+作证	zuo zheng	1

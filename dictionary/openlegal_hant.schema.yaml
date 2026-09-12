@@ -1,0 +1,18 @@
+# Isolated legal vocabulary scheme, UTF-8
+schema:
+  schema_id: openlegal_hant
+  name: 法律词汇（hant）
+  version: "0.1.0.dev1"
+engine:
+  processors: [speller, selector, navigator, express_editor]
+  segmentors: [abc_segmentor]
+  translators: [script_translator]
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: "'"
+translator:
+  dictionary: openlegal_hant
+  enable_sentence: false
+  enable_user_dict: false
+  enable_completion: true
+  enable_encoder: false

@@ -1,0 +1,41 @@
+[
+  {
+    "attribution": "司法院（含各提供单位）2026 年双语词汇快照；依政府资料开放授权条款第 1 版提供。",
+    "expected_records": 2121,
+    "id": "tw-judicial",
+    "license": "OGDL-Taiwan-1.0",
+    "license_evidence_url": "https://www.judicial.gov.tw/tw/cp-1327-84674-d8e05-1.html",
+    "license_url": "https://data.gov.tw/license",
+    "origin": "TW",
+    "pages": 36,
+    "provider": "司法院（逐条提供单位见快照）",
+    "redistribution": "permitted",
+    "retrieved": "2026-09-11",
+    "review": "license_verified; extraction_audited; translation_not_independently_verified",
+    "scope": "司法、宪法解释及司法行政双语对应；包括历史法律、机构及比较法术语，不能全部推定为现行台湾法概念。",
+    "snapshot": "data/snapshots/tw-judicial-2026-09-11.jsonl",
+    "snapshot_sha256": "bcab3aa601a2c0be0f86ec7864879b80fef332005f1ab0835927aef84613aae8",
+    "title": "司法院雙語詞彙",
+    "url": "https://www.judicial.gov.tw/tw/lp-1501-1.html"
+  },
+  {
+    "attribution": "经济部智慧财产局 2025-07-11 更新的商标中英文词汇对照表（2026-09-11 获取）；依政府资料开放授权条款第 1 版提供。",
+    "download_url": "https://tiponet.tipo.gov.tw/datagov/tm/004-102-001.csv",
+    "expected_records": 613,
+    "id": "tw-tipo-trademark",
+    "license": "OGDL-Taiwan-1.0",
+    "license_evidence_url": "https://data.gov.tw/dataset/6437",
+    "license_url": "https://data.gov.tw/license",
+    "origin": "TW",
+    "pages": 1,
+    "provider": "經濟部智慧財產局",
+    "redistribution": "permitted",
+    "retrieved": "2026-09-11",
+    "review": "license_verified; extraction_audited; translation_not_independently_verified",
+    "scope": "商标业务英语；包括外国法、机构及国际制度，提供地区不等于概念适用法域。",
+    "snapshot": "data/snapshots/tw-tipo-trademark-2026-09-11.jsonl",
+    "snapshot_sha256": "542932dd07a569c96c0a0b818edfa911b810e15b4e9eecc6135211f7590cebfe",
+    "title": "商標中英文詞彙對照表",
+    "url": "https://data.gov.tw/dataset/6437"
+  }
+]
