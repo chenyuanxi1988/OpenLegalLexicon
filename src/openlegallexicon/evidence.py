@@ -7,7 +7,7 @@ from .io import read_json
 
 
 def documents(root):
-    """Load legal evidence deterministically from laws.json and laws-*.json.
+    """Load legal evidence deterministically, baseline first, then domain batches.
 
     Keeping evidence batches in separate registries lets each legal-domain update
     pin its own source versions without rewriting the established baseline file.
@@ -16,8 +16,9 @@ def documents(root):
     directory = Path(root) / 'data/evidence'
     if not directory.exists():
         return []
-    paths = sorted(
-        path for path in directory.glob('laws*.json')
+    baseline = directory / 'laws.json'
+    paths = ([baseline] if baseline.is_file() else []) + sorted(
+        path for path in directory.glob('laws-*.json')
         if path.is_file()
     )
     docs = []
