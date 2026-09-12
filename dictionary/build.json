@@ -1,5 +1,5 @@
 {
-  "annotations_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+  "annotations_sha256": "3cbafa2bb8f75ea15e4aa01703fe662d33e37f07e7d7a0d453761dcdead018a9",
   "builder_sha256": {
     "src/openlegallexicon/__init__.py": "3d86dcc9da53104955268f5a85d808f92cd9213918d44e5eac93184de4f1a492",
     "src/openlegallexicon/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",

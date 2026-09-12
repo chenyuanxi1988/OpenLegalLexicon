@@ -1428,8 +1428,8 @@ tw-judicial-38a79522333c34ff6639:zh-en	审判权划分	division of the power of 
 tw-judicial-38a79522333c34ff6639:en-zh	division of the power of adjudication	审判权划分	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1788	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution
 tw-judicial-38a8167c74417ef040ac:zh-en	专门委员	Senior Executive Officer	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1244	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-38a8167c74417ef040ac:en-zh	Senior Executive Officer	专门委员	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1244	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-38d26915d51c91de944f:zh-en	关税	customs duties; customs duty	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:2068	OpenLegalLexicon origin::TW review::source_attributed domain::tax domain::trade
-tw-judicial-38d26915d51c91de944f:en-zh	customs duties; customs duty	关税	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:2068	OpenLegalLexicon origin::TW review::source_attributed domain::tax domain::trade
+tw-judicial-38d26915d51c91de944f:zh-en	关税	customs duties; customs duty	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源同时列出 customs duties 与 customs duty；保留来源词对，不据此推定与中国大陆关税法语境下“关税”的制度范围完全相同。	tw-judicial:2068	OpenLegalLexicon origin::TW review::source_attributed domain::tax domain::trade
+tw-judicial-38d26915d51c91de944f:en-zh	customs duties; customs duty	关税	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源同时列出 customs duties 与 customs duty；保留来源词对，不据此推定与中国大陆关税法语境下“关税”的制度范围完全相同。	tw-judicial:2068	OpenLegalLexicon origin::TW review::source_attributed domain::tax domain::trade
 tw-judicial-38e6a0dadd41a387f208:zh-en	技正	Technical Specialist	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:648	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-38e6a0dadd41a387f208:en-zh	Technical Specialist	技正	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:648	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-38e8a113843a9b68379f:zh-en	不变期间	peremptory period	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:94	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -2076,8 +2076,8 @@ tw-judicial-5fab1f0e6503c02fa2a0:zh-en	羁押候审室	Trial Waiting Room	来源
 tw-judicial-5fab1f0e6503c02fa2a0:en-zh	Trial Waiting Room	羁押候审室	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:2115	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
 tw-judicial-5fad45106848e40d2fac:zh-en	外交部外交领事人员讲习所组织条例	Organic Act of the Foreign Service Institute of the Ministry of Foreign Affairs	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:330	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-5fad45106848e40d2fac:en-zh	Organic Act of the Foreign Service Institute of the Ministry of Foreign Affairs	外交部外交领事人员讲习所组织条例	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:330	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-5faf9924a3de7de4e4f5:zh-en	追诉时效	limitation period of prosecution	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1108	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-5faf9924a3de7de4e4f5:en-zh	limitation period of prosecution	追诉时效	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1108	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-5faf9924a3de7de4e4f5:zh-en	追诉时效	limitation period of prosecution	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 limitation period of prosecution；保留来源表述，不将其与中国大陆刑法中的追诉时效规则自动视为跨法域完全等义。	tw-judicial:1108	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
+tw-judicial-5faf9924a3de7de4e4f5:en-zh	limitation period of prosecution	追诉时效	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 limitation period of prosecution；保留来源表述，不将其与中国大陆刑法中的追诉时效规则自动视为跨法域完全等义。	tw-judicial:1108	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
 tw-judicial-5fef71e03bda30826afa:zh-en	租税法定主义;租税法律主义;租税法律原则	principle of taxation by law	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1064	OpenLegalLexicon origin::TW review::source_attributed domain::tax
 tw-judicial-5fef71e03bda30826afa:en-zh	principle of taxation by law	租税法定主义;租税法律主义;租税法律原则	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1064	OpenLegalLexicon origin::TW review::source_attributed domain::tax
 tw-judicial-5ff5dfef8d5a3f374787:zh-en	国防部军医局组织条例	Organization Act of the Medical Affairs Bureau of the Ministry of National Defense	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1196	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -2476,8 +2476,8 @@ tw-judicial-78f9dad52ea384645da3:zh-en	遗产及赠与税法	Estate and Gift Tax
 tw-judicial-78f9dad52ea384645da3:en-zh	Estate and Gift Tax Act	遗产及赠与税法	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1931	OpenLegalLexicon origin::TW review::source_attributed domain::family domain::tax
 tw-judicial-791e3e5b21e64e44209f:zh-en	公务人员任用法	Public Functionaries Appointment Act	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:158	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-791e3e5b21e64e44209f:en-zh	Public Functionaries Appointment Act	公务人员任用法	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:158	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-793291e247562a0ab93a:zh-en	自首	voluntary surrender to the authorities	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:539	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-793291e247562a0ab93a:en-zh	voluntary surrender to the authorities	自首	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:539	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-793291e247562a0ab93a:zh-en	自首	voluntary surrender to the authorities	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 voluntary surrender to the authorities；保留来源词对，不据此移植中国大陆刑法中自首的构成条件或法律效果。	tw-judicial:539	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
+tw-judicial-793291e247562a0ab93a:en-zh	voluntary surrender to the authorities	自首	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 voluntary surrender to the authorities；保留来源词对，不据此移植中国大陆刑法中自首的构成条件或法律效果。	tw-judicial:539	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
 tw-judicial-7932fe04491989668420:zh-en	行政规则	administrative directive	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:580	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
 tw-judicial-7932fe04491989668420:en-zh	administrative directive	行政规则	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:580	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
 tw-judicial-795ac10e17fc253f0445:zh-en	民法物权编施行法	Enforcement Act of the Part of Rights in Rem of the Civil Code	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:381	OpenLegalLexicon origin::TW review::source_attributed domain::civil
@@ -2772,8 +2772,8 @@ tw-judicial-8c00898fc990db0c7cf9:zh-en	治疗室	Therapy Room	来源地区 TW / 
 tw-judicial-8c00898fc990db0c7cf9:en-zh	Therapy Room	治疗室	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:814	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-8c400f37f43f49c886de:zh-en	司法行政人员	Administrative Support Officials in Judicial Branch	来源地区 TW / 法域 待核查 / 人事處		tw-judicial:289	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
 tw-judicial-8c400f37f43f49c886de:en-zh	Administrative Support Officials in Judicial Branch	司法行政人员	来源地区 TW / 法域 待核查 / 人事處		tw-judicial:289	OpenLegalLexicon origin::TW review::source_attributed domain::administrative
-tw-judicial-8c595a0664bbb33f8335:zh-en	不可抗力	force majeure	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:79	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-8c595a0664bbb33f8335:en-zh	force majeure	不可抗力	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:79	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-8c595a0664bbb33f8335:zh-en	不可抗力	force majeure	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 force majeure；这是来源词对复核，不表示不同法域对不可抗力的要件和法律效果完全一致。	tw-judicial:79	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::contracts
+tw-judicial-8c595a0664bbb33f8335:en-zh	force majeure	不可抗力	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 force majeure；这是来源词对复核，不表示不同法域对不可抗力的要件和法律效果完全一致。	tw-judicial:79	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::contracts
 tw-judicial-8c5c430c39bc8cd317ce:zh-en	水土保持法	Soil and Water Conservation Law	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:245	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-8c5c430c39bc8cd317ce:en-zh	Soil and Water Conservation Law	水土保持法	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:245	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-8c7e4d68e4f3847d3a7e:zh-en	公务人员高等考试暨普通考试训练办法	Regulations Governing the Training of Public Functionaries Passing High Level or Ordinary Level Civil Test	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:170	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3022,8 +3022,8 @@ tw-judicial-9c735334450c6e06f5b0:zh-en	特约医事服务机构	Contracted Healt
 tw-judicial-9c735334450c6e06f5b0:en-zh	Contracted Healthcare Providers	特约医事服务机构	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1049	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-9c96d68706a76228f317:zh-en	拟制血亲	constructive (statutory) blood relatives	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1950	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-9c96d68706a76228f317:en-zh	constructive (statutory) blood relatives	拟制血亲	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1950	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-9c9b62e67c4c7bfccc35:zh-en	法人	legal person; juristic	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:761	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-9c9b62e67c4c7bfccc35:en-zh	legal person; juristic	法人	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:761	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-9c9b62e67c4c7bfccc35:zh-en	法人	legal person; juristic	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源同时列出 legal person 与 juristic；保留原始来源译法，不据此认定与中国大陆“法人”的制度范围完全等同。	tw-judicial:761	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::company
+tw-judicial-9c9b62e67c4c7bfccc35:en-zh	legal person; juristic	法人	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源同时列出 legal person 与 juristic；保留原始来源译法，不据此认定与中国大陆“法人”的制度范围完全等同。	tw-judicial:761	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::company
 tw-judicial-9cc8c36a4e86f3913240:zh-en	法律上见解	opinion of the law	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:790	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-9cc8c36a4e86f3913240:en-zh	opinion of the law	法律上见解	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:790	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-9ccaec380a14c881d456:zh-en	公积	surplus	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:184	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3476,8 +3476,8 @@ tw-judicial-b647956a22325f13ea30:zh-en	肃清烟毒条例	Narcotics Elimination 
 tw-judicial-b647956a22325f13ea30:en-zh	Narcotics Elimination Act	肃清烟毒条例	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1474	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-b67ac432d27817da998a:zh-en	报关	customs declaration	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1406	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-b67ac432d27817da998a:en-zh	customs declaration	报关	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1406	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-b67bb0a83939c7711cb9:zh-en	公司章程	articles of incorporation	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:131	OpenLegalLexicon origin::TW review::source_attributed domain::company
-tw-judicial-b67bb0a83939c7711cb9:en-zh	articles of incorporation	公司章程	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:131	OpenLegalLexicon origin::TW review::source_attributed domain::company
+tw-judicial-b67bb0a83939c7711cb9:zh-en	公司章程	articles of incorporation	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	本来源使用 articles of incorporation；中国大陆核心层对公司章程采用 articles of association。两条来源记录保持分离，不把术语选择差异自动消解为跨法域严格等义。	tw-judicial:131	OpenLegalLexicon origin::TW review::source_attributed domain::company
+tw-judicial-b67bb0a83939c7711cb9:en-zh	articles of incorporation	公司章程	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	本来源使用 articles of incorporation；中国大陆核心层对公司章程采用 articles of association。两条来源记录保持分离，不把术语选择差异自动消解为跨法域严格等义。	tw-judicial:131	OpenLegalLexicon origin::TW review::source_attributed domain::company
 tw-judicial-b706cf9db755be5ccce0:zh-en	考试	examination	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:521	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-b706cf9db755be5ccce0:en-zh	examination	考试	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:521	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-b70e8f59c60fbc6f3bf2:zh-en	破产法	Bankruptcy Act	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1055	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3620,8 +3620,8 @@ tw-judicial-be536107851adcb13a0e:zh-en	利息	interest	来源地区 TW / 法域 
 tw-judicial-be536107851adcb13a0e:en-zh	interest	利息	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:624	OpenLegalLexicon origin::TW review::source_attributed domain::finance
 tw-judicial-be7791d8ebe23fe899a4:zh-en	工厂法	Factory Act	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:73	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-be7791d8ebe23fe899a4:en-zh	Factory Act	工厂法	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:73	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-be8296bb8659fb426422:zh-en	累犯	recidivist	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1317	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-be8296bb8659fb426422:en-zh	recidivist	累犯	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1317	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-be8296bb8659fb426422:zh-en	累犯	recidivist	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 recidivist；仅确认其为刑事法角色类术语，不据此移植其他法域对累犯的成立条件或处罚效果。	tw-judicial:1317	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
+tw-judicial-be8296bb8659fb426422:en-zh	recidivist	累犯	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	来源译作 recidivist；仅确认其为刑事法角色类术语，不据此移植其他法域对累犯的成立条件或处罚效果。	tw-judicial:1317	OpenLegalLexicon origin::TW review::source_attributed domain::criminal
 tw-judicial-bea3762861ef81672540:zh-en	违法及失职	illegal or delinquent	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳		tw-judicial:1618	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-bea3762861ef81672540:en-zh	illegal or delinquent	违法及失职	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳		tw-judicial:1618	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-bedbade70cfdc148b5da:zh-en	原住民族教育法	Education Act for Indigenous Peoples	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:988	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -5184,8 +5184,8 @@ tw-tipo-trademark-6e81c5505be0967bf752:zh-en	恢复、复原	reinstatement	来�
 tw-tipo-trademark-6e81c5505be0967bf752:en-zh	reinstatement	恢复、复原	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:480	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-6ecd781a6e698e37608d:zh-en	非要式、非正式	informality	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:298	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-6ecd781a6e698e37608d:en-zh	informality	非要式、非正式	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:298	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-6f1e87924f20a2047c38:zh-en	法人	juristic person	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:335	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
-tw-tipo-trademark-6f1e87924f20a2047c38:en-zh	juristic person	法人	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:335	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
+tw-tipo-trademark-6f1e87924f20a2047c38:zh-en	法人	juristic person	来源地区 TW / 法域 待核查 / A13070000G	商标词表来源译作 juristic person；保留来源译法及知识产权使用语境，不与其他来源或中国大陆“法人”记录合并。	tw-tipo-trademark:335	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::company domain::intellectual_property
+tw-tipo-trademark-6f1e87924f20a2047c38:en-zh	juristic person	法人	来源地区 TW / 法域 待核查 / A13070000G	商标词表来源译作 juristic person；保留来源译法及知识产权使用语境，不与其他来源或中国大陆“法人”记录合并。	tw-tipo-trademark:335	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::company domain::intellectual_property
 tw-tipo-trademark-6f4458b76af159cfc2fa:zh-en	指定	designation	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:144	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-6f4458b76af159cfc2fa:en-zh	designation	指定	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:144	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
 tw-tipo-trademark-6f66fb2f4f3eef2e0b87:zh-en	申请期间	prosecution of the application	来源地区 TW / 法域 待核查 / A13070000G		tw-tipo-trademark:451	OpenLegalLexicon origin::TW review::source_attributed domain::intellectual_property
