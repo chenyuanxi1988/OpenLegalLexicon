@@ -1,0 +1,29 @@
+[
+  {
+    "id": "vat-law-2024",
+    "title": "中华人民共和国增值税法（2024通过）",
+    "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5237365/content.html",
+    "version": "2024-12-25通过；2026-01-01施行",
+    "jurisdiction": "CN",
+    "intended_domains": ["tax"],
+    "priority_articles": [3, 5, 8, 10, 11, 14, 16, 17, 23, 24]
+  },
+  {
+    "id": "tariff-law-2024",
+    "title": "中华人民共和国关税法（2024）",
+    "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5234556/content.html",
+    "version": "2024-04-26通过；2024-12-01施行",
+    "jurisdiction": "CN",
+    "intended_domains": ["tax", "trade"],
+    "priority_articles": [2, 3, 4, 9, 10, 11, 12, 23, 24, 31, 32, 33, 43, 44, 66]
+  },
+  {
+    "id": "foreign-trade-law-2025",
+    "title": "中华人民共和国对外贸易法（2025第二次修订）",
+    "url": "https://tfs.mofcom.gov.cn/swfg/dwmy/art/2025/art_8fcbd732c5e14561a368e32d9d00f4fd.html",
+    "version": "2025-12-27第二次修订；2026-03-01施行",
+    "jurisdiction": "CN",
+    "intended_domains": ["trade"],
+    "priority_articles": [2, 11, 16, 21, 25, 27, 31, 32, 41, 42, 44, 45, 47, 48, 82]
+  }
+]
