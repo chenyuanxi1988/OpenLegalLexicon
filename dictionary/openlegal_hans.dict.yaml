@@ -36,6 +36,7 @@ columns: [text, code, weight]
 保险法	bao xian fa	1
 保险年资	bao xian nian zi	1
 保险事故	bao xian shi gu	1
+保障措施	bao zhang cuo shi	1
 保证	bao zheng	1
 保证合同	bao zheng he tong	1
 保证金	bao zheng jin	1
@@ -214,6 +215,8 @@ columns: [text, code, weight]
 创制权	chuang zhi quan	1
 绰号	chuo hao	1
 辞职	ci zhi	1
+从价计征	cong jia ji zheng	1
+从量计征	cong liang ji zheng	1
 从契约	cong qi yue	1
 从事于公务之权利	cong shi yu gong wu zhi quan li	1
 从刑	cong xing	1
@@ -254,6 +257,7 @@ columns: [text, code, weight]
 担保提存	dan bao ti cun	1
 担保物	dan bao wu	1
 担保物权	dan bao wu quan	1
+单独关税区	dan du guan shui qu	1
 单方行政行为	dan fang xing zheng xing wei	1
 淡化	dan hua	1
 淡化之虞	dan hua zhi yu	1
@@ -366,6 +370,10 @@ columns: [text, code, weight]
 读音	du yin	1
 读音近似	du yin jin si	1
 端正政风行动方案	duan zheng zheng feng xing dong fang an	1
+对外贸易	dui wai mao yi	1
+对外贸易调查	dui wai mao yi diao cha	1
+对外贸易经营者	dui wai mao yi jing ying zhe	1
+对外贸易救济措施	dui wai mao yi jiu ji cuo shi	1
 对智慧局不具约束力	dui zhi hui ju bu ju yue shu li	1
 盾形纹章	dun xing wen zhang	1
 多媒体简报室	duo mei ti jian bao shi	1
@@ -439,8 +447,10 @@ columns: [text, code, weight]
 法院所在地	fa yuan suo zai di	1
 法院组织法	fa yuan zu zhi fa	1
 法治国	fa zhi guo	1
+反补贴措施	fan bu tie cuo shi	1
 反淡化法	fan dan hua fa	1
 反共抗俄战士授田条例	fan gong kang e zhan shi shou tian tiao li	1
+反倾销措施	fan qing xiao cuo shi	1
 反网域名称抢注消费者保护法	fan wang yu ming cheng qiang zhu xiao fei zhe bao hu fa	1
 反向的混淆误认	fan xiang de hun xiao wu ren	1
 翻译权	fan yi quan	1
@@ -486,6 +496,7 @@ columns: [text, code, weight]
 副处长	fu chu zhang	1
 副处长室	fu chu zhang shi	1
 副法警长	fu fa jing zhang	1
+复合计征	fu he ji zheng	1
 福建高等法院金门分院	fu jian gao deng fa yuan jin men fen yuan	1
 福建高等法院金门分院连江庭	fu jian gao deng fa yuan jin men fen yuan lian jiang ting	1
 福建金门地方法院	fu jian jin men di fang fa yuan	1
@@ -671,6 +682,10 @@ columns: [text, code, weight]
 管收	guan shou	1
 关税	guan shui	1
 关税法	guan shui fa	1
+关税减免	guan shui jian mian	1
+关税扣缴义务人	guan shui kou jiao yi wu ren	1
+关税纳税人	guan shui na shui ren	1
+关税配额	guan shui pei e	1
 关税优先权	guan shui you xian quan	1
 关系人	guan xi ren	1
 盥洗室	guan xi shi	1
@@ -699,6 +714,7 @@ columns: [text, code, weight]
 国会参与决策权	guo hui can yu jue ce quan	1
 国会自治	guo hui zi zhi	1
 国际分类	guo ji fen lei	1
+国际服务贸易	guo ji fu wu mao yi	1
 国际合作发展基金会设置条例	guo ji he zuo fa zhan ji jin hui she zhi tiao li	1
 国际金融业务条例	guo ji jin rong ye wu tiao li	1
 国际条约	guo ji tiao yue	1
@@ -798,9 +814,11 @@ columns: [text, code, weight]
 婚姻自由	hun yin zi you	1
 货柜集散站	huo gui ji san zhan	1
 货物	huo wu	1
+货物进出口	huo wu jin chu kou	1
 货物税	huo wu shui	1
 货物税稽征规则	huo wu shui ji zheng gui ze	1
 货物税条例	huo wu shui tiao li	1
+货物原产地	huo wu yuan chan di	1
 基本的	ji ben de	1
 基本要件	ji ben yao jian	1
 基本资料维护单位	ji ben zi liao wei hu dan wei	1
@@ -822,6 +840,7 @@ columns: [text, code, weight]
 集会游行法	ji hui you xing fa	1
 既判力	ji pan li	1
 技师法	ji shi fa	1
+技术进出口	ji shu jin chu kou	1
 技术审查官	ji shu shen cha guan	1
 集水区	ji shui qu	1
 继续犯	ji xu fan	1
@@ -885,6 +904,7 @@ columns: [text, code, weight]
 检索	jian suo	1
 减刑	jian xing	1
 检验佐理员	jian yan zuo li yuan	1
+简易计税方法	jian yi ji shui fang fa	1
 简易庭纪录科	jian yi ting ji lu ke	1
 监印室	jian yin shi	1
 兼营营业人营业税额计算办法	jian ying ying ye ren ying ye shui e ji suan ban fa	1
@@ -931,12 +951,17 @@ columns: [text, code, weight]
 戒严法	jie yan fa	1
 戒严时期	jie yan shi qi	1
 戒严时期人民受损权利回复条例	jie yan shi qi ren min shou sun quan li hui fu tiao li	1
+进出口货物原产地管理	jin chu kou huo wu yuan chan di guan li	1
+进出口税则	jin chu kou shui ze	1
+进出口许可证管理	jin chu kou xu ke zheng guan li	1
 紧急命令	jin ji ming ling	1
+进口货物计税价格	jin kou huo wu ji shui jia ge	1
 禁令解除	jin ling jie chu	1
 金钱给付	jin qian ji fu	1
 金融机构	jin rong ji gou	1
 金融机构监管接管办法	jin rong ji gou jian guan jie guan ban fa	1
 尽速补偿	jin su bu chang	1
+进项税额	jin xiang shui e	1
 进修	jin xiu	1
 禁止规定	jin zhi gui ding	1
 警察法	jing cha fa	1
@@ -1030,6 +1055,8 @@ columns: [text, code, weight]
 扣缴	kou jiao	1
 扣缴义务人	kou jiao yi wu ren	1
 口头诽谤	kou tou fei bang	1
+跨境服务贸易	kua jing fu wu mao yi	1
+跨境服务贸易负面清单	kua jing fu wu mao yi fu mian qing dan	1
 会计处	kuai ji chu	1
 会计法	kuai ji fa	1
 会计室	kuai ji shi	1
@@ -1165,6 +1192,7 @@ columns: [text, code, weight]
 免刑判决	mian xing pan jue	1
 免责权	mian ze quan	1
 免征赠与税	mian zheng zeng yu shui	1
+免征增值税	mian zheng zeng zhi shui	1
 免职	mian zhi	1
 免职之惩处处分	mian zhi zhi cheng chu chu fen	1
 描述性	miao shu xing	1
@@ -1278,6 +1306,7 @@ columns: [text, code, weight]
 普通法院	pu tong fa yuan	1
 普通疾病补助费	pu tong ji bing bu zhu fei	1
 普通伤害补助费	pu tong shang hai bu zhu fei	1
+普通税率	pu tong shui lv	1
 期货交易法	qi huo jiao yi fa	1
 契税条例	qi shui tiao li	1
 起诉	qi su	1
@@ -1388,6 +1417,7 @@ columns: [text, code, weight]
 商港法	shang gang fa	1
 上柜证券	shang gui zheng quan	1
 商品标示法	shang pin biao shi fa	1
+商品归类	shang pin gui lei	1
 商品及服务之认定	shang pin ji fu wu zhi ren ding	1
 商品检验法	shang pin jian yan fa	1
 商品商标	shang pin shang biao	1
@@ -1518,6 +1548,7 @@ columns: [text, code, weight]
 事实审	shi shi shen	1
 实体核驳	shi ti he bo	1
 视同行政处分	shi tong xing zheng chu fen	1
+视同应税交易	shi tong ying shui jiao yi	1
 实现自我	shi xian zi wo	1
 时效	shi xiao	1
 时效取得地上权登记审查要点	shi xiao qu de di shang quan deng ji shen cha yao dian	1
@@ -1585,6 +1616,7 @@ columns: [text, code, weight]
 水污染防治法	shui wu ran fang zhi fa	1
 水源区	shui yuan qu	1
 税则号别	shui ze hao bie	1
+税则号列	shui ze hao lie	1
 私法	si fa	1
 司法风纪	si fa feng ji	1
 司法风纪访查	si fa feng ji fang cha	1
@@ -1764,6 +1796,7 @@ columns: [text, code, weight]
 特别预算	te bie yu suan	1
 特定存活之个人	te ding cun huo zhi ge ren	1
 特定地区	te ding di qu	1
+特惠税率	te hui shui lv	1
 特许	te xu	1
 特有财产	te you cai chan	1
 特约医事服务机构	te yue yi shi fu wu ji gou	1
@@ -1942,6 +1975,7 @@ columns: [text, code, weight]
 现役军人	xian yi jun ren	1
 先予试用	xian yu shi yong	1
 县长	xian zhang	1
+限制进出口货物	xian zhi jin chu kou huo wu	1
 限制民事行为能力	xian zhi min shi xing wei neng li	1
 限制欠税人或欠税营利事业负责人出境办法	xian zhi qian shui ren huo qian shui ying li shi ye fu ze ren chu jing ban fa	1
 相对人	xiang dui ren	1
@@ -1965,9 +1999,12 @@ columns: [text, code, weight]
 消费者保护法	xiao fei zhe bao hu fa	1
 消极利益	xiao ji li yi	1
 消极性释示	xiao ji xing shi shi	1
+销售额	xiao shou e	1
 销售货物或劳务	xiao shou huo wu huo lao wu	1
 销售凭证	xiao shou ping zheng	1
 肖像	xiao xiang	1
+销项税额	xiao xiang shui e	1
+协定税率	xie ding shui lv	1
 协定条款	xie ding tiao kuan	1
 胁迫	xie po	1
 协商解除劳动合同	xie shang jie chu lao dong he tong	1
@@ -2121,6 +2158,7 @@ columns: [text, code, weight]
 一般保证	yi ban bao zheng	1
 一般诽谤	yi ban fei bang	1
 一般公众	yi ban gong zhong	1
+一般计税方法	yi ban ji shui fang fa	1
 一般商业名称	yi ban shang ye ming cheng	1
 遗产	yi chan	1
 遗产及赠与税法	yi chan ji zeng yu shui fa	1
@@ -2192,6 +2230,7 @@ columns: [text, code, weight]
 营利事业所得税查核准则	ying li shi ye suo de shui cha he zhun ze	1
 营利事业所得税结算查核准则	ying li shi ye suo de shui jie suan cha he zhun ze	1
 营利事业所得税结算申报	ying li shi ye suo de shui jie suan shen bao	1
+应税交易	ying shui jiao yi	1
 营业包装	ying ye bao zhuang	1
 营业秘密	ying ye mi mi	1
 营业秘密法	ying ye mi mi fa	1
@@ -2291,6 +2330,11 @@ columns: [text, code, weight]
 增进公共利益	zeng jin gong gong li yi	1
 赠与	zeng yu	1
 赠与税	zeng yu shui	1
+增值税	zeng zhi shui	1
+增值税零税率	zeng zhi shui ling shui lv	1
+增值税纳税人	zeng zhi shui na shui ren	1
+增值税税率	zeng zhi shui shui lv	1
+增值税征收率	zeng zhi shui zheng shou lv	1
 增资	zeng zi	1
 增资变更登记	zeng zi bian geng deng ji	1
 诈骗工具	zha pian gong ju	1
@@ -2542,6 +2586,7 @@ columns: [text, code, weight]
 最高司法审判机关	zui gao si fa shen pan ji guan	1
 最高司法行政机关	zui gao si fa xing zheng ji guan	1
 最高行政法院	zui gao xing zheng fa yuan	1
+最惠国税率	zui hui guo shui lv	1
 佐理员	zuo li yuan	1
 作品	zuo pin	1
 作为义务	zuo wei yi wu	1

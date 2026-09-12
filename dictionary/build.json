@@ -21,18 +21,19 @@
   "input_snapshots": {
     "data/snapshots/oll-cn-admin-labor-2026-09-12.jsonl": "5164d395c52733fcd807679c85568538263389b69bc0daa9c1e12cd04bed4316",
     "data/snapshots/oll-cn-core-2026-09-12.jsonl": "5789b294b869846169b4b3ea10ff7c398641927991bfea61b4856da69210e3db",
+    "data/snapshots/oll-cn-tax-trade-2026-09-12.jsonl": "49eddd9998c934a905554f3ebfffef4f19ae7b0267fa758812302baffef07f17",
     "data/snapshots/tw-judicial-2026-09-11.jsonl": "bcab3aa601a2c0be0f86ec7864879b80fef332005f1ab0835927aef84613aae8",
     "data/snapshots/tw-tipo-trademark-2026-09-11.jsonl": "542932dd07a569c96c0a0b818edfa911b810e15b4e9eecc6135211f7590cebfe"
   },
   "schema_version": "1.1.0",
-  "source_registry_sha256": "6730ef626af8bf9126fcd00df98f297ed1da4611f8058ae7436ae39e1331d1ee",
+  "source_registry_sha256": "fcd93dc298b10fe8037c6a264293f081e7009141bd7e144056bdc97f4cdcb04b",
   "statistics": {
-    "core_study_entries": 137,
-    "english_completions": 2637,
-    "entries": 2862,
-    "rime_hans_rows": 2538,
-    "rime_hant_rows": 2538,
-    "study_notes": 5724
+    "core_study_entries": 183,
+    "english_completions": 2682,
+    "entries": 2908,
+    "rime_hans_rows": 2583,
+    "rime_hant_rows": 2583,
+    "study_notes": 5816
   },
   "tool_version": "0.1.0.dev3"
 }

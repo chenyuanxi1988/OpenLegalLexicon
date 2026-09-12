@@ -1346,6 +1346,9 @@
   "Impeachment": [
     "tw-judicial-8003b8a40173d6991da2"
   ],
+  "Import and Export Tariff": [
+    "cn-customs-tariff-schedule"
+  ],
   "Imposition of Fine Standards for Air Pollution Exhausted by Motor Vehicles": [
     "tw-judicial-4fa0d4421a340f61665b"
   ],
@@ -3197,6 +3200,18 @@
   "Use Based Refusals": [
     "tw-tipo-trademark-cf989d6792c6fdaaf834"
   ],
+  "VAT exemption": [
+    "cn-vat-exemption"
+  ],
+  "VAT levy rate": [
+    "cn-vat-levy-rate"
+  ],
+  "VAT rate": [
+    "cn-vat-rate"
+  ],
+  "VAT taxpayer": [
+    "cn-vat-taxpayer"
+  ],
   "Value-Added and Non-Value-Added Business Tax Act": [
     "tw-judicial-a945720264453e43d29c"
   ],
@@ -3324,6 +3339,9 @@
   ],
   "actual use of a mark in commerce": [
     "tw-tipo-trademark-a0170c9fc2df90c6205b"
+  ],
+  "ad valorem assessment": [
+    "cn-customs-ad-valorem"
   ],
   "adjudication of bankruptcy": [
     "tw-judicial-7661b155c7e7dd68b2b9"
@@ -3517,6 +3535,9 @@
   ],
   "anti-dilution statutes": [
     "tw-tipo-trademark-ec07a8f2cdab7015cd49"
+  ],
+  "anti-dumping measures": [
+    "cn-anti-dumping-measures"
   ],
   "apparent agency": [
     "cn-apparent-agency"
@@ -3994,6 +4015,9 @@
   "composite mark": [
     "tw-tipo-trademark-7006f1a8f3a37979861d"
   ],
+  "compound duty assessment": [
+    "cn-customs-compound-duty"
+  ],
   "comprise": [
     "tw-tipo-trademark-a448fb432ba965017892"
   ],
@@ -4132,6 +4156,9 @@
   "controlling shareholder": [
     "cn-controlling-shareholder"
   ],
+  "conventional tariff rate": [
+    "cn-customs-conventional-rate"
+  ],
   "converse": [
     "tw-tipo-trademark-42bc8f3525c62a74bf93"
   ],
@@ -4164,6 +4191,9 @@
   ],
   "counterfeiting": [
     "tw-tipo-trademark-614dae1d4256467e212a"
+  ],
+  "countervailing measures": [
+    "cn-countervailing-measures"
   ],
   "country of origin": [
     "tw-tipo-trademark-e6ab30f260a893a5873f"
@@ -4243,6 +4273,9 @@
   "crops": [
     "tw-judicial-7310dc9eb77a47cb48f3"
   ],
+  "cross-border trade in services": [
+    "cn-cross-border-trade-in-services"
+  ],
   "cross-search": [
     "tw-tipo-trademark-609f8b508ba2e377b64f"
   ],
@@ -4259,7 +4292,20 @@
     "tw-judicial-b67ac432d27817da998a"
   ],
   "customs duty": [
+    "cn-customs-duty",
     "tw-judicial-a59861599d5181683ec8"
+  ],
+  "customs duty relief": [
+    "cn-customs-duty-relief"
+  ],
+  "customs duty taxpayer": [
+    "cn-customs-duty-taxpayer"
+  ],
+  "customs duty withholding agent": [
+    "cn-customs-duty-withholding-agent"
+  ],
+  "customs value of imported goods": [
+    "cn-customs-value"
   ],
   "daily conversion rate": [
     "tw-judicial-1d541c33767762f7960c"
@@ -4306,6 +4352,9 @@
   ],
   "deemed administrative act": [
     "tw-judicial-36ffe76455243769fbda"
+  ],
+  "deemed taxable transaction": [
+    "cn-vat-deemed-taxable-transaction"
   ],
   "default": [
     "tw-judicial-0620c20d83b9b485ece4"
@@ -4912,6 +4961,15 @@
   "foreign registration": [
     "tw-tipo-trademark-226ad293edaf60da8de7"
   ],
+  "foreign trade": [
+    "cn-foreign-trade"
+  ],
+  "foreign trade investigation": [
+    "cn-foreign-trade-investigation"
+  ],
+  "foreign trade operator": [
+    "cn-foreign-trade-operator"
+  ],
   "forfeiture of equity for unpaid contribution": [
     "cn-forfeiture-equity"
   ],
@@ -5025,6 +5083,9 @@
   "further proceedings": [
     "tw-judicial-bde56589786a15a969dd"
   ],
+  "general VAT calculation method": [
+    "cn-vat-general-calculation-method"
+  ],
   "general authorization": [
     "tw-judicial-31817bbed08d202869f0"
   ],
@@ -5039,6 +5100,9 @@
   ],
   "general resignation": [
     "tw-judicial-188b17a77ac6d3badff5"
+  ],
+  "general tariff rate": [
+    "cn-customs-general-rate"
   ],
   "generic": [
     "tw-tipo-trademark-860f6d2e5b95a046088f"
@@ -5067,6 +5131,9 @@
   "good faith": [
     "tw-judicial-cad34b4c5073fcf0eed1",
     "tw-tipo-trademark-759e43836ddf5123d93c"
+  ],
+  "goods subject to import or export restrictions": [
+    "cn-restricted-import-export-goods"
   ],
   "goodwill": [
     "tw-tipo-trademark-7dba1cb07db957c987fa"
@@ -5227,6 +5294,15 @@
   "import": [
     "tw-tipo-trademark-cba0b70d86bbba713d43"
   ],
+  "import and export licensing": [
+    "cn-import-export-licensing"
+  ],
+  "import and export of goods": [
+    "cn-trade-in-goods"
+  ],
+  "import and export of technology": [
+    "cn-trade-in-technology"
+  ],
   "imposition of administrative fines": [
     "tw-judicial-cf43ffeb28632f5ab474"
   ],
@@ -5342,6 +5418,9 @@
   "injury benefits": [
     "tw-judicial-9814e1551eefac10d742"
   ],
+  "input VAT": [
+    "cn-vat-input-tax"
+  ],
   "inquiry": [
     "tw-tipo-trademark-7917f8213cd877477d68"
   ],
@@ -5404,6 +5483,9 @@
   ],
   "international registration(IR)": [
     "tw-tipo-trademark-56c299aceb0633138347"
+  ],
+  "international trade in services": [
+    "cn-international-trade-in-services"
   ],
   "interpellation": [
     "tw-judicial-130f4f86785c3c1facb8"
@@ -5966,6 +6048,9 @@
   "mortgagor": [
     "tw-judicial-6702b79943276e35b03f"
   ],
+  "most-favored-nation (MFN) tariff rate": [
+    "cn-customs-mfn-rate"
+  ],
   "motion of objection": [
     "tw-judicial-7d9ac688ad721725a19f"
   ],
@@ -6010,6 +6095,9 @@
   ],
   "negative construction": [
     "tw-judicial-a6afc60dc24b8d7b418a"
+  ],
+  "negative list for cross-border trade in services": [
+    "cn-cross-border-services-negative-list"
   ],
   "negligence": [
     "tw-judicial-82e68d4c829a0e4bd03b"
@@ -6180,11 +6268,20 @@
   "organized crime": [
     "tw-judicial-ae5773bd0dac4f2a3fd7"
   ],
+  "origin administration for import and export goods": [
+    "cn-import-export-origin-administration"
+  ],
+  "origin of goods": [
+    "cn-customs-origin"
+  ],
   "ornamentation": [
     "tw-tipo-trademark-3f6adc5fb416d955807a"
   ],
   "other material reasons": [
     "tw-judicial-4752f0ad84a0588160d7"
+  ],
+  "output VAT": [
+    "cn-vat-output-tax"
   ],
   "over-the-counter securities": [
     "tw-judicial-7f874195018b780c3f7b"
@@ -7135,6 +7232,9 @@
   "ruling": [
     "tw-judicial-625a100312f436ff763e"
   ],
+  "safeguard measures": [
+    "cn-safeguard-measures"
+  ],
   "salary cut": [
     "tw-judicial-fbb095302a1874a5fb35"
   ],
@@ -7146,6 +7246,9 @@
   ],
   "sale of goods or services": [
     "tw-judicial-169012f8029b3fdcbaca"
+  ],
+  "sales amount for VAT purposes": [
+    "cn-vat-sales-amount"
   ],
   "sales voucher": [
     "tw-judicial-f74682799d95f066e12f"
@@ -7227,6 +7330,9 @@
   "sensitive personal information": [
     "cn-sensitive-information"
   ],
+  "separate customs territory": [
+    "cn-separate-customs-territory"
+  ],
   "separate property": [
     "tw-judicial-45d480276b952d8c5e7a"
   ],
@@ -7278,6 +7384,9 @@
   ],
   "similar": [
     "tw-tipo-trademark-26635aa2f8732463388e"
+  ],
+  "simplified VAT calculation method": [
+    "cn-vat-simplified-calculation-method"
   ],
   "simulation": [
     "tw-tipo-trademark-05321834817777e94c88"
@@ -7349,6 +7458,9 @@
   "special law": [
     "tw-judicial-a5e7a20fe7b160f14243"
   ],
+  "special preferential tariff rate": [
+    "cn-customs-special-preferential-rate"
+  ],
   "special sacrifice": [
     "tw-judicial-a0a266a09d3df9acc3d7"
   ],
@@ -7357,6 +7469,9 @@
   ],
   "specific area": [
     "tw-judicial-dab7851003207a3b531b"
+  ],
+  "specific duty assessment": [
+    "cn-customs-specific-duty"
   ],
   "specification": [
     "tw-tipo-trademark-8acfdb6b16bfe72572a4"
@@ -7539,8 +7654,17 @@
   "take into custody": [
     "tw-judicial-dc3a60341e9821020805"
   ],
+  "tariff classification of goods": [
+    "cn-customs-classification"
+  ],
+  "tariff line": [
+    "cn-customs-tariff-line"
+  ],
   "tariff number": [
     "tw-judicial-8f50a0d2f95e134c3fc5"
+  ],
+  "tariff quota": [
+    "cn-tariff-quota"
   ],
   "tax assessment data": [
     "tw-judicial-1bb1501553575d350a11"
@@ -7594,6 +7718,9 @@
   ],
   "taxable income": [
     "tw-judicial-b4fe7626390b7be6677e"
+  ],
+  "taxable transaction": [
+    "cn-vat-taxable-transaction"
   ],
   "taxable year": [
     "tw-judicial-1c1ac5b0014fd3771c53"
@@ -7743,6 +7870,9 @@
   "trade name": [
     "tw-tipo-trademark-67b32caacbe1d8d3bef1"
   ],
+  "trade remedy measures": [
+    "cn-trade-remedy-measures"
+  ],
   "trade secret": [
     "tw-tipo-trademark-bd6b6715059d093d08f0"
   ],
@@ -7890,6 +8020,9 @@
   "value of the estate": [
     "tw-judicial-10d497acbb99deef06dc"
   ],
+  "value-added tax (VAT)": [
+    "cn-vat"
+  ],
   "value-declared mail": [
     "tw-judicial-4900318fd77ba4814b56"
   ],
@@ -7998,5 +8131,8 @@
   ],
   "wrongful imprisonment": [
     "tw-judicial-5e19b7ae5db40b6bec55"
+  ],
+  "zero VAT rate": [
+    "cn-vat-zero-rate"
   ]
 }

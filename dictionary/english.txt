@@ -75,6 +75,7 @@ actual confusion
 actual controller
 actual date
 actual use of a mark in commerce
+ad valorem assessment
 Additional Budget
 Additional Senior-increases over Basic Pay Rate
 adjudication of bankruptcy
@@ -177,6 +178,7 @@ antecedent and subsequent parties to transaction
 Anti-Corruption Act
 Anti-Corruption Program
 anti-dilution statutes
+anti-dumping measures
 Anticybersquatting Consumer Protection Act
 apparent agency
 apparent error in law / clearly erroneous in the application of law
@@ -460,6 +462,7 @@ compensatory
 competent authority
 competent taxing authority
 composite mark
+compound duty assessment
 comprise
 Compulsory Automobile Liability Insurance Act
 compulsory buyback
@@ -529,6 +532,7 @@ Control Yuan
 Controlling Guns, Ammunition and Knives Act
 controlling shareholder
 Convenience Shop
+conventional tariff rate
 converse
 Cooperatives Act
 Coordinating Council for Victims of Domestic Violence
@@ -548,6 +552,7 @@ Counselor
 counter with
 counterfeit
 counterfeiting
+countervailing measures
 country of origin
 county
 county magistrate
@@ -588,6 +593,7 @@ criminal syndicate
 Criteria for the Physical Examination of Flight Personnel
 criteria of fines
 crops
+cross-border trade in services
 cross-search
 CTMR
 Cultural Heritage Preservation Act
@@ -599,6 +605,10 @@ Customs Act
 Customs Anti-smuggling Act
 customs declaration
 customs duty
+customs duty relief
+customs duty taxpayer
+customs duty withholding agent
+customs value of imported goods
 daily conversion rate
 Data Base Maintenance Unite
 Data of Wanted Persons Room
@@ -623,6 +633,7 @@ decriminalization of defamation
 Deed Tax Act
 deem
 deemed administrative act
+deemed taxable transaction
 default
 Defendant and Agent ad litem
 Defendant and Assistant ad litem
@@ -941,7 +952,10 @@ foreign application
 foreign certificate of registration
 Foreign Exchange Regulation Act
 foreign registration
+foreign trade
 Foreign Trade Act
+foreign trade investigation
+foreign trade operator
 forfeiture of equity for unpaid contribution
 forged identity
 forged stamp
@@ -999,6 +1013,8 @@ General Inter-American Convention
 general law
 general public
 general resignation
+general tariff rate
+general VAT calculation method
 generic
 generic term
 Gentlemen Restroom
@@ -1009,6 +1025,7 @@ gift tax
 gift tax exemption
 global assessment
 good faith
+goods subject to import or export restrictions
 Goods/Place or Services/Place Association
 goodwill
 government agency
@@ -1089,6 +1106,10 @@ implementation of the Constitution
 implements
 implicit consent
 import
+import and export licensing
+import and export of goods
+import and export of technology
+Import and Export Tariff
 imposition of administrative fines
 Imposition of Fine Standards for Air Pollution Exhausted by Motor Vehicles
 imposter
@@ -1135,6 +1156,7 @@ inheritor
 initial examination period
 injunctive relief
 injury benefits
+input VAT
 Inquiring Room for the Declared Properties of the Public Servants
 inquiry
 institutional protection mechanism
@@ -1166,6 +1188,7 @@ Internal inconsistency
 international agreement
 international classification
 international registration(IR)
+international trade in services
 International Trademark Association
 Internet Corporation for Assigned Names and Numbers
 interpellation
@@ -1457,6 +1480,7 @@ mortgage right
 mortgaged property
 mortgagee
 mortgagor
+most-favored-nation (MFN) tariff rate
 motion of objection
 motion to setting aside court rulings
 Multi-Purpose Plans for Reserved Public Use Land under Urban Planning
@@ -1489,6 +1513,7 @@ natural person
 Navy Uniforms Act
 necessary measures
 negative construction
+negative list for cross-border trade in services
 negligence
 negotiable instrument
 Negotiable Instruments Act
@@ -1601,10 +1626,13 @@ Organization Regulations Of Bureau Of Culture Park, Council Of Indigenous People
 Organizational Statute for Conscription Affairs Administration, Ministry of the Interior
 organized crime
 Organized Crime Prevention Act
+origin administration for import and export goods
+origin of goods
 ornamentation
 other material reasons
 Outlines for Handling Civil Injunctive Procedure
 Outlines for Handling Compulsory Enforcement Regarding Properties Unregistered after Succession
+output VAT
 over-the-counter securities
 overcoming the refusal
 overdue charge
@@ -2086,10 +2114,12 @@ Rules Governing the Supervision of the Pawnshops
 Rules on Joint Endorsement and Its Verification for Presidential and Vice Presidential Election
 ruling
 S.A.M.
+safeguard measures
 salary cut
 salary/award
 sale and dien
 sale of goods or services
+sales amount for VAT purposes
 sales voucher
 sanction
 Satellite Broadcasting Act
@@ -2133,6 +2163,7 @@ Senior Secretary
 Senior Systems Coordinator
 seniority
 sensitive personal information
+separate customs territory
 separate property
 separating employee
 separation of powers
@@ -2158,6 +2189,7 @@ signature
 signed declaration of affidavit
 significant
 similar
+simplified VAT calculation method
 simulation
 Situations of Government Employee Ethics
 Sixth Section
@@ -2192,9 +2224,11 @@ Special Budget
 special common levies
 Special form
 special law
+special preferential tariff rate
 special sacrifice
 specialization
 specific area
+specific duty assessment
 specification
 specimen
 Spokesperson
@@ -2361,7 +2395,10 @@ Taiwan Yunlin District Court Beigang Summary Court
 Taiwan Yunlin District Court Douliu Summary Court
 Taiwan Yunlin District Court Huwei Summary Court
 take into custody
+tariff classification of goods
+tariff line
 tariff number
+tariff quota
 Taskforce for Supervising Government Ethics
 tax assessment data
 tax authority
@@ -2381,6 +2418,7 @@ tax reduction or exemption
 tax refund
 tax withholding
 taxable income
+taxable transaction
 taxable year
 taxation
 taxing authority
@@ -2490,6 +2528,7 @@ total budget
 total number of delegates
 trade dress
 trade name
+trade remedy measures
 trade secret
 Trade Secrets Act
 trademark
@@ -2581,8 +2620,13 @@ valid
 value judgment
 value of the estate
 Value-Added and Non-Value-Added Business Tax Act
+value-added tax (VAT)
 value-declared mail
 value-insured mail
+VAT exemption
+VAT levy rate
+VAT rate
+VAT taxpayer
 venue of the court
 Verbal Arguments
 verification
@@ -2635,3 +2679,4 @@ written notice
 written request
 written response in administrative reconsideration
 wrongful imprisonment
+zero VAT rate

@@ -36,6 +36,7 @@ columns: [text, code, weight]
 保險法	bao xian fa	1
 保險年資	bao xian nian zi	1
 保險事故	bao xian shi gu	1
+保障措施	bao zhang cuo shi	1
 保證	bao zheng	1
 保證合同	bao zheng he tong	1
 保證金	bao zheng jin	1
@@ -214,6 +215,8 @@ columns: [text, code, weight]
 創制權	chuang zhi quan	1
 綽號	chuo hao	1
 辭職	ci zhi	1
+從價計徵	cong jia ji zheng	1
+從量計徵	cong liang ji zheng	1
 從契約	cong qi yue	1
 從事於公務之權利	cong shi yu gong wu zhi quan li	1
 從刑	cong xing	1
@@ -254,6 +257,7 @@ columns: [text, code, weight]
 擔保提存	dan bao ti cun	1
 擔保物	dan bao wu	1
 擔保物權	dan bao wu quan	1
+單獨關稅區	dan du guan shui qu	1
 單方行政行為	dan fang xing zheng xing wei	1
 淡化	dan hua	1
 淡化之虞	dan hua zhi yu	1
@@ -366,6 +370,10 @@ columns: [text, code, weight]
 讀音	du yin	1
 讀音近似	du yin jin si	1
 端正政風行動方案	duan zheng zheng feng xing dong fang an	1
+對外貿易	dui wai mao yi	1
+對外貿易調查	dui wai mao yi diao cha	1
+對外貿易經營者	dui wai mao yi jing ying zhe	1
+對外貿易救濟措施	dui wai mao yi jiu ji cuo shi	1
 對智慧局不具約束力	dui zhi hui ju bu ju yue shu li	1
 盾形紋章	dun xing wen zhang	1
 多媒體簡報室	duo mei ti jian bao shi	1
@@ -439,8 +447,10 @@ columns: [text, code, weight]
 法院所在地	fa yuan suo zai di	1
 法院組織法	fa yuan zu zhi fa	1
 法治國	fa zhi guo	1
+反補貼措施	fan bu tie cuo shi	1
 反淡化法	fan dan hua fa	1
 反共抗俄戰士授田條例	fan gong kang e zhan shi shou tian tiao li	1
+反傾銷措施	fan qing xiao cuo shi	1
 反網域名稱搶註消費者保護法	fan wang yu ming cheng qiang zhu xiao fei zhe bao hu fa	1
 反向的混淆誤認	fan xiang de hun xiao wu ren	1
 翻譯權	fan yi quan	1
@@ -486,6 +496,7 @@ columns: [text, code, weight]
 副處長	fu chu zhang	1
 副處長室	fu chu zhang shi	1
 副法警長	fu fa jing zhang	1
+複合計徵	fu he ji zheng	1
 福建高等法院金門分院	fu jian gao deng fa yuan jin men fen yuan	1
 福建高等法院金門分院連江庭	fu jian gao deng fa yuan jin men fen yuan lian jiang ting	1
 福建金門地方法院	fu jian jin men di fang fa yuan	1
@@ -671,6 +682,10 @@ columns: [text, code, weight]
 管收	guan shou	1
 關稅	guan shui	1
 關稅法	guan shui fa	1
+關稅減免	guan shui jian mian	1
+關稅扣繳義務人	guan shui kou jiao yi wu ren	1
+關稅納稅人	guan shui na shui ren	1
+關稅配額	guan shui pei e	1
 關稅優先權	guan shui you xian quan	1
 關係人	guan xi ren	1
 盥洗室	guan xi shi	1
@@ -699,6 +714,7 @@ columns: [text, code, weight]
 國會參與決策權	guo hui can yu jue ce quan	1
 國會自治	guo hui zi zhi	1
 國際分類	guo ji fen lei	1
+國際服務貿易	guo ji fu wu mao yi	1
 國際合作發展基金會設置條例	guo ji he zuo fa zhan ji jin hui she zhi tiao li	1
 國際金融業務條例	guo ji jin rong ye wu tiao li	1
 國際條約	guo ji tiao yue	1
@@ -798,9 +814,11 @@ columns: [text, code, weight]
 婚姻自由	hun yin zi you	1
 貨櫃集散站	huo gui ji san zhan	1
 貨物	huo wu	1
+貨物進出口	huo wu jin chu kou	1
 貨物稅	huo wu shui	1
 貨物稅稽徵規則	huo wu shui ji zheng gui ze	1
 貨物稅條例	huo wu shui tiao li	1
+貨物原產地	huo wu yuan chan di	1
 基本的	ji ben de	1
 基本要件	ji ben yao jian	1
 基本資料維護單位	ji ben zi liao wei hu dan wei	1
@@ -822,6 +840,7 @@ columns: [text, code, weight]
 集會遊行法	ji hui you xing fa	1
 既判力	ji pan li	1
 技師法	ji shi fa	1
+技術進出口	ji shu jin chu kou	1
 技術審查官	ji shu shen cha guan	1
 集水區	ji shui qu	1
 繼續犯	ji xu fan	1
@@ -885,6 +904,7 @@ columns: [text, code, weight]
 檢索	jian suo	1
 減刑	jian xing	1
 檢驗佐理員	jian yan zuo li yuan	1
+簡易計稅方法	jian yi ji shui fang fa	1
 簡易庭紀錄科	jian yi ting ji lu ke	1
 監印室	jian yin shi	1
 兼營營業人營業稅額計算辦法	jian ying ying ye ren ying ye shui e ji suan ban fa	1
@@ -931,12 +951,17 @@ columns: [text, code, weight]
 戒嚴法	jie yan fa	1
 戒嚴時期	jie yan shi qi	1
 戒嚴時期人民受損權利回復條例	jie yan shi qi ren min shou sun quan li hui fu tiao li	1
+進出口貨物原產地管理	jin chu kou huo wu yuan chan di guan li	1
+進出口稅則	jin chu kou shui ze	1
+進出口許可證管理	jin chu kou xu ke zheng guan li	1
 緊急命令	jin ji ming ling	1
+進口貨物計稅價格	jin kou huo wu ji shui jia ge	1
 禁令解除	jin ling jie chu	1
 金錢給付	jin qian ji fu	1
 金融機構	jin rong ji gou	1
 金融機構監管接管辦法	jin rong ji gou jian guan jie guan ban fa	1
 儘速補償	jin su bu chang	1
+進項稅額	jin xiang shui e	1
 進修	jin xiu	1
 禁止規定	jin zhi gui ding	1
 警察法	jing cha fa	1
@@ -1030,6 +1055,8 @@ columns: [text, code, weight]
 扣繳	kou jiao	1
 扣繳義務人	kou jiao yi wu ren	1
 口頭誹謗	kou tou fei bang	1
+跨境服務貿易	kua jing fu wu mao yi	1
+跨境服務貿易負面清單	kua jing fu wu mao yi fu mian qing dan	1
 會計處	kuai ji chu	1
 會計法	kuai ji fa	1
 會計室	kuai ji shi	1
@@ -1165,6 +1192,7 @@ columns: [text, code, weight]
 免刑判決	mian xing pan jue	1
 免責權	mian ze quan	1
 免徵贈與稅	mian zheng zeng yu shui	1
+免徵增值稅	mian zheng zeng zhi shui	1
 免職	mian zhi	1
 免職之懲處處分	mian zhi zhi cheng chu chu fen	1
 描述性	miao shu xing	1
@@ -1278,6 +1306,7 @@ columns: [text, code, weight]
 普通法院	pu tong fa yuan	1
 普通疾病補助費	pu tong ji bing bu zhu fei	1
 普通傷害補助費	pu tong shang hai bu zhu fei	1
+普通稅率	pu tong shui lv	1
 期貨交易法	qi huo jiao yi fa	1
 契稅條例	qi shui tiao li	1
 起訴	qi su	1
@@ -1388,6 +1417,7 @@ columns: [text, code, weight]
 商港法	shang gang fa	1
 上櫃證券	shang gui zheng quan	1
 商品標示法	shang pin biao shi fa	1
+商品歸類	shang pin gui lei	1
 商品及服務之認定	shang pin ji fu wu zhi ren ding	1
 商品檢驗法	shang pin jian yan fa	1
 商品商標	shang pin shang biao	1
@@ -1518,6 +1548,7 @@ columns: [text, code, weight]
 事實審	shi shi shen	1
 實體核駁	shi ti he bo	1
 視同行政處分	shi tong xing zheng chu fen	1
+視同應稅交易	shi tong ying shui jiao yi	1
 實現自我	shi xian zi wo	1
 時效	shi xiao	1
 時效取得地上權登記審查要點	shi xiao qu de di shang quan deng ji shen cha yao dian	1
@@ -1585,6 +1616,7 @@ columns: [text, code, weight]
 水污染防治法	shui wu ran fang zhi fa	1
 水源區	shui yuan qu	1
 稅則號別	shui ze hao bie	1
+稅則號列	shui ze hao lie	1
 私法	si fa	1
 司法風紀	si fa feng ji	1
 司法風紀訪查	si fa feng ji fang cha	1
@@ -1764,6 +1796,7 @@ columns: [text, code, weight]
 特別預算	te bie yu suan	1
 特定存活之個人	te ding cun huo zhi ge ren	1
 特定地區	te ding di qu	1
+特惠稅率	te hui shui lv	1
 特許	te xu	1
 特有財產	te you cai chan	1
 特約醫事服務機構	te yue yi shi fu wu ji gou	1
@@ -1942,6 +1975,7 @@ columns: [text, code, weight]
 現役軍人	xian yi jun ren	1
 先予試用	xian yu shi yong	1
 縣長	xian zhang	1
+限制進出口貨物	xian zhi jin chu kou huo wu	1
 限制民事行爲能力	xian zhi min shi xing wei neng li	1
 限制欠稅人或欠稅營利事業負責人出境辦法	xian zhi qian shui ren huo qian shui ying li shi ye fu ze ren chu jing ban fa	1
 相對人	xiang dui ren	1
@@ -1965,9 +1999,12 @@ columns: [text, code, weight]
 消費者保護法	xiao fei zhe bao hu fa	1
 消極利益	xiao ji li yi	1
 消極性釋示	xiao ji xing shi shi	1
+銷售額	xiao shou e	1
 銷售貨物或勞務	xiao shou huo wu huo lao wu	1
 銷售憑証	xiao shou ping zheng	1
 肖像	xiao xiang	1
+銷項稅額	xiao xiang shui e	1
+協定稅率	xie ding shui lv	1
 協定條款	xie ding tiao kuan	1
 脅迫	xie po	1
 協商解除勞動合同	xie shang jie chu lao dong he tong	1
@@ -2121,6 +2158,7 @@ columns: [text, code, weight]
 一般保證	yi ban bao zheng	1
 一般誹謗	yi ban fei bang	1
 一般公眾	yi ban gong zhong	1
+一般計稅方法	yi ban ji shui fang fa	1
 一般商業名稱	yi ban shang ye ming cheng	1
 遺產	yi chan	1
 遺產及贈與稅法	yi chan ji zeng yu shui fa	1
@@ -2192,6 +2230,7 @@ columns: [text, code, weight]
 營利事業所得稅查核準則	ying li shi ye suo de shui cha he zhun ze	1
 營利事業所得稅結算查核準則	ying li shi ye suo de shui jie suan cha he zhun ze	1
 營利事業所得稅結算申報	ying li shi ye suo de shui jie suan shen bao	1
+應稅交易	ying shui jiao yi	1
 營業包裝	ying ye bao zhuang	1
 營業秘密	ying ye mi mi	1
 營業秘密法	ying ye mi mi fa	1
@@ -2291,6 +2330,11 @@ columns: [text, code, weight]
 增進公共利益	zeng jin gong gong li yi	1
 贈與	zeng yu	1
 贈與稅	zeng yu shui	1
+增值稅	zeng zhi shui	1
+增值稅零稅率	zeng zhi shui ling shui lv	1
+增值稅納稅人	zeng zhi shui na shui ren	1
+增值稅稅率	zeng zhi shui shui lv	1
+增值稅徵收率	zeng zhi shui zheng shou lv	1
 增資	zeng zi	1
 增資變更登記	zeng zi bian geng deng ji	1
 詐騙工具	zha pian gong ju	1
@@ -2542,6 +2586,7 @@ columns: [text, code, weight]
 最高司法審判機關	zui gao si fa shen pan ji guan	1
 最高司法行政機關	zui gao si fa xing zheng ji guan	1
 最高行政法院	zui gao xing zheng fa yuan	1
+最惠國稅率	zui hui guo shui lv	1
 佐理員	zuo li yuan	1
 作品	zuo pin	1
 作為義務	zuo wei yi wu	1

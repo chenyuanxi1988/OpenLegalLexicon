@@ -456,6 +456,13 @@
       "text": "保險事故"
     },
     {
+      "code": "bao zhang cuo shi",
+      "entry_ids": [
+        "cn-safeguard-measures"
+      ],
+      "text": "保障措施"
+    },
+    {
       "code": "bao zheng",
       "entry_ids": [
         "tw-judicial-51086c417df6cd250c35"
@@ -1706,6 +1713,20 @@
       "text": "辭職"
     },
     {
+      "code": "cong jia ji zheng",
+      "entry_ids": [
+        "cn-customs-ad-valorem"
+      ],
+      "text": "從價計徵"
+    },
+    {
+      "code": "cong liang ji zheng",
+      "entry_ids": [
+        "cn-customs-specific-duty"
+      ],
+      "text": "從量計徵"
+    },
+    {
       "code": "cong qi yue",
       "entry_ids": [
         "tw-judicial-cae4dc5195531c8e5a5b"
@@ -1984,6 +2005,13 @@
         "cn-security-right"
       ],
       "text": "擔保物權"
+    },
+    {
+      "code": "dan du guan shui qu",
+      "entry_ids": [
+        "cn-separate-customs-territory"
+      ],
+      "text": "單獨關稅區"
     },
     {
       "code": "dan fang xing zheng xing wei",
@@ -2773,6 +2801,34 @@
       "text": "端正政風行動方案"
     },
     {
+      "code": "dui wai mao yi",
+      "entry_ids": [
+        "cn-foreign-trade"
+      ],
+      "text": "對外貿易"
+    },
+    {
+      "code": "dui wai mao yi diao cha",
+      "entry_ids": [
+        "cn-foreign-trade-investigation"
+      ],
+      "text": "對外貿易調查"
+    },
+    {
+      "code": "dui wai mao yi jing ying zhe",
+      "entry_ids": [
+        "cn-foreign-trade-operator"
+      ],
+      "text": "對外貿易經營者"
+    },
+    {
+      "code": "dui wai mao yi jiu ji cuo shi",
+      "entry_ids": [
+        "cn-trade-remedy-measures"
+      ],
+      "text": "對外貿易救濟措施"
+    },
+    {
       "code": "dui zhi hui ju bu ju yue shu li",
       "entry_ids": [
         "tw-tipo-trademark-a5414844f43d3bb832f0"
@@ -3288,6 +3344,13 @@
       "text": "法治國"
     },
     {
+      "code": "fan bu tie cuo shi",
+      "entry_ids": [
+        "cn-countervailing-measures"
+      ],
+      "text": "反補貼措施"
+    },
+    {
       "code": "fan dan hua fa",
       "entry_ids": [
         "tw-tipo-trademark-ec07a8f2cdab7015cd49"
@@ -3300,6 +3363,13 @@
         "tw-judicial-e07a02a58500416a5bf5"
       ],
       "text": "反共抗俄戰士授田條例"
+    },
+    {
+      "code": "fan qing xiao cuo shi",
+      "entry_ids": [
+        "cn-anti-dumping-measures"
+      ],
+      "text": "反傾銷措施"
     },
     {
       "code": "fan wang yu ming cheng qiang zhu xiao fei zhe bao hu fa",
@@ -3618,6 +3688,13 @@
         "tw-judicial-e009d9f1ef5bf4ac9481"
       ],
       "text": "副法警長"
+    },
+    {
+      "code": "fu he ji zheng",
+      "entry_ids": [
+        "cn-customs-compound-duty"
+      ],
+      "text": "複合計徵"
     },
     {
       "code": "fu jian gao deng fa yuan jin men fen yuan",
@@ -4911,6 +4988,7 @@
     {
       "code": "guan shui",
       "entry_ids": [
+        "cn-customs-duty",
         "tw-judicial-38d26915d51c91de944f"
       ],
       "text": "關稅"
@@ -4921,6 +4999,34 @@
         "tw-judicial-e985a07c3002836746c1"
       ],
       "text": "關稅法"
+    },
+    {
+      "code": "guan shui jian mian",
+      "entry_ids": [
+        "cn-customs-duty-relief"
+      ],
+      "text": "關稅減免"
+    },
+    {
+      "code": "guan shui kou jiao yi wu ren",
+      "entry_ids": [
+        "cn-customs-duty-withholding-agent"
+      ],
+      "text": "關稅扣繳義務人"
+    },
+    {
+      "code": "guan shui na shui ren",
+      "entry_ids": [
+        "cn-customs-duty-taxpayer"
+      ],
+      "text": "關稅納稅人"
+    },
+    {
+      "code": "guan shui pei e",
+      "entry_ids": [
+        "cn-tariff-quota"
+      ],
+      "text": "關稅配額"
     },
     {
       "code": "guan shui you xian quan",
@@ -5117,6 +5223,13 @@
         "tw-tipo-trademark-e805b56ffe6ea6a612ee"
       ],
       "text": "國際分類"
+    },
+    {
+      "code": "guo ji fu wu mao yi",
+      "entry_ids": [
+        "cn-international-trade-in-services"
+      ],
+      "text": "國際服務貿易"
     },
     {
       "code": "guo ji he zuo fa zhan ji jin hui she zhi tiao li",
@@ -5814,6 +5927,13 @@
       "text": "貨物"
     },
     {
+      "code": "huo wu jin chu kou",
+      "entry_ids": [
+        "cn-trade-in-goods"
+      ],
+      "text": "貨物進出口"
+    },
+    {
       "code": "huo wu shui",
       "entry_ids": [
         "tw-judicial-85d05b7aaac087cd321b"
@@ -5833,6 +5953,13 @@
         "tw-judicial-1158cde560430fac7e69"
       ],
       "text": "貨物稅條例"
+    },
+    {
+      "code": "huo wu yuan chan di",
+      "entry_ids": [
+        "cn-customs-origin"
+      ],
+      "text": "貨物原產地"
     },
     {
       "code": "ji ben de",
@@ -5980,6 +6107,13 @@
         "tw-judicial-137721b3bdabdf2486a6"
       ],
       "text": "技師法"
+    },
+    {
+      "code": "ji shu jin chu kou",
+      "entry_ids": [
+        "cn-trade-in-technology"
+      ],
+      "text": "技術進出口"
     },
     {
       "code": "ji shu shen cha guan",
@@ -6424,6 +6558,13 @@
       "text": "檢驗佐理員"
     },
     {
+      "code": "jian yi ji shui fang fa",
+      "entry_ids": [
+        "cn-vat-simplified-calculation-method"
+      ],
+      "text": "簡易計稅方法"
+    },
+    {
       "code": "jian yi ting ji lu ke",
       "entry_ids": [
         "tw-judicial-a32834d9da060c295eff"
@@ -6746,11 +6887,39 @@
       "text": "戒嚴時期人民受損權利回復條例"
     },
     {
+      "code": "jin chu kou huo wu yuan chan di guan li",
+      "entry_ids": [
+        "cn-import-export-origin-administration"
+      ],
+      "text": "進出口貨物原產地管理"
+    },
+    {
+      "code": "jin chu kou shui ze",
+      "entry_ids": [
+        "cn-customs-tariff-schedule"
+      ],
+      "text": "進出口稅則"
+    },
+    {
+      "code": "jin chu kou xu ke zheng guan li",
+      "entry_ids": [
+        "cn-import-export-licensing"
+      ],
+      "text": "進出口許可證管理"
+    },
+    {
       "code": "jin ji ming ling",
       "entry_ids": [
         "tw-judicial-1c5eede60139b3613b44"
       ],
       "text": "緊急命令"
+    },
+    {
+      "code": "jin kou huo wu ji shui jia ge",
+      "entry_ids": [
+        "cn-customs-value"
+      ],
+      "text": "進口貨物計稅價格"
     },
     {
       "code": "jin ling jie chu",
@@ -6786,6 +6955,13 @@
         "tw-judicial-f054a4135e9cbaab0324"
       ],
       "text": "儘速補償"
+    },
+    {
+      "code": "jin xiang shui e",
+      "entry_ids": [
+        "cn-vat-input-tax"
+      ],
+      "text": "進項稅額"
     },
     {
       "code": "jin xiu",
@@ -7437,6 +7613,20 @@
         "tw-judicial-496a60e6233f790c3758"
       ],
       "text": "口頭誹謗"
+    },
+    {
+      "code": "kua jing fu wu mao yi",
+      "entry_ids": [
+        "cn-cross-border-trade-in-services"
+      ],
+      "text": "跨境服務貿易"
+    },
+    {
+      "code": "kua jing fu wu mao yi fu mian qing dan",
+      "entry_ids": [
+        "cn-cross-border-services-negative-list"
+      ],
+      "text": "跨境服務貿易負面清單"
     },
     {
       "code": "kuai ji chu",
@@ -8389,6 +8579,13 @@
       "text": "免徵贈與稅"
     },
     {
+      "code": "mian zheng zeng zhi shui",
+      "entry_ids": [
+        "cn-vat-exemption"
+      ],
+      "text": "免徵增值稅"
+    },
+    {
       "code": "mian zhi",
       "entry_ids": [
         "tw-judicial-bdef5aac4d0498bdcb0f"
@@ -9183,6 +9380,13 @@
       "text": "普通傷害補助費"
     },
     {
+      "code": "pu tong shui lv",
+      "entry_ids": [
+        "cn-customs-general-rate"
+      ],
+      "text": "普通稅率"
+    },
+    {
       "code": "qi huo jiao yi fa",
       "entry_ids": [
         "tw-judicial-0bf1f0b39e467dfa95b7"
@@ -9956,6 +10160,13 @@
         "tw-judicial-9628c90b7fb0289b241d"
       ],
       "text": "商品標示法"
+    },
+    {
+      "code": "shang pin gui lei",
+      "entry_ids": [
+        "cn-customs-classification"
+      ],
+      "text": "商品歸類"
     },
     {
       "code": "shang pin ji fu wu zhi ren ding",
@@ -10871,6 +11082,13 @@
       "text": "視同行政處分"
     },
     {
+      "code": "shi tong ying shui jiao yi",
+      "entry_ids": [
+        "cn-vat-deemed-taxable-transaction"
+      ],
+      "text": "視同應稅交易"
+    },
+    {
       "code": "shi xian zi wo",
       "entry_ids": [
         "tw-judicial-d531a68349c21132ac83"
@@ -11341,6 +11559,13 @@
         "tw-judicial-8f50a0d2f95e134c3fc5"
       ],
       "text": "稅則號別"
+    },
+    {
+      "code": "shui ze hao lie",
+      "entry_ids": [
+        "cn-customs-tariff-line"
+      ],
+      "text": "稅則號列"
     },
     {
       "code": "si fa",
@@ -12597,6 +12822,13 @@
       "text": "特定地區"
     },
     {
+      "code": "te hui shui lv",
+      "entry_ids": [
+        "cn-customs-special-preferential-rate"
+      ],
+      "text": "特惠稅率"
+    },
+    {
       "code": "te xu",
       "entry_ids": [
         "tw-tipo-trademark-bdef56ed9ad854819fff"
@@ -13849,6 +14081,13 @@
       "text": "縣長"
     },
     {
+      "code": "xian zhi jin chu kou huo wu",
+      "entry_ids": [
+        "cn-restricted-import-export-goods"
+      ],
+      "text": "限制進出口貨物"
+    },
+    {
       "code": "xian zhi min shi xing wei neng li",
       "entry_ids": [
         "cn-limited-capacity"
@@ -14011,6 +14250,13 @@
       "text": "消極性釋示"
     },
     {
+      "code": "xiao shou e",
+      "entry_ids": [
+        "cn-vat-sales-amount"
+      ],
+      "text": "銷售額"
+    },
+    {
       "code": "xiao shou huo wu huo lao wu",
       "entry_ids": [
         "tw-judicial-169012f8029b3fdcbaca"
@@ -14030,6 +14276,20 @@
         "tw-tipo-trademark-aefd19be4c2a30fc7cbb"
       ],
       "text": "肖像"
+    },
+    {
+      "code": "xiao xiang shui e",
+      "entry_ids": [
+        "cn-vat-output-tax"
+      ],
+      "text": "銷項稅額"
+    },
+    {
+      "code": "xie ding shui lv",
+      "entry_ids": [
+        "cn-customs-conventional-rate"
+      ],
+      "text": "協定稅率"
     },
     {
       "code": "xie ding tiao kuan",
@@ -15104,6 +15364,13 @@
       "text": "一般公眾"
     },
     {
+      "code": "yi ban ji shui fang fa",
+      "entry_ids": [
+        "cn-vat-general-calculation-method"
+      ],
+      "text": "一般計稅方法"
+    },
+    {
       "code": "yi ban shang ye ming cheng",
       "entry_ids": [
         "tw-tipo-trademark-7b6cd3690e7096ded2d9"
@@ -15603,6 +15870,13 @@
         "tw-judicial-83af3f6b44a80e2f20f0"
       ],
       "text": "營利事業所得稅結算申報"
+    },
+    {
+      "code": "ying shui jiao yi",
+      "entry_ids": [
+        "cn-vat-taxable-transaction"
+      ],
+      "text": "應稅交易"
     },
     {
       "code": "ying ye bao zhuang",
@@ -16298,6 +16572,41 @@
         "tw-judicial-a581c97c94fcdd0a7ed6"
       ],
       "text": "贈與稅"
+    },
+    {
+      "code": "zeng zhi shui",
+      "entry_ids": [
+        "cn-vat"
+      ],
+      "text": "增值稅"
+    },
+    {
+      "code": "zeng zhi shui ling shui lv",
+      "entry_ids": [
+        "cn-vat-zero-rate"
+      ],
+      "text": "增值稅零稅率"
+    },
+    {
+      "code": "zeng zhi shui na shui ren",
+      "entry_ids": [
+        "cn-vat-taxpayer"
+      ],
+      "text": "增值稅納稅人"
+    },
+    {
+      "code": "zeng zhi shui shui lv",
+      "entry_ids": [
+        "cn-vat-rate"
+      ],
+      "text": "增值稅稅率"
+    },
+    {
+      "code": "zeng zhi shui zheng shou lv",
+      "entry_ids": [
+        "cn-vat-levy-rate"
+      ],
+      "text": "增值稅徵收率"
     },
     {
       "code": "zeng zi",
@@ -18063,6 +18372,13 @@
         "tw-judicial-3af004601a92be2f8381"
       ],
       "text": "最高行政法院"
+    },
+    {
+      "code": "zui hui guo shui lv",
+      "entry_ids": [
+        "cn-customs-mfn-rate"
+      ],
+      "text": "最惠國稅率"
     },
     {
       "code": "zuo li yuan",
