@@ -16,10 +16,23 @@ def main():
     p.add_argument('--root', type=Path, default=Path.cwd())
     p.add_argument('--cache', type=Path, required=True)
     p.add_argument('--out', type=Path)
+    p.add_argument('--document-id', action='append', default=[], help='verify only this evidence document; repeatable')
     args = p.parse_args()
+
+    selected = documents(args.root)
+    if args.document_id:
+        wanted = set(args.document_id)
+        known = {doc['id'] for doc in selected}
+        unknown = wanted - known
+        if unknown:
+            raise ValueError(f'unknown evidence document IDs: {sorted(unknown)}')
+        selected = [doc for doc in selected if doc['id'] in wanted]
+    if not selected:
+        raise ValueError('no evidence documents selected')
+
     checked = 0
     results = []
-    for doc in documents(args.root):
+    for doc in selected:
         path = args.cache / (doc['id'] + '.html')
         if digest(path) != doc['html_sha256']:
             raise ValueError(f"{doc['id']}: source HTML differs from the approved version; inspect before updating")
@@ -33,7 +46,8 @@ def main():
                         'cited_articles':len(doc['articles']),'numbered_articles':len(articles),
                         'all_selected_text_matches':True})
     if args.out:
-        write_json(args.out,{'documents':results,'checked_articles':checked,'source_retrieved_dates':sorted({d['retrieved'] for d in documents(args.root)}),
+        write_json(args.out,{'documents':results,'checked_articles':checked,
+                             'source_retrieved_dates':sorted({d['retrieved'] for d in selected}),
                              'note':'Exact source-text extraction check; not human legal or translation review.'})
     print(f'PASS: {checked} evidence articles match pinned primary-source HTML')
 
