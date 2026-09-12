@@ -22,7 +22,10 @@ jobs:
           python-version: ${{ matrix.python }}
       - run: python -m pip install -e '.[dev]'
       - run: oll validate
-      - run: python tools/download_legal_evidence.py --cache build/legal-evidence --check
+      - name: Validate legal evidence target registries offline
+        run: |
+          python tools/download_legal_evidence.py --cache build/legal-evidence --check
+          python tools/download_legal_evidence.py --targets data/evidence/source_targets-tax-trade.json --cache build/legal-evidence-tax-trade --check
       - run: python -m unittest discover -s tests -v
       - run: oll build --out build/ci
       - run: python tools/publish_dictionary.py
