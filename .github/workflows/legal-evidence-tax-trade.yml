@@ -26,6 +26,12 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m pip install -e '.[dev]'
+      - name: Validate target registry offline
+        run: >-
+          python tools/download_legal_evidence.py
+          --targets data/evidence/source_targets-tax-trade.json
+          --cache build/legal-evidence-tax-trade
+          --check
       - name: Download registered official tax and trade law pages
         run: >-
           python tools/download_legal_evidence.py
