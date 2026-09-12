@@ -3286,6 +3286,12 @@
   "academic performance review": [
     "tw-judicial-bda7a21ea536ba20cc92"
   ],
+  "accelerated payment of subscribed capital": [
+    "cn-accelerated-contribution"
+  ],
+  "acceptance of an offer": [
+    "cn-acceptance"
+  ],
   "accessory contract": [
     "tw-judicial-cae4dc5195531c8e5a5b"
   ],
@@ -3309,6 +3315,9 @@
   ],
   "actual confusion": [
     "tw-tipo-trademark-d7628f575e71797bf445"
+  ],
+  "actual controller": [
+    "cn-actual-controller"
   ],
   "actual date": [
     "tw-tipo-trademark-c9f89d424abc351a49ce"
@@ -3413,11 +3422,17 @@
   "affirmative defense": [
     "tw-judicial-6287ffab3cefc50526b6"
   ],
+  "agency": [
+    "cn-agency"
+  ],
   "agency in charge of land administration": [
     "tw-judicial-3d00eb3a76497a41696e"
   ],
   "agent ad litem": [
     "tw-judicial-1ad36418d38d7cc4659c"
+  ],
+  "agreed damages for breach": [
+    "cn-agreed-damages"
   ],
   "agreement provisions": [
     "tw-tipo-trademark-e0bb03c0fdd87baadc60"
@@ -3473,6 +3488,9 @@
   "annual expense": [
     "tw-judicial-c8d40a684e2d54106b5b"
   ],
+  "anonymization": [
+    "cn-anonymization"
+  ],
   "anonymous balloting": [
     "tw-judicial-e7d909498f87685f8650"
   ],
@@ -3481,6 +3499,9 @@
   ],
   "anti-dilution statutes": [
     "tw-tipo-trademark-ec07a8f2cdab7015cd49"
+  ],
+  "apparent agency": [
+    "cn-apparent-agency"
   ],
   "apparent error in law / clearly erroneous in the application of law": [
     "tw-judicial-ae8e1bfcb7abe173db82"
@@ -3534,6 +3555,9 @@
   "arrest and detain": [
     "tw-judicial-4d3c13fdaf1ba0184909"
   ],
+  "articles of association": [
+    "cn-articles-association"
+  ],
   "articles of incorporation": [
     "tw-judicial-b67bb0a83939c7711cb9"
   ],
@@ -3548,6 +3572,9 @@
   ],
   "assignment": [
     "tw-tipo-trademark-c898d15321cb312f9d66"
+  ],
+  "assignment of a claim": [
+    "cn-assignment-claim"
   ],
   "associate": [
     "tw-tipo-trademark-cb4203d3eae470aaab6c"
@@ -3578,6 +3605,9 @@
   ],
   "authority": [
     "tw-judicial-748253719cd5ada1d142"
+  ],
+  "automated decision-making": [
+    "cn-automated-decision"
   ],
   "autonomous right to internal organization": [
     "tw-judicial-a1ffbe220e646b6baee1"
@@ -3688,6 +3718,7 @@
     "tw-judicial-947724140af9228d7ee9"
   ],
   "business operator": [
+    "cn-business-operator",
     "tw-judicial-1244923b38dd8a764180"
   ],
   "business tax rate": [
@@ -3702,6 +3733,9 @@
   "cancel": [
     "tw-tipo-trademark-dec384c977bfb4253ec4"
   ],
+  "capacity for civil rights": [
+    "cn-civil-rights-capacity"
+  ],
   "capacity to be a party": [
     "tw-judicial-888efb2feae8521d946b"
   ],
@@ -3710,6 +3744,9 @@
   ],
   "capital": [
     "tw-judicial-8b862a9873d07741e3a8"
+  ],
+  "capital contribution": [
+    "cn-capital-contribution"
   ],
   "capital gain tax for securities": [
     "tw-judicial-974c54b612e38d80f78b"
@@ -3791,6 +3828,9 @@
   ],
   "civil court division": [
     "tw-judicial-374d435ebbd623291060"
+  ],
+  "civil juristic act": [
+    "cn-civil-juristic-act"
   ],
   "civil litigation": [
     "tw-judicial-c47f81635431168f7230"
@@ -3874,6 +3914,9 @@
   "commissioned prosecutor": [
     "tw-judicial-403e9f6d5eb1b36122d4"
   ],
+  "commissioned work": [
+    "cn-commissioned-work"
+  ],
   "commissioner": [
     "tw-tipo-trademark-9df185615afb8044eafd"
   ],
@@ -3942,6 +3985,9 @@
   "compulsory labor": [
     "tw-judicial-3c9bed201841c8ea3d33"
   ],
+  "concentration of business operators": [
+    "cn-concentration"
+  ],
   "concurrent serving": [
     "tw-judicial-ff21ad871f31ad4e9660"
   ],
@@ -3983,6 +4029,9 @@
   ],
   "conscription": [
     "tw-judicial-fb11d39e6cde7a83b168"
+  ],
+  "consent to personal information processing": [
+    "cn-consent-processing"
   ],
   "conservator": [
     "tw-judicial-af41da72f11d33dfdec1"
@@ -4044,14 +4093,26 @@
   "continuous offenses": [
     "tw-judicial-4f19f421012983fc185a"
   ],
+  "contract": [
+    "cn-contract"
+  ],
   "contradict": [
     "tw-tipo-trademark-f4f2153d5d87e4c08e3e"
   ],
   "contributed property": [
     "tw-judicial-e0613438b4d3e59ae675"
   ],
+  "controlling shareholder": [
+    "cn-controlling-shareholder"
+  ],
   "converse": [
     "tw-tipo-trademark-42bc8f3525c62a74bf93"
+  ],
+  "copyright": [
+    "cn-copyright"
+  ],
+  "copyright work": [
+    "cn-copyright-work"
   ],
   "corporation": [
     "tw-tipo-trademark-166fc9b61ef8c2c0a479"
@@ -4175,6 +4236,9 @@
   ],
   "daily conversion rate": [
     "tw-judicial-1d541c33767762f7960c"
+  ],
+  "de-identification": [
+    "cn-de-identification"
   ],
   "dealer": [
     "tw-tipo-trademark-c23c758737d84dd8c14f"
@@ -4414,6 +4478,9 @@
     "tw-judicial-1666a6f037bdd0fd046f",
     "tw-tipo-trademark-2afd19f051c73a328838"
   ],
+  "dominant market position": [
+    "cn-market-dominance"
+  ],
   "double jeopardy": [
     "tw-judicial-c089b6e951ed4bf73d50"
   ],
@@ -4450,11 +4517,20 @@
   "duration": [
     "tw-tipo-trademark-76bc379af8d49b01ae02"
   ],
+  "duress": [
+    "cn-duress"
+  ],
   "during prosecution of the application up": [
     "tw-tipo-trademark-e4ca8acd4e9bf73f7157"
   ],
   "duty free export processing zones": [
     "tw-judicial-bb2ae526a06a89698772"
+  ],
+  "duty of diligence": [
+    "cn-duty-diligence"
+  ],
+  "duty of loyalty": [
+    "cn-duty-loyalty"
   ],
   "duty of tax payment": [
     "tw-judicial-24769a2d3bec55ed2d50"
@@ -4467,6 +4543,12 @@
   ],
   "duty-paying value": [
     "tw-judicial-bccdc15fb45f391daaa7"
+  ],
+  "earnest money securing performance": [
+    "cn-earnest-money"
+  ],
+  "easement": [
+    "cn-easement"
   ],
   "effect in public law": [
     "tw-judicial-c293a0d1ff1b3b59856e"
@@ -4538,6 +4620,9 @@
   "entity": [
     "tw-tipo-trademark-b21ca699a739f126b8a9"
   ],
+  "entrusted processing of personal information": [
+    "cn-entrusted-processing"
+  ],
   "equal protection of law": [
     "tw-judicial-50f8be3745c2b003b4fa"
   ],
@@ -4561,6 +4646,9 @@
   ],
   "establishment": [
     "tw-tipo-trademark-ea83489799979cd8a251"
+  ],
+  "estate of a deceased person": [
+    "cn-estate"
   ],
   "estate of inheritance": [
     "tw-judicial-1d8f91e8913f954b1724"
@@ -4709,6 +4797,9 @@
   "fanciful or coined mark": [
     "tw-tipo-trademark-63e44ca8c22f68e95a91"
   ],
+  "fault-based tort liability": [
+    "cn-fault-tort-liability"
+  ],
   "feasible": [
     "tw-tipo-trademark-1d0d32a33352abf18acf"
   ],
@@ -4760,10 +4851,14 @@
   "for the Protection of Industrial Property of 1883": [
     "tw-tipo-trademark-ff763acfe461d4a25c7d"
   ],
+  "for-profit legal person": [
+    "cn-for-profit-legal-person"
+  ],
   "force": [
     "tw-tipo-trademark-c65ee19f676e2a02c9d6"
   ],
   "force majeure": [
+    "cn-force-majeure",
     "tw-judicial-8c595a0664bbb33f8335"
   ],
   "forced labor": [
@@ -4777,6 +4872,9 @@
   ],
   "foreign registration": [
     "tw-tipo-trademark-226ad293edaf60da8de7"
+  ],
+  "forfeiture of equity for unpaid contribution": [
+    "cn-forfeiture-equity"
   ],
   "forged identity": [
     "tw-judicial-5ffbce22b849d2b4dac7"
@@ -4813,6 +4911,9 @@
   ],
   "franchise": [
     "tw-tipo-trademark-bdef56ed9ad854819fff"
+  ],
+  "fraud inducing a civil juristic act": [
+    "cn-fraud"
   ],
   "freedom": [
     "tw-tipo-trademark-50061b7d2270be3e876c"
@@ -4870,6 +4971,9 @@
   "fulfillment of the prescription": [
     "tw-judicial-7f4c07b69487e2ac8964"
   ],
+  "full capacity for civil juristic acts": [
+    "cn-full-capacity"
+  ],
   "full name": [
     "tw-tipo-trademark-b32f40570e847e6308b7"
   ],
@@ -4884,6 +4988,9 @@
   ],
   "general authorization": [
     "tw-judicial-31817bbed08d202869f0"
+  ],
+  "general guarantee": [
+    "cn-general-guarantee"
   ],
   "general law": [
     "tw-judicial-de190997853dfd0539da"
@@ -4963,6 +5070,9 @@
   ],
   "guarantee": [
     "tw-judicial-51086c417df6cd250c35"
+  ],
+  "guarantee contract": [
+    "cn-guarantee-contract"
   ],
   "guaranteed obligation": [
     "tw-judicial-022b235586034210805b"
@@ -5262,6 +5372,9 @@
   "interpretation of the Constitution": [
     "tw-judicial-ee9b55cd2f9e8934cfb0"
   ],
+  "interruption of the limitation period": [
+    "cn-interruption-limitation"
+  ],
   "interstate": [
     "tw-tipo-trademark-07aced44a2cd37d4f0db"
   ],
@@ -5276,6 +5389,9 @@
   ],
   "investigation power": [
     "tw-judicial-d9f0d6ab683b0bce0973"
+  ],
+  "invitation to offer": [
+    "cn-invitation-to-offer"
   ],
   "involuntary retirement": [
     "tw-judicial-820bfdb7b932eb84659a"
@@ -5304,11 +5420,20 @@
   "joint": [
     "tw-tipo-trademark-99aa180cd614bba89d29"
   ],
+  "joint and several guarantee": [
+    "cn-joint-several-guarantee"
+  ],
+  "joint marital debt": [
+    "cn-marital-joint-debt"
+  ],
   "joint owners": [
     "tw-judicial-c471185a44f1c5f9368b"
   ],
   "joint relationship": [
     "tw-judicial-e90430e91c24a3405a8e"
+  ],
+  "joint stock company": [
+    "cn-joint-stock-company"
   ],
   "joint tax return": [
     "tw-judicial-fd64d417f38c7146f88c"
@@ -5414,6 +5539,9 @@
   "labor insurance": [
     "tw-judicial-85b180c21de87c927ba4"
   ],
+  "lack of capacity for civil juristic acts": [
+    "cn-no-capacity"
+  ],
   "land administration office": [
     "tw-judicial-633882d85be517cdd6de"
   ],
@@ -5450,11 +5578,17 @@
   "legal duty to act": [
     "tw-judicial-2f0888e9f3a4d3f10d84"
   ],
+  "legal person": [
+    "cn-legal-person"
+  ],
   "legal procedure": [
     "tw-judicial-66a835b4998f6c6cebe3"
   ],
   "legal remedy": [
     "tw-judicial-374fe50dc1c2d0af32d5"
+  ],
+  "legal representative of a legal person": [
+    "cn-legal-representative"
   ],
   "legal review": [
     "tw-judicial-d5b60995cb7404e5aae1"
@@ -5507,6 +5641,9 @@
   "lexi fori": [
     "tw-judicial-a652d0c09851ce8d6db4"
   ],
+  "liability for breach of contract": [
+    "cn-liability-breach"
+  ],
   "libel": [
     "tw-judicial-adba3e7f7ede5ffd2ac9"
   ],
@@ -5537,8 +5674,17 @@
   "limitation period": [
     "tw-judicial-c284d361bdc8f7b46107"
   ],
+  "limitation period for civil claims": [
+    "cn-limitation-period"
+  ],
   "limitation period of prosecution": [
     "tw-judicial-5faf9924a3de7de4e4f5"
+  ],
+  "limited capacity for civil juristic acts": [
+    "cn-limited-capacity"
+  ],
+  "limited liability company": [
+    "cn-limited-liability-company"
   ],
   "liquidation proceedings": [
     "tw-judicial-43c21236c06e70f41444"
@@ -5597,8 +5743,14 @@
   "malicious accusation": [
     "tw-judicial-df656a9da1964b1d78e6"
   ],
+  "malicious collusion": [
+    "cn-malicious-collusion"
+  ],
   "malicious prosecution": [
     "tw-judicial-8cf6e61b8a46ae55adb2"
+  ],
+  "management of another's affairs without mandate": [
+    "cn-management-without-mandate"
   ],
   "manager": [
     "tw-judicial-773b8296862657ab70fc",
@@ -5639,6 +5791,9 @@
   ],
   "material alteration": [
     "tw-tipo-trademark-7c97c40ef58430589bda"
+  ],
+  "material mistake": [
+    "cn-material-mistake"
   ],
   "material objects as evidence": [
     "tw-judicial-5d4796ebabfa455dad2f"
@@ -5739,6 +5894,9 @@
   "monogamy": [
     "tw-judicial-7a0a3d3295f394e5112e"
   ],
+  "monopoly agreement": [
+    "cn-monopoly-agreement"
+  ],
   "monthly salary": [
     "tw-judicial-014e9a993bc15ace15d5"
   ],
@@ -5747,6 +5905,9 @@
   ],
   "mortgage": [
     "tw-judicial-484c5ea967b82aaadbf3"
+  ],
+  "mortgage right": [
+    "cn-mortgage-right"
   ],
   "mortgaged property": [
     "tw-judicial-0782bc3455c342571c72"
@@ -5793,6 +5954,9 @@
   "natural death": [
     "tw-judicial-3be1bdec772fa9db2494"
   ],
+  "natural person": [
+    "cn-natural-person"
+  ],
   "necessary measures": [
     "tw-judicial-f5886189a579215ab481"
   ],
@@ -5814,6 +5978,9 @@
   "nickname": [
     "tw-tipo-trademark-bb49b87af84aa66aa8a3"
   ],
+  "no-fault tort liability": [
+    "cn-no-fault-tort-liability"
+  ],
   "nomination": [
     "tw-judicial-3b3703cacd0383daec88"
   ],
@@ -5831,6 +5998,9 @@
   ],
   "non-operating income": [
     "tw-judicial-ab658ad939dd9c2514e0"
+  ],
+  "non-profit legal person": [
+    "cn-non-profit-legal-person"
   ],
   "non-prosecutorial disposition": [
     "tw-judicial-3b14f04a68f275027e41"
@@ -5856,6 +6026,9 @@
   "notification": [
     "tw-judicial-75ef5c0ed566f9e066c5"
   ],
+  "notification of a concentration": [
+    "cn-concentration-notification"
+  ],
   "obligation based on guaranty": [
     "tw-judicial-23392d8aff7a54787eb6"
   ],
@@ -5873,6 +6046,9 @@
   ],
   "offenses against internal and external security": [
     "tw-judicial-d189aab4c9cc05825230"
+  ],
+  "offer": [
+    "cn-offer"
   ],
   "office action": [
     "tw-tipo-trademark-bbcce0892ea1ec58948c"
@@ -5972,6 +6148,7 @@
     "tw-judicial-865f21eeb75ab5dcab6c"
   ],
   "ownership": [
+    "cn-ownership",
     "tw-tipo-trademark-c76a46791243bb8e877e"
   ],
   "paid position": [
@@ -6061,6 +6238,9 @@
   "permission": [
     "tw-judicial-a6f2196afd88940998c1"
   ],
+  "permitted use under statutory copyright limitations": [
+    "cn-permitted-use"
+  ],
   "person injured by an act of offense": [
     "tw-judicial-3703ccc97fbc786d5d5a"
   ],
@@ -6072,6 +6252,15 @@
   ],
   "personal freedom": [
     "tw-judicial-80f65de2d899942a1e84"
+  ],
+  "personal information": [
+    "cn-personal-information"
+  ],
+  "personal information handler": [
+    "cn-information-handler"
+  ],
+  "personal information protection impact assessment": [
+    "cn-pipia"
   ],
   "personal rights": [
     "tw-judicial-0a01fc1c38bfca8ac668"
@@ -6116,6 +6305,9 @@
   "plaintiff": [
     "tw-judicial-eb874b74e57025767e13"
   ],
+  "pledge over movables": [
+    "cn-pledge-movables"
+  ],
   "polaroid factors": [
     "tw-tipo-trademark-afb7c6f93fad652aece3"
   ],
@@ -6154,6 +6346,12 @@
   ],
   "power to prosecute": [
     "tw-judicial-921b203a0eb393ea8e26"
+  ],
+  "pre-contractual liability": [
+    "cn-precontractual-liability"
+  ],
+  "pre-emptive right to purchase transferred equity": [
+    "cn-preemptive-purchase"
   ],
   "precedent": [
     "tw-tipo-trademark-ea61914f555c64f53b5a"
@@ -6437,6 +6635,7 @@
     "tw-judicial-513bc2d6003958fd2f65"
   ],
   "public order and good morals": [
+    "cn-public-order-good-morals",
     "tw-judicial-488eb2371a13ebc0be36"
   ],
   "public property": [
@@ -6567,6 +6766,9 @@
   "refuse": [
     "tw-tipo-trademark-f9e2f21db66f7361bb2d"
   ],
+  "registered capital": [
+    "cn-registered-capital"
+  ],
   "registered estate": [
     "tw-judicial-7dd7b9a6eb1b279bd2d8"
   ],
@@ -6621,6 +6823,9 @@
   ],
   "relevant": [
     "tw-tipo-trademark-e07ea933fe77b148e21d"
+  ],
+  "relevant market": [
+    "cn-relevant-market"
   ],
   "relevant party": [
     "tw-judicial-cb564497431132b231e6"
@@ -6726,14 +6931,26 @@
   "right of access to the media": [
     "tw-judicial-884abe7ad52bf555e95e"
   ],
+  "right of adaptation": [
+    "cn-adaptation-right"
+  ],
   "right of an individual to select one's own name": [
     "tw-judicial-b8f19473788d18d59e5f"
   ],
   "right of appeal": [
     "tw-judicial-6f0f3157955ea24785bf"
   ],
+  "right of attribution": [
+    "cn-authorship-right"
+  ],
+  "right of communication through information networks": [
+    "cn-network-dissemination"
+  ],
   "right of dien": [
     "tw-judicial-0fd18d161d3ad3cda33d"
+  ],
+  "right of distribution": [
+    "cn-distribution-right"
   ],
   "right of equality": [
     "tw-judicial-969b20fa2636f785b77d"
@@ -6743,6 +6960,9 @@
   ],
   "right of first refusal": [
     "tw-judicial-0132cc1bd54062be1f9b"
+  ],
+  "right of habitation": [
+    "cn-right-of-habitation"
   ],
   "right of holding public offices": [
     "tw-judicial-e8c131e93f2822235f4c"
@@ -6762,20 +6982,47 @@
   "right of recall": [
     "tw-judicial-9166d1dbcb558e65ed39"
   ],
+  "right of reproduction": [
+    "cn-reproduction-right"
+  ],
+  "right of retention": [
+    "cn-right-of-retention"
+  ],
+  "right of translation": [
+    "cn-translation-right"
+  ],
   "right of work": [
     "tw-judicial-581bf7fa2391bb6bc26d"
+  ],
+  "right to claim performance": [
+    "cn-claim-right"
   ],
   "right to confront with the witness": [
     "tw-judicial-6a01f672a87bea64936c"
   ],
+  "right to erasure of personal information": [
+    "cn-information-erasure"
+  ],
+  "right to integrity of a work": [
+    "cn-integrity-right"
+  ],
   "right to life": [
     "tw-judicial-c68490a260448e0c4a69"
+  ],
+  "right to privacy": [
+    "cn-privacy-right"
+  ],
+  "right to rectification of personal information": [
+    "cn-information-correction"
   ],
   "right to redeem": [
     "tw-judicial-f4cb50b3222a97fd08f0"
   ],
   "right to repossession": [
     "tw-judicial-9a26b40aef7fafde0312"
+  ],
+  "right to reputation": [
+    "cn-reputation-right"
   ],
   "right to the benefit of justice": [
     "tw-judicial-a3af8c54d650a8540874"
@@ -6866,6 +7113,9 @@
   "security interest": [
     "tw-tipo-trademark-16cc42b2fd5a29255981"
   ],
+  "security right in property": [
+    "cn-security-right"
+  ],
   "sedition": [
     "tw-judicial-fda415362a1fa02a2e11"
   ],
@@ -6890,8 +7140,14 @@
   "self-responsible mechanism": [
     "tw-judicial-41809f13a0f5fe4fd08d"
   ],
+  "senior management personnel": [
+    "cn-senior-management"
+  ],
   "seniority": [
     "tw-judicial-25354f9aa6b5407293de"
+  ],
+  "sensitive personal information": [
+    "cn-sensitive-information"
   ],
   "separate property": [
     "tw-judicial-45d480276b952d8c5e7a"
@@ -7042,6 +7298,9 @@
   "standard of working condition": [
     "tw-judicial-a49c81ef5d4d4e3ee6c0"
   ],
+  "standard terms": [
+    "cn-standard-terms"
+  ],
   "standards of emission": [
     "tw-judicial-ef2663cd1bf5b024c99b"
   ],
@@ -7069,6 +7328,9 @@
   "statutory period": [
     "tw-judicial-9feec0f984ab60f66a5f",
     "tw-tipo-trademark-6638963967b2ff947ec6"
+  ],
+  "statutory set-off": [
+    "cn-statutory-setoff"
   ],
   "statutory successor": [
     "tw-judicial-2f612858a3ebdd730891"
@@ -7180,6 +7442,9 @@
   ],
   "suspension of issuing notice of tax payment": [
     "tw-judicial-b237a398a3fcff530378"
+  ],
+  "suspension of the limitation period": [
+    "cn-suspension-limitation"
   ],
   "swear oath": [
     "tw-judicial-4131552e347bc2846270"
@@ -7397,6 +7662,9 @@
   "transfer among different personnel systems": [
     "tw-judicial-c7fe1eee72686bb4e702"
   ],
+  "transfer of a debt": [
+    "cn-transfer-debt"
+  ],
   "transparency": [
     "tw-judicial-8f750e9457e4f27c1380"
   ],
@@ -7427,6 +7695,9 @@
   "types of marks": [
     "tw-tipo-trademark-06b3ab0c82175f4ad7ee"
   ],
+  "unauthorized agency": [
+    "cn-unauthorized-agency"
+  ],
   "unauthorized possession": [
     "tw-judicial-6afadda126615c73c922"
   ],
@@ -7454,6 +7725,9 @@
   "unilateral administrative action": [
     "tw-judicial-dfc9ac512d50296eb02a"
   ],
+  "unincorporated organization": [
+    "cn-unincorporated-organization"
+  ],
   "unions": [
     "tw-tipo-trademark-14da05ff6b50a894790f"
   ],
@@ -7462,6 +7736,9 @@
   ],
   "university self-government": [
     "tw-judicial-7aecddf9162508497748"
+  ],
+  "unjust enrichment": [
+    "cn-unjust-enrichment"
   ],
   "unjust enrichment in public law": [
     "tw-judicial-181cfe44b1dd9f9d5ae3"
@@ -7489,6 +7766,9 @@
   ],
   "usufruct": [
     "tw-judicial-5b646c403552bd9185c8"
+  ],
+  "usufructuary right": [
+    "cn-usufructuary-right"
   ],
   "utilitarian": [
     "tw-tipo-trademark-ccf0705b4c9fad70ad48"
@@ -7568,6 +7848,9 @@
   "withdraw an opposition": [
     "tw-tipo-trademark-0cd3b9ffbbb5fb8dc7c9"
   ],
+  "withdrawal of consent": [
+    "cn-withdraw-consent"
+  ],
   "withholding at source": [
     "tw-judicial-ad4526a522bc12f6d683"
   ],
@@ -7581,11 +7864,17 @@
   "writ of detention": [
     "tw-judicial-95afd86b73f09f541606"
   ],
+  "written call for capital contribution": [
+    "cn-notice-capital-call"
+  ],
   "written consent": [
     "tw-tipo-trademark-66e8af843289d5773d6c"
   ],
   "written document": [
     "tw-tipo-trademark-90d358adefc67e3b6729"
+  ],
+  "written form": [
+    "cn-written-form"
   ],
   "written notice": [
     "tw-judicial-411e11a3e1a536f9d2e2"

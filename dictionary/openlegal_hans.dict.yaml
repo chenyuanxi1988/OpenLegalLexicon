@@ -3,7 +3,7 @@
 # Pronunciations include machine-generated readings; fixed weight is not corpus frequency.
 ---
 name: openlegal_hans
-version: "0.1.0.dev1"
+version: "0.1.0.dev2"
 sort: by_weight
 use_preset_vocabulary: false
 columns: [text, code, weight]
@@ -26,6 +26,7 @@ columns: [text, code, weight]
 保护范围	bao hu fan wei	1
 保护管束	bao hu guan shu	1
 保护令	bao hu ling	1
+保护作品完整权	bao hu zuo pin wan zheng quan	1
 保价邮件	bao jia you jian	1
 保全程序	bao quan cheng xu	1
 保税工厂	bao shui gong chang	1
@@ -35,6 +36,7 @@ columns: [text, code, weight]
 保险年资	bao xian nian zi	1
 保险事故	bao xian shi gu	1
 保证	bao zheng	1
+保证合同	bao zheng he tong	1
 保证金	bao zheng jin	1
 保证契约	bao zheng qi yue	1
 保证人	bao zheng ren	1
@@ -70,6 +72,7 @@ columns: [text, code, weight]
 辨识来源	bian shi lai yuan	1
 变造	bian zao	1
 编纂	bian zuan	1
+表见代理	biao jian dai li	1
 表面上证据确凿的案件	biao mian shang zheng ju que zao de an jian	1
 表现自我	biao xian zi wo	1
 标章类型	biao zhang lei xing	1
@@ -91,6 +94,7 @@ columns: [text, code, weight]
 补偿地价	bu chang di jia	1
 补偿费	bu chang fei	1
 补充规定	bu chong gui ding	1
+不当得利	bu dang de li	1
 不当行为	bu dang xing wei	1
 不动产	bu dong chan	1
 不动产估价师法	bu dong chan gu jia shi fa	1
@@ -143,6 +147,7 @@ columns: [text, code, weight]
 常业文官	chang ye wen guan	1
 超出党派	chao chu dang pai	1
 撤回	che hui	1
+撤回同意	che hui tong yi	1
 撤回异议	che hui yi yi	1
 车祸逃逸	che huo tao yi	1
 车库	che ku	1
@@ -156,6 +161,7 @@ columns: [text, code, weight]
 惩戒法庭	cheng jie fa ting	1
 惩戒法院	cheng jie fa yuan	1
 惩戒机关	cheng jie ji guan	1
+承诺	cheng nuo	1
 程式设计师	cheng shi she ji shi	1
 诚信	cheng xin	1
 程序	cheng xu	1
@@ -194,6 +200,8 @@ columns: [text, code, weight]
 储蓄互助社法	chu xu hu zhu she fa	1
 处长	chu zhang	1
 处长室	chu zhang shi	1
+出资	chu zi	1
+出资加速到期	chu zi jia su dao qi	1
 出租耕地	chu zu geng di	1
 船舶登记法	chuan bo deng ji fa	1
 船舶法	chuan bo fa	1
@@ -210,6 +218,7 @@ columns: [text, code, weight]
 促进产业升级条例	cu jin chan ye sheng ji tiao li	1
 促进产业升级条例施行细则	cu jin chan ye sheng ji tiao li shi xing xi ze	1
 促进民间参与公共建设法	cu jin min jian can yu gong gong jian she fa	1
+催缴书	cui jiao shu	1
 存证信函	cun zheng xin han	1
 措施性法律	cuo shi xing fa lv	1
 错误的描述	cuo wu de miao shu	1
@@ -233,6 +242,7 @@ columns: [text, code, weight]
 打字室	da zi shi	1
 代表总额	dai biao zong e	1
 逮捕拘禁	dai bu ju jin	1
+代理	dai li	1
 代收传真	dai shou chuan zhen	1
 代替利益	dai ti li yi	1
 代位继承	dai wei ji cheng	1
@@ -241,6 +251,7 @@ columns: [text, code, weight]
 担保金	dan bao jin	1
 担保提存	dan bao ti cun	1
 担保物	dan bao wu	1
+担保物权	dan bao wu quan	1
 单方行政行为	dan fang xing zheng xing wei	1
 淡化	dan hua	1
 淡化之虞	dan hua zhi yu	1
@@ -301,6 +312,8 @@ columns: [text, code, weight]
 抵押物	di ya wu	1
 第一届国民大会代表出缺递补补充条例	di yi jie guo min da hui dai biao chu que di bu bu chong tiao li	1
 第一科	di yi ke	1
+地役权	di yi quan	1
+缔约过失责任	di yue guo shi ze ren	1
 地政机关	di zheng ji guan	1
 地政士法	di zheng shi fa	1
 点画说明	dian hua shuo ming	1
@@ -322,10 +335,12 @@ columns: [text, code, weight]
 调查权	diao cha quan	1
 调任	diao ren	1
 吊销驾驶执照	diao xiao jia shi zhi zhao	1
+定金	ding jin	1
 定期改选	ding qi gai xuan	1
 动产担保交易	dong chan dan bao jiao yi	1
 动产担保交易法	dong chan dan bao jiao yi fa	1
 动产抵押	dong chan di ya	1
+动产质权	dong chan zhi quan	1
 董事	dong shi	1
 董事长	dong shi zhang	1
 动物保护法	dong wu bao hu fa	1
@@ -352,11 +367,14 @@ columns: [text, code, weight]
 盾形纹章	dun xing wen zhang	1
 多媒体简报室	duo mei ti jian bao shi	1
 恶意	e yi	1
+恶意串通	e yi chuan tong	1
 恶意遗弃	e yi yi qi	1
 儿童福利法	er tong fu li fa	1
 二元诉讼制度	er yuan su song zhi du	1
 法定不变期间	fa ding bu bian qi jian	1
 法定程序	fa ding cheng xu	1
+法定代表人	fa ding dai biao ren	1
+法定抵销	fa ding di xiao	1
 法定扶养义务	fa ding fu yang yi wu	1
 法定继承人	fa ding ji cheng ren	1
 法定期间	fa ding qi jian	1
@@ -409,6 +427,7 @@ columns: [text, code, weight]
 法人设立登记	fa ren she li deng ji	1
 发生混淆	fa sheng hun xiao	1
 法务部行政执行署	fa wu bu xing zheng zhi xing shu	1
+发行权	fa xing quan	1
 发言人	fa yan ren	1
 发言人室	fa yan ren shi	1
 法院	fa yuan	1
@@ -421,6 +440,7 @@ columns: [text, code, weight]
 反共抗俄战士授田条例	fan gong kang e zhan shi shou tian tiao li	1
 反网域名称抢注消费者保护法	fan wang yu ming cheng qiang zhu xiao fei zhe bao hu fa	1
 反向的混淆误认	fan xiang de hun xiao wu ren	1
+翻译权	fan yi quan	1
 反证	fan zheng	1
 犯罪被害人保护法	fan zui bei hai ren bao hu fa	1
 犯罪之被害人	fan zui zhi bei hai ren	1
@@ -442,11 +462,13 @@ columns: [text, code, weight]
 非常上诉救济	fei chang shang su jiu ji	1
 废除	fei chu	1
 非都市土地使用管制规则	fei du shi tu di shi yong guan zhi gui ze	1
+非法人组织	fei fa ren zu zhi	1
 废弃	fei qi	1
 非属类名之名称	fei shu lei ming zhi ming cheng	1
 非讼事件处理中心	fei song shi jian chu li zhong xin	1
 非行政处分	fei xing zheng chu fen	1
 非要式原则	fei yao shi yuan ze	1
+非营利法人	fei ying li fa ren	1
 非营业收入	fei ying ye shou ru	1
 废止	fei zhi	1
 废止营业	fei zhi ying ye	1
@@ -478,6 +500,7 @@ columns: [text, code, weight]
 夫妻财产登记	fu qi cai chan deng ji	1
 夫妻财产制契约登记	fu qi cai chan zhi qi yue deng ji	1
 夫妻共同生活	fu qi gong tong sheng huo	1
+夫妻共同债务	fu qi gong tong zhai wu	1
 附属	fu shu	1
 附条件买卖	fu tiao jian mai mai	1
 副厅长	fu ting zhang	1
@@ -492,16 +515,19 @@ columns: [text, code, weight]
 副院长室	fu yuan zhang shi	1
 副院长室主任	fu yuan zhang shi zhu ren	1
 复职	fu zhi	1
+复制权	fu zhi quan	1
 辅助电子报到区	fu zhu dian zi bao dao qu	1
 付诸新的行政作业	fu zhu xin de xing zheng zuo ye	1
 辅助注册簿	fu zhu zhu ce bu	1
 副总统	fu zong tong	1
 辅佐人	fu zuo ren	1
+改编权	gai bian quan	1
 概括承受	gai kuo cheng shou	1
 概括授权	gai kuo shou quan	1
 概括条款	gai kuo tiao kuan	1
 概算	gai suan	1
 告发人	gao fa ren	1
+高级管理人员	gao ji guan li ren yuan	1
 高级管理师	gao ji guan li shi	1
 告诉不合法	gao su bu he fa	1
 告诉乃论	gao su nai lun	1
@@ -509,6 +535,13 @@ columns: [text, code, weight]
 高雄高等行政法院	gao xiong gao deng xing zheng fa yuan	1
 个别性法律	ge bie xing fa lv	1
 个人身体自由	ge ren shen ti zi you	1
+个人信息	ge ren xin xi	1
+个人信息保护影响评估	ge ren xin xi bao hu ying xiang ping gu	1
+个人信息处理同意	ge ren xin xi chu li tong yi	1
+个人信息处理者	ge ren xin xi chu li zhe	1
+个人信息更正权	ge ren xin xi geng zheng quan	1
+个人信息删除权	ge ren xin xi shan chu quan	1
+格式条款	ge shi tiao kuan	1
 耕地三七五减租条例	geng di san qi wu jian zu tiao li	1
 耕地租赁契约之终止	geng di zu lin qi yue zhi zhong zhi	1
 更衣室	geng yi shi	1
@@ -581,6 +614,7 @@ columns: [text, code, weight]
 公务员惩戒委员会组织法	gong wu yuan cheng jie wei yuan hui zu zhi fa	1
 公务员服务法	gong wu yuan fu wu fa	1
 公务员请假规则	gong wu yuan qing jia gui ze	1
+公序良俗	gong xu liang su	1
 工业区开发管理基金	gong ye qu kai fa guan li ji jin	1
 工业区开发管理基金收支保管及运用办法	gong ye qu kai fa guan li ji jin shou zhi bao guan ji yun yong ban fa	1
 公医制度	gong yi zhi du	1
@@ -614,9 +648,11 @@ columns: [text, code, weight]
 购买人	gou mai ren	1
 固定的	gu ding de	1
 固定规则	gu ding gui ze	1
+股东失权	gu dong shi quan	1
 股份有限公司	gu fen you xian gong si	1
 估计所得额	gu ji suo de e	1
 股利	gu li	1
+股权优先购买权	gu quan you xian gou mai quan	1
 顾问室	gu wen shi	1
 故意	gu yi	1
 雇员	gu yuan	1
@@ -643,6 +679,7 @@ columns: [text, code, weight]
 规则	gui ze	1
 规则制定权	gui ze zhi ding quan	1
 国币	guo bi	1
+过错责任	guo cuo ze ren	1
 过渡期间	guo du qi jian	1
 国防部参谋本部组织法	guo fang bu can mou ben bu zu zhi fa	1
 国防部参谋本部组织条例	guo fang bu can mou ben bu zu zhi tiao li	1
@@ -715,7 +752,9 @@ columns: [text, code, weight]
 核课权	he ke quan	1
 合理补偿	he li bu chang	1
 合理确信	he li que xin	1
+合理使用	he li shi yong	1
 合目的性	he mu di xing	1
+合同	he tong	1
 合宪	he xian	1
 核准	he zhun	1
 核子反应器设施管制法	he zi fan ying qi she shi guan zhi fa	1
@@ -909,6 +948,9 @@ columns: [text, code, weight]
 警卫值班室	jing wei zhi ban shi	1
 竞选连任	jing xuan lian ren	1
 经验法则	jing yan fa ze	1
+经营者	jing ying zhe	1
+经营者集中	jing ying zhe ji zhong	1
+经营者集中申报	jing ying zhe ji zhong shen bao	1
 警长室	jing zhang shi	1
 经证实的	jing zheng shi de	1
 九二一震灾重建暂行条例	jiu er yi zhen zai chong jian zan xing tiao li	1
@@ -922,6 +964,7 @@ columns: [text, code, weight]
 举证责任	ju zheng ze ren	1
 举证责任分配之法则	ju zheng ze ren fen pei zhi fa ze	1
 居住迁徙自由	ju zhu qian xi zi you	1
+居住权	ju zhu quan	1
 居住自由	ju zhu zi you	1
 眷村	juan cun	1
 决定	jue ding	1
@@ -970,6 +1013,7 @@ columns: [text, code, weight]
 课予义务诉讼	ke yu yi wu su song	1
 科员	ke yuan	1
 科长	ke zhang	1
+控股股东	kong gu gu dong	1
 空军服制条例	kong jun fu zhi tiao li	1
 空气污染防制法	kong qi wu ran fang zhi fa	1
 空气污染物	kong qi wu ran wu	1
@@ -1041,6 +1085,7 @@ columns: [text, code, weight]
 联邦法规法典	lian bang fa gui fa dian	1
 联邦商标淡化法	lian bang shang biao dan hua fa	1
 联邦巡回上诉法院	lian bang xun hui shang su fa yuan	1
+连带责任保证	lian dai ze ren bao zheng	1
 联合财产	lian he cai chan	1
 联合服务中心	lian he fu wu zhong xin	1
 联合国	lian he guo	1
@@ -1055,7 +1100,9 @@ columns: [text, code, weight]
 领受人	ling shou ren	1
 另外	ling wai	1
 留置	liu zhi	1
+留置权	liu zhi quan	1
 留职停薪	liu zhi ting xin	1
+垄断协议	long duan xie yi	1
 漏税额	lou shui e	1
 漏税罚	lou shui fa	1
 陆海空军惩罚法	lu hai kong jun cheng fa fa	1
@@ -1117,10 +1164,13 @@ columns: [text, code, weight]
 民法债编施行法	min fa zhai bian shi xing fa	1
 民法总则编	min fa zong ze bian	1
 民法总则施行法	min fa zong ze shi xing fa	1
+敏感个人信息	min gan ge ren xin xi	1
 民股	min gu	1
 民事保全程序事件处理要点	min shi bao quan cheng xu shi jian chu li yao dian	1
 民事第一法庭	min shi di yi fa ting	1
+民事法律行为	min shi fa lv xing wei	1
 民事纪录科	min shi ji lu ke	1
+民事权利能力	min shi quan li neng li	1
 民事诉讼	min shi su song	1
 民事诉讼法	min shi su song fa	1
 民事诉讼法施行法	min shi su song fa shi xing fa	1
@@ -1139,6 +1189,7 @@ columns: [text, code, weight]
 命令退休	ming ling tui xiu	1
 明示规定其一者应认为排除其他	ming shi gui ding qi yi zhe ying ren wei pai chu qi ta	1
 命提供担保	ming ti gong dan bao	1
+名誉权	ming yu quan	1
 没收之财产	mo shou zhi cai chan	1
 目的在于商标与商业之保护及其他相关约定	mu di zai yu shang biao yu shang ye zhi bao hu ji qi ta xiang guan yue ding	1
 母法	mu fa	1
@@ -1155,6 +1206,7 @@ columns: [text, code, weight]
 内乱罪	nei luan zui	1
 内政部消防署组织条例	nei zheng bu xiao fang shu zu zhi tiao li	1
 内政部役政署组织条例	nei zheng bu yi zheng shu zu zhi tiao li	1
+匿名化	ni ming hua	1
 拟制血亲	ni zhi xue qin	1
 年度总决算	nian du zong jue suan	1
 年功俸	nian gong feng	1
@@ -1221,6 +1273,7 @@ columns: [text, code, weight]
 契约当事人	qi yue dang shi ren	1
 契约行为	qi yue xing wei	1
 契约之履行	qi yue zhi lv xing	1
+欺诈	qi zha	1
 前婚姻	qian hun yin	1
 签名	qian ming	1
 牵涉	qian she	1
@@ -1239,6 +1292,7 @@ columns: [text, code, weight]
 侵害	qin hai	1
 侵害鉴定报告	qin hai jian ding bao gao	1
 侵害鉴定专业机构	qin hai jian ding zhuan ye ji gou	1
+勤勉义务	qin mian yi wu	1
 亲权	qin quan	1
 亲权滥用	qin quan lan yong	1
 侵权行为	qin quan xing wei	1
@@ -1252,6 +1306,7 @@ columns: [text, code, weight]
 请求	qing qiu	1
 清算程序	qing suan cheng xu	1
 清算人	qing suan ren	1
+去标识化	qu biao shi hua	1
 取得时效	qu de shi xiao	1
 区域计划法	qu yu ji hua fa	1
 区域计划法施行细则	qu yu ji hua fa shi xing xi ze	1
@@ -1427,10 +1482,12 @@ columns: [text, code, weight]
 省长	sheng zhang	1
 识别性	shi bie xing	1
 市场批发价格	shi chang pi fa jia ge	1
+市场支配地位	shi chang zhi pei di wei	1
 世故精明且绝不会被混淆	shi gu jing ming qie jue bu hui bei hun xiao	1
 世故且精明的	shi gu qie jing ming de	1
 实际的混淆	shi ji de hun xiao	1
 实际的日期	shi ji de ri qi	1
+实际控制人	shi ji kong zhi ren	1
 事假	shi jia	1
 事件之本质	shi jian zhi ben zhi	1
 世界智慧财产权组织	shi jie zhi hui cai chan quan zu zhi	1
@@ -1490,6 +1547,8 @@ columns: [text, code, weight]
 书面同意	shu mian tong yi	1
 书面通知	shu mian tong zhi	1
 书面文件	shu mian wen jian	1
+书面形式	shu mian xing shi	1
+署名权	shu ming quan	1
 数罪并罚	shu zui bing fa	1
 双方合议	shuang fang he yi	1
 税负公平	shui fu gong ping	1
@@ -1568,6 +1627,9 @@ columns: [text, code, weight]
 诉讼理由	su song li you	1
 诉讼能力	su song neng li	1
 诉讼权	su song quan	1
+诉讼时效	su song shi xiao	1
+诉讼时效中断	su song shi xiao zhong duan	1
+诉讼时效中止	su song shi xiao zhong zhi	1
 诉讼行为	su song xing wei	1
 诉讼要点	su song yao dian	1
 肃贪行动方案	su tan xing dong fang an	1
@@ -1783,6 +1845,7 @@ columns: [text, code, weight]
 外交部外交领事人员讲习所组织条例	wai jiao bu wai jiao ling shi ren yuan jiang xi suo zu zhi tiao li	1
 外交部组织法	wai jiao bu zu zhi fa	1
 万国邮政公约最后议定书	wan guo you zheng gong yue zui hou yi ding shu	1
+完全民事行为能力	wan quan min shi xing wei neng li	1
 完税价格	wan shui jia ge	1
 网际网路名称与号码分配组织	wang ji wang lu ming cheng yu hao ma fen pei zu zhi	1
 网域名称	wang yu ming cheng	1
@@ -1798,6 +1861,8 @@ columns: [text, code, weight]
 委任状	wei ren zhuang	1
 未上柜公司	wei shang gui gong si	1
 未上市公司	wei shang shi gong si	1
+委托处理	wei tuo chu li	1
+委托作品	wei tuo zuo pin	1
 违宪	wei xian	1
 猥亵	wei xie	1
 猥亵出版品	wei xie chu ban pin	1
@@ -1805,6 +1870,8 @@ columns: [text, code, weight]
 唯一死刑	wei yi si xing	1
 委员	wei yuan	1
 委员长	wei yuan zhang	1
+违约金	wei yue jin	1
+违约责任	wei yue ze ren	1
 伪造	wei zao	1
 伪造的	wei zao de	1
 伪造身分	wei zao shen fen	1
@@ -1820,9 +1887,12 @@ columns: [text, code, weight]
 诬告	wu gao	1
 诬告罪	wu gao zui	1
 无关系的	wu guan xi de	1
+无过错责任	wu guo cuo ze ren	1
 无记名投票	wu ji ming tou piao	1
+无民事行为能力	wu min shi xing wei neng li	1
 物品库	wu pin ku	1
 无期徒刑	wu qi tu xing	1
+无权代理	wu quan dai li	1
 五权分立	wu quan fen li	1
 无权占有	wu quan zhan you	1
 误认	wu ren	1
@@ -1830,6 +1900,7 @@ columns: [text, code, weight]
 诬陷	wu xian	1
 无效	wu xiao	1
 误写	wu xie	1
+无因管理	wu yin guan li	1
 五院制	wu yuan zhi	1
 物证	wu zheng	1
 无正当事由	wu zheng dang shi you	1
@@ -1851,6 +1922,7 @@ columns: [text, code, weight]
 现役军人	xian yi jun ren	1
 先予试用	xian yu shi yong	1
 县长	xian zhang	1
+限制民事行为能力	xian zhi min shi xing wei neng li	1
 限制欠税人或欠税营利事业负责人出境办法	xian zhi qian shui ren huo qian shui ying li shi ye fu ze ren chu jing ban fa	1
 相对人	xiang dui ren	1
 相对人代理人	xiang dui ren dai li ren	1
@@ -1859,6 +1931,7 @@ columns: [text, code, weight]
 相关	xiang guan	1
 相关的商品或服务	xiang guan de shang pin huo fu wu	1
 相关购买人	xiang guan gou mai ren	1
+相关市场	xiang guan shi chang	1
 相关消费大众	xiang guan xiao fei da zhong	1
 相关性	xiang guan xing	1
 相互	xiang hu	1
@@ -1876,6 +1949,7 @@ columns: [text, code, weight]
 销售凭证	xiao shou ping zheng	1
 肖像	xiao xiang	1
 协定条款	xie ding tiao kuan	1
+胁迫	xie po	1
 协议离婚	xie yi li hun	1
 薪俸	xin feng	1
 信赖保护原则	xin lai bao hu yuan ze	1
@@ -1891,6 +1965,7 @@ columns: [text, code, weight]
 信托占有	xin tuo zhan you	1
 新闻局	xin wen ju	1
 新闻自由	xin wen zi you	1
+信息网络传播权	xin xi wang luo chuan bo quan	1
 信用合作社	xin yong he zuo she	1
 信用合作社法	xin yong he zuo she fa	1
 心证	xin zheng	1
@@ -2002,7 +2077,10 @@ columns: [text, code, weight]
 要式行为	yao shi xing wei	1
 药物广告	yao wu guang gao	1
 药物药商管理法	yao wu yao shang guan li fa	1
+要约	yao yue	1
+要约邀请	yao yue yao qing	1
 野生动物保育法	ye sheng dong wu bao yu fa	1
+一般保证	yi ban bao zheng	1
 一般诽谤	yi ban fei bang	1
 一般公众	yi ban gong zhong	1
 一般商业名称	yi ban shang ye ming cheng	1
@@ -2071,6 +2149,7 @@ columns: [text, code, weight]
 引证的注册商标并未使用	yin zheng de zhu ce shang biao bing wei shi yong	1
 应继分	ying ji fen	1
 应考人申请复查考试成绩处理办法	ying kao ren shen qing fu cha kao shi cheng ji chu li ban fa	1
+营利法人	ying li fa ren	1
 营利事业所得税	ying li shi ye suo de shui	1
 营利事业所得税查核准则	ying li shi ye suo de shui cha he zhun ze	1
 营利事业所得税结算查核准则	ying li shi ye suo de shui jie suan cha he zhun ze	1
@@ -2111,6 +2190,7 @@ columns: [text, code, weight]
 优先适用	you xian shi yong	1
 优先使用权	you xian shi yong quan	1
 优先受偿权	you xian shou chang quan	1
+有限责任公司	you xian ze ren gong si	1
 有效	you xiao	1
 游艺场业辅导管理规则	you yi chang ye fu dao guan li gui ze	1
 油印室	you yin shi	1
@@ -2176,11 +2256,14 @@ columns: [text, code, weight]
 增资	zeng zi	1
 增资变更登记	zeng zi bian geng deng ji	1
 诈骗工具	zha pian gong ju	1
+债权	zhai quan	1
 债权平等	zhai quan ping deng	1
 债权人	zhai quan ren	1
 债权人的权利	zhai quan ren de quan li	1
+债权转让	zhai quan zhuan rang	1
 债务	zhai wu	1
 债务人	zhai wu ren	1
+债务转移	zhai wu zhuan yi	1
 战胜拒绝注册事由	zhan sheng ju jue zhu ce shi you	1
 战时交通电业设备及器材防护条例	zhan shi jiao tong dian ye she bei ji qi cai fang hu tiao li	1
 战士授田凭据处理条例	zhan shi shou tian ping ju chu li tiao li	1
@@ -2278,6 +2361,7 @@ columns: [text, code, weight]
 仲裁协议	zhong cai xie yi	1
 重大变故	zhong da bian gu	1
 重大明显瑕疵	zhong da ming xian xia ci	1
+重大误解	zhong da wu jie	1
 中华民国领海及邻接区法	zhong hua min guo ling hai ji lin jie qu fa	1
 中华民国四十八年短期公债发行条例	zhong hua min guo si shi ba nian duan qi gong zhai fa xing tiao li	1
 中华民国宪法	zhong hua min guo xian fa	1
@@ -2289,6 +2373,7 @@ columns: [text, code, weight]
 终结件数	zhong jie jian shu	1
 终结事件平均一件所需日数	zhong jie shi jian ping jun yi jian suo xu ri shu	1
 终审法院	zhong shen fa yuan	1
+忠实义务	zhong shi yi wu	1
 中小企业发展条例	zhong xiao qi ye fa zhan tiao li	1
 中央法规标准法	zhong yang fa gui biao zhun fa	1
 中央公教人员福利互助办法	zhong yang gong jiao ren yuan fu li hu zhu ban fa	1
@@ -2311,6 +2396,7 @@ columns: [text, code, weight]
 注册人	zhu ce ren	1
 注册商标	zhu ce shang biao	1
 注册证	zhu ce zheng	1
+注册资本	zhu ce zi ben	1
 主管地政机关	zhu guan di zheng ji guan	1
 主管机关	zhu guan ji guan	1
 主管稽征机关	zhu guan ji zheng ji guan	1
@@ -2338,6 +2424,7 @@ columns: [text, code, weight]
 主要涵义	zhu yao han yi	1
 主要印象	zhu yao yin xiang	1
 主要注册簿	zhu yao zhu ce bu	1
+著作权	zhu zuo quan	1
 著作权法	zhu zuo quan fa	1
 转介	zhuan jie	1
 专科学校法	zhuan ke xue xiao fa	1
@@ -2366,6 +2453,7 @@ columns: [text, code, weight]
 资产净值	zi chan jing zhi	1
 自动电子报到机	zi dong dian zi bao dao ji	1
 自动电子报到区	zi dong dian zi bao dao qu	1
+自动化决策	zi dong hua jue ce	1
 自动缴纳	zi dong jiao na	1
 自耕能力证明书之申请及核发注意事项	zi geng neng li zheng ming shu zhi shen qing ji he fa zhu yi shi xiang	1
 自来水法	zi lai shui fa	1
@@ -2374,6 +2462,7 @@ columns: [text, code, weight]
 资料室	zi liao shi	1
 字母与数字符号构成的	zi mu yu shu zi fu hao gou cheng de	1
 资遣	zi qian	1
+自然人	zi ran ren	1
 自然死亡	zi ran si wang	1
 自首	zi shou	1
 自诉	zi su	1
@@ -2416,5 +2505,6 @@ columns: [text, code, weight]
 最高司法行政机关	zui gao si fa xing zheng ji guan	1
 最高行政法院	zui gao xing zheng fa yuan	1
 佐理员	zuo li yuan	1
+作品	zuo pin	1
 作为义务	zuo wei yi wu	1
 作证	zuo zheng	1

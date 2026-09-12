@@ -386,6 +386,13 @@
       "text": "保护令"
     },
     {
+      "code": "bao hu zuo pin wan zheng quan",
+      "entry_ids": [
+        "cn-integrity-right"
+      ],
+      "text": "保护作品完整权"
+    },
+    {
       "code": "bao jia you jian",
       "entry_ids": [
         "tw-judicial-6008c848be0860c426d8"
@@ -447,6 +454,13 @@
         "tw-judicial-51086c417df6cd250c35"
       ],
       "text": "保证"
+    },
+    {
+      "code": "bao zheng he tong",
+      "entry_ids": [
+        "cn-guarantee-contract"
+      ],
+      "text": "保证合同"
     },
     {
       "code": "bao zheng jin",
@@ -694,6 +708,13 @@
       "text": "编纂"
     },
     {
+      "code": "biao jian dai li",
+      "entry_ids": [
+        "cn-apparent-agency"
+      ],
+      "text": "表见代理"
+    },
+    {
       "code": "biao mian shang zheng ju que zao de an jian",
       "entry_ids": [
         "tw-tipo-trademark-e3acdbb5e2c535a5a669"
@@ -841,6 +862,13 @@
       "text": "补充规定"
     },
     {
+      "code": "bu dang de li",
+      "entry_ids": [
+        "cn-unjust-enrichment"
+      ],
+      "text": "不当得利"
+    },
+    {
       "code": "bu dang xing wei",
       "entry_ids": [
         "tw-judicial-856c2b5096d13d9a21ac"
@@ -920,6 +948,7 @@
     {
       "code": "bu ke kang li",
       "entry_ids": [
+        "cn-force-majeure",
         "tw-judicial-8c595a0664bbb33f8335"
       ],
       "text": "不可抗力"
@@ -1206,6 +1235,13 @@
       "text": "撤回"
     },
     {
+      "code": "che hui tong yi",
+      "entry_ids": [
+        "cn-withdraw-consent"
+      ],
+      "text": "撤回同意"
+    },
+    {
       "code": "che hui yi yi",
       "entry_ids": [
         "tw-tipo-trademark-0cd3b9ffbbb5fb8dc7c9"
@@ -1296,6 +1332,13 @@
         "tw-judicial-95379aee417de3d7c94e"
       ],
       "text": "惩戒机关"
+    },
+    {
+      "code": "cheng nuo",
+      "entry_ids": [
+        "cn-acceptance"
+      ],
+      "text": "承诺"
     },
     {
       "code": "cheng shi she ji shi",
@@ -1565,6 +1608,20 @@
       "text": "处长室"
     },
     {
+      "code": "chu zi",
+      "entry_ids": [
+        "cn-capital-contribution"
+      ],
+      "text": "出资"
+    },
+    {
+      "code": "chu zi jia su dao qi",
+      "entry_ids": [
+        "cn-accelerated-contribution"
+      ],
+      "text": "出资加速到期"
+    },
+    {
       "code": "chu zu geng di",
       "entry_ids": [
         "tw-judicial-3d4964a67f3600222ba3"
@@ -1675,6 +1732,13 @@
         "tw-judicial-9348a890b57ea897dd21"
       ],
       "text": "促进民间参与公共建设法"
+    },
+    {
+      "code": "cui jiao shu",
+      "entry_ids": [
+        "cn-notice-capital-call"
+      ],
+      "text": "催缴书"
     },
     {
       "code": "cun zheng xin han",
@@ -1838,6 +1902,13 @@
       "text": "逮捕拘禁"
     },
     {
+      "code": "dai li",
+      "entry_ids": [
+        "cn-agency"
+      ],
+      "text": "代理"
+    },
+    {
       "code": "dai shou chuan zhen",
       "entry_ids": [
         "tw-judicial-d5dda3d082239f42d548"
@@ -1892,6 +1963,13 @@
         "tw-judicial-9ccb5ee46b8e442a138d"
       ],
       "text": "担保物"
+    },
+    {
+      "code": "dan bao wu quan",
+      "entry_ids": [
+        "cn-security-right"
+      ],
+      "text": "担保物权"
     },
     {
       "code": "dan fang xing zheng xing wei",
@@ -2269,6 +2347,7 @@
     {
       "code": "di ya quan",
       "entry_ids": [
+        "cn-mortgage-right",
         "tw-judicial-484c5ea967b82aaadbf3"
       ],
       "text": "抵押权"
@@ -2314,6 +2393,20 @@
         "tw-judicial-318e8d76aa4d3928e78f"
       ],
       "text": "第一科"
+    },
+    {
+      "code": "di yi quan",
+      "entry_ids": [
+        "cn-easement"
+      ],
+      "text": "地役权"
+    },
+    {
+      "code": "di yue guo shi ze ren",
+      "entry_ids": [
+        "cn-precontractual-liability"
+      ],
+      "text": "缔约过失责任"
     },
     {
       "code": "di zheng ji guan",
@@ -2463,6 +2556,13 @@
       "text": "吊销驾驶执照"
     },
     {
+      "code": "ding jin",
+      "entry_ids": [
+        "cn-earnest-money"
+      ],
+      "text": "定金"
+    },
+    {
       "code": "ding qi gai xuan",
       "entry_ids": [
         "tw-judicial-cf14b789eb30cb7f9ea3"
@@ -2489,6 +2589,13 @@
         "tw-judicial-cec8311c846ff1b06ae2"
       ],
       "text": "动产抵押"
+    },
+    {
+      "code": "dong chan zhi quan",
+      "entry_ids": [
+        "cn-pledge-movables"
+      ],
+      "text": "动产质权"
     },
     {
       "code": "dong shi",
@@ -2673,6 +2780,13 @@
       "text": "恶意"
     },
     {
+      "code": "e yi chuan tong",
+      "entry_ids": [
+        "cn-malicious-collusion"
+      ],
+      "text": "恶意串通"
+    },
+    {
       "code": "e yi yi qi",
       "entry_ids": [
         "tw-judicial-cfe146df1637b4bdf723"
@@ -2706,6 +2820,20 @@
         "tw-judicial-66a835b4998f6c6cebe3"
       ],
       "text": "法定程序"
+    },
+    {
+      "code": "fa ding dai biao ren",
+      "entry_ids": [
+        "cn-legal-representative"
+      ],
+      "text": "法定代表人"
+    },
+    {
+      "code": "fa ding di xiao",
+      "entry_ids": [
+        "cn-statutory-setoff"
+      ],
+      "text": "法定抵销"
     },
     {
       "code": "fa ding fu yang yi wu",
@@ -3019,6 +3147,7 @@
     {
       "code": "fa ren",
       "entry_ids": [
+        "cn-legal-person",
         "tw-judicial-9c9b62e67c4c7bfccc35",
         "tw-tipo-trademark-6f1e87924f20a2047c38"
       ],
@@ -3072,6 +3201,13 @@
         "tw-judicial-c80fcbf745e21578ba70"
       ],
       "text": "法务部行政执行署"
+    },
+    {
+      "code": "fa xing quan",
+      "entry_ids": [
+        "cn-distribution-right"
+      ],
+      "text": "发行权"
     },
     {
       "code": "fa yan ren",
@@ -3158,6 +3294,13 @@
         "tw-tipo-trademark-6628732bb99293e8d5a4"
       ],
       "text": "反向的混淆误认"
+    },
+    {
+      "code": "fan yi quan",
+      "entry_ids": [
+        "cn-translation-right"
+      ],
+      "text": "翻译权"
     },
     {
       "code": "fan zheng",
@@ -3307,6 +3450,13 @@
       "text": "非都市土地使用管制规则"
     },
     {
+      "code": "fei fa ren zu zhi",
+      "entry_ids": [
+        "cn-unincorporated-organization"
+      ],
+      "text": "非法人组织"
+    },
+    {
       "code": "fei qi",
       "entry_ids": [
         "tw-judicial-194de5e3896c8b25bb7b"
@@ -3340,6 +3490,13 @@
         "tw-tipo-trademark-2e699155046912d4401a"
       ],
       "text": "非要式原则"
+    },
+    {
+      "code": "fei ying li fa ren",
+      "entry_ids": [
+        "cn-non-profit-legal-person"
+      ],
+      "text": "非营利法人"
     },
     {
       "code": "fei ying ye shou ru",
@@ -3561,6 +3718,13 @@
       "text": "夫妻共同生活"
     },
     {
+      "code": "fu qi gong tong zhai wu",
+      "entry_ids": [
+        "cn-marital-joint-debt"
+      ],
+      "text": "夫妻共同债务"
+    },
+    {
       "code": "fu shu",
       "entry_ids": [
         "tw-tipo-trademark-9b3cd31cbe55a89bd39d"
@@ -3660,6 +3824,13 @@
       "text": "复职"
     },
     {
+      "code": "fu zhi quan",
+      "entry_ids": [
+        "cn-reproduction-right"
+      ],
+      "text": "复制权"
+    },
+    {
       "code": "fu zhu dian zi bao dao qu",
       "entry_ids": [
         "tw-judicial-1706fcc5f1e9543b8b90"
@@ -3696,6 +3867,13 @@
       "text": "辅佐人"
     },
     {
+      "code": "gai bian quan",
+      "entry_ids": [
+        "cn-adaptation-right"
+      ],
+      "text": "改编权"
+    },
+    {
       "code": "gai kuo cheng shou",
       "entry_ids": [
         "tw-judicial-f850aa56a2bf55280b47"
@@ -3729,6 +3907,13 @@
         "tw-judicial-7d7acd70d9737b9141ec"
       ],
       "text": "告发人"
+    },
+    {
+      "code": "gao ji guan li ren yuan",
+      "entry_ids": [
+        "cn-senior-management"
+      ],
+      "text": "高级管理人员"
     },
     {
       "code": "gao ji guan li shi",
@@ -3778,6 +3963,55 @@
         "tw-judicial-61d85a323b4fef914cfe"
       ],
       "text": "个人身体自由"
+    },
+    {
+      "code": "ge ren xin xi",
+      "entry_ids": [
+        "cn-personal-information"
+      ],
+      "text": "个人信息"
+    },
+    {
+      "code": "ge ren xin xi bao hu ying xiang ping gu",
+      "entry_ids": [
+        "cn-pipia"
+      ],
+      "text": "个人信息保护影响评估"
+    },
+    {
+      "code": "ge ren xin xi chu li tong yi",
+      "entry_ids": [
+        "cn-consent-processing"
+      ],
+      "text": "个人信息处理同意"
+    },
+    {
+      "code": "ge ren xin xi chu li zhe",
+      "entry_ids": [
+        "cn-information-handler"
+      ],
+      "text": "个人信息处理者"
+    },
+    {
+      "code": "ge ren xin xi geng zheng quan",
+      "entry_ids": [
+        "cn-information-correction"
+      ],
+      "text": "个人信息更正权"
+    },
+    {
+      "code": "ge ren xin xi shan chu quan",
+      "entry_ids": [
+        "cn-information-erasure"
+      ],
+      "text": "个人信息删除权"
+    },
+    {
+      "code": "ge shi tiao kuan",
+      "entry_ids": [
+        "cn-standard-terms"
+      ],
+      "text": "格式条款"
     },
     {
       "code": "geng di san qi wu jian zu tiao li",
@@ -4077,6 +4311,7 @@
     {
       "code": "gong si zhang cheng",
       "entry_ids": [
+        "cn-articles-association",
         "tw-judicial-b67bb0a83939c7711cb9"
       ],
       "text": "公司章程"
@@ -4286,6 +4521,13 @@
         "tw-judicial-e8a4512fc374533c9ebc"
       ],
       "text": "公务员请假规则"
+    },
+    {
+      "code": "gong xu liang su",
+      "entry_ids": [
+        "cn-public-order-good-morals"
+      ],
+      "text": "公序良俗"
     },
     {
       "code": "gong ye qu kai fa guan li ji jin",
@@ -4519,8 +4761,16 @@
       "text": "固定规则"
     },
     {
+      "code": "gu dong shi quan",
+      "entry_ids": [
+        "cn-forfeiture-equity"
+      ],
+      "text": "股东失权"
+    },
+    {
       "code": "gu fen you xian gong si",
       "entry_ids": [
+        "cn-joint-stock-company",
         "tw-judicial-b98868d5b104167f4b37"
       ],
       "text": "股份有限公司"
@@ -4538,6 +4788,13 @@
         "tw-judicial-4e84335c65dbd5a8a110"
       ],
       "text": "股利"
+    },
+    {
+      "code": "gu quan you xian gou mai quan",
+      "entry_ids": [
+        "cn-preemptive-purchase"
+      ],
+      "text": "股权优先购买权"
     },
     {
       "code": "gu wen shi",
@@ -4720,6 +4977,13 @@
         "tw-judicial-a932cc7c6b76c848f282"
       ],
       "text": "国币"
+    },
+    {
+      "code": "guo cuo ze ren",
+      "entry_ids": [
+        "cn-fault-tort-liability"
+      ],
+      "text": "过错责任"
     },
     {
       "code": "guo du qi jian",
@@ -5226,11 +5490,25 @@
       "text": "合理确信"
     },
     {
+      "code": "he li shi yong",
+      "entry_ids": [
+        "cn-permitted-use"
+      ],
+      "text": "合理使用"
+    },
+    {
       "code": "he mu di xing",
       "entry_ids": [
         "tw-judicial-e9d62501d567a7e3d3d9"
       ],
       "text": "合目的性"
+    },
+    {
+      "code": "he tong",
+      "entry_ids": [
+        "cn-contract"
+      ],
+      "text": "合同"
     },
     {
       "code": "he xian",
@@ -6587,6 +6865,27 @@
       "text": "经验法则"
     },
     {
+      "code": "jing ying zhe",
+      "entry_ids": [
+        "cn-business-operator"
+      ],
+      "text": "经营者"
+    },
+    {
+      "code": "jing ying zhe ji zhong",
+      "entry_ids": [
+        "cn-concentration"
+      ],
+      "text": "经营者集中"
+    },
+    {
+      "code": "jing ying zhe ji zhong shen bao",
+      "entry_ids": [
+        "cn-concentration-notification"
+      ],
+      "text": "经营者集中申报"
+    },
+    {
       "code": "jing zhang shi",
       "entry_ids": [
         "tw-judicial-feaf7bb1a7691fc66966"
@@ -6676,6 +6975,13 @@
         "tw-judicial-4855e2dd2b00abe7d656"
       ],
       "text": "居住迁徙自由"
+    },
+    {
+      "code": "ju zhu quan",
+      "entry_ids": [
+        "cn-right-of-habitation"
+      ],
+      "text": "居住权"
     },
     {
       "code": "ju zhu zi you",
@@ -7012,6 +7318,13 @@
         "tw-judicial-ebe1408ccafbfd26aba5"
       ],
       "text": "科长"
+    },
+    {
+      "code": "kong gu gu dong",
+      "entry_ids": [
+        "cn-controlling-shareholder"
+      ],
+      "text": "控股股东"
     },
     {
       "code": "kong jun fu zhi tiao li",
@@ -7513,6 +7826,13 @@
       "text": "联邦巡回上诉法院"
     },
     {
+      "code": "lian dai ze ren bao zheng",
+      "entry_ids": [
+        "cn-joint-several-guarantee"
+      ],
+      "text": "连带责任保证"
+    },
+    {
       "code": "lian he cai chan",
       "entry_ids": [
         "tw-judicial-5e5ffed0998605880ec9"
@@ -7611,11 +7931,25 @@
       "text": "留置"
     },
     {
+      "code": "liu zhi quan",
+      "entry_ids": [
+        "cn-right-of-retention"
+      ],
+      "text": "留置权"
+    },
+    {
       "code": "liu zhi ting xin",
       "entry_ids": [
         "tw-judicial-fbdffd34fc8435a95337"
       ],
       "text": "留职停薪"
+    },
+    {
+      "code": "long duan xie yi",
+      "entry_ids": [
+        "cn-monopoly-agreement"
+      ],
+      "text": "垄断协议"
     },
     {
       "code": "lou shui e",
@@ -8048,6 +8382,13 @@
       "text": "民法总则施行法"
     },
     {
+      "code": "min gan ge ren xin xi",
+      "entry_ids": [
+        "cn-sensitive-information"
+      ],
+      "text": "敏感个人信息"
+    },
+    {
       "code": "min gu",
       "entry_ids": [
         "tw-judicial-1324e0c7fc96e4ff354c"
@@ -8069,11 +8410,25 @@
       "text": "民事第一法庭"
     },
     {
+      "code": "min shi fa lv xing wei",
+      "entry_ids": [
+        "cn-civil-juristic-act"
+      ],
+      "text": "民事法律行为"
+    },
+    {
       "code": "min shi ji lu ke",
       "entry_ids": [
         "tw-judicial-e53f7419ce7abaa48189"
       ],
       "text": "民事纪录科"
+    },
+    {
+      "code": "min shi quan li neng li",
+      "entry_ids": [
+        "cn-civil-rights-capacity"
+      ],
+      "text": "民事权利能力"
     },
     {
       "code": "min shi su song",
@@ -8202,6 +8557,13 @@
       "text": "命提供担保"
     },
     {
+      "code": "ming yu quan",
+      "entry_ids": [
+        "cn-reputation-right"
+      ],
+      "text": "名誉权"
+    },
+    {
       "code": "mo shou zhi cai chan",
       "entry_ids": [
         "tw-judicial-84272427d1b98c11f00f"
@@ -8313,6 +8675,13 @@
         "tw-judicial-84359f0bcc0dd9f7d3aa"
       ],
       "text": "内政部役政署组织条例"
+    },
+    {
+      "code": "ni ming hua",
+      "entry_ids": [
+        "cn-anonymization"
+      ],
+      "text": "匿名化"
     },
     {
       "code": "ni zhi xue qin",
@@ -8780,6 +9149,13 @@
       "text": "契约之履行"
     },
     {
+      "code": "qi zha",
+      "entry_ids": [
+        "cn-fraud"
+      ],
+      "text": "欺诈"
+    },
+    {
       "code": "qian hun yin",
       "entry_ids": [
         "tw-judicial-d1e586cfd5c940252381"
@@ -8907,6 +9283,13 @@
       "text": "侵害鉴定专业机构"
     },
     {
+      "code": "qin mian yi wu",
+      "entry_ids": [
+        "cn-duty-diligence"
+      ],
+      "text": "勤勉义务"
+    },
+    {
       "code": "qin quan",
       "entry_ids": [
         "tw-judicial-4e5f9cbf38b3be07a7cf"
@@ -8996,6 +9379,13 @@
         "tw-judicial-4b25bcd2eb02ad7b6ec4"
       ],
       "text": "清算人"
+    },
+    {
+      "code": "qu biao shi hua",
+      "entry_ids": [
+        "cn-de-identification"
+      ],
+      "text": "去标识化"
     },
     {
       "code": "qu de shi xiao",
@@ -10228,6 +10618,13 @@
       "text": "市场批发价格"
     },
     {
+      "code": "shi chang zhi pei di wei",
+      "entry_ids": [
+        "cn-market-dominance"
+      ],
+      "text": "市场支配地位"
+    },
+    {
       "code": "shi gu jing ming qie jue bu hui bei hun xiao",
       "entry_ids": [
         "tw-tipo-trademark-094c072737f827be9cc5"
@@ -10254,6 +10651,13 @@
         "tw-tipo-trademark-c9f89d424abc351a49ce"
       ],
       "text": "实际的日期"
+    },
+    {
+      "code": "shi ji kong zhi ren",
+      "entry_ids": [
+        "cn-actual-controller"
+      ],
+      "text": "实际控制人"
     },
     {
       "code": "shi jia",
@@ -10671,6 +11075,20 @@
         "tw-tipo-trademark-90d358adefc67e3b6729"
       ],
       "text": "书面文件"
+    },
+    {
+      "code": "shu mian xing shi",
+      "entry_ids": [
+        "cn-written-form"
+      ],
+      "text": "书面形式"
+    },
+    {
+      "code": "shu ming quan",
+      "entry_ids": [
+        "cn-authorship-right"
+      ],
+      "text": "署名权"
     },
     {
       "code": "shu zui bing fa",
@@ -11219,6 +11637,27 @@
       "text": "诉讼权"
     },
     {
+      "code": "su song shi xiao",
+      "entry_ids": [
+        "cn-limitation-period"
+      ],
+      "text": "诉讼时效"
+    },
+    {
+      "code": "su song shi xiao zhong duan",
+      "entry_ids": [
+        "cn-interruption-limitation"
+      ],
+      "text": "诉讼时效中断"
+    },
+    {
+      "code": "su song shi xiao zhong zhi",
+      "entry_ids": [
+        "cn-suspension-limitation"
+      ],
+      "text": "诉讼时效中止"
+    },
+    {
       "code": "su song xing wei",
       "entry_ids": [
         "tw-judicial-6f8e2fa6d0b1cac3c69d"
@@ -11326,6 +11765,7 @@
     {
       "code": "suo you quan",
       "entry_ids": [
+        "cn-ownership",
         "tw-tipo-trademark-c76a46791243bb8e877e"
       ],
       "text": "所有权"
@@ -12727,6 +13167,13 @@
       "text": "万国邮政公约最后议定书"
     },
     {
+      "code": "wan quan min shi xing wei neng li",
+      "entry_ids": [
+        "cn-full-capacity"
+      ],
+      "text": "完全民事行为能力"
+    },
+    {
       "code": "wan shui jia ge",
       "entry_ids": [
         "tw-judicial-bccdc15fb45f391daaa7"
@@ -12834,6 +13281,20 @@
       "text": "未上市公司"
     },
     {
+      "code": "wei tuo chu li",
+      "entry_ids": [
+        "cn-entrusted-processing"
+      ],
+      "text": "委托处理"
+    },
+    {
+      "code": "wei tuo zuo pin",
+      "entry_ids": [
+        "cn-commissioned-work"
+      ],
+      "text": "委托作品"
+    },
+    {
       "code": "wei xian",
       "entry_ids": [
         "tw-judicial-b7d83a4fffe505b39eab"
@@ -12881,6 +13342,20 @@
         "tw-judicial-004e7f6b13bd3769999f"
       ],
       "text": "委员长"
+    },
+    {
+      "code": "wei yue jin",
+      "entry_ids": [
+        "cn-agreed-damages"
+      ],
+      "text": "违约金"
+    },
+    {
+      "code": "wei yue ze ren",
+      "entry_ids": [
+        "cn-liability-breach"
+      ],
+      "text": "违约责任"
     },
     {
       "code": "wei zao",
@@ -12988,11 +13463,25 @@
       "text": "无关系的"
     },
     {
+      "code": "wu guo cuo ze ren",
+      "entry_ids": [
+        "cn-no-fault-tort-liability"
+      ],
+      "text": "无过错责任"
+    },
+    {
       "code": "wu ji ming tou piao",
       "entry_ids": [
         "tw-judicial-e7d909498f87685f8650"
       ],
       "text": "无记名投票"
+    },
+    {
+      "code": "wu min shi xing wei neng li",
+      "entry_ids": [
+        "cn-no-capacity"
+      ],
+      "text": "无民事行为能力"
     },
     {
       "code": "wu pin ku",
@@ -13007,6 +13496,13 @@
         "tw-judicial-348c58ad01d930cdeae3"
       ],
       "text": "无期徒刑"
+    },
+    {
+      "code": "wu quan dai li",
+      "entry_ids": [
+        "cn-unauthorized-agency"
+      ],
+      "text": "无权代理"
     },
     {
       "code": "wu quan fen li",
@@ -13057,6 +13553,13 @@
         "tw-judicial-9ffede58d2f9fd80c510"
       ],
       "text": "误写"
+    },
+    {
+      "code": "wu yin guan li",
+      "entry_ids": [
+        "cn-management-without-mandate"
+      ],
+      "text": "无因管理"
     },
     {
       "code": "wu yuan zhi",
@@ -13206,6 +13709,13 @@
       "text": "县长"
     },
     {
+      "code": "xian zhi min shi xing wei neng li",
+      "entry_ids": [
+        "cn-limited-capacity"
+      ],
+      "text": "限制民事行为能力"
+    },
+    {
       "code": "xian zhi qian shui ren huo qian shui ying li shi ye fu ze ren chu jing ban fa",
       "entry_ids": [
         "tw-judicial-3065ffe6fce6bcd39224"
@@ -13261,6 +13771,13 @@
         "tw-tipo-trademark-709179ab7d69d3b888ab"
       ],
       "text": "相关购买人"
+    },
+    {
+      "code": "xiang guan shi chang",
+      "entry_ids": [
+        "cn-relevant-market"
+      ],
+      "text": "相关市场"
     },
     {
       "code": "xiang guan xiao fei da zhong",
@@ -13382,6 +13899,13 @@
       "text": "协定条款"
     },
     {
+      "code": "xie po",
+      "entry_ids": [
+        "cn-duress"
+      ],
+      "text": "胁迫"
+    },
+    {
       "code": "xie yi li hun",
       "entry_ids": [
         "tw-judicial-81ef0270e7103644e9db"
@@ -13485,6 +14009,13 @@
         "tw-judicial-e457ba321876569405ff"
       ],
       "text": "新闻自由"
+    },
+    {
+      "code": "xin xi wang luo chuan bo quan",
+      "entry_ids": [
+        "cn-network-dissemination"
+      ],
+      "text": "信息网络传播权"
     },
     {
       "code": "xin yong he zuo she",
@@ -14265,11 +14796,32 @@
       "text": "药物药商管理法"
     },
     {
+      "code": "yao yue",
+      "entry_ids": [
+        "cn-offer"
+      ],
+      "text": "要约"
+    },
+    {
+      "code": "yao yue yao qing",
+      "entry_ids": [
+        "cn-invitation-to-offer"
+      ],
+      "text": "要约邀请"
+    },
+    {
       "code": "ye sheng dong wu bao yu fa",
       "entry_ids": [
         "tw-judicial-d67ed7bc21f124eb7dd5"
       ],
       "text": "野生动物保育法"
+    },
+    {
+      "code": "yi ban bao zheng",
+      "entry_ids": [
+        "cn-general-guarantee"
+      ],
+      "text": "一般保证"
     },
     {
       "code": "yi ban fei bang",
@@ -14295,6 +14847,7 @@
     {
       "code": "yi chan",
       "entry_ids": [
+        "cn-estate",
         "tw-judicial-71372bab5c5d36694394"
       ],
       "text": "遗产"
@@ -14689,6 +15242,7 @@
     {
       "code": "yin si quan",
       "entry_ids": [
+        "cn-privacy-right",
         "tw-judicial-f51b19a8aa715d7aa0a0"
       ],
       "text": "隐私权"
@@ -14748,6 +15302,13 @@
         "tw-judicial-588d809d3b3db41356b4"
       ],
       "text": "应考人申请复查考试成绩处理办法"
+    },
+    {
+      "code": "ying li fa ren",
+      "entry_ids": [
+        "cn-for-profit-legal-person"
+      ],
+      "text": "营利法人"
     },
     {
       "code": "ying li shi ye suo de shui",
@@ -14899,6 +15460,7 @@
     {
       "code": "yong yi wu quan",
       "entry_ids": [
+        "cn-usufructuary-right",
         "tw-judicial-5b646c403552bd9185c8"
       ],
       "text": "用益物权"
@@ -15028,6 +15590,13 @@
         "tw-judicial-a5b0b35de68a7701fbf6"
       ],
       "text": "优先受偿权"
+    },
+    {
+      "code": "you xian ze ren gong si",
+      "entry_ids": [
+        "cn-limited-liability-company"
+      ],
+      "text": "有限责任公司"
     },
     {
       "code": "you xiao",
@@ -15486,6 +16055,13 @@
       "text": "诈骗工具"
     },
     {
+      "code": "zhai quan",
+      "entry_ids": [
+        "cn-claim-right"
+      ],
+      "text": "债权"
+    },
+    {
       "code": "zhai quan ping deng",
       "entry_ids": [
         "tw-judicial-923fc16a71c0eb5194aa"
@@ -15507,6 +16083,13 @@
       "text": "债权人的权利"
     },
     {
+      "code": "zhai quan zhuan rang",
+      "entry_ids": [
+        "cn-assignment-claim"
+      ],
+      "text": "债权转让"
+    },
+    {
       "code": "zhai wu",
       "entry_ids": [
         "tw-judicial-4b51ea3c7fede88a7502"
@@ -15519,6 +16102,13 @@
         "tw-judicial-91c751d0798bea49e4a4"
       ],
       "text": "债务人"
+    },
+    {
+      "code": "zhai wu zhuan yi",
+      "entry_ids": [
+        "cn-transfer-debt"
+      ],
+      "text": "债务转移"
     },
     {
       "code": "zhan sheng ju jue zhu ce shi you",
@@ -16205,6 +16795,13 @@
       "text": "重大明显瑕疵"
     },
     {
+      "code": "zhong da wu jie",
+      "entry_ids": [
+        "cn-material-mistake"
+      ],
+      "text": "重大误解"
+    },
+    {
       "code": "zhong hua min guo ling hai ji lin jie qu fa",
       "entry_ids": [
         "tw-judicial-b3d3c6483b8ef8cc7e78"
@@ -16280,6 +16877,13 @@
         "tw-judicial-17e5795d3aeda3baa494"
       ],
       "text": "终审法院"
+    },
+    {
+      "code": "zhong shi yi wu",
+      "entry_ids": [
+        "cn-duty-loyalty"
+      ],
+      "text": "忠实义务"
     },
     {
       "code": "zhong xiao qi ye fa zhan tiao li",
@@ -16434,6 +17038,13 @@
         "tw-tipo-trademark-d13e3da59cf693212551"
       ],
       "text": "注册证"
+    },
+    {
+      "code": "zhu ce zi ben",
+      "entry_ids": [
+        "cn-registered-capital"
+      ],
+      "text": "注册资本"
     },
     {
       "code": "zhu guan di zheng ji guan",
@@ -16625,6 +17236,13 @@
         "tw-tipo-trademark-ac8bb5a808bf4e50c489"
       ],
       "text": "主要注册簿"
+    },
+    {
+      "code": "zhu zuo quan",
+      "entry_ids": [
+        "cn-copyright"
+      ],
+      "text": "著作权"
     },
     {
       "code": "zhu zuo quan fa",
@@ -16824,6 +17442,13 @@
       "text": "自动电子报到区"
     },
     {
+      "code": "zi dong hua jue ce",
+      "entry_ids": [
+        "cn-automated-decision"
+      ],
+      "text": "自动化决策"
+    },
+    {
       "code": "zi dong jiao na",
       "entry_ids": [
         "tw-judicial-b403919da5795f13cec2"
@@ -16878,6 +17503,13 @@
         "tw-judicial-f5ecac28947775e210da"
       ],
       "text": "资遣"
+    },
+    {
+      "code": "zi ran ren",
+      "entry_ids": [
+        "cn-natural-person"
+      ],
+      "text": "自然人"
     },
     {
       "code": "zi ran si wang",
@@ -17172,6 +17804,13 @@
         "tw-judicial-388342ca3ca078984ed1"
       ],
       "text": "佐理员"
+    },
+    {
+      "code": "zuo pin",
+      "entry_ids": [
+        "cn-copyright-work"
+      ],
+      "text": "作品"
     },
     {
       "code": "zuo wei yi wu",

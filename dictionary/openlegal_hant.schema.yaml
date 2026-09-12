@@ -2,7 +2,7 @@
 schema:
   schema_id: openlegal_hant
   name: 法律词汇（hant）
-  version: "0.1.0.dev1"
+  version: "0.1.0.dev2"
 engine:
   processors: [speller, selector, navigator, express_editor]
   segmentors: [abc_segmentor]

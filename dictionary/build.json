@@ -1,32 +1,36 @@
 {
   "annotations_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
   "builder_sha256": {
-    "src/openlegallexicon/__init__.py": "5b138d1a7bf6d00e2a764967cf785697490356c23e9359d5c7452634788d7c3f",
+    "src/openlegallexicon/__init__.py": "ee2ff5208668dec4afdfc57c91c04bd586fa3e3bf88838ae0056566b24554676",
     "src/openlegallexicon/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
-    "src/openlegallexicon/cli.py": "8e3baa0280a85cf08409181a7f53e923e80bd304ac18ce4afd1db4d7695d27c3",
-    "src/openlegallexicon/export.py": "781c3d9cf9f7b7b91349097d2aaea6b9b17af8bfc178019a75e0740d5a7c4cae",
+    "src/openlegallexicon/cli.py": "61a8cf6609efd02975bd0714ce71c32bea6a1e4b8cc48ddc8089e4dfa58a5a9a",
+    "src/openlegallexicon/evidence.py": "219ed5d542b47d5eb63166b62e66f310f4670f0bf7b7091b9ab47cad405f5f89",
+    "src/openlegallexicon/export.py": "5ca69dc4c0975e7c89ccb6fe76a8902c143c7f8769c7ecf5f29fb1077962fab2",
     "src/openlegallexicon/ingest.py": "5a00f0202fb1ae853439c2bcd337112968b75efc2d589f132cf84438204138df",
     "src/openlegallexicon/io.py": "501ad3937c5dc8e4d7cf8f6fbbc4937fa4470d58a2cddd2de142edc8ed91ac3a",
-    "src/openlegallexicon/model.py": "f6db601284b7605ce4910d97711f83a0fd229b7e947171fc250b7202597a63ef",
-    "src/openlegallexicon/validate.py": "071ce085f4d4ed91d6a244ed262151787a1edc39378818807be003c18ea7d25d"
+    "src/openlegallexicon/model.py": "6b47f12424e8269eb2aff2a293be6a543ea4f882544471bab42328e4084b3d85",
+    "src/openlegallexicon/validate.py": "dfbeddee24cd1867b2b98accb71f9ee9190933750e75211708821f4bce10c1bb"
   },
+  "evidence_sha256": "1a25fe6b5cee7ff3a830b91abb1360f1273cb7274d65b4fbae6837f4fd8c63a9",
   "filters": {
     "domain": null,
     "jurisdiction": null,
     "origin": null
   },
   "input_snapshots": {
+    "data/snapshots/oll-cn-core-2026-09-12.jsonl": "5789b294b869846169b4b3ea10ff7c398641927991bfea61b4856da69210e3db",
     "data/snapshots/tw-judicial-2026-09-11.jsonl": "bcab3aa601a2c0be0f86ec7864879b80fef332005f1ab0835927aef84613aae8",
     "data/snapshots/tw-tipo-trademark-2026-09-11.jsonl": "542932dd07a569c96c0a0b818edfa911b810e15b4e9eecc6135211f7590cebfe"
   },
-  "schema_version": "1.0.0",
-  "source_registry_sha256": "1979af2d873e677b794c76f46408cdd1f9310ce855b82cb68c8f2dda51e05974",
+  "schema_version": "1.1.0",
+  "source_registry_sha256": "97d6784970aa21a3ef23215c78800e1e49ba5db1e49584c434cc553da2df2f43",
   "statistics": {
-    "english_completions": 2504,
-    "entries": 2725,
-    "rime_hans_rows": 2410,
-    "rime_hant_rows": 2410,
-    "study_notes": 5450
+    "core_study_entries": 99,
+    "english_completions": 2599,
+    "entries": 2824,
+    "rime_hans_rows": 2500,
+    "rime_hant_rows": 2500,
+    "study_notes": 5648
   },
-  "tool_version": "0.1.0.dev1"
+  "tool_version": "0.1.0.dev2"
 }

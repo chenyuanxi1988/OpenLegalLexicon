@@ -9,6 +9,8 @@ absolute ground
 abuse of parental rights
 academic freedom
 academic performance review
+accelerated payment of subscribed capital
+acceptance of an offer
 accessory contract
 Accountant- General
 Accountant-General
@@ -70,6 +72,7 @@ action
 action for retrial
 actual
 actual confusion
+actual controller
 actual date
 actual use of a mark in commerce
 Additional Budget
@@ -124,10 +127,12 @@ affidavit
 affirmative defense
 Affirmed Appeals Rate
 Affirmed Rulings Rate
+agency
 agency in charge of land administration
 agent ad litem
 Agent ad litem of applicant
 Agent ad litem of opposite party
+agreed damages for breach
 AGREEMENT ON TRADE-RELATED ASPECTS OF INTELLECTUAL PROPERTY RIGHTS
 agreement provisions
 Agricultural Development Act
@@ -160,12 +165,14 @@ Annual Expenditures
 annual expense
 Annual Leave
 Annual Revenue
+anonymization
 anonymous balloting
 antecedent and subsequent parties to transaction
 Anti-Corruption Act
 Anti-Corruption Program
 anti-dilution statutes
 Anticybersquatting Consumer Protection Act
+apparent agency
 apparent error in law / clearly erroneous in the application of law
 appeal
 appeal court
@@ -195,6 +202,7 @@ Armed Forces Trial Act
 arrange a refund
 arrest
 arrest and detain
+articles of association
 articles of incorporation
 Assembly and Parade Act
 Assertions of Use in Commerce
@@ -202,6 +210,7 @@ assessed value of house
 assessment by imputation
 assignee
 assignment
+assignment of a claim
 Assistant
 Assistant Clerk
 Assistant Systems Designer
@@ -228,6 +237,7 @@ Auditorium
 authentication
 authority
 Automated Check-in Assistance Area
+automated decision-making
 Automated Self Check-in Area
 Automated Self Check-in Kiosk
 autonomous right to internal organization
@@ -297,9 +307,11 @@ Cable Radio and Television Act
 CAFC
 campaigning for re-election
 cancel
+capacity for civil rights
 capacity to be a party
 capacity to ligigate
 capital
+capital contribution
 capital gain tax for securities
 capital surplus
 carriage contract
@@ -376,6 +388,7 @@ Civil Court Room 1
 Civil Department
 Civil Execution Department
 Civil Issues Coordination Room
+civil juristic act
 civil litigation
 Civil Recording Section
 Civil Servants Election And Recall Act
@@ -413,6 +426,7 @@ commercial impression
 Commercial Investigation Officer
 commercial speech
 commissioned prosecutor
+commissioned work
 Commissioner
 commissioner
 commodity
@@ -451,6 +465,7 @@ Computer Operator
 Computer Systems Analyst
 Computer Systems Designer
 Computer Systems Engineer
+concentration of business operators
 concurrent serving
 concurrent use
 concurrent use agreement
@@ -470,6 +485,7 @@ confusion
 congressperson
 conscription
 Conscription Regulations
+consent to personal information processing
 conservator
 consist of
 consolidated income tax
@@ -495,18 +511,22 @@ content
 context
 continuation
 continuous offenses
+contract
 Contract-based Employee
 Contracted Healthcare Providers
 contradict
 contributed property
 Control Yuan
 Controlling Guns, Ammunition and Knives Act
+controlling shareholder
 Convenience Shop
 converse
 Cooperatives Act
 Coordinating Council for Victims of Domestic Violence
 Copy Room
+copyright
 Copyright Act
+copyright work
 corporation
 corporation limited by shares
 correct tax voucher system
@@ -578,6 +598,7 @@ Data Section
 De Facto Function
 De Jure Function
 DE NOVO TRIAL
+de-identification
 dealer
 death penalty
 debt
@@ -692,6 +713,7 @@ domestic violence
 domestic violence cases
 Domestic Violence Prevention Act
 domicile
+dominant market position
 double jeopardy
 double punishment
 Drafting Legal Documents
@@ -711,15 +733,20 @@ due process of law
 duplicate
 duplicate copy
 duration
+duress
 during prosecution of the application up
 Duty Assessment Committee
 Duty Assessment Reappeal Committee of the Judicial Yuan
 Duty Assessment Review Committee of the Judicial Yuan
 duty free export processing zones
+duty of diligence
+duty of loyalty
 duty of tax payment
 duty of trial or prosecution
 duty to give reasons
 duty-paying value
+earnest money securing performance
+easement
 ECJ
 Education Act for Indigenous Peoples
 effect in public law
@@ -779,6 +806,7 @@ entitle
 entitlement
 entitlement foreclosure
 entity
+entrusted processing of personal information
 equal protection of law
 equal protection principle
 equality of claims
@@ -788,6 +816,7 @@ escutcheon
 establishing entitlement under a Treaty
 establishment
 Estate and Gift Tax Act
+estate of a deceased person
 estate of inheritance
 Estate Tax Act
 estimated income
@@ -853,6 +882,7 @@ family of marks
 fanciful or coined mark
 Farmers Association
 Farmers Health Insurance Act
+fault-based tort liability
 feasible
 features
 Federal Trademark Dilution Act
@@ -890,6 +920,7 @@ flexibility of budget execution
 Food Administration Act
 for the Protection of Industrial Property of 1883
 for Trade-Mark and Commercial Protection and certain other agreements
+for-profit legal person
 force
 force majeure
 forced labor
@@ -898,6 +929,7 @@ foreign certificate of registration
 Foreign Exchange Regulation Act
 foreign registration
 Foreign Trade Act
+forfeiture of equity for unpaid contribution
 forged identity
 forged stamp
 form
@@ -911,6 +943,7 @@ Fourth Section
 framework
 framing
 franchise
+fraud inducing a civil juristic act
 freedom
 freedom of association
 freedom of choice
@@ -937,6 +970,7 @@ Fuchien Lienchiang District Court
 Fuchien Lienchiang District Court Lienchiang Summary Court
 Fukien Province
 fulfillment of the prescription
+full capacity for civil juristic acts
 full name
 function
 functionality doctrine
@@ -947,6 +981,7 @@ Garage
 Gazetteer
 General Affairs Section
 general authorization
+general guarantee
 General Inter-American Convention
 general law
 general public
@@ -987,6 +1022,7 @@ graphical representation
 gravamen
 ground
 guarantee
+guarantee contract
 guaranteed obligation
 guarantor
 guaranty agreement
@@ -1125,6 +1161,7 @@ Interpreter
 Interpreter, recording, and passing the documents/evidence
 Interrogation Room
 Interrogation Seat
+interruption of the limitation period
 interstate
 interstate commerce
 Intervention
@@ -1133,6 +1170,7 @@ Invalidity
 investigation
 Investigation and Probation Office
 investigation power
+invitation to offer
 involuntary retirement
 involve
 Ionizing Radiation Protection Act
@@ -1146,10 +1184,13 @@ It is not binding upon the TIPO
 J.Y. Interpretation
 Janitor
 joint
+joint and several guarantee
+joint marital debt
 joint owners
 Joint Proceedings
 joint relationship
 Joint Service Center
+joint stock company
 joint tax return
 Judge
 judge
@@ -1219,6 +1260,7 @@ Labor Mediation Room
 Labor Safety and Health Act
 Labor Standards Act
 Labor Union Act
+lack of capacity for civil juristic acts
 Ladies Restroom
 Land Act
 Land Administration Agent Act
@@ -1246,8 +1288,10 @@ leased farm land
 Leave for Statutory Reasons
 Legal Budget
 legal duty to act
+legal person
 legal procedure
 legal remedy
+legal representative of a legal person
 legal review
 Legal Service Section
 legal support obligation
@@ -1270,6 +1314,7 @@ legitimate son
 Leistungsverwaltung
 less-well-known
 lexi fori
+liability for breach of contract
 libel
 Library
 Library of the Justices of the Constitutional Court
@@ -1283,7 +1328,10 @@ Lights Maintenance
 likelihood of confusion
 likelihood of dilution
 limitation period
+limitation period for civil claims
 limitation period of prosecution
+limited capacity for civil juristic acts
+limited liability company
 Lining or stippling
 liquidation proceedings
 liquidator
@@ -1315,7 +1363,9 @@ Mail Room
 Mail Room of the Judicial Yuan
 Maintenance Worker
 malicious accusation
+malicious collusion
 malicious prosecution
+management of another's affairs without mandate
 manager
 mandatory death penalty
 manifest
@@ -1333,6 +1383,7 @@ Martial Law
 Massnahmegesetz
 material
 material alteration
+material mistake
 material objects as evidence
 matrimonial cohabitation
 meaning
@@ -1381,10 +1432,12 @@ mitigate damages
 monetary payment
 Money Laundering Control Act
 monogamy
+monopoly agreement
 Monthly Retirement Payment
 monthly salary
 moral conviction
 mortgage
+mortgage right
 mortgaged property
 mortgagee
 mortgagor
@@ -1416,6 +1469,7 @@ National Sports Act
 National Treasury
 Natur der Sache
 natural death
+natural person
 Navy Uniforms Act
 necessary measures
 negative construction
@@ -1428,6 +1482,7 @@ New Taiwan Dollar
 New Town Development Act
 Newly Lodged
 nickname
+no-fault tort liability
 nomination
 non-administrative act
 non-appealable
@@ -1435,6 +1490,7 @@ non-generic term
 non-gratuitous principle
 non-operating income
 Non-partisan
+non-profit legal person
 non-prosecutorial disposition
 non-use period
 nonuse for three consecutive years
@@ -1449,6 +1505,7 @@ Notice of Allowance
 notice of lodgment
 Notice on Encouragement of Investment to Build Retailers Market in Taipei City
 notification
+notification of a concentration
 Nuclear Reactor Facilities Regulation Act
 Nursery Room
 Oath Act
@@ -1459,6 +1516,7 @@ Observation and Identification Room
 observations
 offender of abstract danger
 offenses against internal and external security
+offer
 office action
 Office for Harmonisation in the Internal Market
 office of hsiang, township, city, or precinct
@@ -1576,10 +1634,14 @@ period of martial law
 Period of National Mobilization in Suppression of Communist Rebellion
 periodical re-election
 permission
+permitted use under statutory copyright limitations
 person injured by an act of offense
 person liable to penalty
 personal dignity
 personal freedom
+personal information
+personal information handler
+personal information protection impact assessment
 Personal Property Secured Transactions Act
 personal rights
 Personnel Management
@@ -1608,6 +1670,7 @@ plaintiff
 Plaintiff and Agent ad litem
 Plant Protection and Quarantine Act
 Plant Variety and Seed Act
+pledge over movables
 POA
 polaroid factors
 Police Act
@@ -1627,6 +1690,8 @@ power of rule making
 power to execute punishment
 power to issue orders regarding prosecutorial matters
 power to prosecute
+pre-contractual liability
+pre-emptive right to purchase transferred equity
 Precautionary Matters on Handling Civil Procedure
 Precautionary Matters on Handling Compulsory Enforcement
 Precautionary Matters on Handling Compulsory Execution
@@ -1829,6 +1894,7 @@ refundable
 refusal
 refuse
 Regional Plan Act
+registered capital
 registered estate
 registered trademark
 registrant
@@ -1899,6 +1965,7 @@ relationship of lifetime association
 relative ground
 Release on Bond, to the Custody of Another
 relevant
+relevant market
 relevant party
 relevant purchaser
 relevant purchasing public
@@ -1940,24 +2007,38 @@ revocation
 revocation of registration
 revocation of the probation
 right of access to the media
+right of adaptation
 right of an individual to select one's own name
 right of appeal
+right of attribution
+right of communication through information networks
 right of dien
+right of distribution
 right of equality
 right of exclusion
 right of first refusal
+right of habitation
 right of holding public offices
 right of inheritance
 right of initiative
 right of instituting legal proceedings
 right of privacy
 right of recall
+right of reproduction
+right of retention
+right of translation
 right of work
+right to claim performance
 right to confront with the witness
+right to erasure of personal information
+right to integrity of a work
 right to life
+right to privacy
 Right to property
+right to rectification of personal information
 right to redeem
 right to repossession
+right to reputation
 right to the benefit of justice
 right to the estate
 right to the exclusive use of trademark
@@ -2009,6 +2090,7 @@ securities transaction tax
 security
 Security Guard
 security interest
+security right in property
 sedition
 seized properties
 seizure
@@ -2020,9 +2102,11 @@ self-government
 self-realization
 self-responsible mechanism
 Senior Executive Officer
+senior management personnel
 Senior Secretary
 Senior Systems Coordinator
 seniority
+sensitive personal information
 separate property
 separating employee
 separation of powers
@@ -2095,6 +2179,7 @@ Stamp Tax Act
 Standard Forms for Payment of Labor Insurance Medical Coverage
 Standard Land Value Determination Committee
 standard of working condition
+standard terms
 standards of emission
 State Compensation
 State Compensation Law
@@ -2115,6 +2200,7 @@ Statute of Privatization of Government-Owned Enterprises
 statutory duty
 statutory peremptory period
 statutory period
+statutory set-off
 statutory successor
 stay
 Stenographer
@@ -2162,6 +2248,7 @@ suspense of application
 suspension from practice
 suspension of duty
 suspension of issuing notice of tax payment
+suspension of the limitation period
 swear oath
 Systems Analyst
 Systems Coordinator
@@ -2390,6 +2477,7 @@ Traitors Punishment Act
 Transaction for Supervising Government Ethics of the Ministry of Justice
 Transfer
 transfer among different personnel systems
+transfer of a debt
 transparency
 transshipment manifest
 treason
@@ -2411,6 +2499,7 @@ U. S. Congress
 U.S. Court of Appeals for the Federal Circuit
 U.S. Supreme Court
 U.S.C.
+unauthorized agency
 unauthorized possession
 unbearable mistreatment incohabitation
 unconstitutional
@@ -2422,6 +2511,7 @@ uniform interpretation
 uniform invoice
 Uniform Punishment Standards for Handling the Matters of Violating Road Traffic Regulations
 unilateral administrative action
+unincorporated organization
 unions
 Unit Budget
 Unit Chief
@@ -2432,6 +2522,7 @@ United States Patent and Trademark Office
 United States Patent Quarterly
 University Act
 university self-government
+unjust enrichment
 unjust enrichment in public law
 unlawful complaint
 unlisted companies
@@ -2448,6 +2539,7 @@ Use Based Refusals
 USPQ
 USPTO
 usufruct
+usufructuary right
 utilitarian
 utilitarian function
 valid
@@ -2489,6 +2581,7 @@ willful abandonment
 WIPO
 withdraw
 withdraw an opposition
+withdrawal of consent
 withholding at source
 without valid reasons
 witness
@@ -2497,8 +2590,10 @@ Witness Lounge
 Witness Protection Act
 World Intellectual Property Organization
 writ of detention
+written call for capital contribution
 written consent
 written document
+written form
 written notice
 written request
 wrongful imprisonment
