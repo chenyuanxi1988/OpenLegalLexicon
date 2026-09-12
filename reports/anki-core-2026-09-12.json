@@ -1,0 +1,11 @@
+{
+  "all_fields_and_tags_match": true,
+  "engine": "Anki",
+  "file": "anki_core.tsv",
+  "first_import_cards": 198,
+  "first_import_notes": 198,
+  "isolated_collection": true,
+  "second_import_cards": 198,
+  "second_import_notes": 198,
+  "version": "26.8.1"
+}

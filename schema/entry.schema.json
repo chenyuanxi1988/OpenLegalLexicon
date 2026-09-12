@@ -3,7 +3,7 @@
   "additionalProperties": false,
   "properties": {
     "schema_version": {
-      "const": "1.0.0"
+      "const": "1.1.0"
     },
     "id": {
       "type": "string",
@@ -312,7 +312,8 @@
         "translation": {
           "enum": [
             "source_attributed",
-            "editorial_checked"
+            "editorial_checked",
+            "project_authored"
           ]
         },
         "editor": {
@@ -355,8 +356,58 @@
       "enum": [
         "source_attributed",
         "editorial_checked",
-        "quarantined"
+        "quarantined",
+        "evidence_linked"
       ]
+    },
+    "definition_zh": {
+      "type": "string",
+      "pattern": "^[^\\x00-\\x1f\\x7f]*$"
+    },
+    "translation_note": {
+      "type": "string",
+      "pattern": "^[^\\x00-\\x1f\\x7f]*$"
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "document_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]+$"
+          },
+          "articles": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "uniqueItems": true,
+            "minItems": 1
+          },
+          "supports": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "definition_zh",
+                "jurisdictions",
+                "learning_note",
+                "relations"
+              ]
+            },
+            "uniqueItems": true,
+            "minItems": 1
+          }
+        },
+        "required": [
+          "document_id",
+          "articles",
+          "supports"
+        ]
+      },
+      "uniqueItems": true
     }
   },
   "required": [
@@ -381,7 +432,10 @@
     "license",
     "review",
     "flags",
-    "status"
+    "status",
+    "definition_zh",
+    "translation_note",
+    "evidence"
   ],
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/chenyuanxi1988/OpenLegalLexicon/schema/entry.schema.json"

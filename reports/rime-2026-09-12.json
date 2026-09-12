@@ -1,0 +1,69 @@
+{
+  "engine": "librime",
+  "isolated_profile": true,
+  "tests": [
+    {
+      "expected": "行政处分",
+      "keys": "xingzhengchufen",
+      "output": "candidate: 行政处分\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hans"
+    },
+    {
+      "expected": "行政處分",
+      "keys": "xingzhengchufen",
+      "output": "candidate: 行政處分\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hant"
+    },
+    {
+      "expected": "律师",
+      "keys": "lvshi",
+      "output": "candidate: 律师\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hans"
+    },
+    {
+      "expected": "律師",
+      "keys": "lvshi",
+      "output": "candidate: 律師\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hant"
+    },
+    {
+      "expected": "银行法",
+      "keys": "yin'hang'fa",
+      "output": "candidate: 银行法\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hans"
+    },
+    {
+      "expected": "会计法",
+      "keys": "kuai'ji'fa",
+      "output": "candidate: 会计法\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hans"
+    },
+    {
+      "expected": "重复处罚",
+      "keys": "chongfuchufa",
+      "output": "candidate: 重复处罚\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hans"
+    },
+    {
+      "expected": "匿名化",
+      "keys": "niminghua",
+      "output": "candidate: 匿名化\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hans"
+    },
+    {
+      "expected": "個人信息處理者",
+      "keys": "ge'ren'xin'xi'chu'li'zhe",
+      "output": "candidate: 個人信息處理者\ncandidate: 個人信息\nlibrime: 1.11.2",
+      "passed": true,
+      "schema": "openlegal_hant"
+    }
+  ]
+}

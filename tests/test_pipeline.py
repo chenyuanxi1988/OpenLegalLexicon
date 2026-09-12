@@ -26,9 +26,13 @@ class PipelineTests(unittest.TestCase):
         cls.entries, cls.sources = load_entries(ROOT)
 
     def test_entire_snapshot_is_accounted_for(self):
-        self.assertEqual(sum(s['expected_records'] for s in self.sources),2734)
-        self.assertEqual(len(self.entries),2730)
-        self.assertEqual(sum(len(e['references']) for e in self.entries),2734)
+        original_sources=[s for s in self.sources if s.get('format')!='editorial_seed']
+        original_entries=[e for e in self.entries if e['status']=='source_attributed']
+        self.assertEqual(sum(s['expected_records'] for s in original_sources),2734)
+        self.assertEqual(len(original_entries),2730)
+        self.assertEqual(sum(len(e['references']) for e in original_entries),2734)
+        authored=[e for e in self.entries if e['status']=='evidence_linked']
+        self.assertEqual(len(authored),next(s['expected_records'] for s in self.sources if s['id']=='oll-cn-core'))
         self.assertEqual(validate_sources(ROOT),[])
         self.assertEqual(validate_entries(self.entries,self.sources,ROOT),[])
 
@@ -50,6 +54,40 @@ class PipelineTests(unittest.TestCase):
         self.assertTrue(select(self.entries,query='律师'))
         self.assertTrue(select(self.entries,query='律師'))
 
+    def test_learning_profile_is_evidence_linked_and_keeps_jurisdiction(self):
+        core=select(self.entries,profile='learning',jurisdiction='CN')
+        self.assertEqual(len(core),99)
+        self.assertTrue(all(e['definition_zh'] and e['evidence'] and e['learning_note'] for e in core))
+        self.assertTrue(all(e['review']['translation']=='project_authored' for e in core))
+        self.assertEqual(select(core,jurisdiction='TW'),[])
+        personal=next(e for e in core if e['id']=='cn-information-handler')
+        self.assertIn('processor',personal['translation_note'])
+        self.assertEqual(personal['evidence'][0]['articles'],[73])
+
+    def test_evidence_rejects_missing_article_and_wrong_jurisdiction(self):
+        entries=copy.deepcopy(self.entries)
+        e=next(e for e in entries if e['id']=='cn-anonymization')
+        e['evidence'][0]['articles']=[99999]
+        e['jurisdictions']=['HK']
+        errors=validate_entries(entries,self.sources,ROOT)
+        self.assertTrue(any('evidence article not found' in x for x in errors))
+        self.assertTrue(any('jurisdiction lacks' in x for x in errors))
+
+    def test_evidence_rejects_claimed_definition_without_provenance(self):
+        e=copy.deepcopy(next(e for e in self.entries if e['status']=='source_attributed'))
+        e['definition_zh']='A definition with no cited evidence'
+        self.assertTrue(any('definition_zh lacks' in x for x in validate_entries([e],self.sources,ROOT)))
+
+    def test_evidence_text_tampering_fails_hash(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);(root/'data/evidence').mkdir(parents=True);(root/'schema').mkdir()
+            for name in ['entry.schema.json','evidence.schema.json']:
+                (root/'schema'/name).write_bytes((ROOT/'schema'/name).read_bytes())
+            docs=read_json(ROOT/'data/evidence/laws.json')
+            docs[0]['articles'][0]['text']+=' tampered'
+            (root/'data/evidence/laws.json').write_text(json.dumps(docs))
+            self.assertTrue(any('hash mismatch' in x for x in validate_entries(self.entries,self.sources,root)))
+
     def test_legal_phrase_boundaries(self):
         self.assertEqual(reading('视同行政处分')['rime'],'shi tong xing zheng chu fen')
         self.assertIn('xing2 wei2',reading('一行为重复处罚')['tone_numbers'])
@@ -69,20 +107,23 @@ class PipelineTests(unittest.TestCase):
         self.assertTrue(validate_entries([e],self.sources,ROOT))
 
     def test_duplicates_licenses_and_dangling_relations(self):
-        e=copy.deepcopy(self.entries[0]);e['license']='CC-BY-4.0'
+        e=copy.deepcopy(next(e for e in self.entries if e['status']=='source_attributed'));e['license']='CC-BY-4.0'
         e['relations']=[{'type':'related','target':'missing-record','evidence':'test fixture'}]
         errors=validate_entries([e,e],self.sources,ROOT)
         for message in ['duplicate ID','license mismatch','dangling']:
             self.assertTrue(any(message in x for x in errors),message)
 
     def test_jurisdiction_requires_evidence(self):
-        e=copy.deepcopy(self.entries[0]);e['jurisdictions']=['CN']
+        e=copy.deepcopy(next(e for e in self.entries if e['status']=='source_attributed'));e['jurisdictions']=['CN']
         self.assertTrue(any('jurisdiction' in x for x in validate_entries([e],self.sources,ROOT)))
 
     def test_invalid_pinyin_alignment(self):
         e=copy.deepcopy(next(e for e in self.entries if e['pronunciation']))
         e['pronunciation']['rime']='wrong'
         self.assertTrue(any('syllables' in x for x in validate_entries([e],self.sources,ROOT)))
+        e=copy.deepcopy(next(e for e in self.entries if e['id']=='cn-anonymization'))
+        e['pronunciation']['rime']='ni ming shu'
+        self.assertTrue(any('disagrees' in x for x in validate_entries([e],self.sources,ROOT)))
 
     def test_quarantine_exclusion(self):
         e=copy.deepcopy(self.entries[0]);e['status']='quarantined'
@@ -130,6 +171,13 @@ class PipelineTests(unittest.TestCase):
             first=read_json(paths[0]/'SHA256SUMS.json')
             self.assertEqual(first,read_json(paths[1]/'SHA256SUMS.json'))
             for filename,expected in first.items():self.assertEqual(digest(paths[0]/filename),expected)
+            with (paths[0]/'legal_dictionary_core.csv').open(encoding='utf-8-sig') as stream:
+                core=list(csv.DictReader(stream))
+            self.assertEqual(len(core),99)
+            self.assertTrue(all(row['中文释义'] and 'https://' in row['法律依据'] for row in core))
+            cards=list(csv.reader(io.StringIO('\n'.join(line for line in (paths[0]/'anki_core.tsv').read_text().splitlines() if not line.startswith('#'))),delimiter='\t'))
+            self.assertEqual(len(cards),198)
+            self.assertTrue(all('review::project_authored' in row[6] and 'https://' in row[5] and row[4] for row in cards))
             ids={e['id'] for e in self.entries}
             for suffix in ['hans','hant']:
                 text=(paths[0]/f'openlegal_{suffix}.dict.yaml').read_text()

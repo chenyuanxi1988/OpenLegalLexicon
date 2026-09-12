@@ -37,5 +37,25 @@
     "snapshot_sha256": "542932dd07a569c96c0a0b818edfa911b810e15b4e9eecc6135211f7590cebfe",
     "title": "商標中英文詞彙對照表",
     "url": "https://data.gov.tw/dataset/6437"
+  },
+  {
+    "id": "oll-cn-core",
+    "title": "OpenLegalLexicon 中国大陆核心术语释义（首批）",
+    "provider": "OpenLegalLexicon contributors（Codex 辅助编写）",
+    "origin": "INTERNATIONAL",
+    "format": "editorial_seed",
+    "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_evidence_url": "https://github.com/chenyuanxi1988/OpenLegalLexicon/blob/main/DATA_LICENSE.md",
+    "redistribution": "permitted",
+    "attribution": "OpenLegalLexicon contributors：有法条证据的原创中文释义、学习提示和英文释译；CC BY 4.0。",
+    "snapshot": "data/snapshots/oll-cn-core-2026-09-12.jsonl",
+    "snapshot_sha256": "5789b294b869846169b4b3ea10ff7c398641927991bfea61b4856da69210e3db",
+    "retrieved": "2026-09-12",
+    "expected_records": 99,
+    "pages": 1,
+    "scope": "中国大陆法律学习用语；依据明确版本法条，英文为项目释译。法条证据不构成官方译文或法律专家审核；来源地区 INTERNATIONAL 表示项目编写层，不代表国际法适用。",
+    "review": "AI-assisted source-linked editorial pass; no human expert review; versions pinned, ongoing legal validity not asserted"
   }
 ]

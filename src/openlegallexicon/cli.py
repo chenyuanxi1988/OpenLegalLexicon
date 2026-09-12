@@ -23,6 +23,7 @@ def parser():
     build = sub.add_parser('build', help='build an attributed offline distribution')
     build.add_argument('--out', type=Path, required=True)
     for child in [query,build]:
+        child.add_argument('--profile', choices=['reference','learning'], default='reference', help='learning: entries with definitions and legal evidence')
         child.add_argument('--domain', choices=DOMAINS)
         child.add_argument('--jurisdiction', choices=['CN','TW','HK','SG','US','UK','EU','INTERNATIONAL'])
         child.add_argument('--origin', choices=['CN','TW','HK','SG','US','UK','EU','INTERNATIONAL'])
@@ -56,7 +57,7 @@ def main(argv=None):
             else:
                 print(json.dumps(result,ensure_ascii=False,indent=2))
         else:
-            filters = {key:getattr(args,key,None) for key in ['domain','jurisdiction','origin']}
+            filters = {key:getattr(args,key,None) for key in ['domain','jurisdiction','origin','profile']}
             if args.command == 'build':
                 chosen = select(entries, **filters)
                 print(json.dumps(export_bundle(chosen,sources,args.root,args.out,filters),ensure_ascii=False))
@@ -69,6 +70,8 @@ def main(argv=None):
                 else:
                     for e in chosen[:args.limit]:
                         print(f"{e['forms']['zh_Hans']} / {e['forms']['zh_Hant']}\n  {e['forms']['en']}\n  来源地区 {e['source_origin']}；法域 {','.join(e['jurisdictions']) or '待核查'}；领域 {','.join(e['domains'])}\n  {e['id']}；{e['review']['translation']}")
+                        if e['definition_zh']:
+                            print(f"  释义：{e['definition_zh']}\n  提示：{e['learning_note']}\n  译法：{e['translation_note']}")
                     print(f'{len(chosen)} matches; showing {min(len(chosen),args.limit)}')
         return 0
     except (ValueError, OSError, KeyError, TypeError) as error:

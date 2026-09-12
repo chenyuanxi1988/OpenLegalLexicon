@@ -34,6 +34,7 @@ def main():
         link=[str(library),f'-Wl,-rpath,{library.parent}'] if library.is_file() else ['-l'+args.library]
         subprocess.run([compiler,'-I',str(args.include),str(source),*link,'-o',str(root/'smoke')],check=True,capture_output=True,text=True)
         checks=[('hans','xingzhengchufen','行政处分'),('hant','xingzhengchufen','行政處分'),('hans','lvshi','律师'),('hant','lvshi','律師'),('hans',"yin'hang'fa",'银行法'),('hans',"kuai'ji'fa",'会计法'),('hans','chongfuchufa','重复处罚')]
+        checks += [('hans','niminghua','匿名化'),('hant',"ge'ren'xin'xi'chu'li'zhe",'個人信息處理者')]
         results=[]
         for suffix,keys,expected in checks:
             result=subprocess.run([str(root/'smoke'),*dirs,str(root/'logs'),'openlegal_'+suffix,keys,expected],capture_output=True,text=True)

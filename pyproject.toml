@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "openlegallexicon"
-version = "0.1.0.dev1"
+version = "0.1.0.dev2"
 description = "Traceable Chinese–English legal terminology for study and input methods"
 requires-python = ">=3.10"
 license = {file = "LICENSE"}

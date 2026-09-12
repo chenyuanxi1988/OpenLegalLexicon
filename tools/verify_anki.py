@@ -13,8 +13,9 @@ from openlegallexicon.io import write_json
 
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--bundle',type=Path,required=True);p.add_argument('--out',type=Path);args=p.parse_args()
-    path=(args.bundle/'anki.tsv').resolve()
+    p=argparse.ArgumentParser();p.add_argument('--bundle',type=Path,required=True);p.add_argument('--out',type=Path)
+    p.add_argument('--file',choices=['anki.tsv','anki_core.tsv'],default='anki.tsv');args=p.parse_args()
+    path=(args.bundle/args.file).resolve()
     body='\n'.join(line for line in path.read_text().splitlines() if not line.startswith('#'))
     rows=list(csv.reader(io.StringIO(body),delimiter='\t'))
     expected={row[0]:row for row in rows}
@@ -49,7 +50,7 @@ def main():
                 row=expected[values[0]]
                 if values!=row[:6]:raise ValueError(f'field loss or incorrect mapping: {values[0]}')
                 if set(tags.split())!=set(row[6].split()):raise ValueError('lost source/domain tags')
-            report={'engine':'Anki','version':importlib.metadata.version('anki'),'isolated_collection':True,'first_import_notes':first_notes,'first_import_cards':first_cards,'second_import_notes':col.note_count(),'second_import_cards':col.card_count(),'all_fields_and_tags_match':True}
+            report={'engine':'Anki','version':importlib.metadata.version('anki'),'file':args.file,'isolated_collection':True,'first_import_notes':first_notes,'first_import_cards':first_cards,'second_import_notes':col.note_count(),'second_import_cards':col.card_count(),'all_fields_and_tags_match':True}
             if args.out:write_json(args.out,report)
             print(f'PASS: {first_notes} notes/cards; identical reimport count; every field and tag preserved')
         finally:col.close()

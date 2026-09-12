@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]+$"
+    },
+    "zh": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+    },
+    "en": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+    },
+    "domains": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "administrative",
+          "ai",
+          "civil",
+          "company",
+          "competition",
+          "constitutional",
+          "contracts",
+          "core",
+          "criminal",
+          "dispute_resolution",
+          "employment",
+          "family",
+          "finance",
+          "intellectual_property",
+          "m_and_a",
+          "privacy",
+          "property",
+          "tax",
+          "trade",
+          "unclassified"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 1
+    },
+    "kind": {
+      "enum": [
+        "term",
+        "statute",
+        "institution",
+        "role",
+        "document",
+        "action",
+        "abbreviation",
+        "unclassified"
+      ]
+    },
+    "definition_zh": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+    },
+    "learning_note": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+    },
+    "translation_note": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "document_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]+$"
+          },
+          "articles": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "uniqueItems": true,
+            "minItems": 1
+          },
+          "supports": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "definition_zh",
+                "jurisdictions",
+                "learning_note",
+                "relations"
+              ]
+            },
+            "uniqueItems": true,
+            "minItems": 1
+          }
+        },
+        "required": [
+          "document_id",
+          "articles",
+          "supports"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 1
+    },
+    "relations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "type": {
+            "enum": [
+              "related",
+              "contrast",
+              "abbreviation_of",
+              "replaced_by"
+            ]
+          },
+          "target": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]+$"
+          },
+          "evidence": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+          }
+        },
+        "required": [
+          "type",
+          "target",
+          "evidence"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 0
+    }
+  },
+  "required": [
+    "id",
+    "zh",
+    "en",
+    "domains",
+    "kind",
+    "definition_zh",
+    "learning_note",
+    "translation_note",
+    "evidence",
+    "relations"
+  ]
+}

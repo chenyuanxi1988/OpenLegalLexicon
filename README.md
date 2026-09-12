@@ -4,15 +4,16 @@
 
 Traceable Chinese–English legal terminology for study, search and input methods.
 
-**开发中：0.1.0.dev1。** 当前有可运行的数据管线和词库，尚未完成全领域、全法域覆盖与逐条法律译义复核。完成状态和续作入口见 [PROGRESS.md](PROGRESS.md)，每步记录见 [WORK_LOG.md](WORK_LOG.md)。
+**开发中：0.1.0.dev2。** 当前有可运行的数据管线和词库，尚未完成全领域、全法域覆盖与逐条法律译义复核。完成状态和续作入口见 [PROGRESS.md](PROGRESS.md)，每步记录见 [WORK_LOG.md](WORK_LOG.md)。
 
 ## 现在包含什么
 
 | 内容 | 当前结果 |
 | --- | --- |
 | 官方来源快照 | 司法院双语词汇 2,121 行；智慧财产局商标词表 613 行 |
-| 结构化词条 | 2,730 条来源对应；同一来源 4 行经空白规范化后相同的词对合并并保留所有原始行号 |
-| 字段 | 原文、简繁体、英文、拼音、来源、许可、语境、分类依据、法域审核状态 |
+| 结构化词条 | 2,829 条：2,730 条来源对应 + 99 条有法条证据的项目释义；原表合并的 4 行保留全部行号 |
+| 核心学习层 | 99 条中文释义、学习提示、英文释译及译法说明；五部法律的 101 个具体条文；22 条易混关系 |
+| 字段 | 原文、简繁体、英文、拼音、来源、许可、语境、释义、译法说明、法条证据、关系、法域及审核状态 |
 | 检索 | 中文、英文、拼音、ID，以及领域、来源地区、已核验法域筛选 |
 | 导出 | JSONL、TSV、双向 Anki TSV、英文候选词表、简体和繁体 Rime 词典及独立方案 |
 | 追溯 | 每份构建附来源与许可、导出行到词条的映射、构建配置、SHA-256 摘要 |
@@ -22,6 +23,17 @@ Traceable Chinese–English legal terminology for study, search and input method
 模板、占位符和隔离条目不进入默认学习/输入法输出。输入法还排除多项中文、附注及过长标签。拼音、简体及部分分类由程序生成，状态明确记录；尚不能声称已经由法律专家逐条审核。
 
 ## 使用
+
+学生和教师可先下载 [核心学习词典 CSV](dictionary/legal_dictionary_core.csv) 或 [核心 Anki 闪卡](dictionary/anki_core.tsv)。完整来源参考版与输入法文件见 [dictionary/](dictionary/README.md)。核心层英文标记为 `project_authored`（项目释译），没有冒充官方译文或人工法律专家审核。
+
+按主题或法域查询时，可以增加 `--profile learning`，仅选择有释义和法条证据的词条。例如：
+
+```sh
+oll search 匿名化 --profile learning --jurisdiction CN
+oll build --profile learning --out build/core-study
+```
+
+核心层来源地区 `INTERNATIONAL` 表示项目编写层，适用法域 `CN` 表示中国大陆法律语境。具体法条版本与出处见 [编审与证据](docs/EDITORIAL.md)。
 
 无需安装开发环境：[直接下载词典、中文/英文词表和 Rime 文件](dictionary/README.md)。当前为来源参考版，适用范围与未完成核验项目见该目录说明。
 

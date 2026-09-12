@@ -7,6 +7,7 @@ from opencc import OpenCC
 from pypinyin import Style, lazy_pinyin
 
 from .io import digest, normalized, read_json, read_jsonl, stable_id
+from .evidence import documents, editorial_entry
 
 PURE_HAN = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]+\Z")
 DOMAIN_RULES = {
@@ -83,6 +84,7 @@ def load_entries(root):
     overrides = read_json(root / "data/annotations.json")
     converter = OpenCC("t2s")  # Character/script conversion only; not tw2sp vocabulary localization.
     collected = {}
+    docs = documents(root)
     for source in sources:
         if source["redistribution"] != "permitted":
             raise ValueError(f"source {source['id']}: redistribution is not permitted")
@@ -96,6 +98,11 @@ def load_entries(root):
             raise ValueError(f"{path}: unexpected record count")
         seen_records = set()
         for row in rows:
+            if source.get('format') == 'editorial_seed':
+                if row['id'] in collected:
+                    raise ValueError(f"{path}: duplicate editorial ID {row['id']}")
+                collected[row['id']] = editorial_entry(row, source, docs, reading(row['zh']))
+                continue
             if row["source_id"] != source["id"] or row["record"] in seen_records:
                 raise ValueError(f"{path}: wrong source ID or repeated record locator")
             seen_records.add(row["record"])
@@ -118,7 +125,7 @@ def load_entries(root):
             if "�" in zh + en or not re.search(r"[A-Za-z]", en):
                 flags.append("invalid_bilingual_text")
             entry = {
-                "schema_version": "1.0.0", "id": entry_id,
+                "schema_version": "1.1.0", "id": entry_id,
                 "forms": {"zh_Hant": zh, "zh_Hans": converter.convert(zh), "en": en},
                 "script_conversion": {"method": "OpenCC-t2s-0.1.7", "review": "machine_generated"},
                 "source_origin": source["origin"], "jurisdictions": [],
@@ -127,6 +134,7 @@ def load_entries(root):
                 "kind": infer_kind(zh, en), "kind_basis": "automatic_surface_rules",
                 "alignment": "source_association", "pronunciation": reading(converter.convert(zh)),
                 "scope_note": source["scope"], "learning_note": "",
+                "definition_zh": "", "translation_note": "", "evidence": [],
                 "references": [reference], "relations": [],
                 "license": source["license"], "review": {"extraction": "validated", "translation": "source_attributed", "editor": None},
                 "flags": flags, "status": "source_attributed",
@@ -135,7 +143,7 @@ def load_entries(root):
     for entry_id, annotation in overrides.items():
         if entry_id not in collected:
             raise ValueError(f"annotation references unknown entry {entry_id}")
-        allowed = {"jurisdictions", "jurisdiction_basis", "domains", "domain_basis", "kind", "kind_basis", "learning_note", "relations", "status", "flags", "pronunciation"}
+        allowed = {"jurisdictions", "jurisdiction_basis", "domains", "domain_basis", "kind", "kind_basis", "definition_zh", "learning_note", "translation_note", "evidence", "relations", "status", "flags", "pronunciation", "review"}
         if not isinstance(annotation, dict) or set(annotation) - allowed:
             raise ValueError(f"{entry_id}: unsupported annotation field")
         collected[entry_id].update(annotation)
@@ -146,11 +154,13 @@ def eligible(entry):
     return entry["status"] != "quarantined" and "invalid_bilingual_text" not in entry["flags"] and "template_or_placeholder" not in entry["flags"]
 
 
-def select(entries, *, query="", domain=None, jurisdiction=None, origin=None, include_quarantined=False):
+def select(entries, *, query="", domain=None, jurisdiction=None, origin=None, profile=None, include_quarantined=False):
     query = normalized(query).casefold()
     result = []
     for e in entries:
         if not include_quarantined and not eligible(e):
+            continue
+        if profile == 'learning' and (not e['definition_zh'] or not e['evidence']):
             continue
         if domain and domain not in e["domains"]:
             continue
@@ -158,7 +168,7 @@ def select(entries, *, query="", domain=None, jurisdiction=None, origin=None, in
             continue
         if origin and e["source_origin"] != origin:
             continue
-        fields = [*e["forms"].values(), e["id"], e["learning_note"]]
+        fields = [*e["forms"].values(), e["id"], e["definition_zh"], e["learning_note"], e['translation_note']]
         if e["pronunciation"]:
             fields.extend([e["pronunciation"]["rime"], e["pronunciation"]["tone_numbers"]])
         if query and not any(query in value.casefold() for value in fields):
@@ -178,6 +188,9 @@ def quality_report(entries, sources):
         "by_source": dict(Counter(e["references"][0]["source_id"] for e in entries)),
         "by_domain": dict(Counter(d for e in entries for d in e["domains"])),
         "jurisdiction_assessed": sum(bool(e["jurisdictions"]) for e in entries),
+        "with_definitions": sum(bool(e['definition_zh']) for e in entries),
+        "with_learning_notes": sum(bool(e['learning_note']) for e in entries),
+        "with_legal_evidence": sum(bool(e['evidence']) for e in entries),
         "translation_review": dict(Counter(e["review"]["translation"] for e in entries)),
         "flags": dict(Counter(f for e in entries for f in e["flags"])),
         "homograph_groups": {text: ids for text, ids in sorted(homographs.items()) if len(ids) > 1},

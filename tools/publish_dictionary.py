@@ -9,6 +9,7 @@ from openlegallexicon.model import load_entries, select
 from openlegallexicon.validate import validate_entries, validate_sources
 
 FILES=['legal_dictionary.tsv','legal_dictionary.csv','legal_terms_zh.txt','legal_terms_zh_hant.txt','english.txt','english.index.json','openlegal_hans.dict.yaml','openlegal_hans.schema.yaml','openlegal_hans.index.json','openlegal_hant.dict.yaml','openlegal_hant.schema.yaml','openlegal_hant.index.json','ATTRIBUTION.md','DATA_LICENSE.md','sources.json','build.json']
+FILES += ['legal_dictionary_core.csv','anki.tsv','anki_core.tsv','legal_evidence.json','lexicon.jsonl']
 
 
 def main():

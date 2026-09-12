@@ -1,0 +1,318 @@
+{
+  "by_domain": {
+    "administrative": 71,
+    "ai": 1,
+    "civil": 74,
+    "company": 32,
+    "competition": 9,
+    "constitutional": 11,
+    "contracts": 30,
+    "core": 7,
+    "criminal": 62,
+    "dispute_resolution": 221,
+    "employment": 17,
+    "family": 70,
+    "finance": 32,
+    "intellectual_property": 635,
+    "m_and_a": 4,
+    "privacy": 14,
+    "property": 50,
+    "tax": 89,
+    "trade": 7,
+    "unclassified": 1490
+  },
+  "by_source": {
+    "oll-cn-core": 99,
+    "tw-judicial": 2121,
+    "tw-tipo-trademark": 609
+  },
+  "eligible_entries": 2824,
+  "entries": 2829,
+  "flags": {
+    "compound_or_annotated_chinese": 242,
+    "long_chinese_label": 36,
+    "multiple_or_annotated_translations": 58,
+    "template_or_placeholder": 5
+  },
+  "homograph_groups": {
+    "上诉": [
+      "tw-judicial-c2ad5e1e8e8973156eac",
+      "tw-tipo-trademark-2a3d66098325b5263797"
+    ],
+    "不可抗力": [
+      "cn-force-majeure",
+      "tw-judicial-8c595a0664bbb33f8335"
+    ],
+    "与…近似": [
+      "tw-tipo-trademark-26635aa2f8732463388e",
+      "tw-tipo-trademark-fe25565efaa9d80daa0b"
+    ],
+    "与贸易有关之智慧财产权协定": [
+      "tw-tipo-trademark-a2be784c1148dcd032fa",
+      "tw-tipo-trademark-a525a8c70487f19c744c"
+    ],
+    "世界智慧财产权组织": [
+      "tw-tipo-trademark-a1b12ba601ff40ca2b73",
+      "tw-tipo-trademark-b47d8bd383e135155c48"
+    ],
+    "主管机关": [
+      "tw-judicial-1cce8fc4e4437dbd19e1",
+      "tw-tipo-trademark-32960957d84b6e53d30b"
+    ],
+    "争议解决方案": [
+      "tw-tipo-trademark-186a3a10380d3a34b9bf",
+      "tw-tipo-trademark-b5d096971353b458081d"
+    ],
+    "产品或服务与产地之关联性": [
+      "tw-tipo-trademark-548b4de1a78f0ba33350",
+      "tw-tipo-trademark-e0bf6c0c4e3a8cab644f"
+    ],
+    "住所": [
+      "tw-judicial-1666a6f037bdd0fd046f",
+      "tw-tipo-trademark-2afd19f051c73a328838"
+    ],
+    "使用声明": [
+      "tw-tipo-trademark-72ad92426602f2f5fabd",
+      "tw-tipo-trademark-8c6dd5c6ee0836dd7c23",
+      "tw-tipo-trademark-ad654fc1f9dcdd54ec33"
+    ],
+    "使用声明之修正": [
+      "tw-tipo-trademark-686eebdb5736b9d60f16",
+      "tw-tipo-trademark-bc269f0982bd0e470f14"
+    ],
+    "侵害": [
+      "tw-judicial-49a3906ef3ddcf667cf6",
+      "tw-tipo-trademark-dbef844413f14da096fa"
+    ],
+    "假处分": [
+      "tw-judicial-740ca5593310664a8df9",
+      "tw-tipo-trademark-165a4a3c2c54bca201de"
+    ],
+    "公司章程": [
+      "cn-articles-association",
+      "tw-judicial-b67bb0a83939c7711cb9"
+    ],
+    "公告": [
+      "tw-judicial-7e48e18f4d6cf3822348",
+      "tw-tipo-trademark-ea46511c76f0f7ca111c"
+    ],
+    "共同体商标": [
+      "tw-tipo-trademark-2f75220f9fbb1d5c1e21",
+      "tw-tipo-trademark-6d80fd74749b153a9a11",
+      "tw-tipo-trademark-84dae182c283ed52e4bc"
+    ],
+    "共同体新式样": [
+      "tw-tipo-trademark-51c0522dafa27772fe59",
+      "tw-tipo-trademark-ac636eca206f8dee34cd"
+    ],
+    "内部市场协调局": [
+      "tw-tipo-trademark-975da9e732dd12b2fd2e",
+      "tw-tipo-trademark-cf0ff9d5f97cadeab140"
+    ],
+    "准用": [
+      "tw-judicial-76f51850575f4763d000",
+      "tw-tipo-trademark-cb4067a746b0c584a8a7"
+    ],
+    "分割": [
+      "tw-tipo-trademark-5ce637dd27d48ef69237",
+      "tw-tipo-trademark-d6cf53de6df4a4ceda07"
+    ],
+    "分类": [
+      "tw-tipo-trademark-056f31c358613b022177",
+      "tw-tipo-trademark-0ce010f5e1ac8b5b6847"
+    ],
+    "判例": [
+      "tw-judicial-63ad91b54ff753c266ee",
+      "tw-tipo-trademark-ea61914f555c64f53b5a"
+    ],
+    "反网域名称抢注消费者保护法": [
+      "tw-tipo-trademark-9811f432c28feb215513",
+      "tw-tipo-trademark-a52b486c6c023617d2f1"
+    ],
+    "商标审查程序手册": [
+      "tw-tipo-trademark-be34a79dfd6005ec2f64",
+      "tw-tipo-trademark-f614fa5062e9972578df"
+    ],
+    "商标法": [
+      "tw-judicial-6d942cb4223d4e410fcf",
+      "tw-tipo-trademark-ed450a9de4168c34143a"
+    ],
+    "商标诉愿暨上诉委员会": [
+      "tw-tipo-trademark-94dc507f1a10a34d1b21",
+      "tw-tipo-trademark-cefc3ace431a2e148856"
+    ],
+    "处理": [
+      "tw-tipo-trademark-2ca6a84159c7ae4469b3",
+      "tw-tipo-trademark-d828c2587f5771642c2e"
+    ],
+    "委任状": [
+      "tw-tipo-trademark-3e422f44018dbbc08c08",
+      "tw-tipo-trademark-6d8c40fb87f49641fb42"
+    ],
+    "宣誓书": [
+      "tw-tipo-trademark-31627d325fca6efdbed5",
+      "tw-tipo-trademark-95dad0da2d2be688b79e"
+    ],
+    "异议": [
+      "tw-judicial-242b0a50acd7e329c8a9",
+      "tw-tipo-trademark-360b06314e80cd2f977f"
+    ],
+    "异议程序": [
+      "tw-judicial-869ca82f32d727bde533",
+      "tw-tipo-trademark-e5fb93e5f017f8df57fd"
+    ],
+    "所有权": [
+      "cn-ownership",
+      "tw-tipo-trademark-c76a46791243bb8e877e"
+    ],
+    "抵押权": [
+      "cn-mortgage-right",
+      "tw-judicial-484c5ea967b82aaadbf3"
+    ],
+    "指定": [
+      "tw-tipo-trademark-6f4458b76af159cfc2fa",
+      "tw-tipo-trademark-b73b3c31cb1a460ff9f7"
+    ],
+    "推定": [
+      "tw-judicial-3696f3fe6d9788e617ff",
+      "tw-tipo-trademark-acf7bae286573e87bc5d"
+    ],
+    "撤销": [
+      "tw-judicial-3177a2492df11ca5917f",
+      "tw-tipo-trademark-dec384c977bfb4253ec4"
+    ],
+    "政府公报": [
+      "tw-judicial-d93174a9bac5c5bda259",
+      "tw-tipo-trademark-b84065c11778807899c1"
+    ],
+    "服务标章": [
+      "tw-tipo-trademark-481f43580a81fa480781",
+      "tw-tipo-trademark-6ac652e3aa8955961eb7"
+    ],
+    "条款": [
+      "tw-tipo-trademark-2dac28c450ca4bdcac27",
+      "tw-tipo-trademark-5e6462363154f819c0dc"
+    ],
+    "核准": [
+      "tw-judicial-a6f2196afd88940998c1",
+      "tw-tipo-trademark-41cf74b59f0f9c35d6c7",
+      "tw-tipo-trademark-abb1835267c2f4ece061"
+    ],
+    "欧洲法院": [
+      "tw-tipo-trademark-3320966464e837ecd29d",
+      "tw-tipo-trademark-ffa8ad9a3807cef9c1ba"
+    ],
+    "气味商标": [
+      "tw-tipo-trademark-123afe2be5c8f0fb7f35",
+      "tw-tipo-trademark-fdb9a82b345c4e60e536"
+    ],
+    "法人": [
+      "cn-legal-person",
+      "tw-judicial-9c9b62e67c4c7bfccc35",
+      "tw-tipo-trademark-6f1e87924f20a2047c38"
+    ],
+    "法定期间": [
+      "tw-judicial-9feec0f984ab60f66a5f",
+      "tw-tipo-trademark-6638963967b2ff947ec6"
+    ],
+    "法院第一审": [
+      "tw-tipo-trademark-1c1b07d7bbc89a6a9187",
+      "tw-tipo-trademark-c4a92fbec046a05c72ae"
+    ],
+    "用益物权": [
+      "cn-usufructuary-right",
+      "tw-judicial-5b646c403552bd9185c8"
+    ],
+    "申请期间": [
+      "tw-judicial-71c70242440d02df8e0f",
+      "tw-tipo-trademark-6f66fb2f4f3eef2e0b87"
+    ],
+    "登记": [
+      "tw-judicial-a7fb7b1d454fc8a1857b",
+      "tw-tipo-trademark-8efed26a9b9a87781d9f"
+    ],
+    "相对人": [
+      "tw-judicial-0e3b1cb4cd98e7aa9c7f",
+      "tw-judicial-b8e91cfea337c1e0de29"
+    ],
+    "第三人": [
+      "tw-judicial-ba9697a9c0c93e3fd1a7",
+      "tw-tipo-trademark-9eed2463bbf08ab38564"
+    ],
+    "给与权利（或资格）": [
+      "tw-tipo-trademark-af3a7e14e0595fcc7709",
+      "tw-tipo-trademark-c3713445dc3be8f58273"
+    ],
+    "网际网路名称与号码分配组织": [
+      "tw-tipo-trademark-7f375780cf2658cfc641",
+      "tw-tipo-trademark-c5a4b2eb291d2159fb96"
+    ],
+    "美国专利商标局": [
+      "tw-tipo-trademark-df3cc9a4851faf678086",
+      "tw-tipo-trademark-f49b2563f774e8b13c53"
+    ],
+    "美国专利季刊": [
+      "tw-tipo-trademark-8cbb2ee85f8f72a9783d",
+      "tw-tipo-trademark-ebf80f4d0d3b3bacedf1"
+    ],
+    "美国法典": [
+      "tw-tipo-trademark-03887748035809bef582",
+      "tw-tipo-trademark-fa45b86324301607c4b6"
+    ],
+    "联邦巡回上诉法院": [
+      "tw-tipo-trademark-340cf193227bf5ae6c14",
+      "tw-tipo-trademark-3d2d6b692eaf891eb766"
+    ],
+    "联邦法规法典": [
+      "tw-tipo-trademark-85a9208ce9b73792845b",
+      "tw-tipo-trademark-d48e50ad5e6c28d7c4be"
+    ],
+    "股份有限公司": [
+      "cn-joint-stock-company",
+      "tw-judicial-b98868d5b104167f4b37"
+    ],
+    "证明": [
+      "tw-judicial-f0b0b42978137adea32b",
+      "tw-tipo-trademark-5b1a9cda0682f227e278",
+      "tw-tipo-trademark-f361a025fdd7e30953e0"
+    ],
+    "误认": [
+      "tw-tipo-trademark-3cb23f0fbfeab036c439",
+      "tw-tipo-trademark-46e53d5421a8a5beb22b"
+    ],
+    "调解室": [
+      "tw-judicial-126f7b9d6009effb57f7",
+      "tw-judicial-6532795af56d9b4e3261"
+    ],
+    "辅佐人": [
+      "tw-judicial-68d9be3230f7a24824f9",
+      "tw-judicial-a1015bc74a76b0534c30"
+    ],
+    "遗产": [
+      "cn-estate",
+      "tw-judicial-71372bab5c5d36694394"
+    ],
+    "隐私权": [
+      "cn-privacy-right",
+      "tw-judicial-f51b19a8aa715d7aa0a0"
+    ]
+  },
+  "jurisdiction_assessed": 99,
+  "limits": [
+    "Source associations are not assertions of universal legal equivalence.",
+    "Automated labels/readings are not independent legal review.",
+    "Origin TW identifies the provider region, not the applicable legal jurisdiction."
+  ],
+  "source_records": 2833,
+  "status": {
+    "evidence_linked": 99,
+    "source_attributed": 2730
+  },
+  "translation_review": {
+    "project_authored": 99,
+    "source_attributed": 2730
+  },
+  "with_definitions": 99,
+  "with_learning_notes": 99,
+  "with_legal_evidence": 99
+}

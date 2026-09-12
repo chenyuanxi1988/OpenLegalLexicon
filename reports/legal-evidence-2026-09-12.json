@@ -1,0 +1,49 @@
+{
+  "checked_articles": 101,
+  "documents": [
+    {
+      "all_selected_text_matches": true,
+      "cited_articles": 5,
+      "html_sha256": "cd5dd1be59d4180515ae79586fbc564f87d5a8e955985619841f414476587e49",
+      "id": "anti-monopoly",
+      "numbered_articles": 70,
+      "url": "https://www.csrc.gov.cn/beijing/c105536/c7431869/content.shtml"
+    },
+    {
+      "all_selected_text_matches": true,
+      "cited_articles": 67,
+      "html_sha256": "16fb30a132114600f32059367dae0d6dd274519aa154126eae0ef9600cf4074e",
+      "id": "civil-code",
+      "numbered_articles": 1260,
+      "url": "https://www.court.gov.cn/zixun/xiangqing/233181.html"
+    },
+    {
+      "all_selected_text_matches": true,
+      "cited_articles": 12,
+      "html_sha256": "13621de9efe0cf144e4bfb4c831c5f27c7bfd62a872ca64f87cc143a008d8eee",
+      "id": "company-law",
+      "numbered_articles": 266,
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5233383/content.html"
+    },
+    {
+      "all_selected_text_matches": true,
+      "cited_articles": 6,
+      "html_sha256": "e27fccf5c3a0f29439d7e165f09e4e3d148ac301c16f71d0210339c175cca4f3",
+      "id": "copyright",
+      "numbered_articles": 67,
+      "url": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html"
+    },
+    {
+      "all_selected_text_matches": true,
+      "cited_articles": 11,
+      "html_sha256": "50b62bb9868648fe0417d8757a8cff62641eba6d879403f363d771f8c6d3acff",
+      "id": "pipl",
+      "numbered_articles": 74,
+      "url": "https://www.cac.gov.cn/2021-08/20/c_1631050028355286.htm"
+    }
+  ],
+  "note": "Exact source-text extraction check; not human legal or translation review.",
+  "source_retrieved_dates": [
+    "2026-09-12"
+  ]
+}

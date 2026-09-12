@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]+$"
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+      },
+      "url": {
+        "type": "string",
+        "pattern": "^https://",
+        "format": "uri"
+      },
+      "jurisdictions": {
+        "type": "array",
+        "items": {
+          "enum": [
+            "CN",
+            "TW",
+            "HK",
+            "SG",
+            "US",
+            "UK",
+            "EU",
+            "INTERNATIONAL"
+          ]
+        },
+        "uniqueItems": true,
+        "minItems": 1
+      },
+      "retrieved": {
+        "type": "string",
+        "format": "date"
+      },
+      "version": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+      },
+      "html_sha256": {
+        "type": "string",
+        "pattern": "^[a-f0-9]{64}$"
+      },
+      "text_basis": {
+        "const": "PRC-Copyright-Law-Article-5(1)"
+      },
+      "articles": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "number": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "text": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "^[^\\x00-\\x1f\\x7f]+$"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          },
+          "required": [
+            "number",
+            "text",
+            "sha256"
+          ]
+        },
+        "minItems": 1
+      }
+    },
+    "required": [
+      "id",
+      "title",
+      "url",
+      "jurisdictions",
+      "retrieved",
+      "version",
+      "html_sha256",
+      "text_basis",
+      "articles"
+    ]
+  },
+  "minItems": 1
+}
