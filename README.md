@@ -17,7 +17,7 @@ Traceable Chinese–English legal terminology for study, search and input method
 | 检索 | 中文、英文、拼音、ID，以及领域、来源地区、已核验法域筛选 |
 | 导出 | JSONL、TSV、双向 Anki TSV、核心学习 CSV/Anki、英文候选词表、简体和繁体 Rime 词典及独立方案 |
 | 追溯 | 每份构建附来源与许可、导出行到词条的映射、构建配置、全部证据批次的 SHA-256 摘要 |
-| 最新远端验证 | GitHub Actions 34684881061：Python 3.10/3.12、单测、构建、真实 Rime、真实 Anki 与下载发布成功；下载提交 `e9f851e04aae1c565efa50109723bd92f26e6dcd` 已包含前两批来源编审 |
+| 最新远端验证 | GitHub Actions 34685523972：Python 3.10/3.12、33 项测试、构建、真实 Rime、真实 Anki 与发布成功；生成提交 `f3a84a23097d63926d1ce880af61cdd2ef4fb707` 的 23 个下载文件和编审队列摘要已核验 |
 
 两家第三方提供机构都位于台湾，词表中同时含本地、外国、国际制度与历史名称。`source_origin=TW` 仅表示来源地区，**不表示术语都适用于台湾，更不表示简体转换后就适用于中国大陆**。未经查证的 `jurisdictions` 留空。原词对是来源中的译文对应，不冒充跨法域的严格等义概念。
 
@@ -84,7 +84,7 @@ oll build --out build/local-1
 
 ## 开发与贡献
 
-贡献流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。仓库仅保存可公开的代码、数据与开发文档；私人沟通、账户信息及临时工作记录应保存在仓库之外。
+接续开发先读 [当前检查点与下一步](PROGRESS.md#从当前版本继续开发)、[开发日志](WORK_LOG.md) 和 [开发计划](DEVELOPMENT_PLAN.md)。贡献流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。仓库仅保存可公开的代码、数据与开发文档；私人沟通、账户信息及临时工作记录应保存在仓库之外。
 
 ```sh
 python -m unittest discover -s tests -v
