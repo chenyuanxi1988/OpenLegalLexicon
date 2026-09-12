@@ -1,1 +1,127 @@
-{}
+{
+  "tw-judicial-38d26915d51c91de944f": {
+    "domain_basis": "editorial",
+    "domains": [
+      "tax",
+      "trade"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源同时列出 customs duties 与 customs duty；保留来源词对，不据此推定与中国大陆关税法语境下“关税”的制度范围完全相同。"
+  },
+  "tw-judicial-5faf9924a3de7de4e4f5": {
+    "domain_basis": "editorial",
+    "domains": [
+      "criminal"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源译作 limitation period of prosecution；保留来源表述，不将其与中国大陆刑法中的追诉时效规则自动视为跨法域完全等义。"
+  },
+  "tw-judicial-793291e247562a0ab93a": {
+    "domain_basis": "editorial",
+    "domains": [
+      "criminal"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源译作 voluntary surrender to the authorities；保留来源词对，不据此移植中国大陆刑法中自首的构成条件或法律效果。"
+  },
+  "tw-judicial-8c595a0664bbb33f8335": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "contracts"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源译作 force majeure；这是来源词对复核，不表示不同法域对不可抗力的要件和法律效果完全一致。"
+  },
+  "tw-judicial-9c9b62e67c4c7bfccc35": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "company"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源同时列出 legal person 与 juristic；保留原始来源译法，不据此认定与中国大陆“法人”的制度范围完全等同。"
+  },
+  "tw-judicial-b67bb0a83939c7711cb9": {
+    "domain_basis": "editorial",
+    "domains": [
+      "company"
+    ],
+    "kind": "document",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "本来源使用 articles of incorporation；中国大陆核心层对公司章程采用 articles of association。两条来源记录保持分离，不把术语选择差异自动消解为跨法域严格等义。"
+  },
+  "tw-judicial-be8296bb8659fb426422": {
+    "domain_basis": "editorial",
+    "domains": [
+      "criminal"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源译作 recidivist；仅确认其为刑事法角色类术语，不据此移植其他法域对累犯的成立条件或处罚效果。"
+  },
+  "tw-tipo-trademark-6f1e87924f20a2047c38": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "company",
+      "intellectual_property"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标词表来源译作 juristic person；保留来源译法及知识产权使用语境，不与其他来源或中国大陆“法人”记录合并。"
+  }
+}
