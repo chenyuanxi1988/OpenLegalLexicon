@@ -25,6 +25,9 @@ class PipelineTests(unittest.TestCase):
     def setUpClass(cls):
         cls.entries, cls.sources = load_entries(ROOT)
 
+    def editorial_count(self):
+        return sum(s['expected_records'] for s in self.sources if s.get('format') == 'editorial_seed')
+
     def test_entire_snapshot_is_accounted_for(self):
         original_sources=[s for s in self.sources if s.get('format')!='editorial_seed']
         original_entries=[e for e in self.entries if e['status']=='source_attributed']
@@ -32,7 +35,7 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(len(original_entries),2730)
         self.assertEqual(sum(len(e['references']) for e in original_entries),2734)
         authored=[e for e in self.entries if e['status']=='evidence_linked']
-        self.assertEqual(len(authored),next(s['expected_records'] for s in self.sources if s['id']=='oll-cn-core'))
+        self.assertEqual(len(authored),self.editorial_count())
         self.assertEqual(validate_sources(ROOT),[])
         self.assertEqual(validate_entries(self.entries,self.sources,ROOT),[])
 
@@ -56,13 +59,17 @@ class PipelineTests(unittest.TestCase):
 
     def test_learning_profile_is_evidence_linked_and_keeps_jurisdiction(self):
         core=select(self.entries,profile='learning',jurisdiction='CN')
-        self.assertEqual(len(core),99)
+        self.assertEqual(len(core),self.editorial_count())
         self.assertTrue(all(e['definition_zh'] and e['evidence'] and e['learning_note'] for e in core))
         self.assertTrue(all(e['review']['translation']=='project_authored' for e in core))
         self.assertEqual(select(core,jurisdiction='TW'),[])
         personal=next(e for e in core if e['id']=='cn-information-handler')
         self.assertIn('processor',personal['translation_note'])
         self.assertEqual(personal['evidence'][0]['articles'],[73])
+        admin=next(e for e in core if e['id']=='cn-admin-penalty')
+        self.assertEqual(admin['evidence'][0]['articles'],[2])
+        labor=next(e for e in core if e['id']=='cn-labor-open-ended-contract')
+        self.assertEqual(labor['evidence'][0]['articles'],[14])
 
     def test_evidence_rejects_missing_article_and_wrong_jurisdiction(self):
         entries=copy.deepcopy(self.entries)
@@ -173,10 +180,10 @@ class PipelineTests(unittest.TestCase):
             for filename,expected in first.items():self.assertEqual(digest(paths[0]/filename),expected)
             with (paths[0]/'legal_dictionary_core.csv').open(encoding='utf-8-sig') as stream:
                 core=list(csv.DictReader(stream))
-            self.assertEqual(len(core),99)
+            self.assertEqual(len(core),self.editorial_count())
             self.assertTrue(all(row['中文释义'] and 'https://' in row['法律依据'] for row in core))
             cards=list(csv.reader(io.StringIO('\n'.join(line for line in (paths[0]/'anki_core.tsv').read_text().splitlines() if not line.startswith('#'))),delimiter='\t'))
-            self.assertEqual(len(cards),198)
+            self.assertEqual(len(cards),self.editorial_count()*2)
             self.assertTrue(all('review::project_authored' in row[6] and 'https://' in row[5] and row[4] for row in cards))
             ids={e['id'] for e in self.entries}
             for suffix in ['hans','hant']:
