@@ -1,0 +1,29 @@
+[
+  {
+    "id": "administrative-penalty-law-2021",
+    "title": "中华人民共和国行政处罚法（2021修订）",
+    "url": "https://www.miit.gov.cn/zwgk/zcwj/flfg/art/2022/art_76d37c09bd594d67b80ec2aa6fababcc.html",
+    "version": "2021-01-22修订；2021-07-15施行",
+    "jurisdiction": "CN",
+    "intended_domains": ["administrative"],
+    "priority_articles": [2, 7, 9, 43, 44, 45, 51, 54, 63]
+  },
+  {
+    "id": "administrative-reconsideration-law-2023",
+    "title": "中华人民共和国行政复议法（2023修订）",
+    "url": "https://www.npc.gov.cn/WZWSREL25wYy8vLy9jMi9jMzA4MzQvMjAyMzA5L3QyMDIzMDkwMV80MzE0MDkuaHRtbA%3D%3D",
+    "version": "2023-09-01修订；2024-01-01施行",
+    "jurisdiction": "CN",
+    "intended_domains": ["administrative", "dispute_resolution"],
+    "priority_articles": [2, 4, 10, 11, 20, 22, 39, 41, 48, 49, 50]
+  },
+  {
+    "id": "labor-contract-law-2012",
+    "title": "中华人民共和国劳动合同法（2012修正）",
+    "url": "https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394622_wap.html",
+    "version": "2012-12-28修正",
+    "jurisdiction": "CN",
+    "intended_domains": ["employment"],
+    "priority_articles": [7, 10, 12, 13, 14, 19, 22, 23, 24, 36, 37, 38, 44, 46, 47, 57, 58]
+  }
+]
