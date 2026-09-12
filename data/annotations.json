@@ -1,4 +1,19 @@
 {
+  "tw-judicial-1cce8fc4e4437dbd19e1": {
+    "domain_basis": "editorial",
+    "domains": [
+      "administrative"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源同时列出 agency-in-charge 与 authority；仅确认其为主管机关这一公权力主体角色的来源词对，不自动限定具体机关或法域。"
+  },
   "tw-judicial-38d26915d51c91de944f": {
     "domain_basis": "editorial",
     "domains": [
@@ -14,6 +29,53 @@
     },
     "status": "editorial_checked",
     "translation_note": "来源同时列出 customs duties 与 customs duty；保留来源词对，不据此推定与中国大陆关税法语境下“关税”的制度范围完全相同。"
+  },
+  "tw-judicial-390fc75944665c89c8fc": {
+    "domain_basis": "editorial",
+    "domains": [
+      "criminal"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源译作 probation；保留来源表述，不据此认定其与中国大陆刑法中的缓刑适用条件、考验期限和法律效果完全一致。"
+  },
+  "tw-judicial-484c5ea967b82aaadbf3": {
+    "domain_basis": "editorial",
+    "domains": [
+      "finance",
+      "property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "本来源使用 mortgage；中国大陆核心层对“抵押权”使用 mortgage right。保留来源差异，不自动宣称两个法域的担保物权制度完全等同。"
+  },
+  "tw-judicial-5b646c403552bd9185c8": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "本来源使用 usufruct；中国大陆核心层使用 usufructuary right。两条记录保持分离，避免以英文近似替代跨法域制度核验。"
   },
   "tw-judicial-5faf9924a3de7de4e4f5": {
     "domain_basis": "editorial",
@@ -92,6 +154,21 @@
     "status": "editorial_checked",
     "translation_note": "本来源使用 articles of incorporation；中国大陆核心层对公司章程采用 articles of association。两条来源记录保持分离，不把术语选择差异自动消解为跨法域严格等义。"
   },
+  "tw-judicial-b98868d5b104167f4b37": {
+    "domain_basis": "editorial",
+    "domains": [
+      "company"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "本来源使用 corporation limited by shares；中国大陆核心层使用 joint stock company。保留两种来源译法，不把公司类型的跨法域对应关系视为已独立核验。"
+  },
   "tw-judicial-be8296bb8659fb426422": {
     "domain_basis": "editorial",
     "domains": [
@@ -106,6 +183,52 @@
     },
     "status": "editorial_checked",
     "translation_note": "来源译作 recidivist；仅确认其为刑事法角色类术语，不据此移植其他法域对累犯的成立条件或处罚效果。"
+  },
+  "tw-judicial-d8216ca3d26445f3b068": {
+    "domain_basis": "editorial",
+    "domains": [
+      "criminal"
+    ],
+    "kind": "action",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源译作 revocation of the probation；保留来源词对，不据此认定撤销缓刑的法定事由和效果与中国大陆刑法规则相同。"
+  },
+  "tw-judicial-d95c9414d28394b1777b": {
+    "domain_basis": "editorial",
+    "domains": [
+      "criminal"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源译作 combination of sentences for multiple offence；保留来源表述，不以中文同形直接推定与中国大陆数罪并罚规则完全等义。"
+  },
+  "tw-tipo-trademark-32960957d84b6e53d30b": {
+    "domain_basis": "editorial",
+    "domains": [
+      "administrative",
+      "intellectual_property"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标词表来源使用 competent authority；保留其知识产权业务语境，不与其他来源的“主管机关”记录合并。"
   },
   "tw-tipo-trademark-6f1e87924f20a2047c38": {
     "domain_basis": "editorial",
@@ -123,5 +246,22 @@
     },
     "status": "editorial_checked",
     "translation_note": "商标词表来源译作 juristic person；保留来源译法及知识产权使用语境，不与其他来源或中国大陆“法人”记录合并。"
+  },
+  "tw-tipo-trademark-c76a46791243bb8e877e": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "intellectual_property",
+      "property"
+    ],
+    "kind": "term",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon editorial review 2026-09-12",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标词表来源译作 ownership；仅确认词对及知识产权语境，不据此把该记录与中国大陆民法典“所有权”的制度内容合并。"
   }
 }
