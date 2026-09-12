@@ -42,14 +42,20 @@ def validate_target(row: object) -> dict:
     return row
 
 
+def resolved(root: Path, value: Path) -> Path:
+    return value if value.is_absolute() else root / value
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument('--root', type=Path, default=Path.cwd())
+    parser.add_argument('--targets', type=Path, default=Path('data/evidence/source_targets.json'),
+                        help='target registry, relative to --root unless absolute')
     parser.add_argument('--cache', type=Path, required=True)
     parser.add_argument('--check', action='store_true', help='validate target registry without network access')
     args = parser.parse_args()
 
-    target_path = args.root / 'data/evidence/source_targets.json'
+    target_path = resolved(args.root, args.targets)
     targets = read_json(target_path)
     if not isinstance(targets, list) or not targets:
         raise ValueError(f'{target_path}: expected a non-empty JSON array')
@@ -58,7 +64,7 @@ def main() -> int:
     if len(ids) != len(set(ids)):
         raise ValueError(f'{target_path}: duplicate source target id')
     if args.check:
-        print(f'OK: {len(targets)} legal evidence source targets')
+        print(f'OK: {len(targets)} legal evidence source targets from {target_path}')
         return 0
 
     curl = shutil.which('curl')
