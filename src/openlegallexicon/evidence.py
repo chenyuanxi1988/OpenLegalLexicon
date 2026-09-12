@@ -7,8 +7,26 @@ from .io import read_json
 
 
 def documents(root):
-    path = Path(root) / 'data/evidence/laws.json'
-    return read_json(path) if path.exists() else []
+    """Load legal evidence deterministically from laws.json and laws-*.json.
+
+    Keeping evidence batches in separate registries lets each legal-domain update
+    pin its own source versions without rewriting the established baseline file.
+    Duplicate document IDs are still rejected by validate_evidence().
+    """
+    directory = Path(root) / 'data/evidence'
+    if not directory.exists():
+        return []
+    paths = sorted(
+        path for path in directory.glob('laws*.json')
+        if path.is_file()
+    )
+    docs = []
+    for path in paths:
+        batch = read_json(path)
+        if not isinstance(batch, list):
+            raise ValueError(f'{path}: evidence registry must be a JSON array')
+        docs.extend(batch)
+    return docs
 
 
 def editorial_entry(row, source, docs, pronunciation):
