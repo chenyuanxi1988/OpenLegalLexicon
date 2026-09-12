@@ -19,7 +19,7 @@ class LegalHtmlTests(unittest.TestCase):
         </body></html>'''.encode('utf-8')
         self.assertEqual(extract_articles(raw), {
             1: '第一条 第一条正文。',
-            2: '第二条 第二条正文。 第二章 其他规定',
+            2: '第二条 第二条正文。',
             3: '第三条 第三条正文。',
         })
 
