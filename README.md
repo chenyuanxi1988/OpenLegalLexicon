@@ -82,7 +82,7 @@ oll build --out build/local-1
 
 ## 开发与贡献
 
-Codex 与 ChatGPT 交接统一从 [HANDOFF.md](HANDOFF.md) 开始；主线工作登记见 [COORDINATION.json](COORDINATION.json)。
+贡献流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。仓库仅保存可公开的代码、数据与开发文档；私人沟通、账户信息及临时工作记录应保存在仓库之外。
 
 ```sh
 python -m unittest discover -s tests -v

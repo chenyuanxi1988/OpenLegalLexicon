@@ -8,3 +8,11 @@ dist/
 private/
 *.local.json
 .DS_Store
+
+# Local operational notes and secrets are never public inputs.
+internal/
+.local/
+.env
+.env.*
+HANDOFF.md
+COORDINATION.json
