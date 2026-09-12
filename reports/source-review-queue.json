@@ -1,0 +1,6379 @@
+{
+  "homograph_review_groups": [
+    {
+      "members": [
+        {
+          "context": "中华人民共和国民法典（2020）",
+          "domain_basis": "editorial",
+          "domains": [
+            "core",
+            "civil",
+            "company"
+          ],
+          "en": "legal person",
+          "flags": [],
+          "id": "cn-legal-person",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "role",
+          "kind_basis": "editorial",
+          "record": "cn-legal-person",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "法人",
+          "zh_Hant": "法人"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "legal person; juristic",
+          "flags": [
+            "multiple_or_annotated_translations"
+          ],
+          "id": "tw-judicial-9c9b62e67c4c7bfccc35",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "761",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "法人",
+          "zh_Hant": "法人"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "juristic person",
+          "flags": [],
+          "id": "tw-tipo-trademark-6f1e87924f20a2047c38",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "335",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "法人",
+          "zh_Hant": "法人"
+        }
+      ],
+      "priority": 210,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry",
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry",
+        "contains_flagged_source_entry"
+      ],
+      "zh_Hans": "法人"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国民法典（2020）",
+          "domain_basis": "editorial",
+          "domains": [
+            "civil",
+            "contracts"
+          ],
+          "en": "force majeure",
+          "flags": [],
+          "id": "cn-force-majeure",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-force-majeure",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "不可抗力",
+          "zh_Hant": "不可抗力"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "force majeure",
+          "flags": [],
+          "id": "tw-judicial-8c595a0664bbb33f8335",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "79",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "不可抗力",
+          "zh_Hant": "不可抗力"
+        }
+      ],
+      "priority": 125,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "不可抗力"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国刑法（含刑法修正案十二的现行合并文本）",
+          "domain_basis": "editorial",
+          "domains": [
+            "criminal"
+          ],
+          "en": "recidivist",
+          "flags": [],
+          "id": "cn-recidivist",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "role",
+          "kind_basis": "editorial",
+          "record": "cn-recidivist",
+          "source_id": "oll-cn-criminal",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "累犯",
+          "zh_Hant": "累犯"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "recidivist",
+          "flags": [],
+          "id": "tw-judicial-be8296bb8659fb426422",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1317",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "累犯",
+          "zh_Hant": "累犯"
+        }
+      ],
+      "priority": 125,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "累犯"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国刑法（含刑法修正案十二的现行合并文本）",
+          "domain_basis": "editorial",
+          "domains": [
+            "criminal"
+          ],
+          "en": "voluntary surrender",
+          "flags": [],
+          "id": "cn-voluntary-surrender",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "action",
+          "kind_basis": "editorial",
+          "record": "cn-voluntary-surrender",
+          "source_id": "oll-cn-criminal",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "自首",
+          "zh_Hant": "自首"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "voluntary surrender to the authorities",
+          "flags": [],
+          "id": "tw-judicial-793291e247562a0ab93a",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "539",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "自首",
+          "zh_Hant": "自首"
+        }
+      ],
+      "priority": 125,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "自首"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国刑法（含刑法修正案十二的现行合并文本）",
+          "domain_basis": "editorial",
+          "domains": [
+            "criminal"
+          ],
+          "en": "limitation period for criminal prosecution",
+          "flags": [],
+          "id": "cn-prosecution-limitation",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-prosecution-limitation",
+          "source_id": "oll-cn-criminal",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "追诉时效",
+          "zh_Hant": "追訴時效"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "limitation period of prosecution",
+          "flags": [],
+          "id": "tw-judicial-5faf9924a3de7de4e4f5",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1108",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "追诉时效",
+          "zh_Hant": "追訴時效"
+        }
+      ],
+      "priority": 125,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "追诉时效"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国关税法（2024）",
+          "domain_basis": "editorial",
+          "domains": [
+            "tax",
+            "trade"
+          ],
+          "en": "customs duty",
+          "flags": [],
+          "id": "cn-customs-duty",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-customs-duty",
+          "source_id": "oll-cn-tax-trade",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "关税",
+          "zh_Hant": "關稅"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "tax",
+            "trade"
+          ],
+          "en": "customs duties; customs duty",
+          "flags": [
+            "multiple_or_annotated_translations"
+          ],
+          "id": "tw-judicial-38d26915d51c91de944f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "2068",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "关税",
+          "zh_Hant": "關稅"
+        }
+      ],
+      "priority": 115,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry",
+        "contains_flagged_source_entry"
+      ],
+      "zh_Hans": "关税"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "agency-in-charge; authority",
+          "flags": [
+            "multiple_or_annotated_translations"
+          ],
+          "id": "tw-judicial-1cce8fc4e4437dbd19e1",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "262",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "主管机关",
+          "zh_Hant": "主管機關"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "competent authority",
+          "flags": [],
+          "id": "tw-tipo-trademark-32960957d84b6e53d30b",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "96",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "主管机关",
+          "zh_Hant": "主管機關"
+        }
+      ],
+      "priority": 110,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry",
+        "contains_flagged_source_entry"
+      ],
+      "zh_Hans": "主管机关"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国公司法（2023修订）",
+          "domain_basis": "editorial",
+          "domains": [
+            "company"
+          ],
+          "en": "articles of association",
+          "flags": [],
+          "id": "cn-articles-association",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "document",
+          "kind_basis": "editorial",
+          "record": "cn-articles-association",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "公司章程",
+          "zh_Hant": "公司章程"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "company"
+          ],
+          "en": "articles of incorporation",
+          "flags": [],
+          "id": "tw-judicial-b67bb0a83939c7711cb9",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "131",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "公司章程",
+          "zh_Hant": "公司章程"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "公司章程"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国民法典（2020）",
+          "domain_basis": "editorial",
+          "domains": [
+            "property",
+            "civil"
+          ],
+          "en": "ownership",
+          "flags": [],
+          "id": "cn-ownership",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-ownership",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "所有权",
+          "zh_Hant": "所有權"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "ownership",
+          "flags": [],
+          "id": "tw-tipo-trademark-c76a46791243bb8e877e",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "396",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "所有权",
+          "zh_Hant": "所有權"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "所有权"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国民法典（2020）",
+          "domain_basis": "editorial",
+          "domains": [
+            "property",
+            "finance"
+          ],
+          "en": "mortgage right",
+          "flags": [],
+          "id": "cn-mortgage-right",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-mortgage-right",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "抵押权",
+          "zh_Hant": "抵押權"
+        },
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "property"
+          ],
+          "en": "mortgage",
+          "flags": [],
+          "id": "tw-judicial-484c5ea967b82aaadbf3",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "746",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "抵押权",
+          "zh_Hant": "抵押權"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "抵押权"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国刑法（含刑法修正案十二的现行合并文本）",
+          "domain_basis": "editorial",
+          "domains": [
+            "criminal"
+          ],
+          "en": "revocation of probation",
+          "flags": [],
+          "id": "cn-revocation-probation",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-revocation-probation",
+          "source_id": "oll-cn-criminal",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "撤销缓刑",
+          "zh_Hant": "撤銷緩刑"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "criminal"
+          ],
+          "en": "revocation of the probation",
+          "flags": [],
+          "id": "tw-judicial-d8216ca3d26445f3b068",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1647",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "撤销缓刑",
+          "zh_Hant": "撤銷緩刑"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "撤销缓刑"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国刑法（含刑法修正案十二的现行合并文本）",
+          "domain_basis": "editorial",
+          "domains": [
+            "criminal"
+          ],
+          "en": "combined punishment for multiple crimes",
+          "flags": [],
+          "id": "cn-combined-punishment",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-combined-punishment",
+          "source_id": "oll-cn-criminal",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "数罪并罚",
+          "zh_Hant": "數罪併罰"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "criminal"
+          ],
+          "en": "combination of sentences for multiple offence",
+          "flags": [],
+          "id": "tw-judicial-d95c9414d28394b1777b",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1814",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "数罪并罚",
+          "zh_Hant": "數罪併罰"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "数罪并罚"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国民法典（2020）",
+          "domain_basis": "editorial",
+          "domains": [
+            "property",
+            "civil"
+          ],
+          "en": "usufructuary right",
+          "flags": [],
+          "id": "cn-usufructuary-right",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-usufructuary-right",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "用益物权",
+          "zh_Hant": "用益物權"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "civil"
+          ],
+          "en": "usufruct",
+          "flags": [],
+          "id": "tw-judicial-5b646c403552bd9185c8",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "404",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "用益物权",
+          "zh_Hant": "用益物權"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "用益物权"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国刑法（含刑法修正案十二的现行合并文本）",
+          "domain_basis": "editorial",
+          "domains": [
+            "criminal"
+          ],
+          "en": "probation",
+          "flags": [],
+          "id": "cn-probation",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-probation",
+          "source_id": "oll-cn-criminal",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "缓刑",
+          "zh_Hant": "緩刑"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "criminal"
+          ],
+          "en": "probation",
+          "flags": [],
+          "id": "tw-judicial-390fc75944665c89c8fc",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1830",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "缓刑",
+          "zh_Hant": "緩刑"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "缓刑"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国公司法（2023修订）",
+          "domain_basis": "editorial",
+          "domains": [
+            "company"
+          ],
+          "en": "joint stock company",
+          "flags": [],
+          "id": "cn-joint-stock-company",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-joint-stock-company",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "股份有限公司",
+          "zh_Hant": "股份有限公司"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "company"
+          ],
+          "en": "corporation limited by shares",
+          "flags": [],
+          "id": "tw-judicial-b98868d5b104167f4b37",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "836",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "股份有限公司",
+          "zh_Hant": "股份有限公司"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "股份有限公司"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国民法典（2020）",
+          "domain_basis": "editorial",
+          "domains": [
+            "family"
+          ],
+          "en": "estate of a deceased person",
+          "flags": [],
+          "id": "cn-estate",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-estate",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "遗产",
+          "zh_Hant": "遺產"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "family"
+          ],
+          "en": "decedent's estate",
+          "flags": [],
+          "id": "tw-judicial-71372bab5c5d36694394",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1929",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "遗产",
+          "zh_Hant": "遺產"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "遗产"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国民法典（2020）",
+          "domain_basis": "editorial",
+          "domains": [
+            "civil",
+            "privacy"
+          ],
+          "en": "right to privacy",
+          "flags": [],
+          "id": "cn-privacy-right",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-privacy-right",
+          "source_id": "oll-cn-core",
+          "status": "evidence_linked",
+          "translation_review": "project_authored",
+          "zh_Hans": "隐私权",
+          "zh_Hant": "隱私權"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "privacy"
+          ],
+          "en": "right of privacy",
+          "flags": [],
+          "id": "tw-judicial-f51b19a8aa715d7aa0a0",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1998",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "隐私权",
+          "zh_Hant": "隱私權"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "隐私权"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "domicile",
+          "flags": [],
+          "id": "tw-judicial-1666a6f037bdd0fd046f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "594",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "住所",
+          "zh_Hant": "住所"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "domicile",
+          "flags": [],
+          "id": "tw-tipo-trademark-2afd19f051c73a328838",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "168",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "住所",
+          "zh_Hant": "住所"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "住所"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "infringement",
+          "flags": [],
+          "id": "tw-judicial-49a3906ef3ddcf667cf6",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "859",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "侵害",
+          "zh_Hant": "侵害"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "infringement",
+          "flags": [],
+          "id": "tw-tipo-trademark-dbef844413f14da096fa",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "300",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "侵害",
+          "zh_Hant": "侵害"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "侵害"
+    },
+    {
+      "members": [
+        {
+          "context": "行政訴訟及懲戒廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "Provisional Injunction",
+          "flags": [],
+          "id": "tw-judicial-740ca5593310664a8df9",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1130",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "假处分",
+          "zh_Hant": "假處分"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "preliminary injunction",
+          "flags": [],
+          "id": "tw-tipo-trademark-165a4a3c2c54bca201de",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "421",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "假处分",
+          "zh_Hant": "假處分"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "假处分"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "official notice",
+          "flags": [],
+          "id": "tw-judicial-7e48e18f4d6cf3822348",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "148",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "公告",
+          "zh_Hant": "公告"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Publication",
+          "flags": [],
+          "id": "tw-tipo-trademark-ea46511c76f0f7ca111c",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "455",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "公告",
+          "zh_Hant": "公告"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "公告"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "applicable mutatis mutandis",
+          "flags": [],
+          "id": "tw-judicial-76f51850575f4763d000",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1561",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "准用",
+          "zh_Hant": "準用"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "mutatis mutandis",
+          "flags": [],
+          "id": "tw-tipo-trademark-cb4067a746b0c584a8a7",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "367",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "准用",
+          "zh_Hant": "準用"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "准用"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "precedent(s)",
+          "flags": [],
+          "id": "tw-judicial-63ad91b54ff753c266ee",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "622",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "判例",
+          "zh_Hant": "判例"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "precedent",
+          "flags": [],
+          "id": "tw-tipo-trademark-ea61914f555c64f53b5a",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "418",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "判例",
+          "zh_Hant": "判例"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "判例"
+    },
+    {
+      "members": [
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "appeal",
+          "flags": [],
+          "id": "tw-judicial-242b0a50acd7e329c8a9",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1286",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "异议",
+          "zh_Hant": "異議"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "opposition",
+          "flags": [],
+          "id": "tw-tipo-trademark-360b06314e80cd2f977f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "386",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "异议",
+          "zh_Hant": "異議"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "异议"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "opposition proceeding",
+          "flags": [],
+          "id": "tw-judicial-869ca82f32d727bde533",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1287",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "异议程序",
+          "zh_Hant": "異議程序"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "opposition proceeding",
+          "flags": [],
+          "id": "tw-tipo-trademark-e5fb93e5f017f8df57fd",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "388",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "异议程序",
+          "zh_Hant": "異議程序"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "异议程序"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "presume",
+          "flags": [],
+          "id": "tw-judicial-3696f3fe6d9788e617ff",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1267",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "推定",
+          "zh_Hant": "推定"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "presume",
+          "flags": [],
+          "id": "tw-tipo-trademark-acf7bae286573e87bc5d",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "424",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "推定",
+          "zh_Hant": "推定"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "推定"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "revocation",
+          "flags": [],
+          "id": "tw-judicial-3177a2492df11ca5917f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1643",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "撤销",
+          "zh_Hant": "撤銷"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "cancel",
+          "flags": [],
+          "id": "tw-tipo-trademark-dec384c977bfb4253ec4",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "61",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "撤销",
+          "zh_Hant": "撤銷"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "撤销"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "Government Official",
+          "flags": [],
+          "id": "tw-judicial-d93174a9bac5c5bda259",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "905",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "政府公报",
+          "zh_Hant": "政府公報"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Official Gazette",
+          "flags": [],
+          "id": "tw-tipo-trademark-b84065c11778807899c1",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "378",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "政府公报",
+          "zh_Hant": "政府公報"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "政府公报"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "permission",
+          "flags": [],
+          "id": "tw-judicial-a6f2196afd88940998c1",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1022",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "核准",
+          "zh_Hant": "核准"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "allowance",
+          "flags": [],
+          "id": "tw-tipo-trademark-41cf74b59f0f9c35d6c7",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "22",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "核准",
+          "zh_Hant": "核准"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "approve",
+          "flags": [],
+          "id": "tw-tipo-trademark-abb1835267c2f4ece061",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "36",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "核准",
+          "zh_Hant": "核准"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "核准"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "statutory period",
+          "flags": [],
+          "id": "tw-judicial-9feec0f984ab60f66a5f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "769",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "法定期间",
+          "zh_Hant": "法定期間"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "statutory period",
+          "flags": [],
+          "id": "tw-tipo-trademark-6638963967b2ff947ec6",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "540",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "法定期间",
+          "zh_Hant": "法定期間"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "法定期间"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "application period",
+          "flags": [],
+          "id": "tw-judicial-71c70242440d02df8e0f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "407",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "申请期间",
+          "zh_Hant": "申請期間"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "prosecution of the application",
+          "flags": [],
+          "id": "tw-tipo-trademark-6f66fb2f4f3eef2e0b87",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "451",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "申请期间",
+          "zh_Hant": "申請期間"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "申请期间"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "recording",
+          "flags": [],
+          "id": "tw-judicial-a7fb7b1d454fc8a1857b",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1445",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "登记",
+          "zh_Hant": "登記"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "recordation",
+          "flags": [],
+          "id": "tw-tipo-trademark-8efed26a9b9a87781d9f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "465",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "登记",
+          "zh_Hant": "登記"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "登记"
+    },
+    {
+      "members": [
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "Third Party",
+          "flags": [],
+          "id": "tw-judicial-ba9697a9c0c93e3fd1a7",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1298",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "第三人",
+          "zh_Hant": "第三人"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "third party",
+          "flags": [],
+          "id": "tw-tipo-trademark-9eed2463bbf08ab38564",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "554",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "第三人",
+          "zh_Hant": "第三人"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "第三人"
+    },
+    {
+      "members": [
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "authentication",
+          "flags": [],
+          "id": "tw-judicial-f0b0b42978137adea32b",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "2061",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "证明",
+          "zh_Hant": "證明"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "identification",
+          "flags": [],
+          "id": "tw-tipo-trademark-5b1a9cda0682f227e278",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "278",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "证明",
+          "zh_Hant": "證明"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "justify",
+          "flags": [],
+          "id": "tw-tipo-trademark-f361a025fdd7e30953e0",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "334",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "证明",
+          "zh_Hant": "證明"
+        }
+      ],
+      "priority": 95,
+      "reasons": [
+        "homograph_across_source_collections",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "证明"
+    },
+    {
+      "members": [
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "dispute_resolution"
+          ],
+          "en": "appeal",
+          "flags": [],
+          "id": "tw-judicial-c2ad5e1e8e8973156eac",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "25",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "上诉",
+          "zh_Hant": "上訴"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "appeal",
+          "flags": [],
+          "id": "tw-tipo-trademark-2a3d66098325b5263797",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "27",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "上诉",
+          "zh_Hant": "上訴"
+        }
+      ],
+      "priority": 70,
+      "reasons": [
+        "homograph_across_source_collections"
+      ],
+      "zh_Hans": "上诉"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Trademark Act",
+          "flags": [],
+          "id": "tw-judicial-6d942cb4223d4e410fcf",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1175",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "商标法",
+          "zh_Hant": "商標法"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Trademark Act",
+          "flags": [],
+          "id": "tw-tipo-trademark-ed450a9de4168c34143a",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "564",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "商标法",
+          "zh_Hant": "商標法"
+        }
+      ],
+      "priority": 70,
+      "reasons": [
+        "homograph_across_source_collections"
+      ],
+      "zh_Hans": "商标法"
+    },
+    {
+      "members": [
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "opposite party",
+          "flags": [],
+          "id": "tw-judicial-0e3b1cb4cd98e7aa9c7f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "933",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "相对人",
+          "zh_Hant": "相對人"
+        },
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "Opposite Party",
+          "flags": [],
+          "id": "tw-judicial-b8e91cfea337c1e0de29",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "932",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "相对人",
+          "zh_Hant": "相對人"
+        }
+      ],
+      "priority": 25,
+      "reasons": [
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "相对人"
+    },
+    {
+      "members": [
+        {
+          "context": "行政訴訟及懲戒廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "Assistants",
+          "flags": [],
+          "id": "tw-judicial-68d9be3230f7a24824f9",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1767",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "辅佐人",
+          "zh_Hant": "輔佐人"
+        },
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "Assistants",
+          "flags": [],
+          "id": "tw-judicial-a1015bc74a76b0534c30",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1766",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "辅佐人",
+          "zh_Hant": "輔佐人"
+        }
+      ],
+      "priority": 25,
+      "reasons": [
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "辅佐人"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "similar",
+          "flags": [
+            "compound_or_annotated_chinese"
+          ],
+          "id": "tw-tipo-trademark-26635aa2f8732463388e",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "513",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "与…近似",
+          "zh_Hant": "與…近似"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "be similar to",
+          "flags": [
+            "compound_or_annotated_chinese"
+          ],
+          "id": "tw-tipo-trademark-fe25565efaa9d80daa0b",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "514",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "与…近似",
+          "zh_Hant": "與…近似"
+        }
+      ],
+      "priority": 15,
+      "reasons": [
+        "contains_flagged_source_entry"
+      ],
+      "zh_Hans": "与…近似"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "be entitled to",
+          "flags": [
+            "compound_or_annotated_chinese"
+          ],
+          "id": "tw-tipo-trademark-af3a7e14e0595fcc7709",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "187",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "给与权利（或资格）",
+          "zh_Hant": "給與權利（或資格）"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "entitle",
+          "flags": [
+            "compound_or_annotated_chinese"
+          ],
+          "id": "tw-tipo-trademark-c3713445dc3be8f58273",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "186",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "给与权利（或资格）",
+          "zh_Hant": "給與權利（或資格）"
+        }
+      ],
+      "priority": 15,
+      "reasons": [
+        "contains_flagged_source_entry"
+      ],
+      "zh_Hans": "给与权利（或资格）"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "AGREEMENT ON TRADE-RELATED ASPECTS OF INTELLECTUAL PROPERTY RIGHTS",
+          "flags": [],
+          "id": "tw-tipo-trademark-a2be784c1148dcd032fa",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "571",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "与贸易有关之智慧财产权协定",
+          "zh_Hant": "與貿易有關之智慧財產權協定"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "TRIPS",
+          "flags": [],
+          "id": "tw-tipo-trademark-a525a8c70487f19c744c",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "570",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "与贸易有关之智慧财产权协定",
+          "zh_Hant": "與貿易有關之智慧財產權協定"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "与贸易有关之智慧财产权协定"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "World Intellectual Property Organization",
+          "flags": [],
+          "id": "tw-tipo-trademark-a1b12ba601ff40ca2b73",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "608",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "世界智慧财产权组织",
+          "zh_Hant": "世界智慧財產權組織"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "WIPO",
+          "flags": [],
+          "id": "tw-tipo-trademark-b47d8bd383e135155c48",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "607",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "世界智慧财产权组织",
+          "zh_Hant": "世界智慧財產權組織"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "世界智慧财产权组织"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "ADR",
+          "flags": [],
+          "id": "tw-tipo-trademark-186a3a10380d3a34b9bf",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "14",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "争议解决方案",
+          "zh_Hant": "爭議解決方案"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Alternative Dispute Resolution",
+          "flags": [],
+          "id": "tw-tipo-trademark-b5d096971353b458081d",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "15",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "争议解决方案",
+          "zh_Hant": "爭議解決方案"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "争议解决方案"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Goods/Place or Services/Place Association",
+          "flags": [],
+          "id": "tw-tipo-trademark-548b4de1a78f0ba33350",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "264",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "产品或服务与产地之关联性",
+          "zh_Hant": "產品或服務與產地之關聯性"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "GPSPA",
+          "flags": [],
+          "id": "tw-tipo-trademark-e0bf6c0c4e3a8cab644f",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "263",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "产品或服务与产地之关联性",
+          "zh_Hant": "產品或服務與產地之關聯性"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "产品或服务与产地之关联性"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Statement of Use",
+          "flags": [],
+          "id": "tw-tipo-trademark-72ad92426602f2f5fabd",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "523",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "使用声明",
+          "zh_Hant": "使用聲明"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "allegation of use",
+          "flags": [],
+          "id": "tw-tipo-trademark-8c6dd5c6ee0836dd7c23",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "19",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "使用声明",
+          "zh_Hant": "使用聲明"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "SOU",
+          "flags": [],
+          "id": "tw-tipo-trademark-ad654fc1f9dcdd54ec33",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "522",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "使用声明",
+          "zh_Hant": "使用聲明"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "使用声明"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Amendment to Allege Use",
+          "flags": [],
+          "id": "tw-tipo-trademark-686eebdb5736b9d60f16",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "2",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "使用声明之修正",
+          "zh_Hant": "使用聲明之修正"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "AAU",
+          "flags": [],
+          "id": "tw-tipo-trademark-bc269f0982bd0e470f14",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "使用声明之修正",
+          "zh_Hant": "使用聲明之修正"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "使用声明之修正"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Community Trade Mark (CTM)",
+          "flags": [],
+          "id": "tw-tipo-trademark-2f75220f9fbb1d5c1e21",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "94",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "共同体商标",
+          "zh_Hant": "共同體商標"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "CTMR",
+          "flags": [],
+          "id": "tw-tipo-trademark-6d80fd74749b153a9a11",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "123",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "共同体商标",
+          "zh_Hant": "共同體商標"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Community Trade Mark Regulation",
+          "flags": [],
+          "id": "tw-tipo-trademark-84dae182c283ed52e4bc",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "124",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "共同体商标",
+          "zh_Hant": "共同體商標"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "共同体商标"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Community Designs Regulation",
+          "flags": [],
+          "id": "tw-tipo-trademark-51c0522dafa27772fe59",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "64",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "共同体新式样",
+          "zh_Hant": "共同體新式樣"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "CDR",
+          "flags": [],
+          "id": "tw-tipo-trademark-ac636eca206f8dee34cd",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "63",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "共同体新式样",
+          "zh_Hant": "共同體新式樣"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "共同体新式样"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "OHIM",
+          "flags": [],
+          "id": "tw-tipo-trademark-975da9e732dd12b2fd2e",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "380",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "内部市场协调局",
+          "zh_Hant": "內部市場協調局"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Office for Harmonisation in the Internal Market",
+          "flags": [],
+          "id": "tw-tipo-trademark-cf0ff9d5f97cadeab140",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "381",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "内部市场协调局",
+          "zh_Hant": "內部市場協調局"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "内部市场协调局"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "ACPA",
+          "flags": [],
+          "id": "tw-tipo-trademark-9811f432c28feb215513",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "6",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "反网域名称抢注消费者保护法",
+          "zh_Hant": "反網域名稱搶註消費者保護法"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Anticybersquatting Consumer Protection Act",
+          "flags": [],
+          "id": "tw-tipo-trademark-a52b486c6c023617d2f1",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "statute",
+          "kind_basis": "automatic_surface_rules",
+          "record": "7",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "反网域名称抢注消费者保护法",
+          "zh_Hant": "反網域名稱搶註消費者保護法"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "反网域名称抢注消费者保护法"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "TMEP",
+          "flags": [],
+          "id": "tw-tipo-trademark-be34a79dfd6005ec2f64",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "559",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "商标审查程序手册",
+          "zh_Hant": "商標審查程序手冊"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Trademark Manual of Examining Procedure",
+          "flags": [],
+          "id": "tw-tipo-trademark-f614fa5062e9972578df",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "560",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "商标审查程序手册",
+          "zh_Hant": "商標審查程序手冊"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "商标审查程序手册"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Trademark Trial and Appeal Board",
+          "flags": [],
+          "id": "tw-tipo-trademark-94dc507f1a10a34d1b21",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "institution",
+          "kind_basis": "automatic_surface_rules",
+          "record": "573",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "商标诉愿暨上诉委员会",
+          "zh_Hant": "商標訴願暨上訴委員會"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "TTAB",
+          "flags": [],
+          "id": "tw-tipo-trademark-cefc3ace431a2e148856",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "572",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "商标诉愿暨上诉委员会",
+          "zh_Hant": "商標訴願暨上訴委員會"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "商标诉愿暨上诉委员会"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "POA",
+          "flags": [],
+          "id": "tw-tipo-trademark-3e422f44018dbbc08c08",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "412",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "委任状",
+          "zh_Hant": "委任狀"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Power of Attorney",
+          "flags": [],
+          "id": "tw-tipo-trademark-6d8c40fb87f49641fb42",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "413",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "委任状",
+          "zh_Hant": "委任狀"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "委任状"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "service mark",
+          "flags": [],
+          "id": "tw-tipo-trademark-481f43580a81fa480781",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "519",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "服务标章",
+          "zh_Hant": "服務標章"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "SM",
+          "flags": [],
+          "id": "tw-tipo-trademark-6ac652e3aa8955961eb7",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "518",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "服务标章",
+          "zh_Hant": "服務標章"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "服务标章"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "European Court of Justice",
+          "flags": [],
+          "id": "tw-tipo-trademark-3320966464e837ecd29d",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "institution",
+          "kind_basis": "automatic_surface_rules",
+          "record": "176",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "欧洲法院",
+          "zh_Hant": "歐洲法院"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "ECJ",
+          "flags": [],
+          "id": "tw-tipo-trademark-ffa8ad9a3807cef9c1ba",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "175",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "欧洲法院",
+          "zh_Hant": "歐洲法院"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "欧洲法院"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "CFI",
+          "flags": [],
+          "id": "tw-tipo-trademark-1c1b07d7bbc89a6a9187",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "55",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "法院第一审",
+          "zh_Hant": "法院第一審"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "the Court of First Instance",
+          "flags": [],
+          "id": "tw-tipo-trademark-c4a92fbec046a05c72ae",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "56",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "法院第一审",
+          "zh_Hant": "法院第一審"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "法院第一审"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Internet Corporation for Assigned Names and Numbers",
+          "flags": [],
+          "id": "tw-tipo-trademark-7f375780cf2658cfc641",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "276",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "网际网路名称与号码分配组织",
+          "zh_Hant": "網際網路名稱與號碼分配組織"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "ICANN",
+          "flags": [],
+          "id": "tw-tipo-trademark-c5a4b2eb291d2159fb96",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "275",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "网际网路名称与号码分配组织",
+          "zh_Hant": "網際網路名稱與號碼分配組織"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "网际网路名称与号码分配组织"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "United States Patent and Trademark Office",
+          "flags": [],
+          "id": "tw-tipo-trademark-df3cc9a4851faf678086",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "594",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "美国专利商标局",
+          "zh_Hant": "美國專利商標局"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "USPTO",
+          "flags": [],
+          "id": "tw-tipo-trademark-f49b2563f774e8b13c53",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "593",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "美国专利商标局",
+          "zh_Hant": "美國專利商標局"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "美国专利商标局"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "United States Patent Quarterly",
+          "flags": [],
+          "id": "tw-tipo-trademark-8cbb2ee85f8f72a9783d",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "592",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "美国专利季刊",
+          "zh_Hant": "美國專利季刊"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "USPQ",
+          "flags": [],
+          "id": "tw-tipo-trademark-ebf80f4d0d3b3bacedf1",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "591",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "美国专利季刊",
+          "zh_Hant": "美國專利季刊"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "美国专利季刊"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "CAFC",
+          "flags": [],
+          "id": "tw-tipo-trademark-340cf193227bf5ae6c14",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "abbreviation",
+          "kind_basis": "automatic_surface_rules",
+          "record": "59",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "联邦巡回上诉法院",
+          "zh_Hant": "聯邦巡迴上訴法院"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "U.S. Court of Appeals for the Federal Circuit",
+          "flags": [],
+          "id": "tw-tipo-trademark-3d2d6b692eaf891eb766",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "institution",
+          "kind_basis": "automatic_surface_rules",
+          "record": "60",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "联邦巡回上诉法院",
+          "zh_Hant": "聯邦巡迴上訴法院"
+        }
+      ],
+      "priority": 10,
+      "reasons": [
+        "contains_high_value_surface_kind"
+      ],
+      "zh_Hans": "联邦巡回上诉法院"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "divide",
+          "flags": [],
+          "id": "tw-tipo-trademark-5ce637dd27d48ef69237",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "162",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "分割",
+          "zh_Hant": "分割"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "division",
+          "flags": [],
+          "id": "tw-tipo-trademark-d6cf53de6df4a4ceda07",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "164",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "分割",
+          "zh_Hant": "分割"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "分割"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "classification",
+          "flags": [],
+          "id": "tw-tipo-trademark-056f31c358613b022177",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "75",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "分类",
+          "zh_Hant": "分類"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "classify",
+          "flags": [],
+          "id": "tw-tipo-trademark-0ce010f5e1ac8b5b6847",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "76",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "分类",
+          "zh_Hant": "分類"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "分类"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "conduct",
+          "flags": [],
+          "id": "tw-tipo-trademark-2ca6a84159c7ae4469b3",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "102",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "处理",
+          "zh_Hant": "處理"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "conduct a search of the Office's computerized database of registrations",
+          "flags": [],
+          "id": "tw-tipo-trademark-d828c2587f5771642c2e",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "103",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "处理",
+          "zh_Hant": "處理"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "处理"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "verification",
+          "flags": [],
+          "id": "tw-tipo-trademark-31627d325fca6efdbed5",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "599",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "宣誓书",
+          "zh_Hant": "宣誓書"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "affidavit",
+          "flags": [],
+          "id": "tw-tipo-trademark-95dad0da2d2be688b79e",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "17",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "宣誓书",
+          "zh_Hant": "宣誓書"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "宣誓书"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "designation",
+          "flags": [],
+          "id": "tw-tipo-trademark-6f4458b76af159cfc2fa",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "144",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "指定",
+          "zh_Hant": "指定"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "dictate",
+          "flags": [],
+          "id": "tw-tipo-trademark-b73b3c31cb1a460ff9f7",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "148",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "指定",
+          "zh_Hant": "指定"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "指定"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "clause",
+          "flags": [],
+          "id": "tw-tipo-trademark-2dac28c450ca4bdcac27",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "78",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "条款",
+          "zh_Hant": "條款"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "provision",
+          "flags": [],
+          "id": "tw-tipo-trademark-5e6462363154f819c0dc",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "452",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "条款",
+          "zh_Hant": "條款"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "条款"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "olfactory mark",
+          "flags": [],
+          "id": "tw-tipo-trademark-123afe2be5c8f0fb7f35",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "383",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "气味商标",
+          "zh_Hant": "氣味商標"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "scent mark",
+          "flags": [],
+          "id": "tw-tipo-trademark-fdb9a82b345c4e60e536",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "502",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "气味商标",
+          "zh_Hant": "氣味商標"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "气味商标"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "United States Code",
+          "flags": [],
+          "id": "tw-tipo-trademark-03887748035809bef582",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "579",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "美国法典",
+          "zh_Hant": "美國法典"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "U.S.C.",
+          "flags": [],
+          "id": "tw-tipo-trademark-fa45b86324301607c4b6",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "578",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "美国法典",
+          "zh_Hant": "美國法典"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "美国法典"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "Code of Federal Regulations",
+          "flags": [],
+          "id": "tw-tipo-trademark-85a9208ce9b73792845b",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "58",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "联邦法规法典",
+          "zh_Hant": "聯邦法規法典"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "C. F. R.",
+          "flags": [],
+          "id": "tw-tipo-trademark-d48e50ad5e6c28d7c4be",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "57",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "联邦法规法典",
+          "zh_Hant": "聯邦法規法典"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "联邦法规法典"
+    },
+    {
+      "members": [
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "mistakenly believe",
+          "flags": [],
+          "id": "tw-tipo-trademark-3cb23f0fbfeab036c439",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "365",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "误认",
+          "zh_Hant": "誤認"
+        },
+        {
+          "context": "A13070000G",
+          "domain_basis": "source_collection",
+          "domains": [
+            "intellectual_property"
+          ],
+          "en": "mistake",
+          "flags": [],
+          "id": "tw-tipo-trademark-46e53d5421a8a5beb22b",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "363",
+          "source_id": "tw-tipo-trademark",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "误认",
+          "zh_Hant": "誤認"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "误认"
+    },
+    {
+      "members": [
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "dispute_resolution"
+          ],
+          "en": "Mediation Room",
+          "flags": [],
+          "id": "tw-judicial-126f7b9d6009effb57f7",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1852",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "调解室",
+          "zh_Hant": "調解室"
+        },
+        {
+          "context": "司法行政廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "dispute_resolution"
+          ],
+          "en": "Mediation Room",
+          "flags": [],
+          "id": "tw-judicial-6532795af56d9b4e3261",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1853",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_review": "source_attributed",
+          "zh_Hans": "调解室",
+          "zh_Hant": "調解室"
+        }
+      ],
+      "priority": 0,
+      "reasons": [],
+      "zh_Hans": "调解室"
+    }
+  ],
+  "homograph_review_groups_total": 71,
+  "limits": [
+    "Source origin does not establish legal jurisdiction.",
+    "Surface-kind and domain rules are machine-generated candidates, not legal review.",
+    "Original source translations remain source-attributed until independently reviewed."
+  ],
+  "purpose": "Deterministic prioritization only; no item is legally reviewed by appearing in this queue.",
+  "single_high_value_candidates": [
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations for Taiwan Province Basic-Level 1990 Civil Servants Specific Examination",
+        "flags": [
+          "long_chinese_label"
+        ],
+        "id": "tw-judicial-45d204e62762c13144b7",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "8",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "七十九年特种考试台湾省基层公务人员考试规则",
+        "zh_Hant": "七十九年特種考試台灣省基層公務人員考試規則"
+      },
+      "priority": 65,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind",
+        "quality_flag"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act Governing the Issuance of the Public Construction Bond by the Central Government for Building Second Taiwan North Highway",
+        "flags": [
+          "long_chinese_label"
+        ],
+        "id": "tw-judicial-5d19dcb1c341ea3a4e63",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "102",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中央政府兴建台湾北部第二高速公路建设公债发行条例",
+        "zh_Hant": "中央政府興建台灣北部第二高速公路建設公債發行條例"
+      },
+      "priority": 65,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind",
+        "quality_flag"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "insurance agent, brokers and adjusters",
+        "flags": [
+          "compound_or_annotated_chinese"
+        ],
+        "id": "tw-judicial-a97bc6753fa1bcb7c92c",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "role",
+        "kind_basis": "automatic_surface_rules",
+        "record": "873",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "保险经纪人、代理人及公证人",
+        "zh_Hant": "保險經紀人、代理人及公證人"
+      },
+      "priority": 65,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind",
+        "quality_flag"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Operational Guidelines Governing the Preapproval of Specific Diagnostic Items and Medications for National Health Insurance",
+        "flags": [
+          "long_chinese_label"
+        ],
+        "id": "tw-judicial-136a0a47b682b85e35e5",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "437",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "全民健康保险特殊诊疗项目及药材事前审查作业要点",
+        "zh_Hant": "全民健康保險特殊診療項目及藥材事前審查作業要點"
+      },
+      "priority": 65,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind",
+        "quality_flag"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Operational Guidelines Governing the Preapproval of High Technological Diagnostic Items for National Health Insurance",
+        "flags": [
+          "long_chinese_label"
+        ],
+        "id": "tw-judicial-116b4367ad2f4c15c9ed",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "438",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "全民健康保险高科技诊疗项目及审查程序作业要点",
+        "zh_Hant": "全民健康保險高科技診療項目及審查程序作業要點"
+      },
+      "priority": 65,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind",
+        "quality_flag"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Implemental Guidelines on Remuneration of Public-Funded Students of National Yan-Ming Medical School and Assignment after Their Graduation",
+        "flags": [
+          "long_chinese_label"
+        ],
+        "id": "tw-judicial-f304cf018bfd00ceff50",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1190",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "国立阳明医学院医学系公费学生待遇及毕业后分发服务实施要点",
+        "zh_Hant": "國立陽明醫學院醫學系公費學生待遇及畢業後分發服務實施要點"
+      },
+      "priority": 65,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind",
+        "quality_flag"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Uniform Punishment Standard Forms and Rules for Handling the Matters of Violating Road Traffic Regulations",
+        "flags": [
+          "long_chinese_label"
+        ],
+        "id": "tw-judicial-1e04b8c0199d4969d1c9",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1616",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "违反道路交通管理事件统一裁罚标准及处理细则",
+        "zh_Hant": "違反道路交通管理事件統一裁罰標準及處理細則"
+      },
+      "priority": 65,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind",
+        "quality_flag"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Regulations Governing the Eligible Male for Military Service to be Considered as Trained Class B Militiaman in Kinmen-Matsu Region",
+        "flags": [
+          "long_chinese_label"
+        ],
+        "id": "tw-judicial-9900df819728170b8172",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "841",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "金马地区役龄男子检定为已训乙种国民兵实施办法",
+        "zh_Hant": "金馬地區役齡男子檢定為已訓乙種國民兵實施辦法"
+      },
+      "priority": 65,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind",
+        "quality_flag"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Sewerage Law",
+        "flags": [],
+        "id": "tw-judicial-1da68b391fb4340115ac",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "23",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "下水道法",
+        "zh_Hant": "下水道法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Junior College Act",
+        "flags": [],
+        "id": "tw-judicial-17af38d4e6af39aed36a",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1246",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "专科学校法",
+        "zh_Hant": "專科學校法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act of Gender Equality in Employment",
+        "flags": [],
+        "id": "tw-judicial-622f6f23f8ae76a7c519",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "694",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "两性工作平等法",
+        "zh_Hant": "兩性工作平等法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Law on the Exclusive Economic Zone and the Continental Shelf of the Republic of China",
+        "flags": [],
+        "id": "tw-judicial-d60709d3fa29c0fb3009",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "110",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中华民国专属经济海域及大陆礁层法",
+        "zh_Hant": "中華民國專屬經濟海域及大陸礁層法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act Governing the Issuance of 1959 Short -Term Public Bond",
+        "flags": [],
+        "id": "tw-judicial-639095c50a97413895ed",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "108",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中华民国四十八年短期公债发行条例",
+        "zh_Hant": "中華民國四十八年短期公債發行條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Provisional Constitution for the Period of Political Tutelage of the Republic of China",
+        "flags": [],
+        "id": "tw-judicial-7dc5c31a572629e53241",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "109",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中华民国训政时期约法",
+        "zh_Hant": "中華民國訓政時期約法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Law on the Territorial Sea and the Contiguous Zone of the Republic of China",
+        "flags": [],
+        "id": "tw-judicial-b3d3c6483b8ef8cc7e78",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "111",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中华民国领海及邻接区法",
+        "zh_Hant": "中華民國領海及鄰接區法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing the Fringe Benefits and Mutual Assistance for Civil and Teaching Personnel of Central Government",
+        "flags": [],
+        "id": "tw-judicial-f9fd047c87f38f532754",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "96",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中央公教人员福利互助办法",
+        "zh_Hant": "中央公教人員福利互助辦法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Central Government Development Bonds and Loans Act",
+        "flags": [],
+        "id": "tw-judicial-31780bd2cfa27e35fd00",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "101",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中央政府建设公债及借款条例",
+        "zh_Hant": "中央政府建設公債及借款條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Central Regulation Standard Act",
+        "flags": [],
+        "id": "tw-judicial-176584a42ec3ecd8ba81",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "100",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中央法规标准法",
+        "zh_Hant": "中央法規標準法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Organization Act of the Central Police University",
+        "flags": [],
+        "id": "tw-judicial-a78c435efbc5218662bc",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "107",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中央警察大学组织条例",
+        "zh_Hant": "中央警察大學組織條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act for Development of Small and Medium Enterprises",
+        "flags": [],
+        "id": "tw-judicial-9b447517fe46e11ca4c7",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "95",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "中小企业发展条例",
+        "zh_Hant": "中小企業發展條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "司法行政廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Chief Notary Public",
+        "flags": [],
+        "id": "tw-judicial-bf9b236aa48bb5e6d818",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "role",
+        "kind_basis": "automatic_surface_rules",
+        "record": "251",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "主任公证人",
+        "zh_Hant": "主任公證人"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Statues for Establishment and Management of Budget, Accounting and Statistics Agencies and BAS Personnel",
+        "flags": [],
+        "id": "tw-judicial-81c12c9309cd38590d66",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "259",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "主计机构人员设置管理条例",
+        "zh_Hant": "主計機構人員設置管理條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Provisional Act Governing 921 Earthquake Post-Disaster Reconstruction",
+        "flags": [],
+        "id": "tw-judicial-d47fb67647257b0fe6cd",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "9",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "九二一震灾重建暂行条例",
+        "zh_Hant": "九二一震災重建暫行條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Civil Associations Act",
+        "flags": [],
+        "id": "tw-judicial-fa5b532f7f6d600223a1",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "14",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "人民团体法",
+        "zh_Hant": "人民團體法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Certified Public Accountant Act",
+        "flags": [],
+        "id": "tw-judicial-c1ce5242d9e6d5afca1f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1545",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "会计师法",
+        "zh_Hant": "會計師法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act for Upgrading Industries",
+        "flags": [],
+        "id": "tw-judicial-05554989b977e63cd818",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "882",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "促进产业升级条例",
+        "zh_Hant": "促進產業升級條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Rules of the Act for Upgrading Industries",
+        "flags": [],
+        "id": "tw-judicial-c5f3c5774da43a2ed2c0",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "883",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "促进产业升级条例施行细则",
+        "zh_Hant": "促進產業升級條例施行細則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act for Promotion of Private Participation in Infrastructure Projects",
+        "flags": [],
+        "id": "tw-judicial-9348a890b57ea897dd21",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "881",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "促进民间参与公共建设法",
+        "zh_Hant": "促進民間參與公共建設法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "guarantor",
+        "flags": [],
+        "id": "tw-judicial-339e4d639a72b282970d",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "role",
+        "kind_basis": "automatic_surface_rules",
+        "record": "875",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "保证人",
+        "zh_Hant": "保證人"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing Insurance Agents",
+        "flags": [],
+        "id": "tw-judicial-b7d3def4d3519c52ca6c",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "869",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "保险代理人经纪人公证人管理规则",
+        "zh_Hant": "保險代理人經紀人公證人管理規則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "The Credit Cooperatives Act Of The Republic Of China",
+        "flags": [],
+        "id": "tw-judicial-bb147503959369065b63",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "855",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "信用合作社法",
+        "zh_Hant": "信用合作社法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Credit Union Act",
+        "flags": [],
+        "id": "tw-judicial-1365fc7588bdd6c06fb4",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1943",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "储蓄互助社法",
+        "zh_Hant": "儲蓄互助社法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Children Welfare Act",
+        "flags": [],
+        "id": "tw-judicial-85516c3099e9c214d76b",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "693",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "儿童福利法",
+        "zh_Hant": "兒童福利法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Optical Disk Act",
+        "flags": [],
+        "id": "tw-judicial-d837402eddd8e71a5733",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "432",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "光碟管理条例",
+        "zh_Hant": "光碟管理條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing the Payment of Remuneration to Military, Public and Teaching Personnel",
+        "flags": [],
+        "id": "tw-judicial-01894d3a92f7bef15f9d",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "443",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "全国军公教人员待遇支给办法",
+        "zh_Hant": "全國軍公教人員待遇支給辦法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing the Review of the Medical Services Rendered by the Medical Organizations for National Health Insurance",
+        "flags": [],
+        "id": "tw-judicial-e9d8fc970c011ac3aa37",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "439",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "全民健康保险医事服务机构医疗服务审查办法",
+        "zh_Hant": "全民健康保險醫事服務機構醫療服務審查辦法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing the National Health Insurance Medical Care",
+        "flags": [],
+        "id": "tw-judicial-e44361253ba2169cb692",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "440",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "全民健康保险医疗办法",
+        "zh_Hant": "全民健康保險醫療辦法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "National Health Insurance Act",
+        "flags": [],
+        "id": "tw-judicial-59a11f56ed716a9f3a8c",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "435",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "全民健康保险法",
+        "zh_Hant": "全民健康保險法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Rules of the National Health Insurance Act",
+        "flags": [],
+        "id": "tw-judicial-a6b7dae1d060f54454a3",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "436",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "全民健康保险法施行细则",
+        "zh_Hant": "全民健康保險法施行細則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "The Public Debt Act",
+        "flags": [],
+        "id": "tw-judicial-01bec058afb82a3ebf8f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "140",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公共债务法",
+        "zh_Hant": "公共債務法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Organization Act of the Civil Service Development Institute",
+        "flags": [],
+        "id": "tw-judicial-6418d827b0ccf52300f1",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "156",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人力发展中心组织条例",
+        "zh_Hant": "公務人力發展中心組織條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Public Functionaries Appointment Act",
+        "flags": [],
+        "id": "tw-judicial-791e3e5b21e64e44209f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "158",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员任用法",
+        "zh_Hant": "公務人員任用法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Organization Act of the Civil Service Housing and Welfare Committee",
+        "flags": [],
+        "id": "tw-judicial-a4e5fc29f8f2d1df515b",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "161",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员住宅及福利委员会组织条例",
+        "zh_Hant": "公務人員住宅及福利委員會組織條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Public Functionaries Insurance Act",
+        "flags": [],
+        "id": "tw-judicial-c7c571c794e8474fecfa",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "164",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员保险法",
+        "zh_Hant": "公務人員保險法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Rules of the Public Functionaries Insurance Act",
+        "flags": [],
+        "id": "tw-judicial-421f604f63a7cdb8397c",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "165",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员保险法施行细则",
+        "zh_Hant": "公務人員保險法施行細則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Civil Service Protection Act",
+        "flags": [],
+        "id": "tw-judicial-9724be5a2c1ee9d5da9c",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "162",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员保障法",
+        "zh_Hant": "公務人員保障法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Public Functionaries Remuneration Act",
+        "flags": [],
+        "id": "tw-judicial-a4ae39a1a7a9b27b974b",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "166",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员俸给法",
+        "zh_Hant": "公務人員俸給法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Rules of Public Functionaries Remuneration Act",
+        "flags": [],
+        "id": "tw-judicial-c14ff7b3d573a2ffa83b",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "167",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员俸给法施行细则",
+        "zh_Hant": "公務人員俸給法施行細則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act Governing the Payment of Compensation to Surviving Dependents of Public Functionaries",
+        "flags": [],
+        "id": "tw-judicial-a1abec56a9b5b0ea76ea",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "171",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员抚恤法",
+        "zh_Hant": "公務人員撫卹法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Public Functionaries Merit Evaluation Act",
+        "flags": [],
+        "id": "tw-judicial-03ac039df01f5415c892",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "160",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员考绩法",
+        "zh_Hant": "公務人員考績法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Civil Service Examinations Act",
+        "flags": [],
+        "id": "tw-judicial-0b2915354dabfacedac6",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "159",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员考试法",
+        "zh_Hant": "公務人員考試法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Public Functionaries Retirement Act",
+        "flags": [],
+        "id": "tw-judicial-22b68f018756a0d91e93",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "168",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员退休法",
+        "zh_Hant": "公務人員退休法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Rules of Public Functionaries Retirement Act",
+        "flags": [],
+        "id": "tw-judicial-46bb061860b988924f8f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "169",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员退休法施行细则",
+        "zh_Hant": "公務人員退休法施行細則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing the Training of Public Functionaries Passing High Level or Ordinary Level Civil Test",
+        "flags": [],
+        "id": "tw-judicial-8c7e4d68e4f3847d3a7e",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "170",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公务人员高等考试暨普通考试训练办法",
+        "zh_Hant": "公務人員高等考試暨普通考試訓練辦法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Regarding Supplementary Compensation for Government Employees and Teachers’ Pension and other Cash Benefits",
+        "flags": [],
+        "id": "tw-judicial-057d083756f317cc5a8f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "178",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公教人员退休金其他现金给与补偿金发给办法",
+        "zh_Hant": "公教人員退休金其他現金給與補償金發給辦法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act Governing the Forms of Official Documents",
+        "flags": [],
+        "id": "tw-judicial-4f17199d0934c3bc3d5f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "126",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公文程式条例",
+        "zh_Hant": "公文程式條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "政風處",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act on Recusal of Public Servants Due to Conflicts of Interest",
+        "flags": [],
+        "id": "tw-judicial-00a57a23cec668a67932",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "189",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公职人员利益冲突回避法",
+        "zh_Hant": "公職人員利益衝突迴避法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "政風處",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act on Property-Declaration by Public Servants",
+        "flags": [],
+        "id": "tw-judicial-fe67d512eb226ace2ab1",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "190",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公职人员财产申报法",
+        "zh_Hant": "公職人員財產申報法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "政風處",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing Examination and Browsing of Materials of Property-Declaration by Public Servants",
+        "flags": [],
+        "id": "tw-judicial-1c3ebb3cee4e7c032825",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "192",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公职人员财产申报资料审核及查阅办法",
+        "zh_Hant": "公職人員財產申報資料審核及查閱辦法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Civil Servants Election And Recall Act",
+        "flags": [],
+        "id": "tw-judicial-19dbb510559492f4f889",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "193",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公职人员选举罢免法",
+        "zh_Hant": "公職人員選舉罷免法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Statute of Privatization of Government-Owned Enterprises",
+        "flags": [],
+        "id": "tw-judicial-5e5180a63f0db78886cb",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "186",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公营事业移转民营条例",
+        "zh_Hant": "公營事業移轉民營條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "民事廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Notary",
+        "flags": [],
+        "id": "tw-judicial-b93c74d86a15bbc9a376",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "role",
+        "kind_basis": "automatic_surface_rules",
+        "record": "196",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "公证人",
+        "zh_Hant": "公證人"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "The Enforcement Act of Act of Military Service System",
+        "flags": [],
+        "id": "tw-judicial-4247f3c46a64fd29148a",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "614",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "兵役法施行法",
+        "zh_Hant": "兵役法施行法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Rules Governing the Supervision of the Pawnshops",
+        "flags": [],
+        "id": "tw-judicial-5937dcfab5b94c807c90",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "698",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "典押当业管理规则",
+        "zh_Hant": "典押當業管理規則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Medical Care Act",
+        "flags": [],
+        "id": "tw-judicial-30c7b0dd3237875505af",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "2044",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "兽医师法",
+        "zh_Hant": "獸醫師法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Organizational Statute for Conscription Affairs Administration, Ministry of the Interior",
+        "flags": [],
+        "id": "tw-judicial-84359f0bcc0dd9f7d3aa",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "120",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "内政部役政署组织条例",
+        "zh_Hant": "內政部役政署組織條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "The Organization Act of National Fire Agency, Ministry of the Interior",
+        "flags": [],
+        "id": "tw-judicial-f9111cd7be1af354055b",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "121",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "内政部消防署组织条例",
+        "zh_Hant": "內政部消防署組織條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act of Military Education",
+        "flags": [],
+        "id": "tw-judicial-88b2d7796ce3413598df",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "955",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "军事教育条例",
+        "zh_Hant": "軍事教育條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act of Insurance for Military Personnel",
+        "flags": [],
+        "id": "tw-judicial-3a143988e4058f8b3525",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "951",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "军人保险条例",
+        "zh_Hant": "軍人保險條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Statute of Favors for Military Servicemen & Their Dependents",
+        "flags": [],
+        "id": "tw-judicial-1011bb356ff893c5dc15",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "950",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "军人及其家属优待条例",
+        "zh_Hant": "軍人及其家屬優待條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Indemnities Act for Military Personnel",
+        "flags": [],
+        "id": "tw-judicial-103691e1dbde79d6430f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "954",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "军人抚恤条例",
+        "zh_Hant": "軍人撫卹條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Agricultural Development Act",
+        "flags": [],
+        "id": "tw-judicial-d9a3e88b35650a58fc4c",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1607",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "农业发展条例",
+        "zh_Hant": "農業發展條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Rules of the Agricultural Development Act",
+        "flags": [],
+        "id": "tw-judicial-9ea535de1f50ca928841",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1608",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "农业发展条例施行细则",
+        "zh_Hant": "農業發展條例施行細則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Farmers Health Insurance Act",
+        "flags": [],
+        "id": "tw-judicial-aa92f8b4dd9c904b0e30",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1600",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "农民健康保险条例",
+        "zh_Hant": "農民健康保險條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Agro-pesticides Management Act",
+        "flags": [],
+        "id": "tw-judicial-a538fadd54ce035783a3",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1609",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "农药管理法",
+        "zh_Hant": "農藥管理法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act of Compensation for Wrongful Detentions and Executions",
+        "flags": [],
+        "id": "tw-judicial-768a4f13693b0c0702f5",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "984",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "冤狱赔偿法",
+        "zh_Hant": "冤獄賠償法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Personal Property Secured Transactions Act",
+        "flags": [],
+        "id": "tw-judicial-ebf72fe75d5d2978332f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1156",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "动产担保交易法",
+        "zh_Hant": "動產擔保交易法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing Settlement of Labor Disputes During the Period of National Mobilization for Suppression of the Communist Rebellion",
+        "flags": [],
+        "id": "tw-judicial-c10932efe20bff60297c",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1152",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "动员戡乱时期劳资纠纷处理办法",
+        "zh_Hant": "動員戡亂時期勞資糾紛處理辦法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "National Security Act During the Period of National Mobilization for Suppression of the Communist Rebellion",
+        "flags": [],
+        "id": "tw-judicial-aa9c0218f02a6487ee70",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1150",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "动员戡乱时期国家安全法",
+        "zh_Hant": "動員戡亂時期國家安全法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Rules of the National Security Act During the Period of National Mobilization for Suppression of the Communist Rebellion",
+        "flags": [],
+        "id": "tw-judicial-1d6bf0c4783fb9518fe1",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1151",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "动员戡乱时期国家安全法施行细则",
+        "zh_Hant": "動員戡亂時期國家安全法施行細則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Statute for Prevention and Control of Infectious Animal Disease",
+        "flags": [],
+        "id": "tw-judicial-b58ab006e5865d013a19",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1148",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "动物传染病防治条例",
+        "zh_Hant": "動物傳染病防治條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Animal Protection Act",
+        "flags": [],
+        "id": "tw-judicial-8aa54b3d94d3e1c5a07e",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1147",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "动物保护法",
+        "zh_Hant": "動物保護法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Veterinary Drugs Control Act",
+        "flags": [],
+        "id": "tw-judicial-01fa834d5aea65ffb2ec",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1146",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "动物用药品管理法",
+        "zh_Hant": "動物用藥品管理法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act for Settlement of Labor-Management Disputes",
+        "flags": [],
+        "id": "tw-judicial-09bcbcbb91b9cae71bc6",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1398",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "劳资争议处理法",
+        "zh_Hant": "勞資爭議處理法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regional Plan Act",
+        "flags": [],
+        "id": "tw-judicial-c0797fdead6ad52426f7",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1157",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "区域计划法",
+        "zh_Hant": "區域計畫法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Enforcement Rules for the Regional Plan Act",
+        "flags": [],
+        "id": "tw-judicial-30df5baea31ca098e4f2",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1158",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "区域计划法施行细则",
+        "zh_Hant": "區域計劃法施行細則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Overseas Compatriot Identity Certification Act",
+        "flags": [],
+        "id": "tw-judicial-288c0c8b8d2712ff4497",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1477",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "华侨身分证明条例",
+        "zh_Hant": "華僑身分證明條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Satellite Broadcasting Act",
+        "flags": [],
+        "id": "tw-judicial-b20594530c3d2d06c0e6",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1833",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "卫星广播电视法",
+        "zh_Hant": "衛星廣播電視法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Provisional Act for Indigenous Senior Citizens' Welfare Living Allowances",
+        "flags": [],
+        "id": "tw-judicial-5b71ed2acba3eb45043f",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "989",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "原住民敬老福利生活津贴暂行条例",
+        "zh_Hant": "原住民敬老福利生活津貼暫行條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Education Act for Indigenous Peoples",
+        "flags": [],
+        "id": "tw-judicial-bedbade70cfdc148b5da",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "988",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "原住民族教育法",
+        "zh_Hant": "原住民族教育法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Status Act for Indigenous Peoples",
+        "flags": [],
+        "id": "tw-judicial-d5f20ad760da28ff9cd5",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "987",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "原住民身分法",
+        "zh_Hant": "原住民身分法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "plaintiff",
+        "flags": [],
+        "id": "tw-judicial-eb874b74e57025767e13",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "role",
+        "kind_basis": "automatic_surface_rules",
+        "record": "990",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "原告",
+        "zh_Hant": "原告"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "The English Text of Atomic Energy Law of The Republic of China",
+        "flags": [],
+        "id": "tw-judicial-64534a43aab698fcc9b7",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "985",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "原子能法",
+        "zh_Hant": "原子能法"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act Governing the Farmland Grants to Anti-Communist and Anti-Soviet Union Soldiers",
+        "flags": [],
+        "id": "tw-judicial-e07a02a58500416a5bf5",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "206",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "反共抗俄战士授田条例",
+        "zh_Hant": "反共抗俄戰士授田條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing the Military Array",
+        "flags": [],
+        "id": "tw-judicial-57d3c4df30633853a9ba",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "284",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "召集规则",
+        "zh_Hant": "召集規則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing the Supervision of Taipei City Roads",
+        "flags": [],
+        "id": "tw-judicial-55e70f9cc196120e2bea",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "320",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "台北市市区道路管理规则",
+        "zh_Hant": "台北市市區道路管理規則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Act Governing Relations between the People of the Taiwan Area and the Mainland Area",
+        "flags": [],
+        "id": "tw-judicial-99c58d3e94193d9d2087",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "1688",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "台湾地区与大陆地区人民关系条例",
+        "zh_Hant": "臺灣地區與大陸地區人民關係條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Regulations Governing the Retirement of the Factory Workers of Taiwan Province",
+        "flags": [],
+        "id": "tw-judicial-40e3c103ee14345d16fb",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "324",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "台湾省工厂工人退休规则",
+        "zh_Hant": "台灣省工廠工人退休規則"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Implemental Guidelines for the Release of Government-Owned Tillable Land to Self-tilling Farmers in Taiwan Province",
+        "flags": [],
+        "id": "tw-judicial-e7ff0fb8f2b824df23a0",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "325",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "台湾省放领公有耕地扶植自耕农实施要点",
+        "zh_Hant": "台灣省放領公有耕地扶植自耕農實施要點"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    },
+    {
+      "entry": {
+        "context": "憲法法庭書記廳",
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "unclassified"
+        ],
+        "en": "Provisional Act Governing the Monopolistic Sale on Cigarettes and Wines in Taiwan Province",
+        "flags": [],
+        "id": "tw-judicial-a5c39c2c943d8b37b289",
+        "jurisdiction_basis": "not_assessed",
+        "jurisdictions": [],
+        "kind": "statute",
+        "kind_basis": "automatic_surface_rules",
+        "record": "329",
+        "source_id": "tw-judicial",
+        "status": "source_attributed",
+        "translation_review": "source_attributed",
+        "zh_Hans": "台湾省烟酒专卖暂行条例",
+        "zh_Hant": "台灣省菸酒專賣暫行條例"
+      },
+      "priority": 55,
+      "reasons": [
+        "unclassified_domain",
+        "high_value_surface_kind"
+      ]
+    }
+  ],
+  "single_high_value_candidates_total": 374,
+  "source_attributed_entries": 2730,
+  "unclassified_source_entries": 1490
+}
