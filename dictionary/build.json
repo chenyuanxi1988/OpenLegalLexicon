@@ -4,13 +4,19 @@
     "src/openlegallexicon/__init__.py": "3d86dcc9da53104955268f5a85d808f92cd9213918d44e5eac93184de4f1a492",
     "src/openlegallexicon/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
     "src/openlegallexicon/cli.py": "61a8cf6609efd02975bd0714ce71c32bea6a1e4b8cc48ddc8089e4dfa58a5a9a",
-    "src/openlegallexicon/evidence.py": "f0adf0b2f3b9f707bd887c13c5c7750e0114ca707b5459b184399d3bc4c20ff2",
-    "src/openlegallexicon/export.py": "5ca69dc4c0975e7c89ccb6fe76a8902c143c7f8769c7ecf5f29fb1077962fab2",
+    "src/openlegallexicon/evidence.py": "40143bf645672d286f1114e6f354e13153c204086571ef6e971b429de0a782a5",
+    "src/openlegallexicon/export.py": "de3453040471b45891fd78d95646974d5eeecc5f0bd95e135ca1d926b829f209",
     "src/openlegallexicon/ingest.py": "5a00f0202fb1ae853439c2bcd337112968b75efc2d589f132cf84438204138df",
     "src/openlegallexicon/io.py": "501ad3937c5dc8e4d7cf8f6fbbc4937fa4470d58a2cddd2de142edc8ed91ac3a",
     "src/openlegallexicon/legal_html.py": "54c260fa50c2298ff241d48b300ebda199edb8e3649558355bda0141ff38e671",
     "src/openlegallexicon/model.py": "6b47f12424e8269eb2aff2a293be6a543ea4f882544471bab42328e4084b3d85",
     "src/openlegallexicon/validate.py": "dfbeddee24cd1867b2b98accb71f9ee9190933750e75211708821f4bce10c1bb"
+  },
+  "evidence_registries_sha256": {
+    "data/evidence/laws-cn-admin-labor.json": "c8b92ead2bc2121c8f8a8d291e24d78ffcb2449db5b22ae482ac8d25b0686c78",
+    "data/evidence/laws-cn-criminal.json": "f6c41a50f0d3eceff1c64657e214739b9dd39693388b3ed9f7bf728c2214448c",
+    "data/evidence/laws-cn-tax-trade.json": "fe437df3dae681a68bce7dcdac1dd3db3365d1ee298280ecf96a53f3ac4e6fb3",
+    "data/evidence/laws.json": "1a25fe6b5cee7ff3a830b91abb1360f1273cb7274d65b4fbae6837f4fd8c63a9"
   },
   "evidence_sha256": "1a25fe6b5cee7ff3a830b91abb1360f1273cb7274d65b4fbae6837f4fd8c63a9",
   "filters": {
