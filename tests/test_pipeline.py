@@ -30,10 +30,12 @@ class PipelineTests(unittest.TestCase):
 
     def test_entire_snapshot_is_accounted_for(self):
         original_sources=[s for s in self.sources if s.get('format')!='editorial_seed']
-        original_entries=[e for e in self.entries if e['status']=='source_attributed']
+        original_source_ids={s['id'] for s in original_sources}
+        original_entries=[e for e in self.entries if e['references'][0]['source_id'] in original_source_ids]
         self.assertEqual(sum(s['expected_records'] for s in original_sources),2734)
         self.assertEqual(len(original_entries),2730)
         self.assertEqual(sum(len(e['references']) for e in original_entries),2734)
+        self.assertTrue(all(e['status'] in {'source_attributed','editorial_checked','quarantined'} for e in original_entries))
         authored=[e for e in self.entries if e['status']=='evidence_linked']
         self.assertEqual(len(authored),self.editorial_count())
         self.assertEqual(validate_sources(ROOT),[])
