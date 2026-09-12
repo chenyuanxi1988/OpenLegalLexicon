@@ -21,6 +21,8 @@ jobs:
         with:
           python-version: ${{ matrix.python }}
       - run: python -m pip install -e '.[dev]'
+      - name: Print snapshot SHA-256 diagnostics
+        run: sha256sum data/snapshots/*.jsonl
       - run: oll validate
       - name: Validate legal evidence target registries offline
         run: |
