@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Build reviewable evidence candidates from a fresh official-law HTML cache.
 
-This tool is deliberately one-way: it reads the registered source targets and a
-retrieval manifest, extracts only the requested articles, and writes a candidate
-`laws-*.json`. It never edits approved evidence or editorial dictionary entries.
+This tool is deliberately one-way: it reads a registered source-target batch and
+a retrieval manifest, extracts only the requested articles, and writes a
+candidate `laws-*.json`. It never edits approved evidence or editorial entries.
 """
 from __future__ import annotations
 
@@ -15,9 +15,15 @@ from openlegallexicon.io import digest, read_json, write_json
 from openlegallexicon.legal_html import extract_articles
 
 
+def resolved(root: Path, value: Path) -> Path:
+    return value if value.is_absolute() else root / value
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument('--root', type=Path, default=Path.cwd())
+    parser.add_argument('--targets', type=Path, default=Path('data/evidence/source_targets.json'),
+                        help='target registry, relative to --root unless absolute')
     parser.add_argument('--cache', type=Path, required=True)
     parser.add_argument('--out', type=Path, required=True)
     args = parser.parse_args()
@@ -25,7 +31,8 @@ def main() -> int:
     if args.out.exists():
         raise ValueError(f'{args.out}: refusing to overwrite an existing candidate file')
 
-    targets = read_json(args.root / 'data/evidence/source_targets.json')
+    target_path = resolved(args.root, args.targets)
+    targets = read_json(target_path)
     manifest = read_json(args.cache / 'legal-downloads.json')
     targets_by_id = {row['id']: row for row in targets}
     manifest_by_id = {row['id']: row for row in manifest}
@@ -74,7 +81,7 @@ def main() -> int:
             'text_basis': 'PRC-Copyright-Law-Article-5(1)',
             'articles': selected,
         })
-        print(f"CANDIDATE: {document_id}, {len(selected)} selected / {len(extracted)} numbered articles")
+        print(f'CANDIDATE: {document_id}, {len(selected)} selected / {len(extracted)} numbered articles')
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
     write_json(args.out, documents)
