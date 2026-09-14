@@ -87,7 +87,7 @@ python tools/verify_legal_sources.py --cache /path/to/legal-html --out build/leg
 
 ## 下一阶段编审重点
 
-四批中国大陆核心学习层已经形成 218 条证据型词条，但来源参考层仍有 2,730 条来源对应，其中 1,467 条在自动规则下未分类，且尚未逐条完成法域与译义复核。下一阶段先按高频、机构/法规/缩写、核心领域和同形异义风险建立可审计编审批次；自动规则只用于生成候选队列，不把机器分类状态冒充人工审核完成。
+四批中国大陆核心学习层已经形成 218 条证据型词条，但来源参考层仍有 2,730 条来源对应，其中 1,463 条尚未分类，且尚未逐条完成法域与译义复核。下一阶段先按高频、机构/法规/缩写、核心领域和同形异义风险建立可审计编审批次；自动规则只用于生成候选队列，不把机器分类状态冒充人工审核完成。
 
 
 ## 来源参考层第三批：20 组同形词的 40 条原始记录
@@ -99,3 +99,13 @@ python tools/verify_legal_sources.py --cache /path/to/legal-html --out build/leg
 - 假处分不因含“处分”就归入行政处罚；准用的拉丁语表达不标成首字母缩写；appeal、opposition、authentication、identification、justify 等保留原词形和程序语境，不能无条件互换。
 
 quarantined 或 suspected_translation_error 记录默认不进入学习与输入法产物；原始快照仍保留，查询时可显式使用 --include-quarantined 查看说明。队列的 unresolved_quality_items 保存未解决事项，不以隔离状态充当复核完成。
+
+
+## 来源参考层第四批：名称与缩写、三组同形词
+
+12 条记录均比较了已核验 SHA-256 的原始行；新增分类、来源语境说明及两条 abbreviation_of 关系。原始拼写、大小写、稳定 ID 和来源关系保持不变，法域仍未评定，translation 仍为 source_attributed。详见 [本批审计](../reports/source-review-batch4-2026-09-14.json)。
+
+- [WIPO About](https://www.wipo.int/en/web/about-wipo) 支持机构全称与 WIPO 的对应；[WTO TRIPS](https://www.wto.org/english/tratop_e/trips_e/trips_e.htm) 支持协定名称与 TRIPS 的对应。关系指向同一来源中的全称记录，保留独立 ID。
+- [TLT](https://www.wipo.int/en/web/treaties/ip/tlt/index) 的全称和括号缩写在同一记录内，不创建自指缩写关系。[巴黎公约](https://www.wipo.int/en/web/treaties/ip/paris/index) 按工业产权语境说明全称，原来源仍保留简称。
+- 本版 schema 无 treaty 类型；国际条约/协定全称按 document 编排，说明中标出其具体类别。Trademark Act 按 statute 编排，但未推定某一法域、修订版本或现行性。
+- 相对人、辅佐人依据原提供单位保留不同程序语境，不据此认定诉讼资格或具体权利义务。官方网页名称核对不代替中文译法、条文效果、成员范围或法域审核。

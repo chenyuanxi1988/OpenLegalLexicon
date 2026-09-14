@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-14",
+  "baseline_commit": "130ac41f5f7cfe6ed80ef97abd16ea64b6465b11",
+  "source_commit": "a4cff668d38edcd4c6c0e0adea9440d06c8b5562",
+  "python": "3.12.10",
+  "platform": "macOS arm64",
+  "source_record_checks": {
+    "compared": 12,
+    "previous_annotations_preserved": true,
+    "only_expected_entries_changed": true,
+    "source_forms_references_jurisdictions_flags_and_translation_review_preserved": true
+  },
+  "unit_tests": {
+    "command": "python -m unittest discover -s tests -v",
+    "executed": true,
+    "tests": 37,
+    "result": "passed"
+  },
+  "executed_checks": [
+    {
+      "check": "validate",
+      "returncode": 0
+    },
+    {
+      "check": "unit-tests",
+      "returncode": 0
+    },
+    {
+      "check": "evidence-targets-baseline",
+      "returncode": 0
+    },
+    {
+      "check": "evidence-targets-tax-trade",
+      "returncode": 0
+    },
+    {
+      "check": "evidence-targets-criminal",
+      "returncode": 0
+    },
+    {
+      "check": "full-1",
+      "returncode": 0
+    },
+    {
+      "check": "full-2",
+      "returncode": 0
+    },
+    {
+      "check": "core",
+      "returncode": 0
+    },
+    {
+      "check": "intellectual-property",
+      "returncode": 0
+    },
+    {
+      "check": "queue",
+      "returncode": 0
+    },
+    {
+      "check": "publication-generate",
+      "returncode": 0
+    },
+    {
+      "check": "publication-check",
+      "returncode": 0
+    },
+    {
+      "check": "anki-full",
+      "returncode": 0
+    },
+    {
+      "check": "anki-core",
+      "returncode": 0
+    },
+    {
+      "check": "rime",
+      "returncode": 0
+    }
+  ],
+  "reproducibility": {
+    "full_builds": 2,
+    "all_file_sha256_maps_equal": true
+  },
+  "counts": {
+    "structured_entries": 2948,
+    "default_entries": 2941,
+    "source_entries": 2730,
+    "core_entries": 218,
+    "study_notes": 5882,
+    "english_candidates": 2713,
+    "rime_hans_rows": 2610,
+    "rime_hant_rows": 2610,
+    "classification_reviewed": 67,
+    "quarantined": 2,
+    "unclassified": 1463,
+    "remaining_homograph_groups": 31,
+    "single_high_value_candidates": 374
+  },
+  "publication_check": {
+    "location": "isolated staging directory",
+    "download_files_including_checksum_manifest": 23,
+    "regeneration_check": "passed"
+  },
+  "anki_full": {
+    "all_fields_and_tags_match": true,
+    "engine": "Anki",
+    "file": "anki.tsv",
+    "first_import_cards": 5882,
+    "first_import_notes": 5882,
+    "isolated_collection": true,
+    "second_import_cards": 5882,
+    "second_import_notes": 5882,
+    "version": "26.8.1"
+  },
+  "anki_core": {
+    "all_fields_and_tags_match": true,
+    "engine": "Anki",
+    "file": "anki_core.tsv",
+    "first_import_cards": 436,
+    "first_import_notes": 436,
+    "isolated_collection": true,
+    "second_import_cards": 436,
+    "second_import_notes": 436,
+    "version": "26.8.1"
+  },
+  "rime": {
+    "engine": "librime",
+    "isolated_profile": true,
+    "tests": [
+      {
+        "expected": "行政处分",
+        "keys": "xingzhengchufen",
+        "output": "candidate: 行政处分\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hans"
+      },
+      {
+        "expected": "行政處分",
+        "keys": "xingzhengchufen",
+        "output": "candidate: 行政處分\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hant"
+      },
+      {
+        "expected": "律师",
+        "keys": "lvshi",
+        "output": "candidate: 律师\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hans"
+      },
+      {
+        "expected": "律師",
+        "keys": "lvshi",
+        "output": "candidate: 律師\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hant"
+      },
+      {
+        "expected": "银行法",
+        "keys": "yin'hang'fa",
+        "output": "candidate: 银行法\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hans"
+      },
+      {
+        "expected": "会计法",
+        "keys": "kuai'ji'fa",
+        "output": "candidate: 会计法\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hans"
+      },
+      {
+        "expected": "重复处罚",
+        "keys": "chongfuchufa",
+        "output": "candidate: 重复处罚\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hans"
+      },
+      {
+        "expected": "匿名化",
+        "keys": "niminghua",
+        "output": "candidate: 匿名化\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hans"
+      },
+      {
+        "expected": "個人信息處理者",
+        "keys": "ge'ren'xin'xi'chu'li'zhe",
+        "output": "candidate: 個人信息處理者\ncandidate: 個人信息\nlibrime: 1.11.2",
+        "passed": true,
+        "schema": "openlegal_hant"
+      }
+    ]
+  },
+  "ci": {
+    "status": "not_yet_run_for_this_batch",
+    "previous_main_run": 34702393627,
+    "previous_run_rechecked": "success"
+  },
+  "generated_artifact_commit": null,
+  "not_executed": [
+    "local Python 3.10 run",
+    "fresh online re-download of legal evidence HTML",
+    "expert legal translation review",
+    "Qwen3-ASR inference or real-audio evaluation"
+  ],
+  "remaining_gaps": [
+    "source-reference editorial coverage",
+    "two unresolved translation-quality items",
+    "private overlay",
+    "ASR adaptation and real-audio evaluation",
+    "final release audit"
+  ],
+  "next_action": "Run branch CI, review integration into latest main, then verify generated dictionary/review-queue publication. Next data batch starts with source rows 513/514 (与…近似), 186/187 (给与权利（或资格）), and 14/15 (争议解决方案)."
+}
