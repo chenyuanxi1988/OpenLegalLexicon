@@ -194,7 +194,14 @@
     ]
   },
   "ci": {
-    "status": "not_yet_run_for_this_batch",
+    "status": "success",
+    "run_id": 34812009026,
+    "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon/actions/runs/34812009026",
+    "validated_commit": "b22a827a19f06d8b882758949fb0ee959f1e5be4",
+    "python_3_10": "success",
+    "python_3_12": "success",
+    "real_anki_and_rime": "success",
+    "publish_dictionary": "skipped_pull_request_run",
     "previous_main_run": 34702393627,
     "previous_run_rechecked": "success"
   },
@@ -212,5 +219,5 @@
     "ASR adaptation and real-audio evaluation",
     "final release audit"
   ],
-  "next_action": "Run branch CI, review integration into latest main, then verify generated dictionary/review-queue publication. Next data batch starts with source rows 513/514 (与…近似), 186/187 (给与权利（或资格）), and 14/15 (争议解决方案)."
+  "next_action": "Review PR #1 against latest main; after integration verify the generated dictionary/review-queue commit and all file hashes. Next data batch starts with trademark source rows 513/514, 186/187 and 14/15."
 }

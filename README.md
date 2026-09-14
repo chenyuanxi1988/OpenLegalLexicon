@@ -27,7 +27,7 @@ Traceable Chinese–English legal terminology for study, search and input method
 
 来源参考层四批共处理 69 条，其中 67 条完成分类与译法说明、2 条译义存疑并隔离；原译文审核状态仍为 source_attributed。1,463 条仍未分类。第四批复核商标法、相对人、辅佐人及 WIPO/TRIPS/TLT/巴黎公约，共 12 条，新增两条有官方依据的缩写关系，见 [编审报告](reports/source-review-batch4-2026-09-14.json)。编审队列与下载词典由同一次 CI 发布，避免两个自动流程相互抢占主线。
 
-第四批本地 37 项测试、全量校验、两次可复现构建、下载暂存同步及真实 Anki/Rime 通过，见 [本批验证报告](reports/validation-source-review-batch4-2026-09-14.json)。本批尚待远端 CI 与 main 下载发布核验；仓库版本仍为 0.1.0.dev4、schema 1.1.0。上一批的 37 项测试、全量校验、构建、真实 Anki/Rime 与下载发布均通过；源码提交 `e6274eed59e78c89b3c956b3242b3a72c4d1fc5c`，逐项结果见 [验证说明](docs/VALIDATION.md)。
+第四批本地 37 项测试、全量校验、两次可复现构建、下载暂存同步及真实 Anki/Rime 通过，见 [本批验证报告](reports/validation-source-review-batch4-2026-09-14.json)。本批 [CI 34812009026](https://github.com/chenyuanxi1988/OpenLegalLexicon/actions/runs/34812009026) 的 Python 3.10/3.12 和真实 Anki/Rime 已通过；PR #1 尚未合并，main 下载发布仍待核验；仓库版本仍为 0.1.0.dev4、schema 1.1.0。上一批的 37 项测试、全量校验、构建、真实 Anki/Rime 与下载发布均通过；源码提交 `e6274eed59e78c89b3c956b3242b3a72c4d1fc5c`，逐项结果见 [验证说明](docs/VALIDATION.md)。
 
 模板、占位符、隔离条目及疑似错误译义不进入默认学习/输入法输出。输入法还排除多项中文、附注及过长标签。拼音、简体及部分来源参考层分类由程序生成，状态明确记录。
 

@@ -8,9 +8,9 @@
 
 最近完成的工程检查点：0.1.0.dev4 源码 `e6274eed59e78c89b3c956b3242b3a72c4d1fc5c`；[GitHub Actions 34702393627](https://github.com/chenyuanxi1988/OpenLegalLexicon/actions/runs/34702393627) 的 Python 3.10、3.12 和发布任务均成功，含 37 项测试及真实 Anki/Rime。生成提交 `04cbfbb767ef0af3915139033deed5579499b4c9` 已发布，23 个 dictionary 文件和编审队列共 24 个文件摘要与本地逐项一致。
 
-第四批来源编审源码：`a4cff668d38edcd4c6c0e0adea9440d06c8b5562`，基线 main `130ac41f5f7cfe6ed80ef97abd16ea64b6465b11`。12 条原始行已比较，补入分类/说明及 WIPO/TRIPS 两条缩写关系；原始词对、ID、法域、质量标记与译文审核状态保留。本地 37 项测试、全量校验、全量/核心/知识产权构建、重复构建 SHA-256 比较、下载暂存同步、真实 Anki 完整/核心重复导入和 Rime 九组查询均通过，见 [reports/validation-source-review-batch4-2026-09-14.json](reports/validation-source-review-batch4-2026-09-14.json)。本批远端 CI 待执行；生成产物提交尚无，不能将上一批 CI 或当前 main 下载版称为本批发布成果。
+第四批来源编审源码：`a4cff668d38edcd4c6c0e0adea9440d06c8b5562`，基线 main `130ac41f5f7cfe6ed80ef97abd16ea64b6465b11`。12 条原始行已比较，补入分类/说明及 WIPO/TRIPS 两条缩写关系；原始词对、ID、法域、质量标记与译文审核状态保留。本地 37 项测试、全量校验、全量/核心/知识产权构建、重复构建 SHA-256 比较、下载暂存同步、真实 Anki 完整/核心重复导入和 Rime 九组查询均通过，见 [reports/validation-source-review-batch4-2026-09-14.json](reports/validation-source-review-batch4-2026-09-14.json)。本批 [CI 34812009026](https://github.com/chenyuanxi1988/OpenLegalLexicon/actions/runs/34812009026) 已验证提交 `b22a827a19f06d8b882758949fb0ee959f1e5be4`：Python 3.10/3.12、37 项测试和真实 Anki/Rime 成功。PR #1 尚未合并，自动发布按规则 skipped；生成产物提交尚无，不能将当前 main 下载版称为本批发布成果。
 
-下一项可执行工作：先完成本批分支 CI，并在核对最新 main 后审查集成与自动下载发布。随后从实时队列的“与…近似”（商标来源 513/514）、“给与权利（或资格）”（186/187）、“争议解决方案”（14/15）开始下一批；已完成的商标法、相对人、辅佐人和 WIPO/TRIPS/TLT/巴黎公约不重复编辑。当前剩余 31 个同形组、374 个高价值单项候选、1,463 条未分类记录。两个隔离词对仍保留在 unresolved_quality_items，隔离不等于解决译义问题。
+下一项可执行工作：核对最新 main 后审查 [PR #1](https://github.com/chenyuanxi1988/OpenLegalLexicon/pull/1) 的集成；合并后核验自动下载提交及全部摘要。本批分支 CI 已通过。随后从实时队列的“与…近似”（商标来源 513/514）、“给与权利（或资格）”（186/187）、“争议解决方案”（14/15）开始下一批；已完成的商标法、相对人、辅佐人和 WIPO/TRIPS/TLT/巴黎公约不重复编辑。当前剩余 31 个同形组、374 个高价值单项候选、1,463 条未分类记录。两个隔离词对仍保留在 unresolved_quality_items，隔离不等于解决译义问题。
 
 每个可验证批次提交实现、公开进度和日志，记录源码提交、实际测试、CI、生成产物提交、未完成项及下一项明确动作。接续时先核对最新 main；本页历史检查点不能覆盖更新的代码和数据。未提交或未执行的工作不得写成已完成。
 
