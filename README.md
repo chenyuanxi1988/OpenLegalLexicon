@@ -4,7 +4,7 @@
 
 Traceable Chinese–English legal terminology for study, search and input methods.
 
-**开发中：0.1.0.dev4。** 当前已有可运行、可验证、可直接下载的数据管线和词库；中国大陆核心学习层已完成四批：民商/数据/竞争/知识产权、行政/劳动、税务/贸易、刑事。下一阶段重点是来源参考层逐条编审，之后再进入私有词库叠加和 Qwen3-ASR/真实音频评测。完成状态和续作入口见 [PROGRESS.md](PROGRESS.md)，每步记录见 [WORK_LOG.md](WORK_LOG.md)。
+**开发中：0.1.0.dev4。** 当前已有可运行、可验证、可直接下载的数据管线和词库；中国大陆核心学习层已完成四批：民商/数据/竞争/知识产权、行政/劳动、税务/贸易、刑事。**当前最高优先级已经调整为扩充和校对主要中英文法律术语、法律词组与固定搭配，使底层词库本身更准确、更完整。Anki 与 Rime 保留现有导出和测试能力，但暂不作为功能开发重点；私有词库叠加和 Qwen3-ASR/真实音频评测后置。** 完整优先级和续作规则见 [DEVELOPMENT_PLAN.md](DEVELOPMENT_PLAN.md) 与 [PROGRESS.md](PROGRESS.md)，每步记录见 [WORK_LOG.md](WORK_LOG.md)。
 
 ## 现在包含什么
 
@@ -30,6 +30,17 @@ Traceable Chinese–English legal terminology for study, search and input method
 第四批本地 37 项测试、全量校验、两次可复现构建、下载暂存同步及真实 Anki/Rime 通过，见 [本批验证报告](reports/validation-source-review-batch4-2026-09-14.json)。本批 [CI 34812009026](https://github.com/chenyuanxi1988/OpenLegalLexicon/actions/runs/34812009026) 的 Python 3.10/3.12 和真实 Anki/Rime 已通过；PR #1 尚未合并，main 下载发布仍待核验；仓库版本仍为 0.1.0.dev4、schema 1.1.0。上一批的 37 项测试、全量校验、构建、真实 Anki/Rime 与下载发布均通过；源码提交 `e6274eed59e78c89b3c956b3242b3a72c4d1fc5c`，逐项结果见 [验证说明](docs/VALIDATION.md)。
 
 模板、占位符、隔离条目及疑似错误译义不进入默认学习/输入法输出。输入法还排除多项中文、附注及过长标签。拼音、简体及部分来源参考层分类由程序生成，状态明确记录。
+
+## 当前开发重点
+
+**词库内容本身是当前主产品。** 后续 AI 或贡献者应优先实际新增、核对和分类主要中英文法律术语、词组与固定搭配，并重点处理法域差异、一词多译、同形异义、机构/法规/条约名称和常见缩写。不能只清理旧数据而不扩充高价值内容，也不能因为 Anki/Rime/ASR 更容易做工程优化就偏离内容建设。
+
+现阶段：
+
+- Anki 完整版/核心版继续自动生成并保持真实导入测试，但不主动开发新功能；
+- Rime 简体/繁体继续自动生成并保持真实编译测试，但不主动开发新功能；
+- 私有词库 overlay、Qwen3-ASR 和真实音频评测保留在路线图中，待主词库达到首版内容覆盖目标后恢复；
+- 每一批新增词条都应尽量记录来源/依据、领域、法域或法域不确定性、类型、中文、英文、语境/译法说明和审核状态。
 
 ## 使用
 
@@ -95,4 +106,4 @@ oll report --out build/quality.json
 
 运行真实输入法检查需要 librime 开发库与 `rime_deployer`，见 [验证说明](docs/VALIDATION.md)。字段规则见 [数据结构](docs/DATA_MODEL.md)，贡献与更新流程见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
-当前开发顺序是：**先对 2,730 条来源参考层按高频、核心领域和同形异义风险逐批编审**；随后实现私有词库叠加与 Qwen3-ASR/真实音频评测；最后执行完整发布审计。每个阶段均要求远端 CI、真实 Anki/Rime 验证和下载版发布闭环，详见 [PROGRESS.md](PROGRESS.md) 与 [开发计划](DEVELOPMENT_PLAN.md)。
+当前开发顺序是：**先扩充和校对主要中英文法律词库内容，同时继续来源参考层高价值编审；再做领域覆盖审计与补缺。Anki/Rime 仅维护现有导出和测试，私有 overlay 与 Qwen3-ASR/真实音频评测后置；最后执行完整内容与发布审计。** 每个阶段均要求远端 CI 和下载版发布不回归，详见 [PROGRESS.md](PROGRESS.md) 与 [开发计划](DEVELOPMENT_PLAN.md)。
