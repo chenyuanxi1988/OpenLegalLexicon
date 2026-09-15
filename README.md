@@ -17,7 +17,7 @@ Traceable Chinese–English legal terminology for study, search and input method
 | 检索 | 中文、英文、拼音、ID，以及领域、来源地区、已核验法域筛选 |
 | 导出 | JSONL、TSV、双向 Anki TSV、核心学习 CSV/Anki、英文候选词表、简体和繁体 Rime 词典及独立方案 |
 | 追溯 | 每份构建附来源与许可、导出行到词条的映射、构建配置、全部证据批次的 SHA-256 摘要 |
-| 最近已核验远端基线（本批更新前） | GitHub Actions 34702393627：Python 3.10/3.12、37 项测试、构建、真实 Rime、真实 Anki 与发布成功；生成提交 `04cbfbb767ef0af3915139033deed5579499b4c9` 的 23 个下载文件和编审队列摘要已核验 |
+| 最新远端验证 | 内容源码 `36320f09cc0d6ef2611a2a8c41cec8181e40168b` 的 [GitHub Actions 34920605172](https://github.com/chenyuanxi1988/OpenLegalLexicon/actions/runs/34920605172) 全部成功：Python 3.10/3.12、37 项测试、构建与现有 Anki/Rime 验证通过；自动生成提交 `3a3831831b4c83f8994709b5999e2c8e1d662cf9` 的 23 个 dictionary 文件和编审队列共 24 个文件摘要与本地逐项一致。 |
 
 两家第三方提供机构都位于台湾，词表中同时含本地、外国、国际制度与历史名称。`source_origin=TW` 仅表示来源地区，**不表示术语都适用于台湾，更不表示简体转换后就适用于中国大陆**。未经查证的 `jurisdictions` 留空。原词对是来源中的译文对应，不冒充跨法域的严格等义概念。
 
@@ -27,7 +27,7 @@ Traceable Chinese–English legal terminology for study, search and input method
 
 来源参考层四批共复核 65 条，其中 63 条完成分类与译法说明、2 条译义存疑并隔离；原译文审核状态仍为 source_attributed。1,467 条领域仍未分类。第四批核对 8 条机构/条约/法规/缩写记录，建立 WIPO、TRIPS 两条缩写关系；[报告](reports/source-review-batch4-2026-09-15.json)保留原始行和分类依据。编审队列与下载词典由同一次 CI 发布，避免两个自动流程相互抢占主线。
 
-2026-09-15 新增 **48 条合同实务词组**，合同证据型词条由 21 条增至 69 条，附 22 条易混/关联关系。51 个法条与固定原文及当日重新下载的最高人民法院原文全部一致。本地 37 项测试、全量校验和构建通过；本批远端验证待提交后核验。详情见 [内容覆盖与缺口](docs/CONTENT_COVERAGE_2026-09-15.md)及[验证说明](docs/VALIDATION.md)。
+2026-09-15 新增 **48 条合同实务词组**，合同证据型词条由 21 条增至 69 条，附 22 条易混/关联关系。51 个法条与固定原文及当日重新下载的最高人民法院原文全部一致。本地及远端 37 项测试、全量校验和构建通过，下载词库已同步并核验。详情见 [内容覆盖与缺口](docs/CONTENT_COVERAGE_2026-09-15.md)及[验证说明](docs/VALIDATION.md)。
 
 模板、占位符、隔离条目及疑似错误译义不进入默认学习/输入法输出。输入法还排除多项中文、附注及过长标签。拼音、简体及部分来源参考层分类由程序生成，状态明确记录。
 
