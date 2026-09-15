@@ -1,0 +1,452 @@
+{
+  "abbreviation_relations_added": 2,
+  "annotations_after_sha256": "be8fb9f2befdc3e0ac578f178a2b358a8258786fd1d301a7d0e7e9de00fe0a4f",
+  "annotations_before_sha256": "024212ba537a8dd3c2d683a3591b58942ba62ed62db279d71d523368a798cd86",
+  "baseline_commit": "013cbf8c5449aa9d8b92a7bda6c5548b94c2eb29",
+  "classification_notes_added": 8,
+  "date": "2026-09-15",
+  "entries": [
+    {
+      "after": {
+        "domain_basis": "editorial",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "institution",
+        "kind_basis": "editorial",
+        "review": {
+          "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "editorial_checked",
+        "translation_note": "英文全称与 WIPO 官方介绍一致，按国际机构名称编排；来源中文“世界智慧财产权组织”保留原字形，不能因中文译名差异另造机构。只核对名称及类别，不推定具体法律适用。依据：https://www.wipo.int/en/web/about-wipo"
+      },
+      "before": {
+        "domain_basis": "source_collection",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "unclassified",
+        "kind_basis": "automatic_surface_rules",
+        "review": {
+          "editor": null,
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "source_attributed",
+        "translation_note": ""
+      },
+      "entry_id": "tw-tipo-trademark-a1b12ba601ff40ca2b73",
+      "original_forms": {
+        "en": "World Intellectual Property Organization",
+        "zh_Hans": "世界智慧财产权组织",
+        "zh_Hant": "世界智慧財產權組織"
+      },
+      "raw_document": {
+        "retrieved": "2026-09-11",
+        "sha256": "31a2bc8027b47f71ded9fe42fbd2f670fe275e12d59bc4d94f9c9314b0d68e4d",
+        "url": "https://tiponet.tipo.gov.tw/datagov/tm/004-102-001.csv"
+      },
+      "source_reference": {
+        "context": "A13070000G",
+        "page": 1,
+        "record": "608",
+        "source_id": "tw-tipo-trademark",
+        "source_updated": "2025-07-11"
+      }
+    },
+    {
+      "after": {
+        "domain_basis": "editorial",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "abbreviation",
+        "kind_basis": "editorial",
+        "relations": [
+          {
+            "evidence": "https://www.wipo.int/en/web/about-wipo — official page explicitly associates the acronym with the full name.",
+            "target": "tw-tipo-trademark-a1b12ba601ff40ca2b73",
+            "type": "abbreviation_of"
+          }
+        ],
+        "review": {
+          "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "editorial_checked",
+        "translation_note": "WIPO 是 World Intellectual Property Organization 的缩写；与本来源全称记录建立 abbreviation_of 关系。机构缩写不表示某一条约或国内知识产权法。依据：https://www.wipo.int/en/web/about-wipo"
+      },
+      "before": {
+        "domain_basis": "source_collection",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "abbreviation",
+        "kind_basis": "automatic_surface_rules",
+        "relations": [],
+        "review": {
+          "editor": null,
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "source_attributed",
+        "translation_note": ""
+      },
+      "entry_id": "tw-tipo-trademark-b47d8bd383e135155c48",
+      "original_forms": {
+        "en": "WIPO",
+        "zh_Hans": "世界智慧财产权组织",
+        "zh_Hant": "世界智慧財產權組織"
+      },
+      "raw_document": {
+        "retrieved": "2026-09-11",
+        "sha256": "31a2bc8027b47f71ded9fe42fbd2f670fe275e12d59bc4d94f9c9314b0d68e4d",
+        "url": "https://tiponet.tipo.gov.tw/datagov/tm/004-102-001.csv"
+      },
+      "source_reference": {
+        "context": "A13070000G",
+        "page": 1,
+        "record": "607",
+        "source_id": "tw-tipo-trademark",
+        "source_updated": "2025-07-11"
+      }
+    },
+    {
+      "after": {
+        "domain_basis": "editorial",
+        "domains": [
+          "intellectual_property",
+          "trade"
+        ],
+        "kind": "document",
+        "kind_basis": "editorial",
+        "review": {
+          "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "editorial_checked",
+        "translation_note": "WTO 官方页确认此英文全称及 TRIPS 缩写，保留来源的全大写形式；这是国际协定名称，在当前类型表中归入 document，不能标为机构或国内成文法。未核验各成员适用范围或特定条款。依据：https://www.wto.org/english/tratop_e/trips_e/trips_e.htm"
+      },
+      "before": {
+        "domain_basis": "source_collection",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "unclassified",
+        "kind_basis": "automatic_surface_rules",
+        "review": {
+          "editor": null,
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "source_attributed",
+        "translation_note": ""
+      },
+      "entry_id": "tw-tipo-trademark-a2be784c1148dcd032fa",
+      "original_forms": {
+        "en": "AGREEMENT ON TRADE-RELATED ASPECTS OF INTELLECTUAL PROPERTY RIGHTS",
+        "zh_Hans": "与贸易有关之智慧财产权协定",
+        "zh_Hant": "與貿易有關之智慧財產權協定"
+      },
+      "raw_document": {
+        "retrieved": "2026-09-11",
+        "sha256": "31a2bc8027b47f71ded9fe42fbd2f670fe275e12d59bc4d94f9c9314b0d68e4d",
+        "url": "https://tiponet.tipo.gov.tw/datagov/tm/004-102-001.csv"
+      },
+      "source_reference": {
+        "context": "A13070000G",
+        "page": 1,
+        "record": "571",
+        "source_id": "tw-tipo-trademark",
+        "source_updated": "2025-07-11"
+      }
+    },
+    {
+      "after": {
+        "domain_basis": "editorial",
+        "domains": [
+          "intellectual_property",
+          "trade"
+        ],
+        "kind": "abbreviation",
+        "kind_basis": "editorial",
+        "relations": [
+          {
+            "evidence": "https://www.wto.org/english/tratop_e/trips_e/trips_e.htm — official page explicitly associates the acronym with the full name.",
+            "target": "tw-tipo-trademark-a2be784c1148dcd032fa",
+            "type": "abbreviation_of"
+          }
+        ],
+        "review": {
+          "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "editorial_checked",
+        "translation_note": "本来源的 TRIPS 指与贸易有关之智慧财产权协定，与同表英文全称建立缩写关系；不能脱离知识产权和贸易语境当作普通英文 trips。依据：https://www.wto.org/english/tratop_e/trips_e/trips_e.htm"
+      },
+      "before": {
+        "domain_basis": "source_collection",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "abbreviation",
+        "kind_basis": "automatic_surface_rules",
+        "relations": [],
+        "review": {
+          "editor": null,
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "source_attributed",
+        "translation_note": ""
+      },
+      "entry_id": "tw-tipo-trademark-a525a8c70487f19c744c",
+      "original_forms": {
+        "en": "TRIPS",
+        "zh_Hans": "与贸易有关之智慧财产权协定",
+        "zh_Hant": "與貿易有關之智慧財產權協定"
+      },
+      "raw_document": {
+        "retrieved": "2026-09-11",
+        "sha256": "31a2bc8027b47f71ded9fe42fbd2f670fe275e12d59bc4d94f9c9314b0d68e4d",
+        "url": "https://tiponet.tipo.gov.tw/datagov/tm/004-102-001.csv"
+      },
+      "source_reference": {
+        "context": "A13070000G",
+        "page": 1,
+        "record": "570",
+        "source_id": "tw-tipo-trademark",
+        "source_updated": "2025-07-11"
+      }
+    },
+    {
+      "after": {
+        "domain_basis": "editorial",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "document",
+        "kind_basis": "editorial",
+        "review": {
+          "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "editorial_checked",
+        "translation_note": "WIPO 页面确认 Trademark Law Treaty (TLT) 的条约名称；TLT 在本条英文形式内，保留整体，不机械拆分制造新词对。类型 document 表示条约文本；不与国内 Trademark Act 合并，也不据名称认定缔约方范围。依据：https://www.wipo.int/en/web/treaties/ip/tlt/index"
+      },
+      "before": {
+        "domain_basis": "source_collection",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "unclassified",
+        "kind_basis": "automatic_surface_rules",
+        "review": {
+          "editor": null,
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "source_attributed",
+        "translation_note": ""
+      },
+      "entry_id": "tw-tipo-trademark-97bea0c8c855a910b224",
+      "original_forms": {
+        "en": "Trademark Law Treaty (TLT)",
+        "zh_Hans": "商标法条约",
+        "zh_Hant": "商標法條約"
+      },
+      "raw_document": {
+        "retrieved": "2026-09-11",
+        "sha256": "31a2bc8027b47f71ded9fe42fbd2f670fe275e12d59bc4d94f9c9314b0d68e4d",
+        "url": "https://tiponet.tipo.gov.tw/datagov/tm/004-102-001.csv"
+      },
+      "source_reference": {
+        "context": "A13070000G",
+        "page": 1,
+        "record": "567",
+        "source_id": "tw-tipo-trademark",
+        "source_updated": "2025-07-11"
+      }
+    },
+    {
+      "after": {
+        "domain_basis": "editorial",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "document",
+        "kind_basis": "editorial",
+        "review": {
+          "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "editorial_checked",
+        "translation_note": "在本商标词表语境下，Paris Convention 对应 WIPO 所列保护工业产权巴黎公约；保留来源简称，不将它泛化为所有名为巴黎的国际协定。类型 document 表示条约文本；具体修订文本与适用范围未核验。依据：https://www.wipo.int/en/web/treaties/ip/paris/index"
+      },
+      "before": {
+        "domain_basis": "source_collection",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "unclassified",
+        "kind_basis": "automatic_surface_rules",
+        "review": {
+          "editor": null,
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "source_attributed",
+        "translation_note": ""
+      },
+      "entry_id": "tw-tipo-trademark-a2d04e951fbae5697b04",
+      "original_forms": {
+        "en": "Paris Convention",
+        "zh_Hans": "巴黎公约",
+        "zh_Hant": "巴黎公約"
+      },
+      "raw_document": {
+        "retrieved": "2026-09-11",
+        "sha256": "31a2bc8027b47f71ded9fe42fbd2f670fe275e12d59bc4d94f9c9314b0d68e4d",
+        "url": "https://tiponet.tipo.gov.tw/datagov/tm/004-102-001.csv"
+      },
+      "source_reference": {
+        "context": "A13070000G",
+        "page": 1,
+        "record": "398",
+        "source_id": "tw-tipo-trademark",
+        "source_updated": "2025-07-11"
+      }
+    },
+    {
+      "after": {
+        "domain_basis": "editorial",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "statute",
+        "kind_basis": "editorial",
+        "review": {
+          "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "editorial_checked",
+        "translation_note": "来源词对为“商标法 / Trademark Act”，按法规名称编排；仅凭此名称及提供单位，无法确定具体法域或修法版本，法域仍留空。不要把 Act 与 Trademark Law Treaty 混为同一文本。"
+      },
+      "before": {
+        "domain_basis": "automatic_keyword_rules",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "unclassified",
+        "kind_basis": "automatic_surface_rules",
+        "review": {
+          "editor": null,
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "source_attributed",
+        "translation_note": ""
+      },
+      "entry_id": "tw-judicial-6d942cb4223d4e410fcf",
+      "original_forms": {
+        "en": "Trademark Act",
+        "zh_Hans": "商标法",
+        "zh_Hant": "商標法"
+      },
+      "raw_document": {
+        "retrieved": "2026-09-11",
+        "sha256": "8584d5677a790ecbad59fa3c744c87487a40eda87556784415dc256ea2aae075",
+        "url": "https://www.judicial.gov.tw/tw/lp-1501-1-20-60.html"
+      },
+      "source_reference": {
+        "context": "憲法法庭書記廳",
+        "page": 20,
+        "record": "1175",
+        "source_id": "tw-judicial",
+        "source_updated": null
+      }
+    },
+    {
+      "after": {
+        "domain_basis": "editorial",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "statute",
+        "kind_basis": "editorial",
+        "review": {
+          "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "editorial_checked",
+        "translation_note": "商标词表保留“商标法 / Trademark Act”词对；与另一来源相同名称仍为两条可追溯记录，未据来源地区填入适用法域或现行版本。Act 的法规名称与 Treaty 的条约名称分别编排。"
+      },
+      "before": {
+        "domain_basis": "source_collection",
+        "domains": [
+          "intellectual_property"
+        ],
+        "kind": "unclassified",
+        "kind_basis": "automatic_surface_rules",
+        "review": {
+          "editor": null,
+          "extraction": "validated",
+          "translation": "source_attributed"
+        },
+        "status": "source_attributed",
+        "translation_note": ""
+      },
+      "entry_id": "tw-tipo-trademark-ed450a9de4168c34143a",
+      "original_forms": {
+        "en": "Trademark Act",
+        "zh_Hans": "商标法",
+        "zh_Hant": "商標法"
+      },
+      "raw_document": {
+        "retrieved": "2026-09-11",
+        "sha256": "31a2bc8027b47f71ded9fe42fbd2f670fe275e12d59bc4d94f9c9314b0d68e4d",
+        "url": "https://tiponet.tipo.gov.tw/datagov/tm/004-102-001.csv"
+      },
+      "source_reference": {
+        "context": "A13070000G",
+        "page": 1,
+        "record": "564",
+        "source_id": "tw-tipo-trademark",
+        "source_updated": "2025-07-11"
+      }
+    }
+  ],
+  "scope": "Eight hash-verified source rows; names, categories and two acronym relations only. No expert translation, jurisdiction or treaty applicability review.",
+  "source_records_compared": 8,
+  "supporting_references": [
+    {
+      "accessed": "2026-09-15",
+      "url": "https://www.wipo.int/en/web/about-wipo",
+      "use": "Name, acronym and institution category"
+    },
+    {
+      "accessed": "2026-09-15",
+      "url": "https://www.wto.org/english/tratop_e/trips_e/trips_e.htm",
+      "use": "Agreement name and acronym"
+    },
+    {
+      "accessed": "2026-09-12",
+      "url": "https://www.wipo.int/en/web/treaties/ip/tlt/index",
+      "use": "Treaty name and document category"
+    },
+    {
+      "accessed": "2026-09-12",
+      "url": "https://www.wipo.int/en/web/treaties/ip/paris/index",
+      "use": "Industrial property treaty identification in source context"
+    }
+  ]
+}

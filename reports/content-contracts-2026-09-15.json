@@ -1,0 +1,527 @@
+{
+  "added_directed_relations": 22,
+  "added_entries": 48,
+  "baseline_commit": "013cbf8c5449aa9d8b92a7bda6c5548b94c2eb29",
+  "core_contract_entries_after": 69,
+  "core_contract_entries_before": 21,
+  "date": "2026-09-15",
+  "entry_evidence": [
+    {
+      "articles": [
+        552
+      ],
+      "en": "accession to a debt as a co-obligor",
+      "id": "cn-accession-to-debt",
+      "kind": "term",
+      "zh": "债务加入"
+    },
+    {
+      "articles": [
+        569
+      ],
+      "en": "set-off by agreement",
+      "id": "cn-agreed-setoff",
+      "kind": "term",
+      "zh": "协议抵销"
+    },
+    {
+      "articles": [
+        578
+      ],
+      "en": "anticipatory breach of contract",
+      "id": "cn-anticipatory-breach",
+      "kind": "term",
+      "zh": "预期违约"
+    },
+    {
+      "articles": [
+        584
+      ],
+      "en": "benefits expected from performance of the contract",
+      "id": "cn-benefits-expected-performance",
+      "kind": "term",
+      "zh": "合同履行可得利益"
+    },
+    {
+      "articles": [
+        593
+      ],
+      "en": "breach caused by a third party",
+      "id": "cn-breach-caused-third-party",
+      "kind": "term",
+      "zh": "因第三人原因违约"
+    },
+    {
+      "articles": [
+        533
+      ],
+      "en": "fundamental change of circumstances",
+      "id": "cn-change-circumstances",
+      "kind": "term",
+      "zh": "情势变更"
+    },
+    {
+      "articles": [
+        583,
+        584
+      ],
+      "en": "claim damages for breach of contract",
+      "id": "cn-claim-contract-damages",
+      "kind": "action",
+      "zh": "请求违约损害赔偿"
+    },
+    {
+      "articles": [
+        577,
+        580
+      ],
+      "en": "seek continued performance",
+      "id": "cn-continued-performance",
+      "kind": "action",
+      "zh": "请求继续履行"
+    },
+    {
+      "articles": [
+        483,
+        490
+      ],
+      "en": "formation of a contract",
+      "id": "cn-contract-formation",
+      "kind": "term",
+      "zh": "合同成立"
+    },
+    {
+      "articles": [
+        502
+      ],
+      "en": "taking effect of a contract",
+      "id": "cn-contract-taking-effect",
+      "kind": "term",
+      "zh": "合同生效"
+    },
+    {
+      "articles": [
+        589
+      ],
+      "en": "creditor’s delay in accepting performance",
+      "id": "cn-creditor-delay-acceptance",
+      "kind": "term",
+      "zh": "债权人受领迟延"
+    },
+    {
+      "articles": [
+        487
+      ],
+      "en": "acceptance delayed in transmission",
+      "id": "cn-delayed-transmission-acceptance",
+      "kind": "term",
+      "zh": "承诺迟到"
+    },
+    {
+      "articles": [
+        563
+      ],
+      "en": "demand performance of an overdue principal obligation",
+      "id": "cn-demand-delayed-performance",
+      "kind": "action",
+      "zh": "催告履行主要债务"
+    },
+    {
+      "articles": [
+        496
+      ],
+      "en": "draw attention to and explain standard terms",
+      "id": "cn-draw-attention-standard-terms",
+      "kind": "action",
+      "zh": "提示和说明格式条款"
+    },
+    {
+      "articles": [
+        530
+      ],
+      "en": "perform an obligation before it falls due",
+      "id": "cn-early-performance",
+      "kind": "action",
+      "zh": "提前履行债务"
+    },
+    {
+      "articles": [
+        588
+      ],
+      "en": "elect between agreed-damages and earnest-money clauses",
+      "id": "cn-elect-damages-or-deposit",
+      "kind": "action",
+      "zh": "选择适用违约金或定金条款"
+    },
+    {
+      "articles": [
+        506
+      ],
+      "en": "exemption clause",
+      "id": "cn-exemption-clause",
+      "kind": "term",
+      "zh": "免责条款"
+    },
+    {
+      "articles": [
+        592
+      ],
+      "en": "fault contributing to loss caused by breach",
+      "id": "cn-fault-contributing-loss",
+      "kind": "term",
+      "zh": "对违约损失发生有过错"
+    },
+    {
+      "articles": [
+        590
+      ],
+      "en": "give notice and provide evidence of force majeure",
+      "id": "cn-force-majeure-notification",
+      "kind": "action",
+      "zh": "通知不可抗力并提供证明"
+    },
+    {
+      "articles": [
+        584
+      ],
+      "en": "foreseeability limit on damages for breach",
+      "id": "cn-foreseeability-contract-loss",
+      "kind": "term",
+      "zh": "违约损失可预见性限制"
+    },
+    {
+      "articles": [
+        509
+      ],
+      "en": "perform contractual obligations in full",
+      "id": "cn-full-contract-performance",
+      "kind": "action",
+      "zh": "全面履行合同义务"
+    },
+    {
+      "articles": [
+        565
+      ],
+      "en": "give notice of termination of a contract",
+      "id": "cn-give-termination-notice",
+      "kind": "action",
+      "zh": "通知解除合同"
+    },
+    {
+      "articles": [
+        527,
+        528
+      ],
+      "en": "right to suspend performance on grounds of insecurity",
+      "id": "cn-insecurity-defense",
+      "kind": "term",
+      "zh": "不安抗辩权"
+    },
+    {
+      "articles": [
+        498
+      ],
+      "en": "interpret standard terms against their provider",
+      "id": "cn-interpret-against-provider",
+      "kind": "action",
+      "zh": "作不利于格式条款提供方的解释"
+    },
+    {
+      "articles": [
+        476
+      ],
+      "en": "irrevocable offer",
+      "id": "cn-irrevocable-offer",
+      "kind": "term",
+      "zh": "不可撤销的要约"
+    },
+    {
+      "articles": [
+        486
+      ],
+      "en": "late acceptance",
+      "id": "cn-late-acceptance",
+      "kind": "term",
+      "zh": "逾期承诺"
+    },
+    {
+      "articles": [
+        488
+      ],
+      "en": "make a material alteration to an offer",
+      "id": "cn-material-change-offer",
+      "kind": "action",
+      "zh": "对要约作实质性变更"
+    },
+    {
+      "articles": [
+        591
+      ],
+      "en": "mitigate loss caused by breach",
+      "id": "cn-mitigate-contract-loss",
+      "kind": "action",
+      "zh": "防止违约损失扩大"
+    },
+    {
+      "articles": [
+        500
+      ],
+      "en": "negotiate a contract in bad faith",
+      "id": "cn-negotiate-bad-faith",
+      "kind": "action",
+      "zh": "恶意进行合同磋商"
+    },
+    {
+      "articles": [
+        546
+      ],
+      "en": "notify the debtor of an assignment",
+      "id": "cn-notify-assignment",
+      "kind": "action",
+      "zh": "通知债务人债权转让"
+    },
+    {
+      "articles": [
+        531
+      ],
+      "en": "perform an obligation in part",
+      "id": "cn-partial-performance",
+      "kind": "action",
+      "zh": "部分履行债务"
+    },
+    {
+      "articles": [
+        502
+      ],
+      "en": "perform the obligation to apply for approval",
+      "id": "cn-perform-approval-application",
+      "kind": "action",
+      "zh": "履行报批义务"
+    },
+    {
+      "articles": [
+        523
+      ],
+      "en": "performance of an obligation by a third party",
+      "id": "cn-performance-by-third-party",
+      "kind": "term",
+      "zh": "由第三人履行债务"
+    },
+    {
+      "articles": [
+        522
+      ],
+      "en": "perform an obligation to a third party",
+      "id": "cn-performance-to-third-party",
+      "kind": "action",
+      "zh": "向第三人履行债务"
+    },
+    {
+      "articles": [
+        501
+      ],
+      "en": "maintain confidentiality during contract negotiations",
+      "id": "cn-precontract-confidentiality",
+      "kind": "action",
+      "zh": "履行订约保密义务"
+    },
+    {
+      "articles": [
+        495
+      ],
+      "en": "preliminary contract to conclude a future contract",
+      "id": "cn-preliminary-contract",
+      "kind": "term",
+      "zh": "预约合同"
+    },
+    {
+      "articles": [
+        526
+      ],
+      "en": "defense based on the other party’s prior performance obligation",
+      "id": "cn-prior-performance-defense",
+      "kind": "term",
+      "zh": "先履行抗辩权"
+    },
+    {
+      "articles": [
+        577,
+        582
+      ],
+      "en": "take remedial measures",
+      "id": "cn-remedial-measures",
+      "kind": "action",
+      "zh": "采取补救措施"
+    },
+    {
+      "articles": [
+        476,
+        477
+      ],
+      "en": "revoke an offer",
+      "id": "cn-revoke-offer",
+      "kind": "action",
+      "zh": "撤销要约"
+    },
+    {
+      "articles": [
+        567
+      ],
+      "en": "settlement and winding-up clauses",
+      "id": "cn-settlement-windingup-clauses",
+      "kind": "term",
+      "zh": "结算和清理条款"
+    },
+    {
+      "articles": [
+        525
+      ],
+      "en": "defense of simultaneous performance",
+      "id": "cn-simultaneous-performance-defense",
+      "kind": "term",
+      "zh": "同时履行抗辩权"
+    },
+    {
+      "articles": [
+        563
+      ],
+      "en": "terminate a contract on statutory grounds",
+      "id": "cn-statutory-termination",
+      "kind": "action",
+      "zh": "法定解除合同"
+    },
+    {
+      "articles": [
+        510
+      ],
+      "en": "reach a supplementary agreement",
+      "id": "cn-supplementary-agreement",
+      "kind": "action",
+      "zh": "达成补充协议"
+    },
+    {
+      "articles": [
+        562
+      ],
+      "en": "terminate a contract by mutual agreement",
+      "id": "cn-terminate-by-agreement",
+      "kind": "action",
+      "zh": "协商解除合同"
+    },
+    {
+      "articles": [
+        555,
+        556
+      ],
+      "en": "transfer contractual rights and obligations together",
+      "id": "cn-transfer-contract-position",
+      "kind": "action",
+      "zh": "一并转让合同权利义务"
+    },
+    {
+      "articles": [
+        543,
+        544
+      ],
+      "en": "vary a contract by agreement",
+      "id": "cn-vary-contract",
+      "kind": "action",
+      "zh": "协商变更合同"
+    },
+    {
+      "articles": [
+        141,
+        485
+      ],
+      "en": "withdraw an acceptance",
+      "id": "cn-withdraw-acceptance",
+      "kind": "action",
+      "zh": "撤回承诺"
+    },
+    {
+      "articles": [
+        141,
+        475
+      ],
+      "en": "withdraw an offer",
+      "id": "cn-withdraw-offer",
+      "kind": "action",
+      "zh": "撤回要约"
+    }
+  ],
+  "evidence_document_id": "civil-code-contracts-2020",
+  "evidence_registry_sha256": "3d7ca99cbbc49cda247e7c26442938a6f5f1ed4bcb7cbacc7364cdfee9a4bf3d",
+  "primary_source": {
+    "html_sha256": "16fb30a132114600f32059367dae0d6dd274519aa154126eae0ef9600cf4074e",
+    "numbered_articles": 1260,
+    "retrieved": "2026-09-12",
+    "selected_articles": [
+      141,
+      475,
+      476,
+      477,
+      483,
+      485,
+      486,
+      487,
+      488,
+      490,
+      495,
+      496,
+      498,
+      500,
+      501,
+      502,
+      506,
+      509,
+      510,
+      522,
+      523,
+      525,
+      526,
+      527,
+      528,
+      530,
+      531,
+      533,
+      543,
+      544,
+      546,
+      552,
+      555,
+      556,
+      562,
+      563,
+      565,
+      567,
+      569,
+      577,
+      578,
+      580,
+      582,
+      583,
+      584,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593
+    ],
+    "url": "https://www.court.gov.cn/zixun/xiangqing/233181.html"
+  },
+  "remaining_gaps": [
+    "No jurisdiction-wide completeness claim or full judicial-interpretation review.",
+    "Nominate-contract, transaction-document and cross-border phrase coverage remains incomplete.",
+    "Litigation/arbitration/enforcement and corporate/securities phrase batches still required."
+  ],
+  "review": {
+    "definition": "AI-assisted source-linked drafting",
+    "human_expert_review": false,
+    "jurisdiction": "CN, statutory context only",
+    "translation": "project_authored"
+  },
+  "snapshot_sha256": "e4b509e20eb7f2b7c9d7cda3f057bab9274032f7b110bcbf88cf4448359d1d33",
+  "source_id": "oll-cn-contract-phrases",
+  "strategy": "Content-first: new practical phrases plus separate source-name review; no downstream feature expansion."
+}

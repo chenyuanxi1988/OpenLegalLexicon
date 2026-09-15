@@ -1,0 +1,17 @@
+{
+  "checked_articles": 51,
+  "documents": [
+    {
+      "all_selected_text_matches": true,
+      "cited_articles": 51,
+      "html_sha256": "16fb30a132114600f32059367dae0d6dd274519aa154126eae0ef9600cf4074e",
+      "id": "civil-code-contracts-2020",
+      "numbered_articles": 1260,
+      "url": "https://www.court.gov.cn/zixun/xiangqing/233181.html"
+    }
+  ],
+  "note": "Exact source-text extraction check; not human legal or translation review.",
+  "source_retrieved_dates": [
+    "2026-09-12"
+  ]
+}

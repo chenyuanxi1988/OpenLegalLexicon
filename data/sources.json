@@ -117,5 +117,25 @@
     "snapshot_sha256": "2bcc71014a44792727d5d64d62341ab15c926b03906fe9364aa9eda5f4685ba3",
     "title": "OpenLegalLexicon 中国大陆刑事核心术语（第四批）",
     "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon"
+  },
+  {
+    "attribution": "OpenLegalLexicon contributors：依据民法典固定版本条文原创编写的合同实务词组、中文释义、学习提示及英文项目释译；CC BY 4.0。",
+    "expected_records": 48,
+    "format": "editorial_seed",
+    "id": "oll-cn-contract-phrases",
+    "license": "CC-BY-4.0",
+    "license_evidence_url": "https://github.com/chenyuanxi1988/OpenLegalLexicon/blob/main/DATA_LICENSE.md",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "origin": "INTERNATIONAL",
+    "pages": 1,
+    "provider": "OpenLegalLexicon contributors（Codex 辅助编写）",
+    "redistribution": "permitted",
+    "retrieved": "2026-09-15",
+    "review": "AI-assisted source-linked editorial pass; no human expert review; versions pinned, ongoing legal validity not asserted",
+    "scope": "中国大陆民法典（2020）合同通则语境的实务词组；逐条关联固定法条，英文为项目释译，不是官方译文或专家审核，不主张已覆盖全部司法解释、典型合同或跨境交易规则。",
+    "snapshot": "data/snapshots/oll-cn-contract-phrases-2026-09-15.jsonl",
+    "snapshot_sha256": "e4b509e20eb7f2b7c9d7cda3f057bab9274032f7b110bcbf88cf4448359d1d33",
+    "title": "OpenLegalLexicon 中国大陆合同实务词组（第五批）",
+    "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon"
   }
 ]

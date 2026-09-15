@@ -1,0 +1,215 @@
+{
+  "checked_articles": [
+    {
+      "article": 141,
+      "match": true
+    },
+    {
+      "article": 475,
+      "match": true
+    },
+    {
+      "article": 476,
+      "match": true
+    },
+    {
+      "article": 477,
+      "match": true
+    },
+    {
+      "article": 483,
+      "match": true
+    },
+    {
+      "article": 485,
+      "match": true
+    },
+    {
+      "article": 486,
+      "match": true
+    },
+    {
+      "article": 487,
+      "match": true
+    },
+    {
+      "article": 488,
+      "match": true
+    },
+    {
+      "article": 490,
+      "match": true
+    },
+    {
+      "article": 495,
+      "match": true
+    },
+    {
+      "article": 496,
+      "match": true
+    },
+    {
+      "article": 498,
+      "match": true
+    },
+    {
+      "article": 500,
+      "match": true
+    },
+    {
+      "article": 501,
+      "match": true
+    },
+    {
+      "article": 502,
+      "match": true
+    },
+    {
+      "article": 506,
+      "match": true
+    },
+    {
+      "article": 509,
+      "match": true
+    },
+    {
+      "article": 510,
+      "match": true
+    },
+    {
+      "article": 522,
+      "match": true
+    },
+    {
+      "article": 523,
+      "match": true
+    },
+    {
+      "article": 525,
+      "match": true
+    },
+    {
+      "article": 526,
+      "match": true
+    },
+    {
+      "article": 527,
+      "match": true
+    },
+    {
+      "article": 528,
+      "match": true
+    },
+    {
+      "article": 530,
+      "match": true
+    },
+    {
+      "article": 531,
+      "match": true
+    },
+    {
+      "article": 533,
+      "match": true
+    },
+    {
+      "article": 543,
+      "match": true
+    },
+    {
+      "article": 544,
+      "match": true
+    },
+    {
+      "article": 546,
+      "match": true
+    },
+    {
+      "article": 552,
+      "match": true
+    },
+    {
+      "article": 555,
+      "match": true
+    },
+    {
+      "article": 556,
+      "match": true
+    },
+    {
+      "article": 562,
+      "match": true
+    },
+    {
+      "article": 563,
+      "match": true
+    },
+    {
+      "article": 565,
+      "match": true
+    },
+    {
+      "article": 567,
+      "match": true
+    },
+    {
+      "article": 569,
+      "match": true
+    },
+    {
+      "article": 577,
+      "match": true
+    },
+    {
+      "article": 578,
+      "match": true
+    },
+    {
+      "article": 580,
+      "match": true
+    },
+    {
+      "article": 582,
+      "match": true
+    },
+    {
+      "article": 583,
+      "match": true
+    },
+    {
+      "article": 584,
+      "match": true
+    },
+    {
+      "article": 588,
+      "match": true
+    },
+    {
+      "article": 589,
+      "match": true
+    },
+    {
+      "article": 590,
+      "match": true
+    },
+    {
+      "article": 591,
+      "match": true
+    },
+    {
+      "article": 592,
+      "match": true
+    },
+    {
+      "article": 593,
+      "match": true
+    }
+  ],
+  "date": "2026-09-15",
+  "downloaded_html_sha256": "16fb30a132114600f32059367dae0d6dd274519aa154126eae0ef9600cf4074e",
+  "full_numbered_articles": 1260,
+  "pinned_html_sha256": "16fb30a132114600f32059367dae0d6dd274519aa154126eae0ef9600cf4074e",
+  "scope": "Selected Chinese text compared to a fresh official download; page metadata changes are not law-text changes. No claim of expert English review or all judicial interpretations being covered.",
+  "selected_matches": 51,
+  "url": "https://www.court.gov.cn/zixun/xiangqing/233181.html"
+}

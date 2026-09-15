@@ -1,0 +1,183 @@
+{
+  "core_records": 266,
+  "date": "2026-09-15",
+  "domains": [
+    {
+      "all_records": 99,
+      "domain": "administrative",
+      "editorial_checked": 6,
+      "evidence_linked": 21,
+      "quarantined": 1,
+      "source_attributed": 71
+    },
+    {
+      "all_records": 1,
+      "domain": "ai",
+      "editorial_checked": 0,
+      "evidence_linked": 1,
+      "quarantined": 0,
+      "source_attributed": 0
+    },
+    {
+      "all_records": 81,
+      "domain": "civil",
+      "editorial_checked": 8,
+      "evidence_linked": 34,
+      "quarantined": 0,
+      "source_attributed": 39
+    },
+    {
+      "all_records": 34,
+      "domain": "company",
+      "editorial_checked": 4,
+      "evidence_linked": 18,
+      "quarantined": 0,
+      "source_attributed": 12
+    },
+    {
+      "all_records": 9,
+      "domain": "competition",
+      "editorial_checked": 0,
+      "evidence_linked": 6,
+      "quarantined": 0,
+      "source_attributed": 3
+    },
+    {
+      "all_records": 11,
+      "domain": "constitutional",
+      "editorial_checked": 0,
+      "evidence_linked": 0,
+      "quarantined": 0,
+      "source_attributed": 11
+    },
+    {
+      "all_records": 79,
+      "domain": "contracts",
+      "editorial_checked": 1,
+      "evidence_linked": 69,
+      "quarantined": 0,
+      "source_attributed": 9
+    },
+    {
+      "all_records": 14,
+      "domain": "core",
+      "editorial_checked": 7,
+      "evidence_linked": 7,
+      "quarantined": 0,
+      "source_attributed": 0
+    },
+    {
+      "all_records": 100,
+      "domain": "criminal",
+      "editorial_checked": 6,
+      "evidence_linked": 35,
+      "quarantined": 0,
+      "source_attributed": 59
+    },
+    {
+      "all_records": 244,
+      "domain": "dispute_resolution",
+      "editorial_checked": 12,
+      "evidence_linked": 15,
+      "quarantined": 0,
+      "source_attributed": 217
+    },
+    {
+      "all_records": 34,
+      "domain": "employment",
+      "editorial_checked": 0,
+      "evidence_linked": 17,
+      "quarantined": 0,
+      "source_attributed": 17
+    },
+    {
+      "all_records": 70,
+      "domain": "family",
+      "editorial_checked": 1,
+      "evidence_linked": 2,
+      "quarantined": 0,
+      "source_attributed": 67
+    },
+    {
+      "all_records": 33,
+      "domain": "finance",
+      "editorial_checked": 1,
+      "evidence_linked": 10,
+      "quarantined": 0,
+      "source_attributed": 22
+    },
+    {
+      "all_records": 636,
+      "domain": "intellectual_property",
+      "editorial_checked": 30,
+      "evidence_linked": 12,
+      "quarantined": 1,
+      "source_attributed": 593
+    },
+    {
+      "all_records": 4,
+      "domain": "m_and_a",
+      "editorial_checked": 0,
+      "evidence_linked": 2,
+      "quarantined": 0,
+      "source_attributed": 2
+    },
+    {
+      "all_records": 14,
+      "domain": "privacy",
+      "editorial_checked": 1,
+      "evidence_linked": 13,
+      "quarantined": 0,
+      "source_attributed": 0
+    },
+    {
+      "all_records": 52,
+      "domain": "property",
+      "editorial_checked": 3,
+      "evidence_linked": 8,
+      "quarantined": 0,
+      "source_attributed": 41
+    },
+    {
+      "all_records": 119,
+      "domain": "tax",
+      "editorial_checked": 1,
+      "evidence_linked": 30,
+      "quarantined": 0,
+      "source_attributed": 88
+    },
+    {
+      "all_records": 42,
+      "domain": "trade",
+      "editorial_checked": 3,
+      "evidence_linked": 33,
+      "quarantined": 0,
+      "source_attributed": 6
+    },
+    {
+      "all_records": 1467,
+      "domain": "unclassified",
+      "editorial_checked": 0,
+      "evidence_linked": 0,
+      "quarantined": 0,
+      "source_attributed": 1467
+    }
+  ],
+  "kind_counts": {
+    "abbreviation": 20,
+    "action": 62,
+    "document": 20,
+    "institution": 61,
+    "role": 42,
+    "statute": 407,
+    "term": 223,
+    "unclassified": 2161
+  },
+  "limits": [
+    "Domains are multi-label; column totals must not be summed as unique entries.",
+    "Source association and automated domain labels do not prove legal coverage.",
+    "Evidence-linked status is not human expert review; English remains project-authored.",
+    "No completeness score is assigned; practical phrase gaps are recorded in the companion report."
+  ],
+  "total_records": 2996
+}

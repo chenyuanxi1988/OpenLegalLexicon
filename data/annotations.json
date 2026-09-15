@@ -182,6 +182,21 @@
     "status": "editorial_checked",
     "translation_note": "来源记作 precedent(s)，括号表示单复数形式；保留原文。本次不据术语推定先例拘束力，也不把历史判例制度标作现行。"
   },
+  "tw-judicial-6d942cb4223d4e410fcf": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "statute",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "来源词对为“商标法 / Trademark Act”，按法规名称编排；仅凭此名称及提供单位，无法确定具体法域或修法版本，法域仍留空。不要把 Act 与 Trademark Law Treaty 混为同一文本。"
+  },
   "tw-judicial-71372bab5c5d36694394": {
     "domain_basis": "editorial",
     "domains": [
@@ -694,6 +709,21 @@
     "status": "editorial_checked",
     "translation_note": "商标来源用 recordation；保留与 recording 的表述差别，不据词形确定登记产生的法律效果。"
   },
+  "tw-tipo-trademark-97bea0c8c855a910b224": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "document",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "WIPO 页面确认 Trademark Law Treaty (TLT) 的条约名称；TLT 在本条英文形式内，保留整体，不机械拆分制造新词对。类型 document 表示条约文本；不与国内 Trademark Act 合并，也不据名称认定缔约方范围。依据：https://www.wipo.int/en/web/treaties/ip/tlt/index"
+  },
   "tw-tipo-trademark-9eed2463bbf08ab38564": {
     "domain_basis": "editorial",
     "domains": [
@@ -708,6 +738,75 @@
     },
     "status": "editorial_checked",
     "translation_note": "商标来源用 third party；相对于何方为第三人须看具体关系，不与另一来源的角色记录自动合并。"
+  },
+  "tw-tipo-trademark-a1b12ba601ff40ca2b73": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "institution",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "英文全称与 WIPO 官方介绍一致，按国际机构名称编排；来源中文“世界智慧财产权组织”保留原字形，不能因中文译名差异另造机构。只核对名称及类别，不推定具体法律适用。依据：https://www.wipo.int/en/web/about-wipo"
+  },
+  "tw-tipo-trademark-a2be784c1148dcd032fa": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property",
+      "trade"
+    ],
+    "kind": "document",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "WTO 官方页确认此英文全称及 TRIPS 缩写，保留来源的全大写形式；这是国际协定名称，在当前类型表中归入 document，不能标为机构或国内成文法。未核验各成员适用范围或特定条款。依据：https://www.wto.org/english/tratop_e/trips_e/trips_e.htm"
+  },
+  "tw-tipo-trademark-a2d04e951fbae5697b04": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "document",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "在本商标词表语境下，Paris Convention 对应 WIPO 所列保护工业产权巴黎公约；保留来源简称，不将它泛化为所有名为巴黎的国际协定。类型 document 表示条约文本；具体修订文本与适用范围未核验。依据：https://www.wipo.int/en/web/treaties/ip/paris/index"
+  },
+  "tw-tipo-trademark-a525a8c70487f19c744c": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property",
+      "trade"
+    ],
+    "kind": "abbreviation",
+    "kind_basis": "editorial",
+    "relations": [
+      {
+        "evidence": "https://www.wto.org/english/tratop_e/trips_e/trips_e.htm — official page explicitly associates the acronym with the full name.",
+        "target": "tw-tipo-trademark-a2be784c1148dcd032fa",
+        "type": "abbreviation_of"
+      }
+    ],
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "本来源的 TRIPS 指与贸易有关之智慧财产权协定，与同表英文全称建立缩写关系；不能脱离知识产权和贸易语境当作普通英文 trips。依据：https://www.wto.org/english/tratop_e/trips_e/trips_e.htm"
   },
   "tw-tipo-trademark-abb1835267c2f4ece061": {
     "domain_basis": "editorial",
@@ -738,6 +837,28 @@
     },
     "status": "editorial_checked",
     "translation_note": "商标来源采用动词 presume；不由该词条推定具体举证责任或反证规则。"
+  },
+  "tw-tipo-trademark-b47d8bd383e135155c48": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "abbreviation",
+    "kind_basis": "editorial",
+    "relations": [
+      {
+        "evidence": "https://www.wipo.int/en/web/about-wipo — official page explicitly associates the acronym with the full name.",
+        "target": "tw-tipo-trademark-a1b12ba601ff40ca2b73",
+        "type": "abbreviation_of"
+      }
+    ],
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "WIPO 是 World Intellectual Property Organization 的缩写；与本来源全称记录建立 abbreviation_of 关系。机构缩写不表示某一条约或国内知识产权法。依据：https://www.wipo.int/en/web/about-wipo"
   },
   "tw-tipo-trademark-b84065c11778807899c1": {
     "domain_basis": "editorial",
@@ -863,6 +984,21 @@
     },
     "status": "editorial_checked",
     "translation_note": "商标来源用 precedent；不同法域下判例、裁判先例及其效力需另行核验，不仅凭译名认定拘束力。"
+  },
+  "tw-tipo-trademark-ed450a9de4168c34143a": {
+    "domain_basis": "editorial",
+    "domains": [
+      "intellectual_property"
+    ],
+    "kind": "statute",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-15 (source names and classification; no expert translation review)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "商标词表保留“商标法 / Trademark Act”词对；与另一来源相同名称仍为两条可追溯记录，未据来源地区填入适用法域或现行版本。Act 的法规名称与 Treaty 的条约名称分别编排。"
   },
   "tw-tipo-trademark-f361a025fdd7e30953e0": {
     "domain_basis": "editorial",
