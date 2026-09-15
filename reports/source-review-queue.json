@@ -6,57 +6,6 @@
           "context": "憲法法庭書記廳",
           "domain_basis": "automatic_keyword_rules",
           "domains": [
-            "intellectual_property"
-          ],
-          "en": "Trademark Act",
-          "flags": [],
-          "id": "tw-judicial-6d942cb4223d4e410fcf",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1175",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "商标法",
-          "zh_Hant": "商標法"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "Trademark Act",
-          "flags": [],
-          "id": "tw-tipo-trademark-ed450a9de4168c34143a",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "564",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "商标法",
-          "zh_Hant": "商標法"
-        }
-      ],
-      "priority": 70,
-      "reasons": [
-        "homograph_across_source_collections"
-      ],
-      "zh_Hans": "商标法"
-    },
-    {
-      "members": [
-        {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
             "unclassified"
           ],
           "en": "opposite party",
@@ -262,108 +211,6 @@
         "contains_flagged_source_entry"
       ],
       "zh_Hans": "给与权利（或资格）"
-    },
-    {
-      "members": [
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "AGREEMENT ON TRADE-RELATED ASPECTS OF INTELLECTUAL PROPERTY RIGHTS",
-          "flags": [],
-          "id": "tw-tipo-trademark-a2be784c1148dcd032fa",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "571",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "与贸易有关之智慧财产权协定",
-          "zh_Hant": "與貿易有關之智慧財產權協定"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "TRIPS",
-          "flags": [],
-          "id": "tw-tipo-trademark-a525a8c70487f19c744c",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "abbreviation",
-          "kind_basis": "automatic_surface_rules",
-          "record": "570",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "与贸易有关之智慧财产权协定",
-          "zh_Hant": "與貿易有關之智慧財產權協定"
-        }
-      ],
-      "priority": 10,
-      "reasons": [
-        "contains_high_value_surface_kind"
-      ],
-      "zh_Hans": "与贸易有关之智慧财产权协定"
-    },
-    {
-      "members": [
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "World Intellectual Property Organization",
-          "flags": [],
-          "id": "tw-tipo-trademark-a1b12ba601ff40ca2b73",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "608",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "世界智慧财产权组织",
-          "zh_Hant": "世界智慧財產權組織"
-        },
-        {
-          "context": "A13070000G",
-          "domain_basis": "source_collection",
-          "domains": [
-            "intellectual_property"
-          ],
-          "en": "WIPO",
-          "flags": [],
-          "id": "tw-tipo-trademark-b47d8bd383e135155c48",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "abbreviation",
-          "kind_basis": "automatic_surface_rules",
-          "record": "607",
-          "source_id": "tw-tipo-trademark",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "世界智慧财产权组织",
-          "zh_Hant": "世界智慧財產權組織"
-        }
-      ],
-      "priority": 10,
-      "reasons": [
-        "contains_high_value_surface_kind"
-      ],
-      "zh_Hans": "世界智慧财产权组织"
     },
     {
       "members": [
@@ -1865,7 +1712,7 @@
       "zh_Hans": "调解室"
     }
   ],
-  "homograph_review_groups_total": 36,
+  "homograph_review_groups_total": 33,
   "limits": [
     "Source origin does not establish legal jurisdiction.",
     "Surface-kind and domain rules are machine-generated candidates, not legal review.",
@@ -4700,7 +4547,7 @@
     }
   ],
   "single_high_value_candidates_total": 374,
-  "source_attributed_entries": 2673,
+  "source_attributed_entries": 2665,
   "unclassified_source_entries": 1467,
   "unresolved_quality_items": [
     {

@@ -1,10 +1,10 @@
 # 可直接使用的法律词典
 
-这是 **0.1.0.dev4 来源参考版与核心学习版**，由本次构建生成。本构建包含 2,941 条结构化记录、218 条核心学习词条及 5,882 条双向学习记录。项目仍在开发，尚未逐条完成法律译义、法域与读音复核。
+这是 **0.1.0.dev4 来源参考版与核心学习版**，由本次构建生成。本构建包含 2,989 条结构化记录、266 条核心学习词条及 5,978 条双向学习记录。项目仍在开发，尚未逐条完成法律译义、法域与读音复核。
 
 | 用途 | 文件 |
 | --- | --- |
-| 核心学习 | [218 条核心词典 CSV](legal_dictionary_core.csv)、[436 条双向 Anki 记录](anki_core.tsv) |
+| 核心学习 | [266 条核心词典 CSV](legal_dictionary_core.csv)、[532 条双向 Anki 记录](anki_core.tsv) |
 | 完整来源参考 | [CSV](legal_dictionary.csv)、[TSV](legal_dictionary.tsv)、[Anki](anki.tsv)、[JSONL](lexicon.jsonl) |
 | 通用词表 | [中文简体](legal_terms_zh.txt)、[繁体](legal_terms_zh_hant.txt)、[英文](english.txt) |
 | Rime 简体 | [词典](openlegal_hans.dict.yaml) + [方案](openlegal_hans.schema.yaml) |

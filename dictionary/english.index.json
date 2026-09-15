@@ -3301,11 +3301,17 @@
   "accelerated payment of subscribed capital": [
     "cn-accelerated-contribution"
   ],
+  "acceptance delayed in transmission": [
+    "cn-delayed-transmission-acceptance"
+  ],
   "acceptance of an offer": [
     "cn-acceptance"
   ],
   "acceptance of bribes by an entity": [
     "cn-entity-accepting-bribes"
+  ],
+  "accession to a debt as a co-obligor": [
+    "cn-accession-to-debt"
   ],
   "accessory contract": [
     "tw-judicial-cae4dc5195531c8e5a5b"
@@ -3548,6 +3554,9 @@
   "anti-dumping measures": [
     "cn-anti-dumping-measures"
   ],
+  "anticipatory breach of contract": [
+    "cn-anticipatory-breach"
+  ],
   "apparent agency": [
     "cn-apparent-agency"
   ],
@@ -3705,6 +3714,9 @@
   "beneficial administrative act": [
     "tw-judicial-c36e3846aa85b0056891"
   ],
+  "benefits expected from performance of the contract": [
+    "cn-benefits-expected-performance"
+  ],
   "benefits for military personnel": [
     "tw-judicial-846d6c0f1d1cb3ced571"
   ],
@@ -3746,6 +3758,9 @@
   ],
   "bonded factory or bonded warehouse supervised by Customs": [
     "tw-judicial-d2c67780baf665cecd81"
+  ],
+  "breach caused by a third party": [
+    "cn-breach-caused-third-party"
   ],
   "bribery by an entity": [
     "cn-entity-bribery"
@@ -3906,6 +3921,9 @@
   ],
   "claim": [
     "tw-tipo-trademark-13338de3e3a3f476c77e"
+  ],
+  "claim damages for breach of contract": [
+    "cn-claim-contract-damages"
   ],
   "claim for restitution of inheritance": [
     "tw-judicial-e7b45f97af54a8aa6417"
@@ -4264,6 +4282,9 @@
   "creditor's rights": [
     "tw-judicial-6323bff78f00ffb04498"
   ],
+  "creditor’s delay in accepting performance": [
+    "cn-creditor-delay-acceptance"
+  ],
   "crime": [
     "cn-crime"
   ],
@@ -4395,6 +4416,12 @@
   "default": [
     "tw-judicial-0620c20d83b9b485ece4"
   ],
+  "defense based on the other party’s prior performance obligation": [
+    "cn-prior-performance-defense"
+  ],
+  "defense of simultaneous performance": [
+    "cn-simultaneous-performance-defense"
+  ],
   "defensive mark": [
     "tw-tipo-trademark-1a8ce9db8e461755a9a9"
   ],
@@ -4412,6 +4439,9 @@
   ],
   "deliberation": [
     "tw-judicial-b826dc2174d422b97d85"
+  ],
+  "demand performance of an overdue principal obligation": [
+    "cn-demand-delayed-performance"
   ],
   "demanding security": [
     "tw-judicial-ab600bb0b05fec8c3e04"
@@ -4602,6 +4632,9 @@
   "double punishment": [
     "tw-judicial-8b09c083e5b06c24ca50"
   ],
+  "draw attention to and explain standard terms": [
+    "cn-draw-attention-standard-terms"
+  ],
   "drawer": [
     "tw-judicial-6bd7b6f9876255e1bae6"
   ],
@@ -4673,6 +4706,9 @@
   ],
   "effective date": [
     "tw-judicial-c8a0ef2b98e48b9dbec3"
+  ],
+  "elect between agreed-damages and earnest-money clauses": [
+    "cn-elect-damages-or-deposit"
   ],
   "election": [
     "tw-judicial-654d76aad5fac59e1e0b",
@@ -4821,6 +4857,9 @@
   "exemption": [
     "tw-judicial-3395ca3d4b55c67b1263"
   ],
+  "exemption clause": [
+    "cn-exemption-clause"
+  ],
   "exemption from criminal punishment": [
     "cn-exemption-criminal-punishment"
   ],
@@ -4924,6 +4963,9 @@
   "fanciful or coined mark": [
     "tw-tipo-trademark-63e44ca8c22f68e95a91"
   ],
+  "fault contributing to loss caused by breach": [
+    "cn-fault-contributing-loss"
+  ],
   "fault-based tort liability": [
     "cn-fault-tort-liability"
   ],
@@ -5012,6 +5054,9 @@
   "foreign trade operator": [
     "cn-foreign-trade-operator"
   ],
+  "foreseeability limit on damages for breach": [
+    "cn-foreseeability-contract-loss"
+  ],
   "forfeiture of equity for unpaid contribution": [
     "cn-forfeiture-equity"
   ],
@@ -5032,6 +5077,9 @@
   ],
   "format": [
     "tw-tipo-trademark-df7ade9d3a31a9134011"
+  ],
+  "formation of a contract": [
+    "cn-contract-formation"
   ],
   "forum": [
     "tw-tipo-trademark-28acacfa79b14320b2fe"
@@ -5122,6 +5170,9 @@
   "functionality doctrine": [
     "tw-tipo-trademark-fc0feaf454725cfa39ae"
   ],
+  "fundamental change of circumstances": [
+    "cn-change-circumstances"
+  ],
   "further proceedings": [
     "tw-judicial-bde56589786a15a969dd"
   ],
@@ -5166,6 +5217,12 @@
   ],
   "gift tax exemption": [
     "tw-judicial-a07dab08b6f7df54e497"
+  ],
+  "give notice and provide evidence of force majeure": [
+    "cn-force-majeure-notification"
+  ],
+  "give notice of termination of a contract": [
+    "cn-give-termination-notice"
   ],
   "global assessment": [
     "tw-tipo-trademark-4d5014e794eb66d19203"
@@ -5538,6 +5595,9 @@
   "interpellation": [
     "tw-judicial-130f4f86785c3c1facb8"
   ],
+  "interpret standard terms against their provider": [
+    "cn-interpret-against-provider"
+  ],
   "interpretation": [
     "tw-judicial-73d229f37aa2e6f9ef2c"
   ],
@@ -5579,6 +5639,9 @@
   ],
   "irrevocability": [
     "tw-judicial-0e15c58cb13af72beeda"
+  ],
+  "irrevocable offer": [
+    "cn-irrevocable-offer"
   ],
   "issue": [
     "tw-tipo-trademark-90f215498116ca5f56b6"
@@ -5737,6 +5800,9 @@
   ],
   "landowner": [
     "tw-judicial-c67dd83bf779d7d45ca9"
+  ],
+  "late acceptance": [
+    "cn-late-acceptance"
   ],
   "late declaration": [
     "tw-judicial-7aaf36d275461dd8e066"
@@ -5927,6 +5993,12 @@
   "long-term residency": [
     "tw-judicial-e3722b06a9ae0a5d5bec"
   ],
+  "maintain confidentiality during contract negotiations": [
+    "cn-precontract-confidentiality"
+  ],
+  "make a material alteration to an offer": [
+    "cn-material-change-offer"
+  ],
   "malicious accusation": [
     "tw-judicial-df656a9da1964b1d78e6"
   ],
@@ -6078,6 +6150,9 @@
   "mitigate damages": [
     "tw-judicial-f5e4dac9e5409ea436e4"
   ],
+  "mitigate loss caused by breach": [
+    "cn-mitigate-contract-loss"
+  ],
   "monetary payment": [
     "tw-judicial-543dbe7e63a8d7488097"
   ],
@@ -6171,6 +6246,9 @@
   "negotiable instrument": [
     "tw-judicial-191972bdc161d8b18d12"
   ],
+  "negotiate a contract in bad faith": [
+    "cn-negotiate-bad-faith"
+  ],
   "net worth of assets": [
     "tw-judicial-38f012a0b3bd3d7f079d"
   ],
@@ -6233,6 +6311,9 @@
   ],
   "notification of a concentration": [
     "cn-concentration-notification"
+  ],
+  "notify the debtor of an assignment": [
+    "cn-notify-assignment"
   ],
   "obligation based on guaranty": [
     "tw-judicial-23392d8aff7a54787eb6"
@@ -6458,8 +6539,26 @@
   "peremptory period": [
     "tw-judicial-38e8a113843a9b68379f"
   ],
+  "perform an obligation before it falls due": [
+    "cn-early-performance"
+  ],
+  "perform an obligation in part": [
+    "cn-partial-performance"
+  ],
+  "perform an obligation to a third party": [
+    "cn-performance-to-third-party"
+  ],
+  "perform contractual obligations in full": [
+    "cn-full-contract-performance"
+  ],
   "perform obligations": [
     "tw-judicial-8d5c67d8bf4837100cd8"
+  ],
+  "perform the obligation to apply for approval": [
+    "cn-perform-approval-application"
+  ],
+  "performance of an obligation by a third party": [
+    "cn-performance-by-third-party"
   ],
   "period of martial law": [
     "tw-judicial-f3cde34a486eb4acb718"
@@ -6602,6 +6701,9 @@
   ],
   "preemption right of public land": [
     "tw-judicial-cea5e00f563226b3d76a"
+  ],
+  "preliminary contract to conclude a future contract": [
+    "cn-preliminary-contract"
   ],
   "preliminary injunction": [
     "tw-tipo-trademark-165a4a3c2c54bca201de"
@@ -6941,6 +7043,9 @@
   "re-nomination": [
     "tw-judicial-2b5bac69602a72d5c1f2"
   ],
+  "reach a supplementary agreement": [
+    "cn-supplementary-agreement"
+  ],
   "real property": [
     "tw-judicial-36b6b4263ed4e273d4ca"
   ],
@@ -7186,6 +7291,9 @@
   "revocation of the probation": [
     "tw-judicial-d8216ca3d26445f3b068"
   ],
+  "revoke an offer": [
+    "cn-revoke-offer"
+  ],
   "right of access to the media": [
     "tw-judicial-884abe7ad52bf555e95e"
   ],
@@ -7288,6 +7396,9 @@
   "right to reputation": [
     "cn-reputation-right"
   ],
+  "right to suspend performance on grounds of insecurity": [
+    "cn-insecurity-defense"
+  ],
   "right to the benefit of justice": [
     "tw-judicial-a3af8c54d650a8540874"
   ],
@@ -7389,6 +7500,9 @@
   "sedition": [
     "tw-judicial-fda415362a1fa02a2e11"
   ],
+  "seek continued performance": [
+    "cn-continued-performance"
+  ],
   "seized properties": [
     "tw-judicial-84272427d1b98c11f00f"
   ],
@@ -7441,8 +7555,14 @@
   "service period": [
     "cn-labor-service-period"
   ],
+  "set-off by agreement": [
+    "cn-agreed-setoff"
+  ],
   "settlement": [
     "tw-judicial-1f527e682ea5dc133fdb"
+  ],
+  "settlement and winding-up clauses": [
+    "cn-settlement-windingup-clauses"
   ],
   "severe calamity": [
     "tw-judicial-faadbed302611e6ca057"
@@ -7746,6 +7866,12 @@
   "take into custody": [
     "tw-judicial-dc3a60341e9821020805"
   ],
+  "take remedial measures": [
+    "cn-remedial-measures"
+  ],
+  "taking effect of a contract": [
+    "cn-contract-taking-effect"
+  ],
   "tariff classification of goods": [
     "cn-customs-classification"
   ],
@@ -7843,6 +7969,12 @@
   ],
   "term of the Presidency": [
     "tw-judicial-e2396058e34f3138b2ac"
+  ],
+  "terminate a contract by mutual agreement": [
+    "cn-terminate-by-agreement"
+  ],
+  "terminate a contract on statutory grounds": [
+    "cn-statutory-termination"
   ],
   "termination of administrative reconsideration": [
     "cn-admin-reconsideration-termination"
@@ -7983,6 +8115,9 @@
   "transfer among different personnel systems": [
     "tw-judicial-c7fe1eee72686bb4e702"
   ],
+  "transfer contractual rights and obligations together": [
+    "cn-transfer-contract-position"
+  ],
   "transfer of a debt": [
     "cn-transfer-debt"
   ],
@@ -8121,6 +8256,9 @@
   "value-insured mail": [
     "tw-judicial-6008c848be0860c426d8"
   ],
+  "vary a contract by agreement": [
+    "cn-vary-contract"
+  ],
   "venue of the court": [
     "tw-judicial-c95a65d0fcc45fc1a7c3"
   ],
@@ -8177,6 +8315,12 @@
   ],
   "withdraw": [
     "tw-tipo-trademark-a274bc3e869739e9da65"
+  ],
+  "withdraw an acceptance": [
+    "cn-withdraw-acceptance"
+  ],
+  "withdraw an offer": [
+    "cn-withdraw-offer"
   ],
   "withdraw an opposition": [
     "tw-tipo-trademark-0cd3b9ffbbb5fb8dc7c9"

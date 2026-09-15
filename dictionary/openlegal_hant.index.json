@@ -850,6 +850,13 @@
       "text": "駁回訴訟"
     },
     {
+      "code": "bu an kang bian quan",
+      "entry_ids": [
+        "cn-insecurity-defense"
+      ],
+      "text": "不安抗辯權"
+    },
+    {
       "code": "bu bian qi jian",
       "entry_ids": [
         "tw-judicial-38e8a113843a9b68379f"
@@ -927,6 +934,13 @@
       "text": "部分"
     },
     {
+      "code": "bu fen lv xing zhai wu",
+      "entry_ids": [
+        "cn-partial-performance"
+      ],
+      "text": "部分履行債務"
+    },
+    {
       "code": "bu gong ping jing zheng",
       "entry_ids": [
         "tw-tipo-trademark-162d69fb05824f1e23c3"
@@ -953,6 +967,13 @@
         "tw-judicial-6cf3c2b54a35b505a864"
       ],
       "text": "不堪同居之虐待"
+    },
+    {
+      "code": "bu ke che xiao de yao yue",
+      "entry_ids": [
+        "cn-irrevocable-offer"
+      ],
+      "text": "不可撤銷的要約"
     },
     {
       "code": "bu ke fei zhi xing",
@@ -1080,6 +1101,13 @@
         "tw-judicial-c1c798f958c371fb3a51"
       ],
       "text": "裁判費"
+    },
+    {
+      "code": "cai qu bu jiu cuo shi",
+      "entry_ids": [
+        "cn-remedial-measures"
+      ],
+      "text": "採取補救措施"
     },
     {
       "code": "cai tuan fa ren",
@@ -1258,11 +1286,25 @@
       "text": "撤回"
     },
     {
+      "code": "che hui cheng nuo",
+      "entry_ids": [
+        "cn-withdraw-acceptance"
+      ],
+      "text": "撤回承諾"
+    },
+    {
       "code": "che hui tong yi",
       "entry_ids": [
         "cn-withdraw-consent"
       ],
       "text": "撤回同意"
+    },
+    {
+      "code": "che hui yao yue",
+      "entry_ids": [
+        "cn-withdraw-offer"
+      ],
+      "text": "撤回要約"
     },
     {
       "code": "che hui yi yi",
@@ -1323,6 +1365,13 @@
       "text": "撤銷訴訟"
     },
     {
+      "code": "che xiao yao yue",
+      "entry_ids": [
+        "cn-revoke-offer"
+      ],
+      "text": "撤銷要約"
+    },
+    {
       "code": "chen shu quan",
       "entry_ids": [
         "cn-admin-statement-right"
@@ -1370,6 +1419,13 @@
         "cn-acceptance"
       ],
       "text": "承諾"
+    },
+    {
+      "code": "cheng nuo chi dao",
+      "entry_ids": [
+        "cn-delayed-transmission-acceptance"
+      ],
+      "text": "承諾遲到"
     },
     {
       "code": "cheng shi she ji shi",
@@ -1786,6 +1842,13 @@
       "text": "促進民間參與公共建設法"
     },
     {
+      "code": "cui gao lv xing zhu yao zhai wu",
+      "entry_ids": [
+        "cn-demand-delayed-performance"
+      ],
+      "text": "催告履行主要債務"
+    },
+    {
       "code": "cui jiao shu",
       "entry_ids": [
         "cn-notice-capital-call"
@@ -1812,6 +1875,13 @@
         "tw-tipo-trademark-5bca68a89399584fd70b"
       ],
       "text": "錯誤的描述"
+    },
+    {
+      "code": "da cheng bu chong xie yi",
+      "entry_ids": [
+        "cn-supplementary-agreement"
+      ],
+      "text": "達成補充協議"
     },
     {
       "code": "da fa guan",
@@ -2881,6 +2951,20 @@
       "text": "對外貿易救濟措施"
     },
     {
+      "code": "dui wei yue sun shi fa sheng you guo cuo",
+      "entry_ids": [
+        "cn-fault-contributing-loss"
+      ],
+      "text": "對違約損失發生有過錯"
+    },
+    {
+      "code": "dui yao yue zuo shi zhi xing bian geng",
+      "entry_ids": [
+        "cn-material-change-offer"
+      ],
+      "text": "對要約作實質性變更"
+    },
+    {
       "code": "dui zhi hui ju bu ju yue shu li",
       "entry_ids": [
         "tw-tipo-trademark-a5414844f43d3bb832f0"
@@ -2914,6 +2998,13 @@
         "cn-malicious-collusion"
       ],
       "text": "惡意串通"
+    },
+    {
+      "code": "e yi jin xing he tong cuo shang",
+      "entry_ids": [
+        "cn-negotiate-bad-faith"
+      ],
+      "text": "惡意進行合同磋商"
     },
     {
       "code": "e yi yi qi",
@@ -2977,6 +3068,13 @@
         "tw-judicial-2f612858a3ebdd730891"
       ],
       "text": "法定繼承人"
+    },
+    {
+      "code": "fa ding jie chu he tong",
+      "entry_ids": [
+        "cn-statutory-termination"
+      ],
+      "text": "法定解除合同"
     },
     {
       "code": "fa ding qi jian",
@@ -3577,6 +3675,13 @@
         "tw-judicial-e3c005415321f65307a1"
       ],
       "text": "防止妨害他人自由"
+    },
+    {
+      "code": "fang zhi wei yue sun shi kuo da",
+      "entry_ids": [
+        "cn-mitigate-contract-loss"
+      ],
+      "text": "防止違約損失擴大"
     },
     {
       "code": "fei bang chu zui hua",
@@ -5760,6 +5865,27 @@
       "text": "合同"
     },
     {
+      "code": "he tong cheng li",
+      "entry_ids": [
+        "cn-contract-formation"
+      ],
+      "text": "合同成立"
+    },
+    {
+      "code": "he tong lv xing ke de li yi",
+      "entry_ids": [
+        "cn-benefits-expected-performance"
+      ],
+      "text": "合同履行可得利益"
+    },
+    {
+      "code": "he tong sheng xiao",
+      "entry_ids": [
+        "cn-contract-taking-effect"
+      ],
+      "text": "合同生效"
+    },
+    {
       "code": "he xian",
       "entry_ids": [
         "tw-judicial-57f227bd394264121996"
@@ -6966,6 +7092,13 @@
         "tw-judicial-11d53090ceaa4e638bf0"
       ],
       "text": "解釋憲法"
+    },
+    {
+      "code": "jie suan he qing li tiao kuan",
+      "entry_ids": [
+        "cn-settlement-windingup-clauses"
+      ],
+      "text": "結算和清理條款"
     },
     {
       "code": "jie suan shen bao",
@@ -8504,6 +8637,20 @@
       "text": "律師事務所"
     },
     {
+      "code": "lv xing bao pi yi wu",
+      "entry_ids": [
+        "cn-perform-approval-application"
+      ],
+      "text": "履行報批義務"
+    },
+    {
+      "code": "lv xing ding yue bao mi yi wu",
+      "entry_ids": [
+        "cn-precontract-confidentiality"
+      ],
+      "text": "履行訂約保密義務"
+    },
+    {
       "code": "lv xing zhai wu",
       "entry_ids": [
         "tw-judicial-8d5c67d8bf4837100cd8"
@@ -8708,6 +8855,13 @@
         "tw-judicial-2cdce3412fbcb8ad75bf"
       ],
       "text": "免責權"
+    },
+    {
+      "code": "mian ze tiao kuan",
+      "entry_ids": [
+        "cn-exemption-clause"
+      ],
+      "text": "免責條款"
     },
     {
       "code": "mian zheng zeng yu shui",
@@ -9821,6 +9975,27 @@
       "text": "請求"
     },
     {
+      "code": "qing qiu ji xu lv xing",
+      "entry_ids": [
+        "cn-continued-performance"
+      ],
+      "text": "請求繼續履行"
+    },
+    {
+      "code": "qing qiu wei yue sun hai pei chang",
+      "entry_ids": [
+        "cn-claim-contract-damages"
+      ],
+      "text": "請求違約損害賠償"
+    },
+    {
+      "code": "qing shi bian geng",
+      "entry_ids": [
+        "cn-change-circumstances"
+      ],
+      "text": "情勢變更"
+    },
+    {
       "code": "qing suan cheng xu",
       "entry_ids": [
         "tw-judicial-43c21236c06e70f41444"
@@ -9903,6 +10078,13 @@
         "tw-judicial-476e5a18da491dbb2d3e"
       ],
       "text": "權力制衡原則"
+    },
+    {
+      "code": "quan mian lv xing he tong yi wu",
+      "entry_ids": [
+        "cn-full-contract-performance"
+      ],
+      "text": "全面履行合同義務"
     },
     {
       "code": "quan min jian kang bao xian",
@@ -13093,11 +13275,25 @@
       "text": "提名"
     },
     {
+      "code": "ti qian lv xing zhai wu",
+      "entry_ids": [
+        "cn-early-performance"
+      ],
+      "text": "提前履行債務"
+    },
+    {
       "code": "ti shen fa",
       "entry_ids": [
         "tw-judicial-800064faf5368c01a274"
       ],
       "text": "提審法"
+    },
+    {
+      "code": "ti shi he shuo ming ge shi tiao kuan",
+      "entry_ids": [
+        "cn-draw-attention-standard-terms"
+      ],
+      "text": "提示和說明格式條款"
     },
     {
       "code": "tiao jie",
@@ -13291,6 +13487,13 @@
       "text": "同居義務"
     },
     {
+      "code": "tong shi lv xing kang bian quan",
+      "entry_ids": [
+        "cn-simultaneous-performance-defense"
+      ],
+      "text": "同時履行抗辯權"
+    },
+    {
       "code": "tong ti pan duan yuan ze",
       "entry_ids": [
         "tw-tipo-trademark-4d5014e794eb66d19203"
@@ -13368,6 +13571,13 @@
       "text": "通用名稱"
     },
     {
+      "code": "tong zhi bu ke kang li bing ti gong zheng ming",
+      "entry_ids": [
+        "cn-force-majeure-notification"
+      ],
+      "text": "通知不可抗力並提供證明"
+    },
+    {
       "code": "tong zhi han",
       "entry_ids": [
         "tw-tipo-trademark-48dd999a0d79c96b1c73"
@@ -13375,11 +13585,25 @@
       "text": "通知函"
     },
     {
+      "code": "tong zhi jie chu he tong",
+      "entry_ids": [
+        "cn-give-termination-notice"
+      ],
+      "text": "通知解除合同"
+    },
+    {
       "code": "tong zhi shu",
       "entry_ids": [
         "tw-judicial-75ef5c0ed566f9e066c5"
       ],
       "text": "通知書"
+    },
+    {
+      "code": "tong zhi zhai wu ren zhai quan zhuan rang",
+      "entry_ids": [
+        "cn-notify-assignment"
+      ],
+      "text": "通知債務人債權轉讓"
     },
     {
       "code": "tou ming",
@@ -13861,6 +14085,13 @@
       "text": "違約金"
     },
     {
+      "code": "wei yue sun shi ke yu jian xing xian zhi",
+      "entry_ids": [
+        "cn-foreseeability-contract-loss"
+      ],
+      "text": "違約損失可預見性限制"
+    },
+    {
       "code": "wei yue ze ren",
       "entry_ids": [
         "cn-liability-breach"
@@ -14170,6 +14401,13 @@
       "text": "憲法解釋"
     },
     {
+      "code": "xian lv xing kang bian quan",
+      "entry_ids": [
+        "cn-prior-performance-defense"
+      ],
+      "text": "先履行抗辯權"
+    },
+    {
       "code": "xian qi li jing",
       "entry_ids": [
         "tw-judicial-1dd672638027bda74a48"
@@ -14245,6 +14483,13 @@
         "tw-judicial-3065ffe6fce6bcd39224"
       ],
       "text": "限制欠稅人或欠稅營利事業負責人出境辦法"
+    },
+    {
+      "code": "xiang di san ren lv xing zhai wu",
+      "entry_ids": [
+        "cn-performance-to-third-party"
+      ],
+      "text": "向第三人履行債務"
     },
     {
       "code": "xiang dui ren",
@@ -14451,11 +14696,32 @@
       "text": "脅迫"
     },
     {
+      "code": "xie shang bian geng he tong",
+      "entry_ids": [
+        "cn-vary-contract"
+      ],
+      "text": "協商變更合同"
+    },
+    {
+      "code": "xie shang jie chu he tong",
+      "entry_ids": [
+        "cn-terminate-by-agreement"
+      ],
+      "text": "協商解除合同"
+    },
+    {
       "code": "xie shang jie chu lao dong he tong",
       "entry_ids": [
         "cn-labor-mutual-termination"
       ],
       "text": "協商解除勞動合同"
+    },
+    {
+      "code": "xie yi di xiao",
+      "entry_ids": [
+        "cn-agreed-setoff"
+      ],
+      "text": "協議抵銷"
     },
     {
       "code": "xie yi li hun",
@@ -15215,6 +15481,13 @@
       "text": "宣誓條例"
     },
     {
+      "code": "xuan ze shi yong wei yue jin huo ding jin tiao kuan",
+      "entry_ids": [
+        "cn-elect-damages-or-deposit"
+      ],
+      "text": "選擇適用違約金或定金條款"
+    },
+    {
       "code": "xuan ze zi you",
       "entry_ids": [
         "tw-judicial-ed5e8253acf6460ea9d1"
@@ -15542,6 +15815,13 @@
         "tw-tipo-trademark-7b6cd3690e7096ded2d9"
       ],
       "text": "一般商業名稱"
+    },
+    {
+      "code": "yi bing zhuan rang he tong quan li yi wu",
+      "entry_ids": [
+        "cn-transfer-contract-position"
+      ],
+      "text": "一併轉讓合同權利義務"
     },
     {
       "code": "yi chan",
@@ -15890,6 +16170,13 @@
       "text": "易滋弊端業務"
     },
     {
+      "code": "yin di san ren yuan yin wei yue",
+      "entry_ids": [
+        "cn-breach-caused-third-party"
+      ],
+      "text": "因第三人原因違約"
+    },
+    {
       "code": "yin du fa",
       "entry_ids": [
         "tw-judicial-0d3ffc10e869abd970ee"
@@ -16179,6 +16466,13 @@
       "text": "有償主義"
     },
     {
+      "code": "you di san ren lv xing zhai wu",
+      "entry_ids": [
+        "cn-performance-by-third-party"
+      ],
+      "text": "由第三人履行債務"
+    },
+    {
       "code": "you er zao dang shi ren de cheng xu",
       "entry_ids": [
         "tw-tipo-trademark-017e10d0a39f5ee9a031"
@@ -16404,11 +16698,25 @@
       "text": "與貿易有關之智慧財產權協定"
     },
     {
+      "code": "yu qi cheng nuo",
+      "entry_ids": [
+        "cn-late-acceptance"
+      ],
+      "text": "逾期承諾"
+    },
+    {
       "code": "yu qi shen bao",
       "entry_ids": [
         "tw-judicial-7aaf36d275461dd8e066"
       ],
       "text": "逾期申報"
+    },
+    {
+      "code": "yu qi wei yue",
+      "entry_ids": [
+        "cn-anticipatory-breach"
+      ],
+      "text": "預期違約"
     },
     {
       "code": "yu suan",
@@ -16444,6 +16752,13 @@
         "tw-judicial-a02790a1edfaae34116b"
       ],
       "text": "漁業法"
+    },
+    {
+      "code": "yu yue he tong",
+      "entry_ids": [
+        "cn-preliminary-contract"
+      ],
+      "text": "預約合同"
     },
     {
       "code": "yu zheng ren dui zhi zhi quan li",
@@ -16824,6 +17139,13 @@
       "text": "債權人的權利"
     },
     {
+      "code": "zhai quan ren shou ling chi yan",
+      "entry_ids": [
+        "cn-creditor-delay-acceptance"
+      ],
+      "text": "債權人受領遲延"
+    },
+    {
       "code": "zhai quan zhuan rang",
       "entry_ids": [
         "cn-assignment-claim"
@@ -16836,6 +17158,13 @@
         "tw-judicial-4b51ea3c7fede88a7502"
       ],
       "text": "債務"
+    },
+    {
+      "code": "zhai wu jia ru",
+      "entry_ids": [
+        "cn-accession-to-debt"
+      ],
+      "text": "債務加入"
     },
     {
       "code": "zhai wu ren",
@@ -18574,6 +18903,13 @@
         "cn-criminal-proportionality"
       ],
       "text": "罪責刑相適應原則"
+    },
+    {
+      "code": "zuo bu li yu ge shi tiao kuan ti gong fang de jie shi",
+      "entry_ids": [
+        "cn-interpret-against-provider"
+      ],
+      "text": "作不利於格式條款提供方的解釋"
     },
     {
       "code": "zuo li yuan",

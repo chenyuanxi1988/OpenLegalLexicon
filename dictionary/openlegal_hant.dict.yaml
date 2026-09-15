@@ -92,6 +92,7 @@ columns: [text, code, weight]
 兵役體檢	bing yi ti jian	1
 兵役義務	bing yi yi wu	1
 駁回訴訟	bo hui su song	1
+不安抗辯權	bu an kang bian quan	1
 不變期間	bu bian qi jian	1
 補償地價	bu chang di jia	1
 補償費	bu chang fei	1
@@ -103,10 +104,12 @@ columns: [text, code, weight]
 不動產經紀業管理條例	bu dong chan jing ji ye guan li tiao li	1
 不動產權利變更登記	bu dong chan quan li bian geng deng ji	1
 部分	bu fen	1
+部分履行債務	bu fen lv xing zhai wu	1
 不公平競爭	bu gong ping jing zheng	1
 不公平競爭行為	bu gong ping jing zheng xing wei	1
 補救措施	bu jiu cuo shi	1
 不堪同居之虐待	bu kan tong ju zhi nve dai	1
+不可撤銷的要約	bu ke che xiao de yao yue	1
 不可廢止性	bu ke fei zhi xing	1
 不可抗力	bu ke kang li	1
 不可能實行	bu ke neng shi xing	1
@@ -125,6 +128,7 @@ columns: [text, code, weight]
 裁量範圍	cai liang fan wei	1
 採尿室	cai niao shi	1
 裁判費	cai pan fei	1
+採取補救措施	cai qu bu jiu cuo shi	1
 財團法人	cai tuan fa ren	1
 財物案件處理辦法	cai wu an jian chu li ban fa	1
 採驗尿液	cai yan niao ye	1
@@ -150,7 +154,9 @@ columns: [text, code, weight]
 常業文官	chang ye wen guan	1
 超出黨派	chao chu dang pai	1
 撤回	che hui	1
+撤回承諾	che hui cheng nuo	1
 撤回同意	che hui tong yi	1
+撤回要約	che hui yao yue	1
 撤回異議	che hui yi yi	1
 車禍逃逸	che huo tao yi	1
 車庫	che ku	1
@@ -159,6 +165,7 @@ columns: [text, code, weight]
 撤銷緩刑	che xiao huan xing	1
 撤銷或廢止	che xiao huo fei zhi	1
 撤銷訴訟	che xiao su song	1
+撤銷要約	che xiao yao yue	1
 陳述權	chen shu quan	1
 懲戒處分	cheng jie chu fen	1
 懲戒處分議決	cheng jie chu fen yi jue	1
@@ -166,6 +173,7 @@ columns: [text, code, weight]
 懲戒法院	cheng jie fa yuan	1
 懲戒機關	cheng jie ji guan	1
 承諾	cheng nuo	1
+承諾遲到	cheng nuo chi dao	1
 程式設計師	cheng shi she ji shi	1
 誠信	cheng xin	1
 程序	cheng xu	1
@@ -225,10 +233,12 @@ columns: [text, code, weight]
 促進產業升級條例	cu jin chan ye sheng ji tiao li	1
 促進產業升級條例施行細則	cu jin chan ye sheng ji tiao li shi xing xi ze	1
 促進民間參與公共建設法	cu jin min jian can yu gong gong jian she fa	1
+催告履行主要債務	cui gao lv xing zhu yao zhai wu	1
 催繳書	cui jiao shu	1
 存證信函	cun zheng xin han	1
 措施性法律	cuo shi xing fa lv	1
 錯誤的描述	cuo wu de miao shu	1
+達成補充協議	da cheng bu chong xie yi	1
 大法官	da fa guan	1
 大法官辦公室	da fa guan ban gong shi	1
 大法官會客室	da fa guan hui ke shi	1
@@ -381,11 +391,14 @@ columns: [text, code, weight]
 對外貿易調查	dui wai mao yi diao cha	1
 對外貿易經營者	dui wai mao yi jing ying zhe	1
 對外貿易救濟措施	dui wai mao yi jiu ji cuo shi	1
+對違約損失發生有過錯	dui wei yue sun shi fa sheng you guo cuo	1
+對要約作實質性變更	dui yao yue zuo shi zhi xing bian geng	1
 對智慧局不具約束力	dui zhi hui ju bu ju yue shu li	1
 盾形紋章	dun xing wen zhang	1
 多媒體簡報室	duo mei ti jian bao shi	1
 惡意	e yi	1
 惡意串通	e yi chuan tong	1
+惡意進行合同磋商	e yi jin xing he tong cuo shang	1
 惡意遺棄	e yi yi qi	1
 兒童福利法	er tong fu li fa	1
 二元訴訟制度	er yuan su song zhi du	1
@@ -395,6 +408,7 @@ columns: [text, code, weight]
 法定抵銷	fa ding di xiao	1
 法定扶養義務	fa ding fu yang yi wu	1
 法定繼承人	fa ding ji cheng ren	1
+法定解除合同	fa ding jie chu he tong	1
 法定期間	fa ding qi jian	1
 法定預算	fa ding yu suan	1
 發給一份核准通知	fa gei yi fen he zhun tong zhi	1
@@ -480,6 +494,7 @@ columns: [text, code, weight]
 房屋稅	fang wu shui	1
 房屋稅條例	fang wu shui tiao li	1
 防止妨害他人自由	fang zhi fang hai ta ren zi you	1
+防止違約損失擴大	fang zhi wei yue sun shi kuo da	1
 誹謗除罪化	fei bang chu zui hua	1
 誹謗罪	fei bang zui	1
 非常上訴	fei chang shang su	1
@@ -790,6 +805,9 @@ columns: [text, code, weight]
 合理使用	he li shi yong	1
 合目的性	he mu di xing	1
 合同	he tong	1
+合同成立	he tong cheng li	1
+合同履行可得利益	he tong lv xing ke de li yi	1
+合同生效	he tong sheng xiao	1
 合憲	he xian	1
 核准	he zhun	1
 核子反應器設施管制法	he zi fan ying qi she shi guan zhi fa	1
@@ -962,6 +980,7 @@ columns: [text, code, weight]
 結社自由	jie she zi you	1
 解釋	jie shi	1
 解釋憲法	jie shi xian fa	1
+結算和清理條款	jie suan he qing li tiao kuan	1
 結算申報	jie suan shen bao	1
 戒嚴法	jie yan fa	1
 戒嚴時期	jie yan shi qi	1
@@ -1181,6 +1200,8 @@ columns: [text, code, weight]
 律師法	lv shi fa	1
 律師室	lv shi shi	1
 律師事務所	lv shi shi wu suo	1
+履行報批義務	lv xing bao pi yi wu	1
+履行訂約保密義務	lv xing ding yue bao mi yi wu	1
 履行債務	lv xing zhai wu	1
 馬德里議定書	ma de li yi ding shu	1
 麻醉藥品管理條例	ma zui yao pin guan li tiao li	1
@@ -1210,6 +1231,7 @@ columns: [text, code, weight]
 免刑判決	mian xing pan jue	1
 免予刑事處罰	mian yu xing shi chu fa	1
 免責權	mian ze quan	1
+免責條款	mian ze tiao kuan	1
 免徵贈與稅	mian zheng zeng yu shui	1
 免徵增值稅	mian zheng zeng zhi shui	1
 免職	mian zhi	1
@@ -1368,6 +1390,9 @@ columns: [text, code, weight]
 清償提存	qing chang ti cun	1
 情況判決	qing kuang pan jue	1
 請求	qing qiu	1
+請求繼續履行	qing qiu ji xu lv xing	1
+請求違約損害賠償	qing qiu wei yue sun hai pei chang	1
+情勢變更	qing shi bian geng	1
 清算程序	qing suan cheng xu	1
 清算人	qing suan ren	1
 去標識化	qu biao shi hua	1
@@ -1380,6 +1405,7 @@ columns: [text, code, weight]
 權利金	quan li jin	1
 權利移轉證書	quan li yi zhuan zheng shu	1
 權力制衡原則	quan li zhi heng yuan ze	1
+全面履行合同義務	quan mian lv xing he tong yi wu	1
 全民健康保險	quan min jian kang bao xian	1
 全民健康保險法	quan min jian kang bao xian fa	1
 全民健康保險法施行細則	quan min jian kang bao xian fa shi xing xi ze	1
@@ -1834,7 +1860,9 @@ columns: [text, code, weight]
 替代役實施條例	ti dai yi shi shi tiao li	1
 體格合適性	ti ge he shi xing	1
 提名	ti ming	1
+提前履行債務	ti qian lv xing zhai wu	1
 提審法	ti shen fa	1
+提示和說明格式條款	ti shi he shuo ming ge shi tiao kuan	1
 調解	tiao jie	1
 調解報到處	tiao jie bao dao chu	1
 調解評議室	tiao jie ping yi shi	1
@@ -1862,6 +1890,7 @@ columns: [text, code, weight]
 通姦	tong jian	1
 同居	tong ju	1
 同居義務	tong ju yi wu	1
+同時履行抗辯權	tong shi lv xing kang bian quan	1
 通體判斷原則	tong ti pan duan yuan ze	1
 通譯	tong yi	1
 統一發票	tong yi fa piao	1
@@ -1873,8 +1902,11 @@ columns: [text, code, weight]
 統一網域名稱爭議解決政策	tong yi wang yu ming cheng zheng yi jie jue zheng ce	1
 同音	tong yin	1
 通用名稱	tong yong ming cheng	1
+通知不可抗力並提供證明	tong zhi bu ke kang li bing ti gong zheng ming	1
 通知函	tong zhi han	1
+通知解除合同	tong zhi jie chu he tong	1
 通知書	tong zhi shu	1
+通知債務人債權轉讓	tong zhi zhai wu ren zhai quan zhuan rang	1
 透明	tou ming	1
 土地登記規則	tu di deng ji gui ze	1
 土地登記專業代理人管理辦法	tu di deng ji zhuan ye dai li ren guan li ban fa	1
@@ -1943,6 +1975,7 @@ columns: [text, code, weight]
 委員	wei yuan	1
 委員長	wei yuan zhang	1
 違約金	wei yue jin	1
+違約損失可預見性限制	wei yue sun shi ke yu jian xing xian zhi	1
 違約責任	wei yue ze ren	1
 偽造	wei zao	1
 偽造的	wei zao de	1
@@ -1987,6 +2020,7 @@ columns: [text, code, weight]
 憲法	xian fa	1
 憲法法庭	xian fa fa ting	1
 憲法解釋	xian fa jie shi	1
+先履行抗辯權	xian lv xing kang bian quan	1
 限期離境	xian qi li jing	1
 先天的識別性	xian tian de shi bie xing	1
 線條或點彩	xian tiao huo dian cai	1
@@ -1998,6 +2032,7 @@ columns: [text, code, weight]
 限制進出口貨物	xian zhi jin chu kou huo wu	1
 限制民事行爲能力	xian zhi min shi xing wei neng li	1
 限制欠稅人或欠稅營利事業負責人出境辦法	xian zhi qian shui ren huo qian shui ying li shi ye fu ze ren chu jing ban fa	1
+向第三人履行債務	xiang di san ren lv xing zhai wu	1
 相對人	xiang dui ren	1
 相對人代理人	xiang dui ren dai li ren	1
 相對事由	xiang dui shi you	1
@@ -2027,7 +2062,10 @@ columns: [text, code, weight]
 協定稅率	xie ding shui lv	1
 協定條款	xie ding tiao kuan	1
 脅迫	xie po	1
+協商變更合同	xie shang bian geng he tong	1
+協商解除合同	xie shang jie chu he tong	1
 協商解除勞動合同	xie shang jie chu lao dong he tong	1
+協議抵銷	xie yi di xiao	1
 協議離婚	xie yi li hun	1
 薪俸	xin feng	1
 信賴保護原則	xin lai bao hu yuan ze	1
@@ -2136,6 +2174,7 @@ columns: [text, code, weight]
 宣誓	xuan shi	1
 宣誓書	xuan shi shu	1
 宣誓條例	xuan shi tiao li	1
+選擇適用違約金或定金條款	xuan ze shi yong wei yue jin huo ding jin tiao kuan	1
 選擇自由	xuan ze zi you	1
 學生懲處	xue sheng cheng chu	1
 學術審議	xue shu shen yi	1
@@ -2183,6 +2222,7 @@ columns: [text, code, weight]
 一般公眾	yi ban gong zhong	1
 一般計稅方法	yi ban ji shui fang fa	1
 一般商業名稱	yi ban shang ye ming cheng	1
+一併轉讓合同權利義務	yi bing zhuan rang he tong quan li yi wu	1
 遺產	yi chan	1
 遺產及贈與稅法	yi chan ji zeng yu shui fa	1
 遺產及贈與稅法施行細則	yi chan ji zeng yu shui fa shi xing xi ze	1
@@ -2232,6 +2272,7 @@ columns: [text, code, weight]
 依職權	yi zhi quan	1
 移轉登記	yi zhuan deng ji	1
 易滋弊端業務	yi zi bi duan ye wu	1
+因第三人原因違約	yin di san ren yuan yin wei yue	1
 引渡法	yin du fa	1
 銀行法	yin hang fa	1
 印花稅法	yin hua shui fa	1
@@ -2273,6 +2314,7 @@ columns: [text, code, weight]
 用紋章裝飾	yong wen zhang zhuang shi	1
 用益物權	yong yi wu quan	1
 有償主義	you chang zhu yi	1
+由第三人履行債務	you di san ren lv xing zhai wu	1
 有二造當事人的程序	you er zao dang shi ren de cheng xu	1
 有給職	you gei zhi	1
 有關的	you guan de	1
@@ -2305,12 +2347,15 @@ columns: [text, code, weight]
 預防性禁制令	yu fang xing jin zhi ling	1
 漁港法	yu gang fa	1
 與貿易有關之智慧財產權協定	yu mao yi you guan zhi zhi hui cai chan quan xie ding	1
+逾期承諾	yu qi cheng nuo	1
 逾期申報	yu qi shen bao	1
+預期違約	yu qi wei yue	1
 預算	yu suan	1
 預算案	yu suan an	1
 預算法	yu suan fa	1
 預算總額	yu suan zong e	1
 漁業法	yu ye fa	1
+預約合同	yu yue he tong	1
 與證人對質之權利	yu zheng ren dui zhi zhi quan li	1
 原本的主體	yuan ben de zhu ti	1
 原告	yuan gao	1
@@ -2365,8 +2410,10 @@ columns: [text, code, weight]
 債權平等	zhai quan ping deng	1
 債權人	zhai quan ren	1
 債權人的權利	zhai quan ren de quan li	1
+債權人受領遲延	zhai quan ren shou ling chi yan	1
 債權轉讓	zhai quan zhuan rang	1
 債務	zhai wu	1
+債務加入	zhai wu jia ru	1
 債務人	zhai wu ren	1
 債務轉移	zhai wu zhuan yi	1
 戰勝拒絕註冊事由	zhan sheng ju jue zhu ce shi you	1
@@ -2614,6 +2661,7 @@ columns: [text, code, weight]
 最惠國稅率	zui hui guo shui lv	1
 罪刑法定原則	zui xing fa ding yuan ze	1
 罪責刑相適應原則	zui ze xing xiang shi ying yuan ze	1
+作不利於格式條款提供方的解釋	zuo bu li yu ge shi tiao kuan ti gong fang de jie shi	1
 佐理員	zuo li yuan	1
 作品	zuo pin	1
 作為義務	zuo wei yi wu	1

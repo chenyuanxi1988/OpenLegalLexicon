@@ -1,5 +1,5 @@
 {
-  "annotations_sha256": "024212ba537a8dd3c2d683a3591b58942ba62ed62db279d71d523368a798cd86",
+  "annotations_sha256": "be8fb9f2befdc3e0ac578f178a2b358a8258786fd1d301a7d0e7e9de00fe0a4f",
   "builder_sha256": {
     "src/openlegallexicon/__init__.py": "29e3184bc5eb7d849a19d487ed499b649fec30b19b87e047fcdcc383f9ec3cf2",
     "src/openlegallexicon/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
@@ -14,6 +14,7 @@
   },
   "evidence_registries_sha256": {
     "data/evidence/laws-cn-admin-labor.json": "c8b92ead2bc2121c8f8a8d291e24d78ffcb2449db5b22ae482ac8d25b0686c78",
+    "data/evidence/laws-cn-contracts.json": "3d7ca99cbbc49cda247e7c26442938a6f5f1ed4bcb7cbacc7364cdfee9a4bf3d",
     "data/evidence/laws-cn-criminal.json": "f6c41a50f0d3eceff1c64657e214739b9dd39693388b3ed9f7bf728c2214448c",
     "data/evidence/laws-cn-tax-trade.json": "fe437df3dae681a68bce7dcdac1dd3db3365d1ee298280ecf96a53f3ac4e6fb3",
     "data/evidence/laws.json": "1a25fe6b5cee7ff3a830b91abb1360f1273cb7274d65b4fbae6837f4fd8c63a9"
@@ -26,6 +27,7 @@
   },
   "input_snapshots": {
     "data/snapshots/oll-cn-admin-labor-2026-09-12.jsonl": "5164d395c52733fcd807679c85568538263389b69bc0daa9c1e12cd04bed4316",
+    "data/snapshots/oll-cn-contract-phrases-2026-09-15.jsonl": "e4b509e20eb7f2b7c9d7cda3f057bab9274032f7b110bcbf88cf4448359d1d33",
     "data/snapshots/oll-cn-core-2026-09-12.jsonl": "5789b294b869846169b4b3ea10ff7c398641927991bfea61b4856da69210e3db",
     "data/snapshots/oll-cn-criminal-2026-09-12.jsonl": "2bcc71014a44792727d5d64d62341ab15c926b03906fe9364aa9eda5f4685ba3",
     "data/snapshots/oll-cn-tax-trade-2026-09-12.jsonl": "49eddd9998c934a905554f3ebfffef4f19ae7b0267fa758812302baffef07f17",
@@ -33,14 +35,14 @@
     "data/snapshots/tw-tipo-trademark-2026-09-11.jsonl": "542932dd07a569c96c0a0b818edfa911b810e15b4e9eecc6135211f7590cebfe"
   },
   "schema_version": "1.1.0",
-  "source_registry_sha256": "8442f5f52c4f9751f05c83aa120e887e63b5f12dbeeb36477548faaaec46263c",
+  "source_registry_sha256": "33fb61a4e1e0b7301dd39c1c4546453afc878c2446ee3a4567a63629542a68b1",
   "statistics": {
-    "core_study_entries": 218,
-    "english_completions": 2713,
-    "entries": 2941,
-    "rime_hans_rows": 2610,
-    "rime_hant_rows": 2610,
-    "study_notes": 5882
+    "core_study_entries": 266,
+    "english_completions": 2761,
+    "entries": 2989,
+    "rime_hans_rows": 2658,
+    "rime_hant_rows": 2658,
+    "study_notes": 5978
   },
   "tool_version": "0.1.0.dev4"
 }

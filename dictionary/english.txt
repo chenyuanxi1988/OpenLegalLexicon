@@ -10,8 +10,10 @@ abuse of parental rights
 academic freedom
 academic performance review
 accelerated payment of subscribed capital
+acceptance delayed in transmission
 acceptance of an offer
 acceptance of bribes by an entity
+accession to a debt as a co-obligor
 accessory contract
 accessory offender
 Accountant- General
@@ -183,6 +185,7 @@ Anti-Corruption Act
 Anti-Corruption Program
 anti-dilution statutes
 anti-dumping measures
+anticipatory breach of contract
 Anticybersquatting Consumer Protection Act
 apparent agency
 apparent error in law / clearly erroneous in the application of law
@@ -276,6 +279,7 @@ bearer
 Beauty Salon
 behavioral punishment
 beneficial administrative act
+benefits expected from performance of the contract
 benefits for military personnel
 Betrayers Punishment Act
 Bidding Room
@@ -293,6 +297,7 @@ bona fides third party
 bonded factory
 bonded factory or bonded warehouse supervised by Customs
 Both are then forwarded to the examining attorney.
+breach caused by a third party
 bribery by an entity
 Bride Lounge
 Briefing Room
@@ -415,6 +420,7 @@ Civil Service Examinations Act
 Civil Service Protection Act
 civilian shareholder
 claim
+claim damages for breach of contract
 claim for restitution of inheritance
 claim in bankruptcy
 claim priority
@@ -582,6 +588,7 @@ credit cooperative
 Credit Union Act
 creditor
 creditor's rights
+creditor’s delay in accepting performance
 crime
 crime committed by an entity
 Crime Victims Protection Act
@@ -651,6 +658,8 @@ default
 Defendant and Agent ad litem
 Defendant and Assistant ad litem
 Defender
+defense based on the other party’s prior performance obligation
+defense of simultaneous performance
 defensive mark
 degree
 degree of proof
@@ -658,6 +667,7 @@ delay of the proceedings
 Delegate to the National Assembly
 delete
 deliberation
+demand performance of an overdue principal obligation
 demanding security
 democratic politics
 demonstrate
@@ -751,6 +761,7 @@ dominant market position
 double jeopardy
 double punishment
 Drafting Legal Documents
+draw attention to and explain standard terms
 drawer
 drawing heading
 drawing of the mark
@@ -786,6 +797,7 @@ economic compensation for a non-compete restriction
 Education Act for Indigenous Peoples
 effect in public law
 effective date
+elect between agreed-damages and earnest-money clauses
 election
 Electrical Control Room
 elementary
@@ -877,6 +889,7 @@ Executive Officer
 Executive Yuan
 Exemption
 exemption
+exemption clause
 exemption from criminal punishment
 exemption of the punishment
 exercise of public authority
@@ -920,6 +933,7 @@ family of marks
 fanciful or coined mark
 Farmers Association
 Farmers Health Insurance Act
+fault contributing to loss caused by breach
 fault-based tort liability
 feasible
 features
@@ -971,6 +985,7 @@ foreign trade
 Foreign Trade Act
 foreign trade investigation
 foreign trade operator
+foreseeability limit on damages for breach
 forfeiture of equity for unpaid contribution
 forged identity
 forged stamp
@@ -978,6 +993,7 @@ form
 formal act
 formally
 format
+formation of a contract
 forum
 forward
 foundation
@@ -1016,6 +1032,7 @@ full capacity for civil juristic acts
 full name
 function
 functionality doctrine
+fundamental change of circumstances
 further proceedings
 Futures Trading Act
 Gangster Prevention Act
@@ -1038,6 +1055,8 @@ geometrical
 gift
 gift tax
 gift tax exemption
+give notice and provide evidence of force majeure
+give notice of termination of a contract
 global assessment
 good faith
 goods subject to import or export restrictions
@@ -1208,6 +1227,7 @@ international trade in services
 International Trademark Association
 Internet Corporation for Assigned Names and Numbers
 interpellation
+interpret standard terms against their provider
 interpretation
 interpretation of the Constitution
 Interpreter
@@ -1230,6 +1250,7 @@ Ionizing Radiation Protection Act
 irrelevant
 irreparable harm
 irrevocability
+irrevocable offer
 issue
 issue a new action
 issue of likelihood of confusion
@@ -1329,6 +1350,7 @@ land value at the time of transfer
 Land-to-the-Tiller Act
 landowner
 Lanham Act
+late acceptance
 late declaration
 law
 Law Clerk
@@ -1419,7 +1441,9 @@ Lump-sum Retirement Payment
 Madrid Protocol
 Mail Room
 Mail Room of the Judicial Yuan
+maintain confidentiality during contract negotiations
 Maintenance Worker
+make a material alteration to an offer
 malicious accusation
 malicious collusion
 malicious prosecution
@@ -1488,6 +1512,7 @@ mistake
 mistakenly
 mistakenly believe
 mitigate damages
+mitigate loss caused by breach
 monetary payment
 Money Laundering Control Act
 monogamy
@@ -1539,6 +1564,7 @@ negligence
 negligent crime
 negotiable instrument
 Negotiable Instruments Act
+negotiate a contract in bad faith
 net worth of assets
 new system of administrative proceeding
 New Taiwan Dollar
@@ -1570,6 +1596,7 @@ notice of lodgment
 Notice on Encouragement of Investment to Build Retailers Market in Taipei City
 notification
 notification of a concentration
+notify the debtor of an assignment
 Nuclear Reactor Facilities Regulation Act
 Nursery Room
 Oath Act
@@ -1701,7 +1728,13 @@ people's freedoms and rights
 per se
 perceive
 peremptory period
+perform an obligation before it falls due
+perform an obligation in part
+perform an obligation to a third party
+perform contractual obligations in full
 perform obligations
+perform the obligation to apply for approval
+performance of an obligation by a third party
 Performance Rating
 period of martial law
 Period of National Mobilization in Suppression of Communist Rebellion
@@ -1775,6 +1808,7 @@ preclude
 preclude confusion
 predictability of law
 preemption right of public land
+preliminary contract to conclude a future contract
 preliminary injunction
 preliminary review
 preliminary search
@@ -1938,6 +1972,7 @@ ranked military officer
 ratification
 re-investment
 re-nomination
+reach a supplementary agreement
 Real Estate Appraiser Act
 Real Estate Broking Management Act
 real property
@@ -2087,6 +2122,7 @@ revocation
 revocation of probation
 revocation of registration
 revocation of the probation
+revoke an offer
 right of access to the media
 right of adaptation
 right of an individual to select one's own name
@@ -2122,6 +2158,7 @@ right to rectification of personal information
 right to redeem
 right to repossession
 right to reputation
+right to suspend performance on grounds of insecurity
 right to the benefit of justice
 right to the estate
 right to the exclusive use of trademark
@@ -2177,6 +2214,7 @@ Security Guard
 security interest
 security right in property
 sedition
+seek continued performance
 seized properties
 seizure
 Selection of Parties
@@ -2202,7 +2240,9 @@ service mark
 Service Medal
 Service of Process
 service period
+set-off by agreement
 settlement
+settlement and winding-up clauses
 Severance
 severe calamity
 Sewerage Law
@@ -2425,6 +2465,8 @@ Taiwan Yunlin District Court Beigang Summary Court
 Taiwan Yunlin District Court Douliu Summary Court
 Taiwan Yunlin District Court Huwei Summary Court
 take into custody
+take remedial measures
+taking effect of a contract
 tariff classification of goods
 tariff line
 tariff number
@@ -2464,6 +2506,8 @@ tenant farmer
 tenant-farmer
 term extension
 term of the Presidency
+terminate a contract by mutual agreement
+terminate a contract on statutory grounds
 Terminated
 termination of administrative reconsideration
 termination of an employment contract
@@ -2579,6 +2623,7 @@ Traitors Punishment Act
 Transaction for Supervising Government Ethics of the Ministry of Justice
 Transfer
 transfer among different personnel systems
+transfer contractual rights and obligations together
 transfer of a debt
 transparency
 transshipment manifest
@@ -2653,6 +2698,7 @@ Value-Added and Non-Value-Added Business Tax Act
 value-added tax (VAT)
 value-declared mail
 value-insured mail
+vary a contract by agreement
 VAT exemption
 VAT levy rate
 VAT rate
@@ -2690,6 +2736,8 @@ Wildlife Conservation Act
 willful abandonment
 WIPO
 withdraw
+withdraw an acceptance
+withdraw an offer
 withdraw an opposition
 withdrawal of consent
 withholding at source
