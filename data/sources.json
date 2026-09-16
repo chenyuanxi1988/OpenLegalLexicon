@@ -137,5 +137,25 @@
     "snapshot_sha256": "e4b509e20eb7f2b7c9d7cda3f057bab9274032f7b110bcbf88cf4448359d1d33",
     "title": "OpenLegalLexicon 中国大陆合同实务词组（第五批）",
     "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon"
+  },
+  {
+    "attribution": "OpenLegalLexicon contributors：依据已固定的现行民事诉讼法与2025修订仲裁法条文原创编写的民事诉讼、执行与仲裁实务词组、中文释义、学习提示及英文项目释译；CC BY 4.0。",
+    "expected_records": 66,
+    "format": "editorial_seed",
+    "id": "oll-cn-dispute-resolution",
+    "license": "CC-BY-4.0",
+    "license_evidence_url": "https://github.com/chenyuanxi1988/OpenLegalLexicon/blob/main/DATA_LICENSE.md",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "origin": "INTERNATIONAL",
+    "pages": 1,
+    "provider": "OpenLegalLexicon contributors（Codex 辅助编写）",
+    "redistribution": "permitted",
+    "retrieved": "2026-09-16",
+    "review": "AI-assisted source-linked editorial pass; no human expert review; current statutory versions pinned and independently re-extracted; ongoing legal validity not asserted",
+    "scope": "中国大陆现行民事诉讼、执行与仲裁实务词组；依据2023年修正民事诉讼法和2025年修订、2026-03-01施行仲裁法的固定政府全文逐条关联证据。英文为项目释译，不是官方译文或专家审核；不主张覆盖全部司法解释、仲裁规则或涉外条约。",
+    "snapshot": "data/snapshots/oll-cn-dispute-resolution-2026-09-16.jsonl",
+    "snapshot_sha256": "18b303ac6313b1596e3d6e9d069909f4b8b8f2295381229a52b742063a16155e",
+    "title": "OpenLegalLexicon 中国大陆民事诉讼、执行与仲裁实务词组（第六批）",
+    "url": "https://github.com/chenyuanxi1988/OpenLegalLexicon"
   }
 ]
