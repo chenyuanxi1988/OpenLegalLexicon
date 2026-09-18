@@ -3,108 +3,6 @@
     {
       "members": [
         {
-          "context": "憲法法庭書記廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "opposite party",
-          "flags": [],
-          "id": "tw-judicial-0e3b1cb4cd98e7aa9c7f",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "933",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "相对人",
-          "zh_Hant": "相對人"
-        },
-        {
-          "context": "民事廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "Opposite Party",
-          "flags": [],
-          "id": "tw-judicial-b8e91cfea337c1e0de29",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "932",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "相对人",
-          "zh_Hant": "相對人"
-        }
-      ],
-      "priority": 25,
-      "reasons": [
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "相对人"
-    },
-    {
-      "members": [
-        {
-          "context": "行政訴訟及懲戒廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "Assistants",
-          "flags": [],
-          "id": "tw-judicial-68d9be3230f7a24824f9",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1767",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "辅佐人",
-          "zh_Hant": "輔佐人"
-        },
-        {
-          "context": "民事廳",
-          "domain_basis": "automatic_keyword_rules",
-          "domains": [
-            "unclassified"
-          ],
-          "en": "Assistants",
-          "flags": [],
-          "id": "tw-judicial-a1015bc74a76b0534c30",
-          "jurisdiction_basis": "not_assessed",
-          "jurisdictions": [],
-          "kind": "unclassified",
-          "kind_basis": "automatic_surface_rules",
-          "record": "1766",
-          "source_id": "tw-judicial",
-          "status": "source_attributed",
-          "translation_note": "",
-          "translation_review": "source_attributed",
-          "zh_Hans": "辅佐人",
-          "zh_Hant": "輔佐人"
-        }
-      ],
-      "priority": 25,
-      "reasons": [
-        "contains_unclassified_source_entry"
-      ],
-      "zh_Hans": "辅佐人"
-    },
-    {
-      "members": [
-        {
           "context": "A13070000G",
           "domain_basis": "source_collection",
           "domains": [
@@ -1712,7 +1610,7 @@
       "zh_Hans": "调解室"
     }
   ],
-  "homograph_review_groups_total": 33,
+  "homograph_review_groups_total": 31,
   "limits": [
     "Source origin does not establish legal jurisdiction.",
     "Surface-kind and domain rules are machine-generated candidates, not legal review.",
@@ -4547,8 +4445,8 @@
     }
   ],
   "single_high_value_candidates_total": 374,
-  "source_attributed_entries": 2665,
-  "unclassified_source_entries": 1467,
+  "source_attributed_entries": 2661,
+  "unclassified_source_entries": 1463,
   "unresolved_quality_items": [
     {
       "context": "憲法法庭書記廳",

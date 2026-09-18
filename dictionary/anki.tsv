@@ -798,8 +798,8 @@ tw-judicial-0e15c58cb13af72beeda:zh-en	不可废止性	irrevocability	来源地�
 tw-judicial-0e15c58cb13af72beeda:en-zh	irrevocability	不可废止性	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:81	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-0e2a7b756b6c2b124432:zh-en	自用住宅	homestead; residence for own use	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:530	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-0e2a7b756b6c2b124432:en-zh	homestead; residence for own use	自用住宅	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:530	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-0e3b1cb4cd98e7aa9c7f:zh-en	相对人	opposite party	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:933	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-0e3b1cb4cd98e7aa9c7f:en-zh	opposite party	相对人	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:933	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-0e3b1cb4cd98e7aa9c7f:zh-en	相对人	opposite party	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	宪法法庭书记厅来源采用小写 opposite party；仅按来源语境编排为程序参与角色，保留与民事厅记录的大小写及来源差别，不补推当事人资格、权利义务或适用法域。	tw-judicial:933	OpenLegalLexicon origin::TW review::source_attributed domain::constitutional domain::dispute_resolution
+tw-judicial-0e3b1cb4cd98e7aa9c7f:en-zh	opposite party	相对人	来源地区 TW / 法域 待核查 / 憲法法庭書記廳	宪法法庭书记厅来源采用小写 opposite party；仅按来源语境编排为程序参与角色，保留与民事厅记录的大小写及来源差别，不补推当事人资格、权利义务或适用法域。	tw-judicial:933	OpenLegalLexicon origin::TW review::source_attributed domain::constitutional domain::dispute_resolution
 tw-judicial-0e49e49b3d87547f3838:zh-en	主机室	Computer Facilities	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:263	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-0e49e49b3d87547f3838:en-zh	Computer Facilities	主机室	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:263	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-0e7cb9fbb9dc30bb0276:zh-en	家事法院	Family Court	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:996	OpenLegalLexicon origin::TW review::source_attributed domain::dispute_resolution domain::family
@@ -2334,8 +2334,8 @@ tw-judicial-68cba48a66d9ad8ace66:zh-en	夫妻财产制契约登记	Registration 
 tw-judicial-68cba48a66d9ad8ace66:en-zh	Registration of Matrimonial Property Contracts	夫妻财产制契约登记	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:209	OpenLegalLexicon origin::TW review::source_attributed domain::contracts
 tw-judicial-68d243ad9d72badf477d:zh-en	国库债券	treasure bond	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1218	OpenLegalLexicon origin::TW review::source_attributed domain::finance
 tw-judicial-68d243ad9d72badf477d:en-zh	treasure bond	国库债券	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1218	OpenLegalLexicon origin::TW review::source_attributed domain::finance
-tw-judicial-68d9be3230f7a24824f9:zh-en	辅佐人	Assistants	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳		tw-judicial:1767	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-68d9be3230f7a24824f9:en-zh	Assistants	辅佐人	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳		tw-judicial:1767	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-68d9be3230f7a24824f9:zh-en	辅佐人	Assistants	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳	行政诉讼及惩戒厅来源采用复数 Assistants；按来源语境编排为程序辅助角色，保留复数原词形。未核验资格或授权范围，不将辅佐人与诉讼代理人、律师直接等同。	tw-judicial:1767	OpenLegalLexicon origin::TW review::source_attributed domain::administrative domain::dispute_resolution
+tw-judicial-68d9be3230f7a24824f9:en-zh	Assistants	辅佐人	来源地区 TW / 法域 待核查 / 行政訴訟及懲戒廳	行政诉讼及惩戒厅来源采用复数 Assistants；按来源语境编排为程序辅助角色，保留复数原词形。未核验资格或授权范围，不将辅佐人与诉讼代理人、律师直接等同。	tw-judicial:1767	OpenLegalLexicon origin::TW review::source_attributed domain::administrative domain::dispute_resolution
 tw-judicial-68fe91518a82e7894c9d:zh-en	本俸	Basic Pay	来源地区 TW / 法域 待核查 / 人事處		tw-judicial:350	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-68fe91518a82e7894c9d:en-zh	Basic Pay	本俸	来源地区 TW / 法域 待核查 / 人事處		tw-judicial:350	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-692dce0406c5cc4869d5:zh-en	参事室	Office of the Counselors	来源地区 TW / 法域 待核查 / 司法行政廳		tw-judicial:1160	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3198,8 +3198,8 @@ tw-judicial-a0db882d945c133d2f38:zh-en	轻便轨道	light rails	来源地区 TW 
 tw-judicial-a0db882d945c133d2f38:en-zh	light rails	轻便轨道	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1770	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a101159412d4cd531468:zh-en	合理确信	reasonable assurance	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:476	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a101159412d4cd531468:en-zh	reasonable assurance	合理确信	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:476	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-a1015bc74a76b0534c30:zh-en	辅佐人	Assistants	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1766	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-a1015bc74a76b0534c30:en-zh	Assistants	辅佐人	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:1766	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-a1015bc74a76b0534c30:zh-en	辅佐人	Assistants	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源采用复数 Assistants；保留与行政诉讼及惩戒厅记录的语境区别，不自动合并，也不从该词对推定辅佐人的资格或诉讼权限。	tw-judicial:1766	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::dispute_resolution
+tw-judicial-a1015bc74a76b0534c30:en-zh	Assistants	辅佐人	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源采用复数 Assistants；保留与行政诉讼及惩戒厅记录的语境区别，不自动合并，也不从该词对推定辅佐人的资格或诉讼权限。	tw-judicial:1766	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::dispute_resolution
 tw-judicial-a12b9373bc4659f4277a:zh-en	采验尿液	Urine sample gathering	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:1271	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a12b9373bc4659f4277a:en-zh	Urine sample gathering	采验尿液	来源地区 TW / 法域 待核查 / 少年及家事廳		tw-judicial:1271	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-a15c41b03a7657985ba1:zh-en	商港法	The Commercial Port Law	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1167	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
@@ -3612,8 +3612,8 @@ tw-judicial-b894f2f4050e53ea90f1:zh-en	总统副总统及特任人员月俸公�
 tw-judicial-b894f2f4050e53ea90f1:en-zh	Temporary Act on President’s, Vice President’s and Special Rank Officials’ Monthly Salary and Pay for Duty-related Expenses	总统副总统及特任人员月俸公费支给暂行条例	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1980	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-b8a4d4daf1c7288690ca:zh-en	补充规定	supplementary regulations	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1577	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-b8a4d4daf1c7288690ca:en-zh	supplementary regulations	补充规定	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:1577	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-b8e91cfea337c1e0de29:zh-en	相对人	Opposite Party	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:932	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
-tw-judicial-b8e91cfea337c1e0de29:en-zh	Opposite Party	相对人	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:932	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
+tw-judicial-b8e91cfea337c1e0de29:zh-en	相对人	Opposite Party	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源采用 Opposite Party；按来源语境编排为程序参与角色，保留独立来源记录，不将所有相对人直接视为被告或赋予未经核验的程序地位。	tw-judicial:932	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::dispute_resolution
+tw-judicial-b8e91cfea337c1e0de29:en-zh	Opposite Party	相对人	来源地区 TW / 法域 待核查 / 民事廳	民事厅来源采用 Opposite Party；按来源语境编排为程序参与角色，保留独立来源记录，不将所有相对人直接视为被告或赋予未经核验的程序地位。	tw-judicial:932	OpenLegalLexicon origin::TW review::source_attributed domain::civil domain::dispute_resolution
 tw-judicial-b8f19473788d18d59e5f:zh-en	姓名权	right of an individual to select one's own name	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:717	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-b8f19473788d18d59e5f:en-zh	right of an individual to select one's own name	姓名权	来源地区 TW / 法域 待核查 / 憲法法庭書記廳		tw-judicial:717	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
 tw-judicial-b93c74d86a15bbc9a376:zh-en	公证人	Notary	来源地区 TW / 法域 待核查 / 民事廳		tw-judicial:196	OpenLegalLexicon origin::TW review::source_attributed domain::unclassified
