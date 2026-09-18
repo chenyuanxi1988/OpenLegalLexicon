@@ -3301,6 +3301,9 @@
   "accelerated payment of subscribed capital": [
     "cn-accelerated-contribution"
   ],
+  "accept an arbitration application": [
+    "cn-arb-accept-arbitration-application"
+  ],
   "acceptance delayed in transmission": [
     "cn-delayed-transmission-acceptance"
   ],
@@ -3452,6 +3455,9 @@
   "adultery": [
     "tw-judicial-10b42953bb1abaad9dd0"
   ],
+  "advance execution": [
+    "cn-cpl-advance-execution"
+  ],
   "adverse possession": [
     "tw-judicial-a17a7ebfb468e263f2e9"
   ],
@@ -3577,6 +3583,9 @@
   "appearance": [
     "tw-tipo-trademark-5228af0a1e3bd68621c5"
   ],
+  "appellate petition": [
+    "cn-cpl-appellate-petition"
+  ],
   "appellation of origin": [
     "tw-tipo-trademark-4438d807f12c7d7ce3c6"
   ],
@@ -3600,11 +3609,38 @@
   "application period": [
     "tw-judicial-71c70242440d02df8e0f"
   ],
+  "apply for compulsory enforcement": [
+    "cn-cpl-apply-enforcement"
+  ],
+  "apply for retrial": [
+    "cn-cpl-apply-retrial"
+  ],
+  "apply to enforce an arbitral award": [
+    "cn-arb-apply-enforce-award"
+  ],
+  "apply to set aside an arbitral award": [
+    "cn-arb-set-aside-award"
+  ],
   "approve": [
     "tw-tipo-trademark-abb1835267c2f4ece061"
   ],
+  "arbitrability": [
+    "cn-arb-arbitrability"
+  ],
+  "arbitral award in a party’s absence": [
+    "cn-arb-default-award"
+  ],
+  "arbitral award taking effect upon issuance": [
+    "cn-arb-award-effective"
+  ],
   "arbitrary mark": [
     "tw-tipo-trademark-bb28afb9b39b7d5b7515"
+  ],
+  "arbitration agreement": [
+    "cn-arb-arbitration-agreement"
+  ],
+  "arbitrator disclosure": [
+    "cn-arb-arbitrator-disclosure"
   ],
   "arrange a refund": [
     "tw-tipo-trademark-b87405ba9dab9d48bf82"
@@ -3656,6 +3692,9 @@
   ],
   "auction of mortgaged property": [
     "tw-judicial-89ebb69b359a9eb44132"
+  ],
+  "auction or sell seized property": [
+    "cn-cpl-auction-sale-seized-property"
   ],
   "audit report": [
     "tw-judicial-9de4f7961853248e64cc"
@@ -3777,6 +3816,12 @@
   "burden of proof": [
     "tw-judicial-30a4e134f6aa4a0067c1"
   ],
+  "burden to produce evidence": [
+    "cn-cpl-burden-produce-evidence"
+  ],
+  "burden to provide evidence in arbitration": [
+    "cn-arb-burden-produce-evidence"
+  ],
   "business accounting bookkeeper": [
     "tw-judicial-1bd93f22bc34391fe261"
   ],
@@ -3874,6 +3919,9 @@
   "chairman": [
     "tw-judicial-1e6fad52ca22863f04ee"
   ],
+  "challenge to the validity of an arbitration agreement": [
+    "cn-arb-challenge-validity-agreement"
+  ],
   "channels of trade": [
     "tw-tipo-trademark-d3fc3bfa78ff4237eb78"
   ],
@@ -3885,6 +3933,9 @@
   ],
   "check and balance of powers": [
     "tw-judicial-476e5a18da491dbb2d3e"
+  ],
+  "choice-of-court agreement": [
+    "cn-cpl-choice-of-court-agreement"
   ],
   "chui-fu": [
     "tw-judicial-3442666f6c4005c6f05e"
@@ -3979,6 +4030,9 @@
   "combined punishment for multiple crimes": [
     "cn-combined-punishment"
   ],
+  "commence arbitration by application": [
+    "cn-arb-apply-arbitration"
+  ],
   "commencement date": [
     "tw-tipo-trademark-c45260fd3381771b0d78"
   ],
@@ -4054,6 +4108,9 @@
   "composite mark": [
     "tw-tipo-trademark-7006f1a8f3a37979861d"
   ],
+  "composition of the arbitral tribunal": [
+    "cn-arb-tribunal-composition"
+  ],
   "compound duty assessment": [
     "cn-customs-compound-duty"
   ],
@@ -4089,6 +4146,9 @@
   ],
   "conditional sale": [
     "tw-judicial-3c62f0892dbdf6ff753b"
+  ],
+  "conditions for bringing a civil action": [
+    "cn-cpl-conditions-filing-action"
   ],
   "conduct": [
     "tw-tipo-trademark-2ca6a84159c7ae4469b3"
@@ -4219,11 +4279,20 @@
   "correction": [
     "tw-judicial-4be0c5ed0e53cfb9917d"
   ],
+  "correction or supplementation of an arbitral award": [
+    "cn-arb-correct-supplement-award"
+  ],
   "correctional of judgment": [
     "tw-judicial-8b3cc4beff7b43422bf8"
   ],
   "counter with": [
     "tw-tipo-trademark-6c8c9c25c71417c0757d"
+  ],
+  "counterclaim": [
+    "cn-cpl-counterclaim"
+  ],
+  "counterclaim in arbitration": [
+    "cn-arb-counterclaim"
   ],
   "counterfeit": [
     "tw-judicial-f00596e975bbf495c08f"
@@ -4485,6 +4554,9 @@
   "designation": [
     "tw-tipo-trademark-6f4458b76af159cfc2fa"
   ],
+  "designation of jurisdiction by a higher court": [
+    "cn-cpl-designated-jurisdiction"
+  ],
   "details(of the applicant)": [
     "tw-tipo-trademark-05236f193af094dab239"
   ],
@@ -4598,6 +4670,9 @@
   "divorce case": [
     "tw-judicial-3b626093c8e501814095"
   ],
+  "docket and accept a civil case": [
+    "cn-cpl-case-filing"
+  ],
   "doctrine": [
     "tw-tipo-trademark-702f78fed73fcb1e2276"
   ],
@@ -4609,6 +4684,9 @@
   ],
   "document bearing official seal": [
     "tw-judicial-62da5806567404c2333a"
+  ],
+  "documents-only arbitration proceeding": [
+    "cn-arb-documents-only-proceeding"
   ],
   "domain name": [
     "tw-tipo-trademark-0d65124bc01142f2e6f9"
@@ -4703,6 +4781,9 @@
   ],
   "effect in public law": [
     "tw-judicial-c293a0d1ff1b3b59856e"
+  ],
+  "effect of an arbitration agreement on court proceedings": [
+    "cn-arb-court-effect-arbitration-agreement"
   ],
   "effective date": [
     "tw-judicial-c8a0ef2b98e48b9dbec3"
@@ -4836,8 +4917,17 @@
     "tw-judicial-b706cf9db755be5ccce0",
     "tw-tipo-trademark-4fef1412f1891ba882cd"
   ],
+  "examination of evidence by the parties": [
+    "cn-cpl-cross-examination-evidence"
+  ],
+  "examination of evidence in arbitration": [
+    "cn-arb-examination-evidence"
+  ],
   "examination organ": [
     "tw-judicial-b0d288faca4718cc012a"
+  ],
+  "exclusive jurisdiction": [
+    "cn-cpl-exclusive-jurisdiction"
   ],
   "exclusive right": [
     "tw-tipo-trademark-a8f2a126a3fdaba86eba"
@@ -4978,6 +5068,12 @@
   "file": [
     "tw-tipo-trademark-e7b914186f012f58d83a"
   ],
+  "file a statement of claim": [
+    "cn-cpl-file-complaint"
+  ],
+  "file an appeal": [
+    "cn-cpl-appeal"
+  ],
   "file history": [
     "tw-tipo-trademark-0b6c0f4fc7f41cadd3cd"
   ],
@@ -5001,6 +5097,9 @@
   ],
   "final business income tax return": [
     "tw-judicial-83af3f6b44a80e2f20f0"
+  ],
+  "finality after a single arbitral award": [
+    "cn-arb-final-award-rule"
   ],
   "financial institution": [
     "tw-judicial-97cef1295e5592e142c2"
@@ -5613,6 +5712,9 @@
   "interstate commerce": [
     "tw-tipo-trademark-60a3efb5fd787b996d9a"
   ],
+  "invalid arbitration agreement": [
+    "cn-arb-invalid-arbitration-agreement"
+  ],
   "invalidating judgment": [
     "tw-judicial-37696299957dfbe90856"
   ],
@@ -5661,6 +5763,9 @@
   "joint crime": [
     "cn-joint-crime"
   ],
+  "joint litigation": [
+    "cn-cpl-joint-litigation"
+  ],
   "joint marital debt": [
     "cn-marital-joint-debt"
   ],
@@ -5685,8 +5790,14 @@
   "judgment": [
     "tw-judicial-3f172215317504a08fa5"
   ],
+  "judgment debtor’s property reporting": [
+    "cn-cpl-property-reporting"
+  ],
   "judgment for exemption punishment": [
     "tw-judicial-0944dd076b374eca4dd2"
+  ],
+  "judgment in a party’s absence": [
+    "cn-cpl-default-judgment"
   ],
   "judgment that is illegal in substance": [
     "tw-judicial-f8ea424d1350589fbaca"
@@ -5737,6 +5848,9 @@
   "jurisdiction": [
     "tw-judicial-176aa7699318fd89eb87",
     "tw-tipo-trademark-aced61c1f5ce3eb27172"
+  ],
+  "jurisdiction based on the defendant’s domicile": [
+    "cn-cpl-defendant-domicile-jurisdiction"
   ],
   "juristic person": [
     "tw-tipo-trademark-6f1e87924f20a2047c38"
@@ -6071,6 +6185,9 @@
     "tw-judicial-bd6c0ba926052127a987",
     "tw-tipo-trademark-fddeef5952ba3f19bb9e"
   ],
+  "mediation by the arbitral tribunal": [
+    "cn-arb-mediation"
+  ],
   "medical and health care": [
     "tw-judicial-7c696cdee3166bacbb32"
   ],
@@ -6288,6 +6405,9 @@
   "non-prosecutorial disposition": [
     "tw-judicial-3b14f04a68f275027e41"
   ],
+  "non-public arbitration proceedings": [
+    "cn-arb-confidential-nonpublic"
+  ],
   "non-use period": [
     "tw-tipo-trademark-e00a0b9fced6e04ac504"
   ],
@@ -6314,6 +6434,12 @@
   ],
   "notify the debtor of an assignment": [
     "cn-notify-assignment"
+  ],
+  "objection to an enforcement act": [
+    "cn-cpl-objection-enforcement-act"
+  ],
+  "objection to jurisdiction": [
+    "cn-cpl-jurisdiction-objection"
   ],
   "obligation based on guaranty": [
     "tw-judicial-23392d8aff7a54787eb6"
@@ -6400,6 +6526,9 @@
   "oral arguments": [
     "tw-judicial-4802149e4286fb3f9fc2"
   ],
+  "oral hearing in arbitration": [
+    "cn-arb-oral-hearing"
+  ],
   "order of disposition": [
     "tw-judicial-1ed9072d0dbb240a3736"
   ],
@@ -6481,6 +6610,9 @@
   ],
   "parliamentary power of decision-making participation": [
     "tw-judicial-baad5b91b8c7a5e0989d"
+  ],
+  "partial arbitral award": [
+    "cn-arb-partial-award"
   ],
   "particular living individual": [
     "tw-tipo-trademark-6a54202ca38dfdcf3339"
@@ -6678,6 +6810,12 @@
   "power to prosecute": [
     "tw-judicial-921b203a0eb393ea8e26"
   ],
+  "pre-action preservation measures": [
+    "cn-cpl-pre-action-preservation"
+  ],
+  "pre-action preservation of evidence": [
+    "cn-cpl-pre-action-evidence-preservation"
+  ],
   "pre-contractual liability": [
     "cn-precontractual-liability"
   ],
@@ -6722,6 +6860,18 @@
   ],
   "prescription drugs": [
     "tw-judicial-b4de315855a1642532b4"
+  ],
+  "preservation measures during litigation": [
+    "cn-cpl-litigation-preservation"
+  ],
+  "preservation measures in support of arbitration": [
+    "cn-arb-preservation-measures"
+  ],
+  "preservation of evidence": [
+    "cn-cpl-evidence-preservation"
+  ],
+  "preservation of evidence for arbitration": [
+    "cn-arb-evidence-preservation"
   ],
   "presiding judge": [
     "tw-judicial-fc14e3f319279a0cec55"
@@ -7027,6 +7177,9 @@
   "quasi-property rights": [
     "tw-tipo-trademark-b51a3b461dae9a55c942"
   ],
+  "query, freeze, transfer and realize the judgment debtor’s property": [
+    "cn-cpl-query-freeze-transfer-property"
+  ],
   "quia timet injunction": [
     "tw-tipo-trademark-153908e76552e88a1eee"
   ],
@@ -7036,6 +7189,9 @@
   "ratification": [
     "tw-judicial-9c28ea5d70e86c2b6cba",
     "tw-judicial-abb9730c9e3e48a492c8"
+  ],
+  "re-arbitration": [
+    "cn-arb-rearbitration"
   ],
   "re-investment": [
     "tw-judicial-c659c0dccd574109f062"
@@ -7072,6 +7228,9 @@
   "reciprocal treatment": [
     "tw-tipo-trademark-54d2bb01c64b3227bca4"
   ],
+  "recognition and enforcement of a foreign arbitral award": [
+    "cn-arb-recognize-enforce-foreign-award"
+  ],
   "recognizable": [
     "tw-tipo-trademark-506805bca4ca5051538d"
   ],
@@ -7105,6 +7264,9 @@
   "recusal by a judge": [
     "tw-judicial-eb75035d5b49684748bb"
   ],
+  "recusal or challenge of an arbitrator": [
+    "cn-arb-arbitrator-recusal"
+  ],
   "reduction of punishment": [
     "tw-judicial-6c4d5be0881e8457e78e"
   ],
@@ -7122,6 +7284,9 @@
   ],
   "refusal": [
     "tw-tipo-trademark-7715bf9efed5bf6790b3"
+  ],
+  "refusal to enforce an arbitral award": [
+    "cn-arb-refuse-enforcement-award"
   ],
   "refuse": [
     "tw-tipo-trademark-f9e2f21db66f7361bb2d"
@@ -7201,6 +7366,9 @@
   ],
   "relocation compensation": [
     "tw-judicial-2c72b1eb9cb273276b61"
+  ],
+  "remand for retrial": [
+    "cn-cpl-remand-retrial"
   ],
   "remanded": [
     "tw-judicial-84448cc8693be7cb78b5"
@@ -7471,6 +7639,9 @@
   "search": [
     "tw-tipo-trademark-ebe331b9980cca7b5f1d"
   ],
+  "seat of arbitration": [
+    "cn-arb-seat"
+  ],
   "second instance": [
     "tw-judicial-09af9501f41ec9e3b46d"
   ],
@@ -7536,6 +7707,9 @@
   "sentencing": [
     "cn-sentencing"
   ],
+  "separability of the arbitration agreement": [
+    "cn-arb-separability"
+  ],
   "separate customs territory": [
     "cn-separate-customs-territory"
   ],
@@ -7563,6 +7737,12 @@
   ],
   "settlement and winding-up clauses": [
     "cn-settlement-windingup-clauses"
+  ],
+  "settlement during arbitration": [
+    "cn-arb-settlement"
+  ],
+  "settlement during enforcement proceedings": [
+    "cn-cpl-enforcement-settlement"
   ],
   "severe calamity": [
     "tw-judicial-faadbed302611e6ca057"
@@ -7988,6 +8168,12 @@
   "termination of business": [
     "tw-judicial-4ded5c9768be9cd4606a"
   ],
+  "territorial jurisdiction over a contract dispute": [
+    "cn-cpl-contract-dispute-territorial-jurisdiction"
+  ],
+  "territorial jurisdiction over a tort dispute": [
+    "cn-cpl-tort-territorial-jurisdiction"
+  ],
   "testify": [
     "tw-judicial-6779c69134cf9e401f1c"
   ],
@@ -8031,6 +8217,9 @@
   "third party": [
     "tw-tipo-trademark-9eed2463bbf08ab38564"
   ],
+  "third-party objection to property subject to enforcement": [
+    "cn-cpl-outsider-objection-execution-target"
+  ],
   "three dimensional": [
     "tw-tipo-trademark-1ef562ea7f214e99ce1a"
   ],
@@ -8042,6 +8231,12 @@
   ],
   "time limit for applying for administrative reconsideration": [
     "cn-admin-reconsideration-time-limit"
+  ],
+  "time limit for applying for enforcement": [
+    "cn-cpl-enforcement-application-period"
+  ],
+  "time limit for submitting evidence": [
+    "cn-cpl-evidence-submission-period"
   ],
   "title": [
     "tw-tipo-trademark-ca12d594a39de3f65a64"
@@ -8117,6 +8312,9 @@
   ],
   "transfer contractual rights and obligations together": [
     "cn-transfer-contract-position"
+  ],
+  "transfer of a case for lack of jurisdiction": [
+    "cn-cpl-transfer-jurisdiction"
   ],
   "transfer of a debt": [
     "cn-transfer-debt"

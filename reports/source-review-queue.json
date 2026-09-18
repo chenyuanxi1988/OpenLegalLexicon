@@ -3,6 +3,166 @@
     {
       "members": [
         {
+          "context": "中华人民共和国民事诉讼法（2023年修正）",
+          "domain_basis": "editorial",
+          "domains": [
+            "dispute_resolution"
+          ],
+          "en": "burden to produce evidence",
+          "flags": [],
+          "id": "cn-cpl-burden-produce-evidence",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-cpl-burden-produce-evidence",
+          "source_id": "oll-cn-dispute-resolution",
+          "status": "evidence_linked",
+          "translation_note": "项目释译，非官方译文；burden to produce evidence is deliberately descriptive to avoid collapsing evidentiary burdens across legal systems.",
+          "translation_review": "project_authored",
+          "zh_Hans": "举证责任",
+          "zh_Hant": "舉證責任"
+        },
+        {
+          "context": "憲法法庭書記廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "unclassified"
+          ],
+          "en": "burden of proof",
+          "flags": [],
+          "id": "tw-judicial-30a4e134f6aa4a0067c1",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "1993",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_note": "",
+          "translation_review": "source_attributed",
+          "zh_Hans": "举证责任",
+          "zh_Hant": "舉證責任"
+        }
+      ],
+      "priority": 125,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry",
+        "contains_unclassified_source_entry"
+      ],
+      "zh_Hans": "举证责任"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国仲裁法（2025修订）",
+          "domain_basis": "editorial",
+          "domains": [
+            "dispute_resolution"
+          ],
+          "en": "arbitration agreement",
+          "flags": [],
+          "id": "cn-arb-arbitration-agreement",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-arb-arbitration-agreement",
+          "source_id": "oll-cn-dispute-resolution",
+          "status": "evidence_linked",
+          "translation_note": "项目释译，非官方译文；arbitration agreement includes an arbitration clause or a separate written agreement in the statutory sense.",
+          "translation_review": "project_authored",
+          "zh_Hans": "仲裁协议",
+          "zh_Hant": "仲裁協議"
+        },
+        {
+          "context": "民事廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "dispute_resolution"
+          ],
+          "en": "Arbitration Agreement",
+          "flags": [],
+          "id": "tw-judicial-c606caa5c1da280af284",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "428",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_note": "",
+          "translation_review": "source_attributed",
+          "zh_Hans": "仲裁协议",
+          "zh_Hant": "仲裁協議"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "仲裁协议"
+    },
+    {
+      "members": [
+        {
+          "context": "中华人民共和国民事诉讼法（2023年修正）",
+          "domain_basis": "editorial",
+          "domains": [
+            "dispute_resolution"
+          ],
+          "en": "joint litigation",
+          "flags": [],
+          "id": "cn-cpl-joint-litigation",
+          "jurisdiction_basis": "editorial_with_evidence",
+          "jurisdictions": [
+            "CN"
+          ],
+          "kind": "term",
+          "kind_basis": "editorial",
+          "record": "cn-cpl-joint-litigation",
+          "source_id": "oll-cn-dispute-resolution",
+          "status": "evidence_linked",
+          "translation_note": "项目释译，非官方译文；joint litigation is a descriptive equivalent and is not automatically identical to joinder or class-action devices in other systems.",
+          "translation_review": "project_authored",
+          "zh_Hans": "共同诉讼",
+          "zh_Hant": "共同訴訟"
+        },
+        {
+          "context": "行政訴訟及懲戒廳",
+          "domain_basis": "automatic_keyword_rules",
+          "domains": [
+            "dispute_resolution"
+          ],
+          "en": "Joint Proceedings",
+          "flags": [],
+          "id": "tw-judicial-f8fb79b7f9c4d29905ab",
+          "jurisdiction_basis": "not_assessed",
+          "jurisdictions": [],
+          "kind": "unclassified",
+          "kind_basis": "automatic_surface_rules",
+          "record": "444",
+          "source_id": "tw-judicial",
+          "status": "source_attributed",
+          "translation_note": "",
+          "translation_review": "source_attributed",
+          "zh_Hans": "共同诉讼",
+          "zh_Hant": "共同訴訟"
+        }
+      ],
+      "priority": 100,
+      "reasons": [
+        "homograph_with_reviewed_or_editorial_entry"
+      ],
+      "zh_Hans": "共同诉讼"
+    },
+    {
+      "members": [
+        {
           "context": "A13070000G",
           "domain_basis": "source_collection",
           "domains": [
@@ -1610,7 +1770,7 @@
       "zh_Hans": "调解室"
     }
   ],
-  "homograph_review_groups_total": 31,
+  "homograph_review_groups_total": 34,
   "limits": [
     "Source origin does not establish legal jurisdiction.",
     "Surface-kind and domain rules are machine-generated candidates, not legal review.",

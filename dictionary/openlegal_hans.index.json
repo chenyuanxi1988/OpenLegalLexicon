@@ -1,5 +1,7 @@
 {
   "excluded_entry_ids": [
+    "cn-cpl-auction-sale-seized-property",
+    "cn-cpl-query-freeze-transfer-property",
     "cn-criminal-low-price-asset-disposal",
     "cn-public-property-criminal",
     "tw-judicial-01e4e62b418bb8c0b995",
@@ -290,6 +292,13 @@
       "text": "暗示性同意"
     },
     {
+      "code": "an wai ren zhi xing yi yi",
+      "entry_ids": [
+        "cn-cpl-outsider-objection-execution-target"
+      ],
+      "text": "案外人执行异议"
+    },
+    {
       "code": "an zhi fu dao",
       "entry_ids": [
         "tw-judicial-9c5a7ab55e2f9efa3f69"
@@ -547,6 +556,13 @@
         "tw-judicial-6ae110dd475bd0e2238c"
       ],
       "text": "被告及诉讼代理人席"
+    },
+    {
+      "code": "bei gao zhu suo di guan xia",
+      "entry_ids": [
+        "cn-cpl-defendant-domicile-jurisdiction"
+      ],
+      "text": "被告住所地管辖"
     },
     {
       "code": "bei hai ren",
@@ -934,6 +950,13 @@
       "text": "部分"
     },
     {
+      "code": "bu fen cai jue",
+      "entry_ids": [
+        "cn-arb-partial-award"
+      ],
+      "text": "部分裁决"
+    },
+    {
       "code": "bu fen lv xing zhai wu",
       "entry_ids": [
         "cn-partial-performance"
@@ -1052,6 +1075,13 @@
         "tw-judicial-b137b1326c960a482e30"
       ],
       "text": "不作为"
+    },
+    {
+      "code": "cai chan bao gao",
+      "entry_ids": [
+        "cn-cpl-property-reporting"
+      ],
+      "text": "财产报告"
     },
     {
       "code": "cai chan quan",
@@ -1538,6 +1568,13 @@
         "tw-judicial-a07b2d78b7ef17db1a6f"
       ],
       "text": "重新审理"
+    },
+    {
+      "code": "chong xin zhong cai",
+      "entry_ids": [
+        "cn-arb-rearbitration"
+      ],
+      "text": "重新仲裁"
     },
     {
       "code": "chou xiang wei xian fan",
@@ -2396,6 +2433,13 @@
       "text": "抵减税额"
     },
     {
+      "code": "di jiao qi su zhuang",
+      "entry_ids": [
+        "cn-cpl-file-complaint"
+      ],
+      "text": "递交起诉状"
+    },
+    {
       "code": "di li biao shi",
       "entry_ids": [
         "tw-tipo-trademark-fb79568402d9797c5b96"
@@ -3211,6 +3255,13 @@
       "text": "罚锾最低额"
     },
     {
+      "code": "fa hui chong shen",
+      "entry_ids": [
+        "cn-cpl-remand-retrial"
+      ],
+      "text": "发回重审"
+    },
+    {
       "code": "fa hui geng shen",
       "entry_ids": [
         "tw-judicial-84448cc8693be7cb78b5"
@@ -3520,6 +3571,13 @@
         "cn-anti-dumping-measures"
       ],
       "text": "反倾销措施"
+    },
+    {
+      "code": "fan su",
+      "entry_ids": [
+        "cn-cpl-counterclaim"
+      ],
+      "text": "反诉"
     },
     {
       "code": "fan wang yu ming cheng qiang zhu xiao fei zhe bao hu fa",
@@ -4637,6 +4695,7 @@
     {
       "code": "gong tong su song",
       "entry_ids": [
+        "cn-cpl-joint-litigation",
         "tw-judicial-f8fb79b7f9c4d29905ab"
       ],
       "text": "共同诉讼"
@@ -5256,6 +5315,13 @@
       "text": "管辖权"
     },
     {
+      "code": "guan xia quan yi yi",
+      "entry_ids": [
+        "cn-cpl-jurisdiction-objection"
+      ],
+      "text": "管辖权异议"
+    },
+    {
       "code": "guan yu",
       "entry_ids": [
         "tw-tipo-trademark-39970fe7efb99fd1bc26"
@@ -5870,6 +5936,13 @@
         "cn-contract-formation"
       ],
       "text": "合同成立"
+    },
+    {
+      "code": "he tong jiu fen di yu guan xia",
+      "entry_ids": [
+        "cn-cpl-contract-dispute-territorial-jurisdiction"
+      ],
+      "text": "合同纠纷地域管辖"
     },
     {
       "code": "he tong lv xing ke de li yi",
@@ -7444,8 +7517,16 @@
       "text": "局通知函"
     },
     {
+      "code": "ju zheng qi xian",
+      "entry_ids": [
+        "cn-cpl-evidence-submission-period"
+      ],
+      "text": "举证期限"
+    },
+    {
       "code": "ju zheng ze ren",
       "entry_ids": [
+        "cn-cpl-burden-produce-evidence",
         "tw-judicial-30a4e134f6aa4a0067c1"
       ],
       "text": "举证责任"
@@ -7596,6 +7677,13 @@
         "tw-judicial-fbd4095c74e0d2153004"
       ],
       "text": "开庭报到处"
+    },
+    {
+      "code": "kai ting zhong cai",
+      "entry_ids": [
+        "cn-arb-oral-hearing"
+      ],
+      "text": "开庭仲裁"
     },
     {
       "code": "kan guan shi",
@@ -7806,6 +7894,13 @@
         "tw-judicial-ebe1408ccafbfd26aba5"
       ],
       "text": "科长"
+    },
+    {
+      "code": "ke zhong cai xing",
+      "entry_ids": [
+        "cn-arb-arbitrability"
+      ],
+      "text": "可仲裁性"
     },
     {
       "code": "kong gu gu dong",
@@ -8171,6 +8266,13 @@
         "tw-tipo-trademark-ec521fcfaa65764b7dd2"
       ],
       "text": "类型"
+    },
+    {
+      "code": "li an",
+      "entry_ids": [
+        "cn-cpl-case-filing"
+      ],
+      "text": "立案"
     },
     {
       "code": "li fa",
@@ -9700,6 +9802,13 @@
       "text": "起诉"
     },
     {
+      "code": "qi su tiao jian",
+      "entry_ids": [
+        "cn-cpl-conditions-filing-action"
+      ],
+      "text": "起诉条件"
+    },
+    {
       "code": "qi ta zhong da shi you",
       "entry_ids": [
         "tw-judicial-4752f0ad84a0588160d7"
@@ -9903,6 +10012,13 @@
         "tw-judicial-4e5f9cbf38b3be07a7cf"
       ],
       "text": "亲权"
+    },
+    {
+      "code": "qin quan jiu fen di yu guan xia",
+      "entry_ids": [
+        "cn-cpl-tort-territorial-jurisdiction"
+      ],
+      "text": "侵权纠纷地域管辖"
     },
     {
       "code": "qin quan lan yong",
@@ -10162,6 +10278,20 @@
         "tw-judicial-8e77e6c1bd7f49d153b2"
       ],
       "text": "确认诉讼"
+    },
+    {
+      "code": "que xi cai jue",
+      "entry_ids": [
+        "cn-arb-default-award"
+      ],
+      "text": "缺席裁决"
+    },
+    {
+      "code": "que xi pan jue",
+      "entry_ids": [
+        "cn-cpl-default-judgment"
+      ],
+      "text": "缺席判决"
     },
     {
       "code": "ren ge quan",
@@ -10544,6 +10674,13 @@
         "tw-judicial-f83088a5f880c367c7cf"
       ],
       "text": "上诉事件维持率"
+    },
+    {
+      "code": "shang su zhuang",
+      "entry_ids": [
+        "cn-cpl-appellate-petition"
+      ],
+      "text": "上诉状"
     },
     {
       "code": "shang ye",
@@ -11015,6 +11152,13 @@
       "text": "申请案"
     },
     {
+      "code": "shen qing che xiao zhong cai cai jue",
+      "entry_ids": [
+        "cn-arb-set-aside-award"
+      ],
+      "text": "申请撤销仲裁裁决"
+    },
+    {
       "code": "shen qing fei",
       "entry_ids": [
         "tw-tipo-trademark-7723fb6e617540839a8b"
@@ -11071,11 +11215,46 @@
       "text": "申请日"
     },
     {
+      "code": "shen qing zai shen",
+      "entry_ids": [
+        "cn-cpl-apply-retrial"
+      ],
+      "text": "申请再审"
+    },
+    {
       "code": "shen qing zhi shang biao",
       "entry_ids": [
         "tw-tipo-trademark-f0ef4b4bd5c33d1d69b5"
       ],
       "text": "申请之商标"
+    },
+    {
+      "code": "shen qing zhi xing",
+      "entry_ids": [
+        "cn-cpl-apply-enforcement"
+      ],
+      "text": "申请执行"
+    },
+    {
+      "code": "shen qing zhi xing qi jian",
+      "entry_ids": [
+        "cn-cpl-enforcement-application-period"
+      ],
+      "text": "申请执行期间"
+    },
+    {
+      "code": "shen qing zhi xing zhong cai cai jue",
+      "entry_ids": [
+        "cn-arb-apply-enforce-award"
+      ],
+      "text": "申请执行仲裁裁决"
+    },
+    {
+      "code": "shen qing zhong cai",
+      "entry_ids": [
+        "cn-arb-apply-arbitration"
+      ],
+      "text": "申请仲裁"
     },
     {
       "code": "shen ti zi you",
@@ -11607,6 +11786,13 @@
       "text": "受理件数"
     },
     {
+      "code": "shou li zhong cai shen qing",
+      "entry_ids": [
+        "cn-arb-accept-arbitration-application"
+      ],
+      "text": "受理仲裁申请"
+    },
+    {
       "code": "shou quan",
       "entry_ids": [
         "tw-tipo-trademark-ba3aabe02dab34e04d45"
@@ -11724,6 +11910,13 @@
         "tw-tipo-trademark-3b7995050f058e0a35d6"
       ],
       "text": "书面请求"
+    },
+    {
+      "code": "shu mian shen li",
+      "entry_ids": [
+        "cn-arb-documents-only-proceeding"
+      ],
+      "text": "书面审理"
     },
     {
       "code": "shu mian tong yi",
@@ -12238,11 +12431,32 @@
       "text": "速记员"
     },
     {
+      "code": "su qian bao quan",
+      "entry_ids": [
+        "cn-cpl-pre-action-preservation"
+      ],
+      "text": "诉前保全"
+    },
+    {
+      "code": "su qian zheng ju bao quan",
+      "entry_ids": [
+        "cn-cpl-pre-action-evidence-preservation"
+      ],
+      "text": "诉前证据保全"
+    },
+    {
       "code": "su qing yan du tiao li",
       "entry_ids": [
         "tw-judicial-b647956a22325f13ea30"
       ],
       "text": "肃清烟毒条例"
+    },
+    {
+      "code": "su song bao quan",
+      "entry_ids": [
+        "cn-cpl-litigation-preservation"
+      ],
+      "text": "诉讼保全"
     },
     {
       "code": "su song can jia",
@@ -13275,6 +13489,13 @@
       "text": "提名"
     },
     {
+      "code": "ti qi shang su",
+      "entry_ids": [
+        "cn-cpl-appeal"
+      ],
+      "text": "提起上诉"
+    },
+    {
       "code": "ti qian lv xing zhai wu",
       "entry_ids": [
         "cn-early-performance"
@@ -13857,6 +14078,13 @@
         "tw-judicial-cd9e73a3c61acfcbc610"
       ],
       "text": "外国护照签证条例"
+    },
+    {
+      "code": "wai guo zhong cai cai jue cheng ren yu zhi xing",
+      "entry_ids": [
+        "cn-arb-recognize-enforce-foreign-award"
+      ],
+      "text": "外国仲裁裁决承认与执行"
     },
     {
       "code": "wai huan zui",
@@ -14457,6 +14685,13 @@
       "text": "先予试用"
     },
     {
+      "code": "xian yu zhi xing",
+      "entry_ids": [
+        "cn-cpl-advance-execution"
+      ],
+      "text": "先予执行"
+    },
+    {
       "code": "xian zhang",
       "entry_ids": [
         "tw-judicial-0dc53c4dc95a8c3c3039"
@@ -14722,6 +14957,13 @@
         "cn-agreed-setoff"
       ],
       "text": "协议抵销"
+    },
+    {
+      "code": "xie yi guan xia",
+      "entry_ids": [
+        "cn-cpl-choice-of-court-agreement"
+      ],
+      "text": "协议管辖"
     },
     {
       "code": "xie yi li hun",
@@ -15824,6 +16066,13 @@
       "text": "一并转让合同权利义务"
     },
     {
+      "code": "yi cai zhong ju",
+      "entry_ids": [
+        "cn-arb-final-award-rule"
+      ],
+      "text": "一裁终局"
+    },
+    {
       "code": "yi chan",
       "entry_ids": [
         "cn-estate",
@@ -16061,6 +16310,13 @@
         "tw-judicial-9c299a036e02ae10f263"
       ],
       "text": "遗属利益"
+    },
+    {
+      "code": "yi song guan xia",
+      "entry_ids": [
+        "cn-cpl-transfer-jurisdiction"
+      ],
+      "text": "移送管辖"
     },
     {
       "code": "yi ti bu ke fen ge de",
@@ -17398,6 +17654,13 @@
       "text": "证据"
     },
     {
+      "code": "zheng ju bao quan",
+      "entry_ids": [
+        "cn-cpl-evidence-preservation"
+      ],
+      "text": "证据保全"
+    },
+    {
       "code": "zheng ju de jia zhi",
       "entry_ids": [
         "tw-tipo-trademark-d67e621a1358a4ee6d62"
@@ -17561,6 +17824,13 @@
         "tw-tipo-trademark-b73b3c31cb1a460ff9f7"
       ],
       "text": "指定"
+    },
+    {
+      "code": "zhi ding guan xia",
+      "entry_ids": [
+        "cn-cpl-designated-jurisdiction"
+      ],
+      "text": "指定管辖"
     },
     {
       "code": "zhi ding shi yong zhi shang pin",
@@ -17766,6 +18036,13 @@
       "text": "执行公司业务"
     },
     {
+      "code": "zhi xing he jie",
+      "entry_ids": [
+        "cn-cpl-enforcement-settlement"
+      ],
+      "text": "执行和解"
+    },
+    {
       "code": "zhi xing ji guan",
       "entry_ids": [
         "tw-judicial-0f54e2f4e1baf9c43be7"
@@ -17792,6 +18069,13 @@
         "tw-judicial-f2c3f04be5eabc29e97d"
       ],
       "text": "执行刑"
+    },
+    {
+      "code": "zhi xing xing wei yi yi",
+      "entry_ids": [
+        "cn-cpl-objection-enforcement-act"
+      ],
+      "text": "执行行为异议"
     },
     {
       "code": "zhi xing yu suan zhi tan xing",
@@ -17829,11 +18113,81 @@
       "text": "志愿士兵服役条例"
     },
     {
+      "code": "zhi zheng",
+      "entry_ids": [
+        "cn-cpl-cross-examination-evidence"
+      ],
+      "text": "质证"
+    },
+    {
+      "code": "zhong cai bao quan",
+      "entry_ids": [
+        "cn-arb-preservation-measures"
+      ],
+      "text": "仲裁保全"
+    },
+    {
+      "code": "zhong cai bu gong kai",
+      "entry_ids": [
+        "cn-arb-confidential-nonpublic"
+      ],
+      "text": "仲裁不公开"
+    },
+    {
+      "code": "zhong cai cai jue bu yu zhi xing",
+      "entry_ids": [
+        "cn-arb-refuse-enforcement-award"
+      ],
+      "text": "仲裁裁决不予执行"
+    },
+    {
+      "code": "zhong cai cai jue bu zheng",
+      "entry_ids": [
+        "cn-arb-correct-supplement-award"
+      ],
+      "text": "仲裁裁决补正"
+    },
+    {
+      "code": "zhong cai cai jue sheng xiao",
+      "entry_ids": [
+        "cn-arb-award-effective"
+      ],
+      "text": "仲裁裁决生效"
+    },
+    {
+      "code": "zhong cai di",
+      "entry_ids": [
+        "cn-arb-seat"
+      ],
+      "text": "仲裁地"
+    },
+    {
       "code": "zhong cai fa ting",
       "entry_ids": [
         "tw-judicial-1515c9e33c7b2fbf57d2"
       ],
       "text": "仲裁法庭"
+    },
+    {
+      "code": "zhong cai fan qing qiu",
+      "entry_ids": [
+        "cn-arb-counterclaim"
+      ],
+      "text": "仲裁反请求"
+    },
+    {
+      "code": "zhong cai he jie",
+      "entry_ids": [
+        "cn-arb-settlement"
+      ],
+      "text": "仲裁和解"
+    },
+    {
+      "code": "zhong cai ju zheng ze ren",
+      "entry_ids": [
+        "cn-arb-burden-produce-evidence"
+      ],
+      "text": "仲裁举证责任"
     },
     {
       "code": "zhong cai pan duan",
@@ -17850,11 +18204,82 @@
       "text": "仲裁人"
     },
     {
+      "code": "zhong cai tiao jie",
+      "entry_ids": [
+        "cn-arb-mediation"
+      ],
+      "text": "仲裁调解"
+    },
+    {
+      "code": "zhong cai ting zu cheng",
+      "entry_ids": [
+        "cn-arb-tribunal-composition"
+      ],
+      "text": "仲裁庭组成"
+    },
+    {
       "code": "zhong cai xie yi",
       "entry_ids": [
+        "cn-arb-arbitration-agreement",
         "tw-judicial-c606caa5c1da280af284"
       ],
       "text": "仲裁协议"
+    },
+    {
+      "code": "zhong cai xie yi du li xing",
+      "entry_ids": [
+        "cn-arb-separability"
+      ],
+      "text": "仲裁协议独立性"
+    },
+    {
+      "code": "zhong cai xie yi pai chu fa yuan shou li",
+      "entry_ids": [
+        "cn-arb-court-effect-arbitration-agreement"
+      ],
+      "text": "仲裁协议排除法院受理"
+    },
+    {
+      "code": "zhong cai xie yi wu xiao",
+      "entry_ids": [
+        "cn-arb-invalid-arbitration-agreement"
+      ],
+      "text": "仲裁协议无效"
+    },
+    {
+      "code": "zhong cai xie yi xiao li yi yi",
+      "entry_ids": [
+        "cn-arb-challenge-validity-agreement"
+      ],
+      "text": "仲裁协议效力异议"
+    },
+    {
+      "code": "zhong cai yuan hui bi",
+      "entry_ids": [
+        "cn-arb-arbitrator-recusal"
+      ],
+      "text": "仲裁员回避"
+    },
+    {
+      "code": "zhong cai yuan pi lu",
+      "entry_ids": [
+        "cn-arb-arbitrator-disclosure"
+      ],
+      "text": "仲裁员披露"
+    },
+    {
+      "code": "zhong cai zheng ju bao quan",
+      "entry_ids": [
+        "cn-arb-evidence-preservation"
+      ],
+      "text": "仲裁证据保全"
+    },
+    {
+      "code": "zhong cai zhi zheng",
+      "entry_ids": [
+        "cn-arb-examination-evidence"
+      ],
+      "text": "仲裁质证"
     },
     {
       "code": "zhong da bian gu",
@@ -18389,6 +18814,13 @@
         "tw-judicial-c7fe1eee72686bb4e702"
       ],
       "text": "转任"
+    },
+    {
+      "code": "zhuan shu guan xia",
+      "entry_ids": [
+        "cn-cpl-exclusive-jurisdiction"
+      ],
+      "text": "专属管辖"
     },
     {
       "code": "zhuan tou zi",

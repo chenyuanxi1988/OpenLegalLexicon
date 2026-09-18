@@ -10,6 +10,7 @@ abuse of parental rights
 academic freedom
 academic performance review
 accelerated payment of subscribed capital
+accept an arbitration application
 acceptance delayed in transmission
 acceptance of an offer
 acceptance of bribes by an entity
@@ -129,6 +130,7 @@ adoption proceedings
 adoptive parents
 ADR
 adultery
+advance execution
 Advanced Studies
 adverse possession
 Advisor
@@ -194,6 +196,7 @@ appeal court
 appear before the authority
 appearance
 Appellant and Agent ad litem
+appellate petition
 appellation of origin
 Appellee and Agent ad litem
 applicable mutatis mutandis
@@ -203,13 +206,22 @@ applicant's country of origin
 application
 application for administrative reconsideration
 application period
+apply for compulsory enforcement
+apply for retrial
+apply to enforce an arbitral award
+apply to set aside an arbitral award
 Appointment
 approve
+arbitrability
+arbitral award in a party’s absence
+arbitral award taking effect upon issuance
 Arbitral tribunal
 arbitrary mark
 Arbitration Agreement
+arbitration agreement
 Arbitration Award
 Arbitrator
+arbitrator disclosure
 Archives
 Archives Act
 Armed Forces Officers Service Act
@@ -244,6 +256,7 @@ attorney
 Attorney Lounge
 Attorney Regulation Act
 auction of mortgaged property
+auction or sell seized property
 Audience
 Audit Act
 Audit institutes
@@ -310,6 +323,8 @@ Building Act
 building occupation permit
 burden
 burden of proof
+burden to produce evidence
+burden to provide evidence in arbitration
 Bureau of National Health Insurance
 business accounting bookkeeper
 business accounting matters
@@ -362,6 +377,7 @@ certification mark
 Certified Public Accountant Act
 CFI
 chairman
+challenge to the validity of an arbitration agreement
 channels of trade
 Characteristics
 chattel mortgage
@@ -388,6 +404,7 @@ Chief Public Defender
 Children Welfare Act
 Chinese herb doctor
 Chinese medicine
+choice-of-court agreement
 chui-fu
 circumstance
 circumstances not subject to the prosecution limitation period
@@ -443,6 +460,7 @@ collective mark
 collective trademark
 combination of sentences for multiple offence
 combined punishment for multiple crimes
+commence arbitration by application
 commencement date
 commerce
 commerce clause
@@ -476,6 +494,7 @@ compensatory
 competent authority
 competent taxing authority
 composite mark
+composition of the arbitral tribunal
 compound duty assessment
 comprise
 Compulsory Automobile Liability Insurance Act
@@ -496,6 +515,7 @@ concurrent use
 concurrent use agreement
 condemnor
 conditional sale
+conditions for bringing a civil action
 conduct
 conduct a search of the Office's computerized database of registrations
 conduct of the corporation
@@ -558,12 +578,15 @@ corporation
 corporation limited by shares
 correct tax voucher system
 correction
+correction or supplementation of an arbitral award
 correctional of judgment
 Corruption Punishment Act during the Period for Suppression of the Communist Rebellion
 Council of Indigenous Peoples Executive Yuan Organization Bylaws Bylaws
 Counseling Room
 Counselor
 counter with
+counterclaim
+counterclaim in arbitration
 counterfeit
 counterfeiting
 countervailing measures
@@ -693,6 +716,7 @@ descriptive mark
 descriptive terms
 descriptiveness
 designation
+designation of jurisdiction by a higher court
 details(of the applicant)
 detention
 Detention Act
@@ -747,11 +771,13 @@ Division-Chief Judge
 divorce
 divorce by agreement
 divorce case
+docket and accept a civil case
 doctrine
 doctrine of distribution of the burden of proof
 document
 document bearing official seal
 Documentation Section
+documents-only arbitration proceeding
 domain name
 domestic violence
 domestic violence cases
@@ -796,6 +822,7 @@ ECJ
 economic compensation for a non-compete restriction
 Education Act for Indigenous Peoples
 effect in public law
+effect of an arbitration agreement on court proceedings
 effective date
 elect between agreed-damages and earnest-money clauses
 election
@@ -877,9 +904,12 @@ ex officio
 ex parte proceeding
 examination
 Examination Act
+examination of evidence by the parties
+examination of evidence in arbitration
 examination organ
 Examination Yuan
 Examining Attorney
+exclusive jurisdiction
 exclusive right
 excusable non-use
 execution
@@ -943,6 +973,8 @@ Feeds Control Act
 Fees Collection
 Fifth Section
 file
+file a statement of claim
+file an appeal
 file history
 File Reading Room
 filing
@@ -954,6 +986,7 @@ final / irrevocable judgment / final court decision
 final and binding judgment
 final business income tax return
 Final Protocol of Universal Postal Convention
+finality after a single arbitral award
 financial institution
 Financial Statement
 Financial Statement Act
@@ -1238,6 +1271,7 @@ interruption of the limitation period
 interstate
 interstate commerce
 Intervention
+invalid arbitration agreement
 invalidating judgment
 Invalidity
 investigation
@@ -1260,6 +1294,7 @@ Janitor
 joint
 joint and several guarantee
 joint crime
+joint litigation
 joint marital debt
 joint owners
 Joint Proceedings
@@ -1277,7 +1312,9 @@ Judge Research Room
 Judges Academy
 judgeship
 judgment
+judgment debtor’s property reporting
 judgment for exemption punishment
+judgment in a party’s absence
 judgment that is illegal in substance
 judicial administration affairs
 judicial affairs
@@ -1305,6 +1342,7 @@ Junior College Act
 junior-grade public servants
 juridical association
 jurisdiction
+jurisdiction based on the defendant’s domicile
 juristic person
 just compensation
 Justice(s)
@@ -1472,6 +1510,7 @@ meaning
 measures of remediation
 Medal Award Act
 mediation
+mediation by the arbitral tribunal
 Mediation Meeting Room
 Mediation Room
 Mediator
@@ -1582,6 +1621,7 @@ non-operating income
 Non-partisan
 non-profit legal person
 non-prosecutorial disposition
+non-public arbitration proceedings
 non-use period
 nonuse for three consecutive years
 notarial deed
@@ -1600,6 +1640,8 @@ notify the debtor of an assignment
 Nuclear Reactor Facilities Regulation Act
 Nursery Room
 Oath Act
+objection to an enforcement act
+objection to jurisdiction
 obligation based on guaranty
 obscene publications
 obscenity
@@ -1644,6 +1686,7 @@ optical
 Optical Disk Act
 oral application for administrative reconsideration
 oral arguments
+oral hearing in arbitration
 order of disposition
 order to exit within a specified period
 ordinance
@@ -1704,6 +1747,7 @@ Paris Convention
 Parking Lot
 parliamentary autonomy
 parliamentary power of decision-making participation
+partial arbitral award
 particular living individual
 parties of the contract
 passing of a resolution to discipline
@@ -1796,6 +1840,8 @@ power of rule making
 power to execute punishment
 power to issue orders regarding prosecutorial matters
 power to prosecute
+pre-action preservation measures
+pre-action preservation of evidence
 pre-contractual liability
 pre-emptive right to purchase transferred equity
 Precautionary Matters on Handling Civil Procedure
@@ -1817,6 +1863,10 @@ premium
 preparation for a crime
 Preschool Education Act
 prescription drugs
+preservation measures during litigation
+preservation measures in support of arbitration
+preservation of evidence
+preservation of evidence for arbitration
 Presidential and Vice Presidential Election and Recall Act
 Presiding Judge
 presiding judge
@@ -1965,11 +2015,13 @@ pursuant to
 Qualification of Appointment Verified
 quality assurance
 quasi-property rights
+query, freeze, transfer and realize the judgment debtor’s property
 Question Waiting Room
 quia timet injunction
 Radio and Television Act
 ranked military officer
 ratification
+re-arbitration
 re-investment
 re-nomination
 reach a supplementary agreement
@@ -1985,6 +2037,7 @@ Reception Room of the Justices of the Constitutional Court
 recidivist
 recipient
 reciprocal treatment
+recognition and enforcement of a foreign arbitral award
 recognizable
 recognized
 recordation
@@ -1998,6 +2051,7 @@ rectify
 recusal
 recusal by a judge
 Recusal of Judges
+recusal or challenge of an arbitrator
 Reduction and Exemption Regulations
 reduction of punishment
 refer
@@ -2007,6 +2061,7 @@ refinement
 Reform School
 refundable
 refusal
+refusal to enforce an arbitral award
 refuse
 Regional Plan Act
 registered capital
@@ -2086,6 +2141,7 @@ relevant purchaser
 relevant purchasing public
 religious organizations
 relocation compensation
+remand for retrial
 remanded
 remedy of extraordinary appeal
 removal
@@ -2197,6 +2253,7 @@ scope of protection
 Screening Section
 Seal Imprinting Room
 search
+seat of arbitration
 second instance
 Second Section
 secondary meaning
@@ -2231,6 +2288,7 @@ Senior Systems Coordinator
 seniority
 sensitive personal information
 sentencing
+separability of the arbitration agreement
 separate customs territory
 separate property
 separating employee
@@ -2243,6 +2301,8 @@ service period
 set-off by agreement
 settlement
 settlement and winding-up clauses
+settlement during arbitration
+settlement during enforcement proceedings
 Severance
 severe calamity
 Sewerage Law
@@ -2513,6 +2573,8 @@ termination of administrative reconsideration
 termination of an employment contract
 termination of an employment contract by mutual agreement
 termination of business
+territorial jurisdiction over a contract dispute
+territorial jurisdiction over a tort dispute
 testify
 The Act Governing Bills Finance Business
 The Act o Irrigation Association Organization
@@ -2578,10 +2640,13 @@ third instance
 Third Party
 third party
 Third Section
+third-party objection to property subject to enforcement
 three dimensional
 three-dimensional trademark
 time for journey to the court
 time limit for applying for administrative reconsideration
+time limit for applying for enforcement
+time limit for submitting evidence
 title
 title transfer documents
 TMEP
@@ -2624,6 +2689,7 @@ Transaction for Supervising Government Ethics of the Ministry of Justice
 Transfer
 transfer among different personnel systems
 transfer contractual rights and obligations together
+transfer of a case for lack of jurisdiction
 transfer of a debt
 transparency
 transshipment manifest
