@@ -1014,5 +1014,69 @@
     },
     "status": "editorial_checked",
     "translation_note": "商标来源采用动词 justify；与其他“证明”的名词译法分列，保留词形差异和语境限制。"
+  },
+  "tw-judicial-0e3b1cb4cd98e7aa9c7f": {
+    "domain_basis": "editorial",
+    "domains": [
+      "constitutional",
+      "dispute_resolution"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-14 (source comparison, classification and official name/abbreviation checks only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "宪法法庭书记厅来源采用小写 opposite party；仅按来源语境编排为程序参与角色，保留与民事厅记录的大小写及来源差别，不补推当事人资格、权利义务或适用法域。"
+  },
+  "tw-judicial-b8e91cfea337c1e0de29": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "dispute_resolution"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-14 (source comparison, classification and official name/abbreviation checks only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "民事厅来源采用 Opposite Party；按来源语境编排为程序参与角色，保留独立来源记录，不将所有相对人直接视为被告或赋予未经核验的程序地位。"
+  },
+  "tw-judicial-68d9be3230f7a24824f9": {
+    "domain_basis": "editorial",
+    "domains": [
+      "administrative",
+      "dispute_resolution"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-14 (source comparison, classification and official name/abbreviation checks only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "行政诉讼及惩戒厅来源采用复数 Assistants；按来源语境编排为程序辅助角色，保留复数原词形。未核验资格或授权范围，不将辅佐人与诉讼代理人、律师直接等同。"
+  },
+  "tw-judicial-a1015bc74a76b0534c30": {
+    "domain_basis": "editorial",
+    "domains": [
+      "civil",
+      "dispute_resolution"
+    ],
+    "kind": "role",
+    "kind_basis": "editorial",
+    "review": {
+      "editor": "OpenLegalLexicon / AI-assisted editorial review 2026-09-14 (source comparison, classification and official name/abbreviation checks only)",
+      "extraction": "validated",
+      "translation": "source_attributed"
+    },
+    "status": "editorial_checked",
+    "translation_note": "民事厅来源采用复数 Assistants；保留与行政诉讼及惩戒厅记录的语境区别，不自动合并，也不从该词对推定辅佐人的资格或诉讼权限。"
   }
 }
