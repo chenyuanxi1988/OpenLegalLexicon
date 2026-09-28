@@ -1,18 +1,10 @@
-# Third-party notices
+# Third-Party Notices
 
-Data providers and data license evidence are listed in `data/sources.json` and `DATA_LICENSE.md`. Generated distributions include a copy of that registry and a source attribution file.
+OpenLegalLexicon 的总词表包含部分来自公开政府双语术语资源的词条。
 
-Build tools are installed as separate dependencies, not vendored into this repository:
+- 台湾司法院双语词汇：OGDL-Taiwan-1.0
+- 台湾智慧财产局商标中英文词汇：OGDL-Taiwan-1.0
 
-| Dependency | Pinned version | License / upstream |
-| --- | --- | --- |
-| pypinyin | 0.55.0 | MIT; https://pypi.org/project/pypinyin/0.55.0/ |
-| opencc-python-reimplemented | 0.1.7 | Apache-2.0; https://pypi.org/project/opencc-python-reimplemented/0.1.7/ |
-| jsonschema | 4.26.0 | MIT; https://pypi.org/project/jsonschema/4.26.0/ |
-| beautifulsoup4 (source updates) | 4.14.3 | MIT; https://pypi.org/project/beautifulsoup4/4.14.3/ |
-| PyYAML (format verification) | 6.0.3 | MIT; https://pypi.org/project/PyYAML/6.0.3/ |
-| Anki (optional integration verification only) | 26.8.1 | AGPL-3.0-or-later; https://pypi.org/project/anki/26.8.1/ |
+具体条目的数据许可和来源记录保留在 `lexicon/legal_terms.csv` 对应字段中。
 
-OpenCC supplies character conversion tables; pypinyin supplies pronunciation tables. Automatically produced forms are identified as machine conversions/readings, not verified legal terminology or expert-reviewed pronunciation. This project does not redistribute their source dictionaries; retain their own licenses when redistributing dependencies.
-
-Anki is an optional external application backend used only for importer compatibility tests in an isolated collection. It is not bundled into the lexicon data exports or required for ordinary searches/builds.
+用户提供的专业法律词典仅作为研究和编审参考，未作为整本可再分发数据导入本仓库。
