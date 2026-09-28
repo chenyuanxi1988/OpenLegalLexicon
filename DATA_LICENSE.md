@@ -10,7 +10,7 @@ OpenLegalLexicon 的数据分为两类。
 
 历史导入的台湾司法院双语词汇和台湾智慧财产局商标中英文词汇依其原始开放数据许可 **OGDL-Taiwan-1.0** 使用。
 
-`lexicon/legal_terms.csv` 的“数据许可”字段保留逐条许可标记。
+`lexicon/taiwan_reference_terms.csv` 保留第三方 OGDL-Taiwan-1.0 许可标记；`lexicon/legal_terms.csv` 为项目原创/编审主词库，采用 CC BY 4.0。
 
 ## 参考书籍
 

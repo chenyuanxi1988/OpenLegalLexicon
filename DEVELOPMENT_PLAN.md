@@ -17,7 +17,7 @@ OpenLegalLexicon 的主产品是**中英文法律词语和法律词组内容**�
 
 ## 2. 两层词表
 
-### A. 核心词表：`lexicon/core_terms.csv`
+### A. 主词库：`lexicon/legal_terms.csv`
 
 这是项目的主线。
 
@@ -36,9 +36,9 @@ OpenLegalLexicon 的主产品是**中英文法律词语和法律词组内容**�
 
 核心词表的目标不是“每条都有很长的解释”，而是**让词条足够可靠，律师可以用来学习、检索和写作**。
 
-### B. 参考词表：`lexicon/legal_terms.csv`
+### B. 台湾参考词表：`lexicon/taiwan_reference_terms.csv`
 
-现有 3,055 条可用记录。
+现有 2,723 条台湾公开来源参考记录。
 
 其中包含公开双语来源和项目核心词条。参考词表用于：
 
@@ -102,8 +102,8 @@ OpenLegalLexicon 的主产品是**中英文法律词语和法律词组内容**�
 4. 核对中文概念；
 5. 核对英文法律表达；
 6. 对跨法域不完全对应的词写简短译法说明；
-7. 将结果直接加入 `core_terms.csv`；
-8. 必要时同步更新 `legal_terms.csv`；
+7. 将结果直接加入 `legal_terms.csv`；
+8. 必要时补充或校正 `taiwan_reference_terms.csv` 的来源说明，但不把参考词直接计入主词库；
 9. 更新 README 中的核心词条数量和领域覆盖。
 
 不要为了新增一批词而新建 workflow、Python 工具、schema、报告系统或专门的工程框架。
