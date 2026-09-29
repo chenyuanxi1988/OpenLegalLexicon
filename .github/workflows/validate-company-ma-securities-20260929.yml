@@ -16,20 +16,39 @@ jobs:
       - name: Decode and validate pending content batch
         run: |
           python - <<'PY'
-          import base64, csv, gzip, io, re
+          import base64, csv, io, re, zlib
           from pathlib import Path
 
           workflow = Path('.github/workflows/merge-company-ma-securities-20260928.yml').read_text(encoding='utf-8')
           m = re.search(r'BATCH_B64:\s*>-\s*\n(?P<body>.*?)(?=^\s{8}run:\s*\|)', workflow, flags=re.M | re.S)
           assert m, 'BATCH_B64 block not found'
           b64 = ''.join(line.strip() for line in m.group('body').splitlines() if line.strip())
-          raw = gzip.decompress(base64.b64decode(b64)).decode('utf-8-sig')
+          data = base64.b64decode(b64)
+          assert data[:3] == b'\x1f\x8b\x08', f'not gzip: {data[:4]!r}'
+
+          # The historical one-off importer has a bad gzip trailer/CRC. Recover only if
+          # the compressed DEFLATE member itself is intact; otherwise fail closed.
+          flags = data[3]
+          pos = 10
+          if flags & 4:
+              xlen = int.from_bytes(data[pos:pos+2], 'little'); pos += 2 + xlen
+          if flags & 8:
+              pos = data.index(b'\x00', pos) + 1
+          if flags & 16:
+              pos = data.index(b'\x00', pos) + 1
+          if flags & 2:
+              pos += 2
+          compressed = data[pos:-8]
+          raw_bytes = zlib.decompress(compressed, -zlib.MAX_WBITS)
+          raw = raw_bytes.decode('utf-8-sig')
           rows = list(csv.DictReader(io.StringIO(raw)))
+
           with Path('lexicon/legal_terms.csv').open(encoding='utf-8-sig', newline='') as f:
               master_reader = csv.DictReader(f)
               fieldnames = master_reader.fieldnames
               master = list(master_reader)
 
+          print('encoded_bytes=', len(data), 'decoded_csv_bytes=', len(raw_bytes))
           print('master_rows=', len(master))
           print('batch_rows=', len(rows))
           assert len(master) == 332, f'expected 332 master rows, found {len(master)}'
