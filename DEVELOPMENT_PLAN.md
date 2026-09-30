@@ -4,107 +4,55 @@
 
 ## 1. 项目方向
 
-OpenLegalLexicon 从 2026-09-30 起正式调整为：
+OpenLegalLexicon 的主项目是：
 
 > **English-first, U.S.-law-first, Chinese-assisted.**
 
-项目主目标是建立一部用于**学习和使用美国法律**的法律英语词典，而不是把中国法律概念翻译成英文。
+主词典用于学习和使用美国法律英语。英文法律概念是词条主体，中文翻译和中文注释仅作辅助理解。
 
-主词典的逻辑：
-
-> English legal term → U.S. legal meaning/context → 中文参考翻译
-
-中国法律概念另建中文词典：
+中国法律概念另由中文词典维护：
 
 > 中文法律词条 → 中国法释义/依据 → English reference translation
 
-两个词典是独立产品，不因英文或中文译名相似而合并 record。
+两个词典相互独立，不因译名相似而合并概念。
 
-## 2. 两个正式词典
+## 2. 正式词典
 
-### A. `lexicon/us_legal_english.csv` — 主词典
+### A. `lexicon/us_legal_english.csv`
 
-这是 OpenLegalLexicon 的核心产品，也是以后唯一用于衡量主项目进度的词典。
-
-基本字段：
-
-- 英文词条
-- 中文参考译法
-- 词性
-- 领域
-- 适用法域
-- 类型
-- 英文释义
-- 中文辅助说明
-- 使用语境
-- 同义词或变体
-- 常见搭配
-- 权威来源
-- 条目 ID
-- 数据许可
-- 审核状态
+这是核心产品，也是以后唯一用于衡量主项目进度的词典。
 
 核心原则：
 
-1. 英文词条是 canonical headword。
-2. 先确定美国法含义，再考虑中文怎么帮助理解。
-3. 中文译名不是用来证明其与某个中国法概念完全等同。
-4. 释义应尽量依据美国宪法、法典、规则、法院、监管机关和其他权威美国法律来源独立撰写。
-5. 需要时标记 `US-FEDERAL`、具体州法或其他明确法域。
-6. 国际交易英语只有在美国律师实务中具有稳定价值时才纳入，并标为 `INTERNATIONAL_TRANSACTIONAL` 或相应语境。
+1. 英文词条是 canonical headword；
+2. 先确定美国法含义和使用语境，再提供中文参考翻译；
+3. 优先使用美国宪法、法典、联邦规则、法院和监管机构等权威来源；
+4. 涉及州法时明确州法标签；
+5. 国际交易表达可标记 `INTERNATIONAL_TRANSACTIONAL`，但不得因此冒充已经完成美国法审核；
+6. 中国法语境下已有的同形英文词不得机械迁入。
 
-### B. `lexicon/chinese_legal_terms.csv` — 中国法律中文词典
+当前已有 **25 条迁移种子**，全部来自旧词表中的国际交易实务表达，统一标记为 `migration_review`。下一步应逐条补充美国法或美国交易实务权威来源。
 
-这个词典专门维护中国法概念。
+### B. `lexicon/chinese_legal_terms.csv`
 
-基本字段：
+这是中文 canonical headword 的独立词典。
 
-- 中文词条
-- 繁體
-- 拼音
-- 领域
-- 适用法域
-- 类型
-- 中文释义
-- 英文参考译法
-- 译法说明
-- 法律依据
-- 使用语境
-- 条目 ID
-- 数据许可
-- 审核状态
+当前已将旧词表 **392/392 条中文主词条完整迁入**。绝大多数是中国大陆法律制度词，另有少量跨境交易中文实务表达作为中文检索词保留。
 
-中国词典应以中国法律制度本身为中心，英文只作为参考翻译，不承担把中国制度“转化”为美国法概念的功能。
+当前为避免信息损失，暂时沿用旧词表的 17 字段结构。后续只有在确认不会丢失来源、注释、审核和法源信息时才考虑 schema 简化。
 
-## 3. 旧 392 条的迁移规则
+## 3. 旧词表状态
 
-`lexicon/legal_terms.csv` 当前 392 条是旧架构下的混合数据。从本次改向开始冻结，不再新增。
+`lexicon/legal_terms.csv` 已冻结为迁移审计源：
 
-迁移按以下规则进行：
+- 不再新增；
+- 392 条已全部进入中文词典；
+- 其中 25 条国际交易英语已重新整理为 English-first 记录进入美国主词典；
+- 暂时保留旧文件用于迁移完整性核验。
 
-### 第一类：中国法来源条目
+## 4. 美国法律英语覆盖方向
 
-凡释义、法域或法律依据明确来自中国大陆法律法规、司法规则或监管规则的条目，迁入 `chinese_legal_terms.csv`。
-
-例如中国《民法典》中的合同、要约、情势变更，中国《公司法》中的实际控制人、股东失权，中国程序法中的再审、执行、保全等，都属于中文词典。
-
-### 第二类：国际交易/律师实务英语
-
-如 `due diligence`、`term sheet`、`closing`、`representations and warranties`、`material adverse change`、`virtual data room` 等，可以成为美国法律英语主词典候选。
-
-但迁移时必须重排为 English-first，并检查其在美国交易实务中的自然度、含义和使用范围；不能仅把旧 CSV 的中英文列对调。
-
-### 第三类：英文词本身常见，但旧释义依据中国法
-
-例如 `contract`、`agency`、`duress`、`counterclaim`、`copyright` 等。
-
-这类旧记录留在中国词典；美国词典需另外创建同名英文 headword，并依据美国法重新撰写定义、语境和 authority。两个 record 不合并。
-
-在 392 条全部完成分类、改写和复核前，不删除旧 `legal_terms.csv`。
-
-## 4. 美国主词典的内容体系
-
-优先按美国法律学习与执业体系扩展：
+主词典优先形成以下体系：
 
 1. Contracts
 2. Torts
@@ -114,106 +62,96 @@ OpenLegalLexicon 从 2026-09-30 起正式调整为：
 6. Criminal Procedure
 7. Evidence
 8. Property
-9. Business Associations
-10. Agency
-11. Corporations and Corporate Governance
-12. Securities Regulation and Capital Markets
-13. Bankruptcy and Restructuring
-14. Intellectual Property
-15. Antitrust
-16. Employment and Labor
-17. Tax
-18. Administrative and Regulatory Law
-19. Privacy, Cybersecurity and AI
-20. Banking, Finance and Secured Transactions
-21. Litigation, arbitration and enforcement
-22. M&A / PE / VC / transactional drafting
-23. Legal research and writing
-24. Court documents, deal documents, abbreviations and professional phrases
+9. Business Associations / Corporations / Agency
+10. Securities Regulation
+11. Bankruptcy
+12. Intellectual Property
+13. Antitrust
+14. Employment & Labor
+15. Tax
+16. Administrative / Regulatory Law
+17. Litigation practice and court documents
+18. Transactional drafting
+19. Legal research and writing
+20. Common abbreviations, procedural verbs and fixed legal phrases
 
-## 5. 建设阶段
+## 5. 内容开发顺序
 
-### Phase 0 — 架构切换
+下一阶段不再围绕中国法领域扩充美国主词典，而按美国法学习体系推进。
 
-- 建立 `us_legal_english.csv`；
-- 建立 `chinese_legal_terms.csv`；
-- 冻结旧 `legal_terms.csv`；
-- 删除台湾参考词表；
-- 重写 README、来源和许可说明。
+建议顺序：
 
-### Phase 1 — 迁移旧 392 条
+### 第一批：基础高频体系
 
-逐条分流，不做机械复制。
+- Contracts
+- Torts
+- Civil Procedure
+- Evidence
+- Criminal Law / Criminal Procedure
+- Constitutional Law
+- Property
 
-验收标准：
+重点优先覆盖法学院、Bar Exam、法院文件和律师写作中反复出现的术语与固定搭配。
 
-- 旧 392 条全部有明确去向；
-- 没有把中国法释义伪装成美国法释义；
-- 国际交易英语完成 English-first 改写；
-- 中国法条目保留可核查的中国法律依据。
+### 第二批：商事与律师实务
 
-### Phase 2 — 美国法基础词群
+- Agency / Partnerships / Corporations / LLCs
+- Securities
+- Bankruptcy
+- M&A / financing / commercial agreements
+- Legal due diligence and transactional drafting
 
-优先建设法学院与 NY Bar 高频体系：Contracts、Torts、Civil Procedure、Constitutional Law、Criminal Law/Procedure、Evidence、Property、Business Associations。
+### 第三批：专业领域
 
-先形成约 1,500 条高质量美国法核心词和词组。
+- IP
+- Antitrust
+- Employment & Labor
+- Tax
+- Administrative / Regulatory Law
+- Privacy / cybersecurity / AI
+- Sanctions / export controls / international trade
 
-### Phase 3 — 执业与商事扩展
+## 6. 质量门槛
 
-扩展 Securities、M&A/PE/VC、Banking/Finance、Bankruptcy、IP、Antitrust、Employment、Tax、Privacy/Cyber/AI、Regulatory。
+美国主词典每个正式审核词条应尽量满足：
 
-目标约 3,500–5,000 条。
+- 英文 headword 自然、常用；
+- 法域明确；
+- 英文定义以美国法语境为基础；
+- 中文翻译只是辅助，不制造虚假对应；
+- 对容易与中国法混淆的词写明差异；
+- 有必要时记录同义词、变体和常见搭配；
+- 权威来源可追溯；
+- 不把英国法专有制度未经核验直接纳入美国主词典。
 
-### Phase 4 — Professional-Ready
+中国词典则以中文概念、中文法源和中文释义准确性为首要标准。
 
-继续扩展至 8,000+ 高质量英文主词条，并使用美国法律教材、司法材料、法院文书、交易文件和监管材料做覆盖审计。
+## 7. Oxford 参考索引
 
-数量只是门槛，最终要求是：
+`lexicon/oxford_dictionary_of_law_10e_reference.md` 只用于候选词发现和覆盖检查。
 
-- 高频美国法律英语覆盖充分；
-- 美国法定义和语境可靠；
-- 中文辅助翻译自然但不制造跨法域等同；
-- 法学院学习、NY Bar、法律研究和律师实务中的常用表达可查。
+Oxford 是英国法律词典，其 headwords 不等于美国法核心词。导入流程必须是：
 
-## 6. 来源优先级
+> Oxford candidate → 判断美国法相关性 → 查美国权威来源 → 独立撰写英文释义 → 中文辅助翻译 → 加入主词典
 
-美国主词典优先使用：
+不得把 4,854 个 Oxford 词条机械批量加入美国主词典。
 
-- U.S. Constitution；
-- U.S. Code、CFR 及官方 federal rules；
-- U.S. Supreme Court 和联邦法院公开判决；
-- U.S. Courts；
-- SEC、FTC、DOJ、EEOC、NLRB、USPTO、Treasury/OFAC、IRS、CBP、USTR 等官方机构；
-- 州法、州法院和州监管来源（涉及州法时）；
-- 其他可靠的美国法律权威材料。
+## 8. 工程冻结规则
 
-专业法律词典、教材、Restatements、专业数据库和用户提供资料可以用于候选词发现和概念核对，但受版权保护内容不整段复制，定义由项目独立撰写。
+除非 CSV 已经无法继续维护，否则不再开发：
 
-中国词典继续优先使用中国大陆现行法律法规、司法解释、法院和监管机关公开材料。
+- 新 workflow；
+- 复杂 GitHub Actions；
+- 新分支体系；
+- 新测试框架；
+- 新报告系统；
+- 与词条内容无关的外围工程。
 
-## 7. Oxford 词典索引的角色
+每轮内容工作应尽量批量准备、统一审核，并以少量清晰 commit 提交。
 
-`lexicon/oxford_dictionary_of_law_10e_reference.md` 仅用于：
+## 9. 当前下一步
 
-- 发现英文法律词候选；
-- 发现同义词、缩写和交叉参照；
-- 检查主词典覆盖缺口。
-
-它不是美国法词典本身。每个 Oxford 候选词进入美国主词典前都必须经过美国法适用性判断和美国权威来源复核。
-
-## 8. 台湾数据
-
-台湾司法院、台湾智慧财产局等历史双语参考词表从本项目移除。
-
-以后：
-
-- 不保留台湾双语词库文件；
-- 不以台湾译法作为批量候选来源；
-- 不把台湾词条纳入美国词典或中国大陆中文词典；
-- 如个别术语恰好由其他美国或中国大陆权威来源独立收录，不因历史台湾来源而排除，但必须重新依据当前目标法域独立编审。
-
-## 9. 工程冻结规则
-
-除非 CSV 已无法继续维护，否则不再开发新的 workflow、复杂 GitHub Actions、新分支体系、overlay、CLI、测试框架或报告系统。
-
-每轮工作的优先顺序始终是：**选词 → 权威核对 → 独立释义 → 中文辅助翻译 → 去重 → 审核 → 入库。**
+1. 对 25 条 `migration_review` 国际交易词补充美国交易实务/美国法来源；
+2. 从 Contracts、Civil Procedure、Evidence 等美国法基础领域开始建立第一批真正的 `US` / `US-FEDERAL` 词条；
+3. 使用 Oxford 和其他词典只做候选发现，不直接复制释义；
+4. 保持中文词典与美国主词典独立扩展。
