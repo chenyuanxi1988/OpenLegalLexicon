@@ -52,66 +52,71 @@ Black's 与 Oxford 并列作为英文法律词典的重要基础来源。Black's
 台湾参考词表已经删除，不再维护或批量参考。
 
 
-## 编审进度（2026-10-02，A 段批次）
+## 编审进度（2026-10-02，A–B 及 C 开头）
 
-本批基于 main `301017f14b3d29efb0294154fdab094ac08539c0`。主 CSV 现有 **465 条 sense/参照记录、420 个不同 headwords**；净增 399 条记录。Oxford A 段 **367/367 个源词目**已逐项对照用户提供 EPUB，形成 411 条记录；A 段词目队列为 0。Oxford B–Z 仍有 **4,487 个源词目**未按该标准处理。仅有旧迁移记录同名，不算 Oxford 来源处理完成。
+主 CSV：**749 条记录，678 个不同 headwords**。本批基于 main `ec58218b2a0b560543ebe0960b14e57d1c5ee5e0`，连续处理 **258 个 Oxford 源词目**（B 全部 158 个 + C 开头 100 个），净增 284 条 sense/参照记录。
 
-### 来源范围与未完成工作
+| 范围 | 源词目数 | 已处理 | 未处理 |
+|---|---:|---:|---:|
+| Oxford A | 367 | 367 | 0 |
+| Oxford B | 158 | 158 | 0 |
+| Oxford C | 597 | 100 | 497 |
+| Oxford A–Z | 4854 | 625 | 4229 |
 
-- 词典基线记录分布：Black's 29；Oxford 410；Both 1；Legacy 25。此为记录数，不是整部 Black's 的覆盖率。
-- Both 仅用于实际对照过的相同 sense；本批为 abandonment 的财产权利放弃义。absence 的英国诉讼缺席义与 Black's 的历史居所缺席义分别保留。
-- 本批新增 Black's 17 条记录使用可访问的 **第 2 版（1910）** OpenJurist 转录，准确标出版本和链接。历史来源不能当作现代美国法核验。
-- 原有 Black's 第 8 版 12 条记录保留引用，来源对齐状态为 `inherited_citation_not_rechecked`；本批没有重新取得第 8 版全文，也没有凭空扩展其 citation。
-- Black's 完整候选集合尚未枚举、去重及逐项对齐，**未处理总数未知且不是 0**；可访问的 1910 A 段网页显示 1,861 项、19 页，本批并未穷尽。不得将“Oxford A 已处理”表述为“Black's + Oxford A 完成”。
-- `black_alignment_pending` 表示未实际核对 Black's 对应词目；不能由此推断 Oxford-only。已新增 Black's-only 以完整 Oxford 10e 索引为比较范围。
-- 现有主词典仍需处理其他 Black's senses、US/UK 差异、Oxford B–Z 词目及参照目标。本批不是项目完工。
+C 本批末项是 `challenge to jury`；继续从原书下一源条目推进，不跳部门法。A–C 索引使用原书 source-entry ID；C 未处理词目也标记 `unprocessed`。C 中原始提取遗漏的 `CFSP` 已恢复（来源为空锚点后第二链接）；两条驾驶致死词目补全 `or drugs` / `or inconsiderate driving`，没有把截断词目创建为另一个概念。B 的 `bar` 与 `Bar`、`bill` 与 `Bill` 按源词形分别保留。
 
-### 字段和审核状态
+### 来源对齐和完成边界
 
-新增 `词典基线`、`源词目ID`、`来源对齐状态`、`交叉参照目标`，使来源覆盖可按源条目核算。来源名称或词形相同不表示 sense 相同。
+Black's 与 Oxford 并列为核心基础；本批不把未核实者归为 Oxford-only。
 
-- `baseline_concept_review`：独立简洁释义经概念编审，不表示全面现行法核验。
-- `historical_reference_review`：历史参考义项；不得当作现行法效果。
-- `cross_reference_review`：来源指向和展开已检查；目标词条是否已完成另计。
-- `needs_current_law_review`：现行法、法域条件或制度变化尚需核验。
-- `blacks_baseline_review` / `migration_review`：既有记录的原状态，不能推断为本批重新审核。
+- 记录基线分布：Black's 29；Oxford 693；Both 2；Legacy 25。
+- 实际相同概念对照：abandonment 的财产权利放弃义、bailment 的占有交付义，标记 Both；后者的 1910 年契约式表述只作历史比较。实际不同义项对照：absence 的英国诉讼缺席与 Black's 历史居所缺席，分别保留。
+- 17 条新 Black's 记录来自第 2 版（1910）OpenJurist 转录。原有 12 条第 8 版记录保留 citation，但标 `inherited_citation_not_rechecked`，本轮没有重新取得该版全文。不得把 1910 来源称作已更新的现代美国法。
+- 可访问的 Black's 1910 A 网页显示 1,861 项 / 19 页，B 显示 827 项；完整集合尚未枚举和逐项对齐。**Black's 未处理总数未知且不为 0**，不能据上述 CSV 记录数宣称整部覆盖。
+- `black_alignment_pending` 不是 Oxford-only；`blacks_only_against_oxford10_index` 的比较范围为 Oxford 第 10 版完整词目索引。
+- 已有同名 Legacy 记录不计作 Oxford 来源已处理。Oxford 未处理词目 **4,229**；项目尚未达到最终完成标准。
 
-本批修复 A 段 `=` 自动提取误判，例如 abus de droit、accounting practice 和 acknowledgment of service；B–Z 的 `=` 仍须回查 EPUB。年度 annual return 已明确为旧称；Administrative Court 机构名称已对照 Judiciary 官方页面更新到 King's Bench Division，但该记录的程序细节仍保留现行法复核状态。
+### 字段与审核状态
 
-### 法域分布（按记录的完整标签计）
+`词典基线`、`源词目ID`、`来源对齐状态`、`交叉参照目标`使来源及 sense 可追溯。`baseline_concept_review` 仅表示独立概念编审，不表示全面现行法核验；`historical_reference_review` 是历史义项；`cross_reference_review` 是参照/展开核对；`needs_current_law_review` 明确保留现行法复核缺口；既有 `blacks_baseline_review` 与 `migration_review` 不被解释为本轮重新审核。
 
-| 法域标签 | 记录数 |
+A 段 `=` 误判已修复。D–Z 的 `=` 仍需回查原书，不可直接当成缩写。Administrative Court 已用官方页面更新到 King's Bench Division；annual return 保留为确认其旧称后的历史义项。Biodiversity Treaty 不沿用 2022 的“拟议”状态描述现状，保留明确复核标记；涉及刑法、税法、国籍、金融监管、英国机构及法律改革的记录不假装完成现行法核验。
+
+### 法域分布（完整标签、按记录计）
+
+| 法域 | 数量 |
 |---|---:|
-| HISTORICAL | 31 |
+| HISTORICAL | 50 |
 | LEGAL-LATIN; HISTORICAL | 2 |
-| LEGAL-LATIN | 19 |
+| LEGAL-LATIN | 28 |
 | US-FEDERAL | 1 |
 | US-MARITIME | 1 |
 | ROMAN-LAW-HISTORICAL | 5 |
 | US | 3 |
 | CIVIL-LAW-HISTORICAL | 1 |
-| COMMON-LAW | 107 |
-| ENGLAND-WALES | 117 |
-| GENERAL | 10 |
-| UK | 74 |
+| COMMON-LAW | 168 |
+| ENGLAND-WALES | 195 |
+| GENERAL | 19 |
+| UK | 143 |
 | EUROPEAN-HUMAN-RIGHTS | 1 |
-| INTERNATIONAL | 27 |
+| INTERNATIONAL | 41 |
 | EU; CIVIL-LAW | 1 |
-| EU | 13 |
+| EU | 19 |
 | COMMON-LAW; INTERNATIONAL | 2 |
-| INTERNATIONAL_TRANSACTIONAL | 37 |
-| HISTORICAL; LEGAL-LATIN | 2 |
+| INTERNATIONAL_TRANSACTIONAL | 46 |
+| HISTORICAL; LEGAL-LATIN | 3 |
 | LEGAL-LATIN; COMMON-LAW | 3 |
 | ENGLAND-WALES; LEGAL-LATIN | 1 |
-| LEGAL-LATIN; INTERNATIONAL | 2 |
+| LEGAL-LATIN; INTERNATIONAL | 4 |
 | SCOTLAND | 1 |
-| COMMON-LAW; LEGAL-LATIN | 1 |
-| EU; UK | 2 |
-| EU; INTERNATIONAL | 1 |
+| COMMON-LAW; LEGAL-LATIN | 2 |
+| EU; UK | 3 |
+| EU; INTERNATIONAL | 2 |
+| GUERNSEY | 1 |
+| UK; EU | 1 |
+| RELIGIOUS-LAW | 2 |
 
-### 待现行法复核记录（213 条）
-
-下面逐条列出 ID；具体释义及法域以主 CSV 为准。
+### 待现行法复核记录（395 条）
 
 - `oxford10-1-s2` — abandonment (ENGLAND-WALES)
 - `oxford10-1-s3` — abandonment (ENGLAND-WALES)
@@ -164,6 +169,8 @@ Black's 与 Oxford 并列作为英文法律词典的重要基础来源。Black's
 - `oxford10-74-s1` — act of state (ENGLAND-WALES)
 - `oxford10-74-s2` — act of state (US)
 - `oxford10-4362-s1` — acte clair (EU)
+- `oxford10-4619-s1` — actio popularis (INTERNATIONAL)
+- `oxford10-4936-s1` — Activities of Transnational Corporations Treaty (INTERNATIONAL)
 - `oxford10-4821-s1` — activity directions and conditions (ENGLAND-WALES)
 - `oxford10-71-s1` — activity requirement (ENGLAND-WALES)
 - `oxford10-75-s1` — actual bodily harm (ENGLAND-WALES)
@@ -214,6 +221,7 @@ Black's 与 Oxford 并列作为英文法律词典的重要基础来源。Black's
 - `oxford10-126-s1` — adverse possession (ENGLAND-WALES)
 - `oxford10-128-s1` — advice on evidence (ENGLAND-WALES)
 - `oxford10-4939-s1` — Advisory Conciliation and Arbitration Service (UK)
+- `oxford10-129-s1` — advisory jurisdiction (INTERNATIONAL)
 - `oxford10-130-s1` — advocacy qualification (ENGLAND-WALES)
 - `oxford10-131-s2` — advocate (SCOTLAND)
 - `oxford10-132-s1` — Advocates-General (EU)
@@ -229,6 +237,7 @@ Black's 与 Oxford 并列作为英文法律词典的重要基础来源。Black's
 - `oxford10-150-s1` — aggravated trespass (ENGLAND-WALES)
 - `oxford10-151-s1` — aggravated vehicle-taking (ENGLAND-WALES)
 - `oxford10-152-s1` — aggregates levy (UK)
+- `oxford10-153-s1` — aggression (INTERNATIONAL)
 - `oxford10-155-s1` — agreement for a lease (ENGLAND-WALES)
 - `oxford10-158-s1` — agricultural holding (ENGLAND-WALES)
 - `oxford10-159-s1` — Agricultural Land and Drainage (ENGLAND-WALES)
@@ -251,6 +260,7 @@ Black's 与 Oxford 并列作为英文法律词典的重要基础来源。Black's
 - `oxford10-190-s2` — amendment (ENGLAND-WALES)
 - `oxford10-190-s1` — amendment (UK)
 - `oxford10-4377-s1` — AMHP (ENGLAND-WALES)
+- `oxford10-193-s1` — amnesty (INTERNATIONAL)
 - `oxford10-194-s1` — Amsterdam Treaty (EU)
 - `oxford10-196-s1` — ancient lights (ENGLAND-WALES)
 - `oxford10-197-s1` — ancillary credit business (UK)
@@ -267,6 +277,7 @@ Black's 与 Oxford 并列作为英文法律词典的重要基础来源。Black's
 - `oxford10-211-s1` — answer (ENGLAND-WALES)
 - `oxford10-212-s1` — antecedents (ENGLAND-WALES)
 - `oxford10-214-s1` — anti-avoidance provisions (UK)
+- `oxford10-216-s1` — anticipatory self-defence (INTERNATIONAL)
 - `oxford10-217-s1` — anticompetitive practice (EU; UK)
 - `oxford10-219-s1` — antisocial behaviour order (UK)
 - `oxford10-220-s1` — antitrust law (US)
@@ -309,6 +320,7 @@ Black's 与 Oxford 并列作为英文法律词典的重要基础来源。Black's
 - `oxford10-283-s1` — assured agricultural occupancy (ENGLAND-WALES)
 - `oxford10-284-s1` — assured shorthold tenancy (ENGLAND-WALES)
 - `oxford10-285-s1` — assured tenancy (ENGLAND-WALES)
+- `oxford10-286-s1` — asylum (INTERNATIONAL)
 - `oxford10-288-s1` — at sea (ENGLAND-WALES)
 - `oxford10-289-s1` — attachment (ENGLAND-WALES)
 - `oxford10-290-s1` — attachment of earnings (ENGLAND-WALES)
@@ -319,18 +331,193 @@ Black's 与 Oxford 并列作为英文法律词典的重要基础来源。Black's
 - `oxford10-298-s1` — auction ring (UK)
 - `oxford10-301-s1` — audit exemption (UK)
 - `oxford10-302-s1` — auditor (UK)
+- `oxford10-311-s1` — aut punire aut dedere (LEGAL-LATIN; INTERNATIONAL)
 - `oxford10-304-s2` — authority (UK)
 - `oxford10-305-s1` — authorized capital (UK)
 - `oxford10-4386-s1` — authorized guarantee agreement (ENGLAND-WALES)
 - `oxford10-306-s1` — authorized investments (ENGLAND-WALES)
 - `oxford10-307-s1` — authorized securities (ENGLAND-WALES)
+- `oxford10-308-s1` — automatic reservation (INTERNATIONAL)
+- `oxford10-312-s1` — autrefois acquit (COMMON-LAW)
+- `oxford10-313-s1` — autrefois convict (COMMON-LAW)
 - `oxford10-316-s1` — AVC (UK)
 - `oxford10-321-s1` — avoidance of disposition order (ENGLAND-WALES)
+- `oxford10-324-s1` — backed for bail (ENGLAND-WALES)
+- `oxford10-325-s1` — bail (ENGLAND-WALES)
+- `oxford10-327-s1` — bail hostel (UK)
+- `oxford10-328-s1` — bailiff (ENGLAND-WALES)
+- `oxford10-328-s2` — bailiff (GUERNSEY)
+- `oxford10-333-s1` — bank holidays (UK)
+- `oxford10-334-s1` — bankruptcy (ENGLAND-WALES)
+- `oxford10-4943-s1` — Banks v Goodfellow test (ENGLAND-WALES)
+- `oxford10-335-s1` — banning order (UK)
+- `oxford10-336-s1` — banns (ENGLAND-WALES)
+- `oxford10-338-s1` — Bar (ENGLAND-WALES)
+- `oxford10-337-s2` — bar (ENGLAND-WALES)
+- `oxford10-337-s3` — bar (UK)
+- `oxford10-339-s1` — Bar Council (ENGLAND-WALES)
+- `oxford10-4944-s1` — Barnett formula (UK)
+- `oxford10-344-s1` — barrister (ENGLAND-WALES)
+- `oxford10-345-s1` — baseline (INTERNATIONAL)
+- `oxford10-346-s1` — basic award (UK)
+- `oxford10-347-s1` — basic intent (ENGLAND-WALES)
+- `oxford10-348-s1` — battered child (UK)
+- `oxford10-349-s1` — battered spouse (UK)
+- `oxford10-350-s1` — Battered Woman Syndrome (COMMON-LAW)
+- `oxford10-351-s1` — battery (ENGLAND-WALES)
+- `oxford10-352-s1` — bay (INTERNATIONAL)
+- `oxford10-354-s1` — beauty contest (UK)
+- `oxford10-4387-s1` — bed and breakfasting (UK)
+- `oxford10-355-s1` — Beddoe order (ENGLAND-WALES)
+- `oxford10-358-s1` — Benchers (ENGLAND-WALES)
+- `oxford10-363-s1` — beneficiary principle (COMMON-LAW)
+- `oxford10-364-s1` — benefits in kind (UK)
+- `oxford10-366-s1` — Benjamin order (ENGLAND-WALES)
+- `oxford10-4632-s1` — bereaved minor’s trust (UK)
+- `oxford10-369-s1` — bereavement benefit (UK)
+- `oxford10-370-s1` — bereavement, damages for (ENGLAND-WALES)
+- `oxford10-371-s1` — Berne Convention (INTERNATIONAL)
+- `oxford10-4388-s1` — best interests (ENGLAND-WALES)
+- `oxford10-4388-s2` — best interests (UK)
+- `oxford10-373-s1` — best value (UK)
+- `oxford10-372-s1` — best-evidence rule (COMMON-LAW)
+- `oxford10-374-s1` — Beth Din (UK)
+- `oxford10-4946-s1` — betting duty (UK)
+- `oxford10-377-s1` — bigamy (ENGLAND-WALES)
+- `oxford10-381-s1` — Bill (UK)
+- `oxford10-382-s1` — bill of costs (ENGLAND-WALES)
+- `oxford10-383-s1` — bill of exchange (UK)
+- `oxford10-384-s1` — bill of indictment (ENGLAND-WALES)
+- `oxford10-386-s1` — bill of sale (ENGLAND-WALES)
+- `oxford10-387-s1` — bind over (ENGLAND-WALES)
+- `oxford10-4947-s1` — Biodiversity Treaty (INTERNATIONAL)
+- `oxford10-388-s1` — birth certificate (UK)
+- `oxford10-391-s1` — Black Rod, Gentleman Usher of the (UK)
+- `oxford10-389-s1` — blacklist (UK)
+- `oxford10-390-s1` — blackmail (ENGLAND-WALES)
+- `oxford10-393-s1` — blight notice (ENGLAND-WALES)
+- `oxford10-396-s1` — block exemption (EU)
+- `oxford10-396-s2` — block exemption (UK)
+- `oxford10-395-s1` — blockade (INTERNATIONAL)
+- `oxford10-398-s1` — blood specimen (UK)
+- `oxford10-399-s1` — blood test (UK)
+- `oxford10-399-s2` — blood test (UK)
+- `oxford10-4389-s1` — blue bag (ENGLAND-WALES)
+- `oxford10-402-s1` — bodily harm (ENGLAND-WALES)
+- `oxford10-4391-s1` — Bolam test (ENGLAND-WALES)
+- `oxford10-404-s1` — bomb hoax (UK)
+- `oxford10-406-s1` — bona vacantia (ENGLAND-WALES)
+- `oxford10-408-s1` — bonus issue (UK)
+- `oxford10-409-s1` — books of account (UK)
+- `oxford10-410-s1` — borough (ENGLAND-WALES)
+- `oxford10-415-s1` — boundary commissions (UK)
+- `oxford10-4392-s1` — Bournewood gap (ENGLAND-WALES)
+- `oxford10-4393-s1` — brain death (UK)
+- `oxford10-417-s1` — breach of confidence (ENGLAND-WALES)
+- `oxford10-417-s2` — breach of confidence (ENGLAND-WALES)
+- `oxford10-419-s1` — breach of privilege (UK)
+- `oxford10-420-s1` — breach of statutory duty (ENGLAND-WALES)
+- `oxford10-421-s1` — breach of the peace (ENGLAND-WALES)
+- `oxford10-424-s1` — breakdown of marriage (UK)
+- `oxford10-426-s1` — breath specimen (UK)
+- `oxford10-427-s1` — breath test (UK)
+- `oxford10-425-s1` — breathalyser (UK)
+- `oxford10-4828-s1` — Brexit (UK; EU)
+- `oxford10-429-s1` — bribery (UK)
+- `oxford10-430-s1` — bridleway (ENGLAND-WALES)
+- `oxford10-431-s1` — brief (ENGLAND-WALES)
+- `oxford10-431-s2` — brief (ENGLAND-WALES)
+- `oxford10-4635-s1` — brief fee (ENGLAND-WALES)
+- `oxford10-432-s1` — British citizenship (UK)
+- `oxford10-434-s1` — British National (Overseas) (UK)
+- `oxford10-435-s1` — British Overseas citizenship (UK)
+- `oxford10-436-s1` — British Overseas Territories citizenship (UK)
+- `oxford10-437-s1` — British protected person (UK)
+- `oxford10-438-s1` — British subject (UK)
+- `oxford10-439-s1` — Broadmoor (ENGLAND-WALES)
+- `oxford10-440-s1` — brothel (ENGLAND-WALES)
+- `oxford10-441-s1` — Brussels Convention (EU; INTERNATIONAL)
+- `oxford10-443-s1` — Budget (UK)
+- `oxford10-445-s1` — bugging (UK)
+- `oxford10-447-s1` — building preservation notice (ENGLAND-WALES)
+- `oxford10-448-s1` — building scheme (ENGLAND-WALES)
+- `oxford10-449-s1` — building society (UK)
+- `oxford10-450-s1` — Bullock order (ENGLAND-WALES)
+- `oxford10-451-s1` — burden of proof (COMMON-LAW)
+- `oxford10-452-s1` — burglary (ENGLAND-WALES)
+- `oxford10-453-s1` — business (UK)
+- `oxford10-454-s1` — business asset (UK)
+- `oxford10-455-s1` — business liability (UK)
+- `oxford10-456-s1` — business name (UK)
+- `oxford10-457-s1` — business property relief (UK)
+- `oxford10-458-s1` — business tenancy (ENGLAND-WALES)
+- `oxford10-460-s1` — byelaw (UK)
+- `oxford10-461-s1` — Cabinet (UK)
+- `oxford10-4829-s1` — Cabinet Office (UK)
+- `oxford10-462-s1` — cabotage (EU)
+- `oxford10-463-s1` — CAC (UK)
+- `oxford10-464-s1` — Cafcass (ENGLAND-WALES)
+- `oxford10-465-s1` — Calderbank letter (ENGLAND-WALES)
+- `oxford10-466-s1` — call (ENGLAND-WALES)
+- `oxford10-466-s2` — call (UK)
+- `oxford10-468-s1` — Calvo clause (INTERNATIONAL)
+- `oxford10-469-s2` — cancellation (UK)
+- `oxford10-470-s1` — cannabis (UK)
+- `oxford10-474-s1` — CAP (EU)
+- `oxford10-478-s1` — capital (UK)
+- `oxford10-479-s1` — capital allowance (UK)
+- `oxford10-480-s1` — capital gains tax (UK)
+- `oxford10-482-s1` — capital money (ENGLAND-WALES)
+- `oxford10-483-s1` — capital punishment (GENERAL)
+- `oxford10-484-s1` — capital redemption reserve (UK)
+- `oxford10-481-s1` — capitalization issue (UK)
+- `oxford10-485-s1` — capitulation (INTERNATIONAL)
+- `oxford10-488-s1` — care contact order (ENGLAND-WALES)
+- `oxford10-492-s1` — care order (ENGLAND-WALES)
+- `oxford10-493-s1` — care plan (ENGLAND-WALES)
+- `oxford10-494-s1` — care proceedings (ENGLAND-WALES)
+- `oxford10-4397-s1` — Care Quality Commission for England (ENGLAND-WALES)
+- `oxford10-489-s1` — careless and inconsiderate driving (ENGLAND-WALES)
+- `oxford10-495-s1` — carer’s allowance (UK)
+- `oxford10-4950-s1` — Carltona principle (ENGLAND-WALES)
+- `oxford10-499-s1` — carriageway (ENGLAND-WALES)
+- `oxford10-502-s1` — cartel (EU; UK)
+- `oxford10-505-s1` — case management (ENGLAND-WALES)
+- `oxford10-506-s1` — case management conference (ENGLAND-WALES)
+- `oxford10-507-s1` — case stated (ENGLAND-WALES)
+- `oxford10-515-s1` — Cause Book (ENGLAND-WALES)
+- `oxford10-518-s1` — causing a child to watch a sexual act (ENGLAND-WALES)
+- `oxford10-519-s1` — causing death by careless driving when under the influence of drink or drugs (ENGLAND-WALES)
+- `oxford10-4400-s1` — causing death by careless or inconsiderate driving (ENGLAND-WALES)
+- `oxford10-520-s1` — causing death by dangerous driving (ENGLAND-WALES)
+- `oxford10-4401-s1` — causing loss by unlawful means (ENGLAND-WALES)
+- `oxford10-521-s1` — caution (ENGLAND-WALES)
+- `oxford10-521-s2` — caution (ENGLAND-WALES)
+- `oxford10-522-s1` — caution against first registration (ENGLAND-WALES)
+- `oxford10-523-s1` — caveat (ENGLAND-WALES)
+- `oxford10-4951-s1` — CBO (ENGLAND-WALES)
+- `oxford10-4639-s1` — CCGs (ENGLAND-WALES)
+- `oxford10-4402-s1` — CCRC (UK)
+- `oxford10-528-s1` — CE (EU)
+- `oxford10-530-s1` — Central Arbitration Committee (UK)
+- `oxford10-531-s1` — Central Criminal Court (ENGLAND-WALES)
+- `oxford10-532-s1` — Central Office (ENGLAND-WALES)
+- `oxford10-533-s1` — certificate of incorporation (UK)
+- `oxford10-4831-s1` — certificates of readiness (ENGLAND-WALES)
+- `oxford10-534-s1` — Certification Officer (UK)
+- `oxford10-535-s1` — certiorari (ENGLAND-WALES)
+- `oxford10-538-s2` — cessate grant (ENGLAND-WALES)
+- `oxford10-541-s1` — cession (INTERNATIONAL)
+- `oxford10-546-s1` — CFP (EU)
+- `oxford10-547-s1` — CFSP (EU)
+- `oxford10-548-s1` — CGT (UK)
+- `oxford10-549-s1` — chain of executorship (ENGLAND-WALES)
+- `oxford10-551-s1` — challenge to jury (COMMON-LAW)
 
-### 尚未具备独立主词条的参照目标
+### 未具备独立记录的参照目标
 
-European Parliament；House of Lords；Initial Details of the Prosecution Case；Stock Exchange；abigeatus；abigeus；able-bodied seaman；books of account；breach of contract；burglary；challenge to jury；comfort letter；competition law；cuius est solum, eius est usque ad coelum et ad inferos；deed of arrangement；deep seabed area；delegated legislation；discharge；dumping；environmental taxes；equality is equity；estate pur (or per) autre vie；fatal accidents；insanity；insurance；juristic person；larceny；lay days；maritime law；marriage settlement；mistake；natural justice；non-insane automatism；pendente lite；poison；pollution；power of appointment；prenuptial agreement；privileged will；protective trust；proviso；punishment；relevant transfer；road traffic accidents；scheme of arrangement；search order；service law；standard-form contract；testamentary intention；threatening behaviour；treaty；trespass；unascertained goods；voluntary arrangement。
+Chancellor of the Exchequer；Children and Family Court Advisory and Support Service；Clinical Commissioning Groups；Common Agricultural Policy；Common Fisheries Policy；Commonwealth；Criminal Behaviour Order；Criminal Cases Review Commission；European Parliament；European Union；House of Lords；Initial Details of the Prosecution Case；Maastricht Treaty；Stock Exchange；abigeatus；abigeus；able-bodied seaman；child subjected to physical abuse；comfort letter；compensation；competent patient；competition law；consanguinity；corporation；cuius est solum, eius est usque ad coelum et ad inferos；deed of arrangement；deep seabed area；delegated legislation；discharge；doli capax；domestic violence；dumping；electronic surveillance；entailed interest；environmental taxes；equality is equity；estate pur (or per) autre vie；fatal accidents；fixed asset；football hooliganism；grievous bodily harm；hypothecation；impotence；incompetent patient；insanity；insurance；juristic person；larceny；lay days；loan capital；marital breakdown；maritime law；marriage settlement；mistake；natural justice；negligent misstatement；non-insane automatism；parliamentary privilege；pendente lite；poison；pollution；power of appointment；prenuptial agreement；privileged will；protective trust；proviso；punishment；quashing order；relevant transfer；road traffic accidents；scheme of arrangement；search order；service law；specimen of blood；specimen of breath；standard-form contract；testamentary capacity；testamentary intention；threatening behaviour；treaty；trespass；unascertained goods；voluntary arrangement；welfare principle。
 
-### 本批校验
+### 校验结果
 
-CSV 解析、逐列完整性、A–Z 排序、ID 唯一性、同 headword 相邻、精确 sense 重复检查、A 段源条目覆盖和参照/缩写分类检查均通过。全部既有 ID 保留。未修改中国法中文词典和冻结迁移源，未恢复台湾来源，未新增工程结构或 CI。
+CSV 解析、A–Z 排序、ID 唯一、不同 sense 相邻、精确 sense 去重、625 个源条目的结果覆盖、参照和缩写类型均通过。保留全部既有 ID，未修改中文词典和冻结迁移源。只更新主词典、同一来源索引和本 README；未新建分支、PR、workflow、CI、tag 或 release，未恢复台湾来源。

@@ -4,7 +4,7 @@
 
 共识别 **4,854** 个主词条，按 A–Z 排列。原书完整释义、例句、案例及法条说明受版权保护，本公开仓库不转载。未带 `→`/`=` 的词条表示原书有实体释义，后续应由 OpenLegalLexicon 依据开放来源、现行法源和项目自身编写形成独立释义；`→` 仅表示交叉参照，`=` 表示缩写展开。词性如 `[n.]` 按原书标注。
 
-原始提取统计：实体释义 3,714；交叉参照 935；缩写/展开 205（含自动识别误差，不能作为复核后的分类总数）。A 段现已按用户提供 EPUB 核对并补充 source-entry ID；B–Z 的 `=` 暂为未经复核的提取标记，不得直接当作缩写证据。该书以英国法为主，不能直接作为中国大陆法的官方译法或定义。
+原始提取统计：实体释义 3,714；交叉参照 935；缩写/展开 205（含自动识别误差，不能作为复核后的分类总数）。A、B 段及 C 段开头 100 个词目已按用户提供 EPUB 核对；A–C 索引已补充 source-entry ID，C 未处理项明确标注；D–Z 的 `=` 暂为未经复核的提取标记，不得直接当作缩写证据。该书以英国法为主，不能直接作为中国大陆法的官方译法或定义。
 
 ## A
 abandonment {source-entry: acref-9780192897497-e-1}
@@ -376,763 +376,763 @@ avulsion {source-entry: acref-9780192897497-e-322}
 award → arbitration {source-entry: acref-9780192897497-e-323}
 
 ## B
-backed for bail
-bail [n.]
-bailee [n.] → bailment
-bail hostel
-bailiff [n.]
-bailiwick [n.]
-bailment [n.]
-bailor [n.] → bailment
-balance sheet
-bank holidays
-bankruptcy [n.]
-Banks v Goodfellow test → testamentary capacity
-banning order → football hooliganism
-banns [pl. n.]
-bar [n.]
-Bar [n.]
-Bar Council
-bareboat charter
-bare licensee
-bare trust
-Barnett formula
-barratry [n.]
-barring of entailed interest → entailed interest
-barrister [n.]
-baseline [n.]
-basic award → compensation
-basic intent
-battered child → child subjected to physical abuse
-battered spouse
-Battered Woman Syndrome
-battery [n.]
-bay [n.]
-bearer [n.]
-beauty contest
-bed and breakfasting
-Beddoe order
-behaviour [n.]
-belligerent communities, recognition of
-bench [n.]
-Benchers [pl. n.]
-bench warrant
-beneficial interest
-beneficial owner
-beneficiary [n.]
-beneficiary principle
-benefits in kind
-benevolent purposes
-Benjamin order
-bequeath [vb.]
-bequest [n.]
-bereaved minor’s trust
-bereavement, damages for → fatal accidents
-bereavement benefit
-Berne Convention
-best-evidence rule
-best interests
-best value
-Beth Din
-betting duty
-bias [n.] → natural justice
-bid [n.] → auction
-bigamy [n.]
-bilateral contract
-bilateral discharge
-bilateral investment treaty = bilateral investment treaty
-bill [n.]
-Bill [n.]
-bill of costs
-bill of exchange
-bill of indictment
-bill of lading
-bill of rights
-bill of sale
-bind over
-Biodiversity Treaty
-birth certificate
-BIT → bilateral investment treaty
-black cap
-blacklist [n.]
-blackmail [n.]
-Black Rod, Gentleman Usher of the
-blasphemy [n.]
-blight notice
-blind trust
-blockade [n.]
-block exemption
-blood relationship → consanguinity
-blood specimen → specimen of blood
-blood test
-blue bag
-bodily harm → actual bodily harm；assault；grievous bodily harm
-body corporate → corporation
-boilerplate [n.]
-Bolam test
-bomb hoax
-bona vacantia
-bond [n.]
-bonus issue
-books of account
-borough [n.]
-borough court
-borstal [n.]
-bottomry [n.] → hypothecation
-boundary [n.]
-boundary commissions
-Bournewood gap
-brain death [n.]
-breach of close
-breach of confidence
-breach of contract
-breach of privilege → parliamentary privilege
-breach of statutory duty
-breach of the peace
-breach of trust
-break clause
-breakdown of marriage → marital breakdown
-breathalyser [n.]
-breath specimen → specimen of breath
-breath test
-brewster sessions
-Brexit
-bribery [n.]
-bridleway
-brief [n.]
-brief fee
-bright line
-British citizenship
-British Commonwealth → Commonwealth
-British National (Overseas)
-British Overseas citizenship
-British Overseas Territories citizenship
-British protected person
-British subject
-Broadmoor
-brothel [n.]
-Brussels Convention
-brutum fulmen
-Bryan Treaties
-Budget [n.] → Chancellor of the Exchequer
-buggery [n.]
-bugging [n.] → electronic surveillance
-building lease
-building preservation notice
-building scheme
-building society
-Bullock order
-burden of proof
-burglary [n.]
-business [n.]
-business asset
-business efficacy test
-business liability
-business name
-business property relief
-business tenancy
-“but for” test → causation
-buyer [n.]
-byelaw [n.]
+backed for bail {source-entry: acref-9780192897497-e-324}
+bail {source-entry: acref-9780192897497-e-325}
+bailee → bailment {source-entry: acref-9780192897497-e-326}
+bail hostel {source-entry: acref-9780192897497-e-327}
+bailiff {source-entry: acref-9780192897497-e-328}
+bailiwick {source-entry: acref-9780192897497-e-329}
+bailment {source-entry: acref-9780192897497-e-330}
+bailor → bailment {source-entry: acref-9780192897497-e-331}
+balance sheet {source-entry: acref-9780192897497-e-332}
+bank holidays {source-entry: acref-9780192897497-e-333}
+bankruptcy {source-entry: acref-9780192897497-e-334}
+Banks v Goodfellow test → testamentary capacity {source-entry: acref-9780192897497-e-4943}
+banning order → football hooliganism {source-entry: acref-9780192897497-e-335}
+banns {source-entry: acref-9780192897497-e-336}
+bar {source-entry: acref-9780192897497-e-337}
+Bar {source-entry: acref-9780192897497-e-338}
+Bar Council {source-entry: acref-9780192897497-e-339}
+bareboat charter {source-entry: acref-9780192897497-e-4631}
+bare licensee {source-entry: acref-9780192897497-e-340}
+bare trust {source-entry: acref-9780192897497-e-341}
+Barnett formula {source-entry: acref-9780192897497-e-4944}
+barratry {source-entry: acref-9780192897497-e-342}
+barring of entailed interest → entailed interest {source-entry: acref-9780192897497-e-343}
+barrister {source-entry: acref-9780192897497-e-344}
+baseline {source-entry: acref-9780192897497-e-345}
+basic award → compensation {source-entry: acref-9780192897497-e-346}
+basic intent {source-entry: acref-9780192897497-e-347}
+battered child → child subjected to physical abuse {source-entry: acref-9780192897497-e-348}
+battered spouse → domestic violence {source-entry: acref-9780192897497-e-349}
+Battered Woman Syndrome {source-entry: acref-9780192897497-e-350}
+battery {source-entry: acref-9780192897497-e-351}
+bay {source-entry: acref-9780192897497-e-352}
+bearer {source-entry: acref-9780192897497-e-353}
+beauty contest {source-entry: acref-9780192897497-e-354}
+bed and breakfasting {source-entry: acref-9780192897497-e-4387}
+Beddoe order {source-entry: acref-9780192897497-e-355}
+behaviour {source-entry: acref-9780192897497-e-4945}
+belligerent communities, recognition of {source-entry: acref-9780192897497-e-356}
+bench {source-entry: acref-9780192897497-e-357}
+Benchers {source-entry: acref-9780192897497-e-358}
+bench warrant {source-entry: acref-9780192897497-e-359}
+beneficial interest {source-entry: acref-9780192897497-e-360}
+beneficial owner {source-entry: acref-9780192897497-e-361}
+beneficiary {source-entry: acref-9780192897497-e-362}
+beneficiary principle {source-entry: acref-9780192897497-e-363}
+benefits in kind {source-entry: acref-9780192897497-e-364}
+benevolent purposes {source-entry: acref-9780192897497-e-365}
+Benjamin order {source-entry: acref-9780192897497-e-366}
+bequeath {source-entry: acref-9780192897497-e-367}
+bequest {source-entry: acref-9780192897497-e-368}
+bereaved minor’s trust {source-entry: acref-9780192897497-e-4632}
+bereavement, damages for → fatal accidents {source-entry: acref-9780192897497-e-370}
+bereavement benefit {source-entry: acref-9780192897497-e-369}
+Berne Convention {source-entry: acref-9780192897497-e-371}
+best-evidence rule {source-entry: acref-9780192897497-e-372}
+best interests → welfare principle {source-entry: acref-9780192897497-e-4388}
+best value {source-entry: acref-9780192897497-e-373}
+Beth Din {source-entry: acref-9780192897497-e-374}
+betting duty {source-entry: acref-9780192897497-e-4946}
+bias → natural justice {source-entry: acref-9780192897497-e-375}
+bid → auction {source-entry: acref-9780192897497-e-376}
+bigamy {source-entry: acref-9780192897497-e-377}
+bilateral contract {source-entry: acref-9780192897497-e-378}
+bilateral discharge {source-entry: acref-9780192897497-e-379}
+bilateral investment treaty {source-entry: acref-9780192897497-e-4826}
+bill {source-entry: acref-9780192897497-e-380}
+Bill {source-entry: acref-9780192897497-e-381}
+bill of costs {source-entry: acref-9780192897497-e-382}
+bill of exchange {source-entry: acref-9780192897497-e-383}
+bill of indictment {source-entry: acref-9780192897497-e-384}
+bill of lading {source-entry: acref-9780192897497-e-385}
+bill of rights {source-entry: acref-9780192897497-e-4633}
+bill of sale {source-entry: acref-9780192897497-e-386}
+bind over {source-entry: acref-9780192897497-e-387}
+Biodiversity Treaty {source-entry: acref-9780192897497-e-4947}
+birth certificate {source-entry: acref-9780192897497-e-388}
+BIT → bilateral investment treaty {source-entry: acref-9780192897497-e-4827}
+black cap {source-entry: acref-9780192897497-e-4634}
+blacklist {source-entry: acref-9780192897497-e-389}
+blackmail {source-entry: acref-9780192897497-e-390}
+Black Rod, Gentleman Usher of the {source-entry: acref-9780192897497-e-391}
+blasphemy {source-entry: acref-9780192897497-e-392}
+blight notice {source-entry: acref-9780192897497-e-393}
+blind trust {source-entry: acref-9780192897497-e-394}
+blockade {source-entry: acref-9780192897497-e-395}
+block exemption {source-entry: acref-9780192897497-e-396}
+blood relationship → consanguinity {source-entry: acref-9780192897497-e-397}
+blood specimen → specimen of blood {source-entry: acref-9780192897497-e-398}
+blood test → specimen of blood {source-entry: acref-9780192897497-e-399}
+blue bag {source-entry: acref-9780192897497-e-4389}
+bodily harm → actual bodily harm; assault; grievous bodily harm {source-entry: acref-9780192897497-e-402}
+body corporate → corporation {source-entry: acref-9780192897497-e-403}
+boilerplate {source-entry: acref-9780192897497-e-4390}
+Bolam test {source-entry: acref-9780192897497-e-4391}
+bomb hoax {source-entry: acref-9780192897497-e-404}
+bona vacantia {source-entry: acref-9780192897497-e-406}
+bond {source-entry: acref-9780192897497-e-407}
+bonus issue {source-entry: acref-9780192897497-e-408}
+books of account {source-entry: acref-9780192897497-e-409}
+borough {source-entry: acref-9780192897497-e-410}
+borough court {source-entry: acref-9780192897497-e-411}
+borstal {source-entry: acref-9780192897497-e-412}
+bottomry → hypothecation {source-entry: acref-9780192897497-e-413}
+boundary {source-entry: acref-9780192897497-e-414}
+boundary commissions {source-entry: acref-9780192897497-e-415}
+Bournewood gap {source-entry: acref-9780192897497-e-4392}
+brain death {source-entry: acref-9780192897497-e-4393}
+breach of close {source-entry: acref-9780192897497-e-416}
+breach of confidence {source-entry: acref-9780192897497-e-417}
+breach of contract {source-entry: acref-9780192897497-e-418}
+breach of privilege → parliamentary privilege {source-entry: acref-9780192897497-e-419}
+breach of statutory duty {source-entry: acref-9780192897497-e-420}
+breach of the peace {source-entry: acref-9780192897497-e-421}
+breach of trust {source-entry: acref-9780192897497-e-422}
+break clause {source-entry: acref-9780192897497-e-423}
+breakdown of marriage → marital breakdown {source-entry: acref-9780192897497-e-424}
+breathalyser {source-entry: acref-9780192897497-e-425}
+breath specimen → specimen of breath {source-entry: acref-9780192897497-e-426}
+breath test {source-entry: acref-9780192897497-e-427}
+brewster sessions {source-entry: acref-9780192897497-e-428}
+Brexit {source-entry: acref-9780192897497-e-4828}
+bribery {source-entry: acref-9780192897497-e-429}
+bridleway {source-entry: acref-9780192897497-e-430}
+brief {source-entry: acref-9780192897497-e-431}
+brief fee {source-entry: acref-9780192897497-e-4635}
+bright line {source-entry: acref-9780192897497-e-4394}
+British citizenship {source-entry: acref-9780192897497-e-432}
+British Commonwealth → Commonwealth {source-entry: acref-9780192897497-e-433}
+British National (Overseas) {source-entry: acref-9780192897497-e-434}
+British Overseas citizenship {source-entry: acref-9780192897497-e-435}
+British Overseas Territories citizenship {source-entry: acref-9780192897497-e-436}
+British protected person {source-entry: acref-9780192897497-e-437}
+British subject {source-entry: acref-9780192897497-e-438}
+Broadmoor {source-entry: acref-9780192897497-e-439}
+brothel {source-entry: acref-9780192897497-e-440}
+Brussels Convention {source-entry: acref-9780192897497-e-441}
+brutum fulmen {source-entry: acref-9780192897497-e-4636}
+Bryan Treaties {source-entry: acref-9780192897497-e-442}
+Budget → Chancellor of the Exchequer {source-entry: acref-9780192897497-e-443}
+buggery {source-entry: acref-9780192897497-e-444}
+bugging → electronic surveillance {source-entry: acref-9780192897497-e-445}
+building lease {source-entry: acref-9780192897497-e-446}
+building preservation notice {source-entry: acref-9780192897497-e-447}
+building scheme {source-entry: acref-9780192897497-e-448}
+building society {source-entry: acref-9780192897497-e-449}
+Bullock order {source-entry: acref-9780192897497-e-450}
+burden of proof {source-entry: acref-9780192897497-e-451}
+burglary {source-entry: acref-9780192897497-e-452}
+business {source-entry: acref-9780192897497-e-453}
+business asset {source-entry: acref-9780192897497-e-454}
+business efficacy test {source-entry: acref-9780192897497-e-4948}
+business liability {source-entry: acref-9780192897497-e-455}
+business name {source-entry: acref-9780192897497-e-456}
+business property relief {source-entry: acref-9780192897497-e-457}
+business tenancy {source-entry: acref-9780192897497-e-458}
+“but for” test → causation {source-entry: acref-9780192897497-e-4395}
+buyer {source-entry: acref-9780192897497-e-459}
+byelaw {source-entry: acref-9780192897497-e-460}
 
 ## C
-Cabinet [n.]
-Cabinet Office
-cabotage [n.]
-CAC → Central Arbitration Committee
-Cafcass → Children and Family Court Advisory and Support Service
-Calderbank letter
-call [n.]
-calling the jury
-Calvo clause
-cancellation [n.]
-cannabis [n.]
-cannon-shot rule
-canonical disability → impotence
-canon law
-CAP → Common Agricultural Policy
-capacity of a child in criminal law → doli capax
-capacity to consent to medical treatment → competent patient；incompetent patient
-capacity to contract
-capias [n.]
-capital
-capital allowance
-capital asset → fixed asset
-capital gains tax = capital gains tax
-capitalization issue → bonus issue
-capital money
-capital punishment
-capital redemption reserve
-capitulation [n.]
-care and control
-care contact order
-careless and inconsiderate driving
-careless statement → negligent misstatement
-care order
-care plan
-care proceedings
-Care Quality Commission for England
-carer’s allowance
-Care Standards Tribunal
-cargo [n.]
-Carltona principle
-carriage of goods by air
-carriageway
-carrier [n.]
-carrier’s lien
-cartel [n.]
-case [n.]
-case law
-case management = Civil Procedure Rules
-case management conference = case management conference
-case stated
-casus belli
-casus foederis
-casus omissus
-catching bargain
-causa causans
-causa sine qua non → causation
-causation [n.]
-cause [n.]
-Cause Book
-Cause List
-cause of action
-causing a child to watch a sexual act
-causing death by careless driving when under the influence of drink
-causing death by careless
-causing death by dangerous driving
-causing loss by unlawful means
-caution [n.]
-caution against first registration
-caveat [n.]
-caveat actor
-caveat emptor
-caveat subscriptor
-caveat venditor
-CBO → Criminal Behaviour Order
-CCGs → Clinical Commissioning Groups
-CCRC → Criminal Cases Review Commission
-CE
-Central Arbitration Committee = Central Arbitration Committee
-Central Criminal Court
-Central Office
-certainty [n.]
-certificate of incorporation
-certificates of readiness
-Certification Officer = Certification Officer
-certiorari [n.]
-certum est quod certum reddi potest
-cessante ratione legis, cessat lex ipsa
-cessate grant
-cesser [n.]
-cesser clause
-cession [n.]
-cestui que trust
-cestui que use
-cestui que vie
-CFP → Common Fisheries Policy
-CFSP = common foreign and security policy
-CGT → capital gains tax
-chain of executorship
-chain of title
-challenge to jury
-chambers [pl. n.]
-champerty [n.] → maintenance and champerty
-Chancellor of the Exchequer
-Chancery Division
-Chancery Masters → Masters of the High Court
-change of circumstances
-change of name
-change of position
-Chapter VII
-character [n.]
-charge [n.]
-chargeable gain
-charge by way of legal mortgage → mortgage
-chargé d’affaires
-charge sheet
-charges register → land registration
-charging clause
-charging order
-charitable trust
-charity [n.]
-Charity Commission
-Charity Tribunal
-charter [n.]
-charter for demise → bareboat charter
-Charter of Fundamental Rights
-charterparty [n.]
-chastisement [n.]
-chattel [n.]
-cheat [n.]
-check-off [n.]
-cheque [n.]
-cheque card
-Chicago School
-chief constable
-chief rent → rentcharge
-child [n.]
-child abduction
-child abuse
-child arrangements order
-child assessment order
-child being looked after by a local authority → looked-after child
-child cruelty
-child destruction
-child employee
-child in care
-Child Maintenance Service → child support maintenance
-child of the family
-child of unmarried parents → illegitimacy
-Child Protection Conference
-child protection in divorce
-Children and Family Court Advisory and Support Service = Children and Family Court Advisory and Support Service
-children and young people’s plan
-children in care → child in care；care order
-children in need
-children’s barred list
-Children’s Commissioner
-children’s guardian
-child safety order
-child subjected to physical abuse
-child support maintenance
-child tax credit → tax credit
-child witness → competence；video evidence；witness
-Chiltern Hundreds, stewardship of the
-chose [n.]
-Church of England
-CIF contract = cost, insurance, freight contract
-circuit administrator
-circuit judge
-circuit system
-circumstantial evidence
-CISG → United Nations Convention on Contracts for the International Sale of Goods
-citation [n.]
-citator [n.]
-citizen of the European Union
-citizen’s arrest
-citizenship of the UK and Colonies
-City Code on Takeovers and Mergers
-City of London
-civil contingencies
-civil court
-civil injunction
-civil law
-civil liability contribution
-Civil List
-civil partnership
-Civil Procedure Rules = Civil Procedure Rules
-civil remedy → remedy
-Civil Service
-Civil Service Commission
-civil wrong
-claim [n.]
-claimant [n.]
-claim form
-claim of privilege → privilege
-Claim Production Centre = Claim Production Centre
-class gift
-classical school of criminology
-classification of animals → animals；dangerous animals
-class rights
-clause [n.]
-clean break
-clean hands
-clearance [n.]
-Clear Line of Sight Project = Clear Line of Sight Project
-Clerk of the House
-Clerk of the Parliaments
-clerk to the justices
-client [n.]
-climate change levy → environmental taxes
-Clinical Commissioning Groups = Clinical Commissioning Groups
-clog or fetter on the equitable right to redeem
-cloning [n.]
-CLOS
-close [n.]
-close company
-closed-shop agreement
-close of pleadings
-closure [n.]
-CLS → critical legal studies
-club [n.]
-CMA → Competition and Markets Authority
-CMC → case management conference
-Coase theorem
-coastal waters → exclusive economic zone；fishery limits；territorial waters
-code [n.]
-codecision procedure
-Code for Crown Prosecutors
-code of practice
-codicil [n.]
-codifying statute
-coercion [n.]
-cognates [pl. n.]
-cohabitants [pl. n.]
-co-imperium [n.]
-collaborative law
-collateral [adj .]
-collateral advantage
-collateral benefits
-collateral contract
-collective bargaining
-collective redundancy
-collective responsibility → Cabinet
-collective security
-collective trespass → trespass
-collision clause
-collusion [n.]
-colony [n.]
-colourable [adj.]
-combat immunity
-comfort letter
-comitology
-comity [n.]
-Command Papers
-command responsibility
-commercial agent
-Commercial Court
-commission [n.]
-Commissioner [n.]
-commissioner for oaths
-Commission for Local Administration in England
-Commission for Racial Equality = Commission for Racial Equality
-Commission of the European Communities → European Commission
-committal for sentence
-committal in civil proceedings
-committal proceedings
-Committee of the Regions = Committee of the Regions
-Committee of the whole House
-common [n.]
-Common Agricultural Policy = Common Agricultural Policy
-common assault → assault
-common carrier → carrier
-common design
-common duty of care
-Common External Tariff = Common External Tariff
-Common Fisheries Policy = Common Fisheries Policy
-common form probate → non-contentious probate business
-common heritage of mankind principle
-commonhold [n.]
-common intention constructive trust
-common land
-common law
-common-law marriage
-common mistake → mistake
-common money bond → bond
-Common Serjeant
-Commonwealth [n.]
-Commonwealth citizen
-commorientes [pl. n.]
-community [n.]
-Community dimension
-community home
-community interest company
-Community law
-Community Legal Service → legal aid
-Community legislation
-community of assets
-community order
-Community Patent
-community patient
-community sentence
-Community Trade Mark = Community Trade Mark
-Community Treatment Order = Community Treatment Order
-commutation [n.]
-commutative contract → contract of exchange
-Companies Court
-Companies House
-company [n.]
-company meeting → general meeting
-company member
-company name
-company secretary
-compellable witness
-compensation [n.]
-compensation culture
-competence [n.]
-competent patient
-Competition and Markets Authority = Competition and Markets Authority
-competition law
-competitive tendering
-complainant [n.]
-complaint [n.]
-completion [n.]
-composition [n.]
-compos mentis
-compound [vb.]
-compounding an offence
-compound settlement
-compromis d’arbitrage
-compromise [n.]
-compromise agreement → settlement agreement
-compulsory jurisdiction
-compulsory purchase = Compulsory Purchase Order
-compulsory winding-up = Business, Energy and Industrial Strategy
-computer documents
-computer misuse → hacking
-concealment [n.] → nondisclosure
-concealment of securities
-concentration [n.]
-concert party
-conciliation [n.]
-conclusive evidence
-concurrent interests
-concurrent jurisdiction
-concurrent lease
-concurrent planning
-concurrent sentence
-concurrent tortfeasors → joint tortfeasors
-condition [n.]
-conditional admissibility
-conditional agreement
-conditional discharge → discharge
-conditional fee agreement = conditional fee agreement
-conditional interest
-conditional order
-conditional sale agreement
-condition precedent → condition
-condition subsequent → condition
-condominium [n.]
-confederation [n.]
-conference [n.]
-confession [n.]
-confession
-confidential communication
-confidential information → breach of confidence
-confidentiality [n.]
-confiscation order
-conflict of laws → private international law
-confusion of goods
-conjugal rights
-conquest [n.]
-consanguinity [n.]
-conscience clause
-consecutive sentences → concurrent sentence
-consensus ad idem
-consent [n.]
-consent mechanism → Northern Ireland Protocol
-conservation area
-consideration [n.]
-consistory court → ecclesiastical courts
-Consolidated Criminal Practice Direction [n.]
-Consolidated Fund
-consolidating statute
-consolidation of actions
-consolidation of mortgages
-consortium → concert party
-conspiracy [n.]
-constable [n.] → police officer
-constituency [n.]
-Constituency Members
-constitution [n.]
-constitutional conventions
-Constitutional Treaty of the European Union
-constitution of trusts
-constitutive theory
-construction [n.] → interpretation
-Construction Industry Scheme = Construction Industry Scheme
-constructive [adj.]
-constructive desertion
-constructive dismissal
-constructive fraud
-constructive notice
-constructive total loss
-constructive trust
-constructive trustee
-construe [vb.]
-consul [n.]
-consumer [n.]
-consumer-credit agreement
-consumer-credit business
-consumer-credit register
-consumer goods
-consumer-hire agreement
-consumer-hire business
-consumer protection
-consumer trade practice
-consummation of a marriage
-contact [n.]
-contact order
-contemporanea expositio
-contempt of court
-contempt of Parliament → parliamentary privilege
-contemptuous damages
-contentious business
-contentious probate business
-contiguous zone → territorial waters
-continental shelf
-contingency fee → success fee
-contingent interest
-contingent legacy
-continuous bail
-continuous employment
-contraband [n.]
-contra bonos mores
-contract [n.]
-contract of employment
-contract of exchange
-contract of record
-contract of sale → sale；sale of goods
-contract of service → contract of employment
-contractual tenancy
-contra proferentem
-contribution [n.]
-contributory [n.]
-contributory negligence
-controlled drugs
-controlled foreign company = controlled foreign company
-controlled trust
-controller [n.]
-control orders → terrorism
-contumacy [n.]
-convention [n.]
-Convention adoption → intercountry adoption
-conventionality thesis → legal positivism
-Convention right
-conversion [n.]
-conveyance [n.]
-conveyancing [n.]
-conviction [n.]
-cooperation procedure
-copyhold [n.]
-copyright [n.]
-co-respondent [n.]
-coroner [n.]
-corporate manslaughter
-corporate personality → incorporation
-corporate trustee → trust corporation
-corporation [n.]
-corporation tax
-corporeal hereditament → hereditament
-corpus delicti
-corroboration [n.]
-corrupt and illegal practices
-corruption [n.] → bribery
-corruption of public morals
-cost, insurance, freight → CIF contract
-costs [pl. n.]
-costs draftsman
-costs in any event
-costs in the case
-costs management → case management
-costs officer
-costs reserved
-costs thrown away
-Cotonou Agreement → African, Caribbean, Pacific Group
-council housing
-councillor [n.]
-Council of Europe
-Council of the European Union = Committee of Permanent Representatives
-Council of the Inns of Court
-council tax
-counsel [n .]
-Counsellors of State
-count [n.] → indictment
-counterclaim [n.]
-counterfeiting [n.]
-countermeasures [pl. n.]
-counteroffer
-countertrade [n.]
-county [n.]
-county council
-county court
-County Court Bulk Centre = County Court Bulk Centre
-course of employment
-court [n.]
-Court for Consideration of Crown Cases Reserved
-Court Martial
-Court of Appeal
-Court of Arches
-Court of Chancery
-Court of Chivalry
-Court of Common Pleas
-Court of Criminal Appeal
-Court of Ecclesiastical Causes Reserved
-Court of Exchequer
-court of first instance
-Court of First Instance → general court
-Court of Justice of the European Union
-court of last resort
-Court of Probate
-Court of Protection
-Court of Queen’s Bench
-court of record
-Court of Session
-court of summary jurisdiction → magistrates’ court
-court order → order
-Courts and Tribunals Service, HM
-covenant [n.] → deed；lease；restrictive covenant
-covenant running with the land
-covenant to repair
-covenant to settle
-coverture [n.]
-COVID-19 → emergency powers
-covin [n.]
-CPC → Claim Production Centre
-CPR → Civil Procedure Rules
-CPS → Crown Prosecution Service
-credit [n.]
-credit card
-credit for guilty plea
-credit limit
-creditor [n.]
-creditors’ committee
-credit sale agreement
-crime [n.]
-crimes against humanity → war crimes
-crimes against peace → war crimes
-Criminal Behaviour Order
-Criminal Cases Review Commission = Criminal Cases Review Commission
-criminal conviction certificate
-criminal court
-criminal damage
-Criminal Injuries Compensation Scheme
-criminal injury
-criminal investigation in Revenue matters
-criminal libel → libel
-Criminal Procedure Rules
-Criminal Records Bureau
-criminology [n.]
-critical criminology → positivist school of criminology
-critical legal studies = critical legal studies
-critical race theory = critical race theory
-cross-appeals [pl. n.]
-cross-class cram down → scheme of arrangement
-cross-examination [n.]
-cross offer → answer
-Crown [n.]
-Crown Agents for Overseas Governments and Administrations
-Crown Court
-Crown Court rules
-Crown privilege
-Crown proceedings
-Crown Prosecution Service = Crown Prosecution Service
-Crown servant
-CRT → critical race theory
-cruelty [n.]
-cryptoasset
-crystallization [n.]
-CSA
-CTO → Community Treatment Order
-cuius est solum, eius est usque ad coelum et ad inferos
-culpa tenet suos auctores
-cum testamento annexo
-cur. adv. vult = cur. adv. vult
-curfew requirement
-curtain principle
-curtilage [n.]
-custodian trustee
-custody [n.]
-custody time limit
-custom [n.]
-customary international law
-customer information order
-customs duty
-cybercrime [n.]
-cycle track
-cyngor [n.]
-cy-près doctrine
+Cabinet {source-entry: acref-9780192897497-e-461}
+Cabinet Office {source-entry: acref-9780192897497-e-4829}
+cabotage {source-entry: acref-9780192897497-e-462}
+CAC → Central Arbitration Committee {source-entry: acref-9780192897497-e-463}
+Cafcass → Children and Family Court Advisory and Support Service {source-entry: acref-9780192897497-e-464}
+Calderbank letter {source-entry: acref-9780192897497-e-465}
+call {source-entry: acref-9780192897497-e-466}
+calling the jury {source-entry: acref-9780192897497-e-467}
+Calvo clause {source-entry: acref-9780192897497-e-468}
+cancellation {source-entry: acref-9780192897497-e-469}
+cannabis {source-entry: acref-9780192897497-e-470}
+cannon-shot rule {source-entry: acref-9780192897497-e-471}
+canonical disability → impotence {source-entry: acref-9780192897497-e-472}
+canon law {source-entry: acref-9780192897497-e-473}
+CAP → Common Agricultural Policy {source-entry: acref-9780192897497-e-474}
+capacity of a child in criminal law → doli capax {source-entry: acref-9780192897497-e-475}
+capacity to consent to medical treatment → competent patient; incompetent patient {source-entry: acref-9780192897497-e-4396}
+capacity to contract {source-entry: acref-9780192897497-e-476}
+capias {source-entry: acref-9780192897497-e-477}
+capital → loan capital {source-entry: acref-9780192897497-e-478}
+capital allowance {source-entry: acref-9780192897497-e-479}
+capital asset → fixed asset {source-entry: acref-9780192897497-e-4949}
+capital gains tax {source-entry: acref-9780192897497-e-480}
+capitalization issue → bonus issue {source-entry: acref-9780192897497-e-481}
+capital money {source-entry: acref-9780192897497-e-482}
+capital punishment {source-entry: acref-9780192897497-e-483}
+capital redemption reserve {source-entry: acref-9780192897497-e-484}
+capitulation {source-entry: acref-9780192897497-e-485}
+care and control {source-entry: acref-9780192897497-e-487}
+care contact order {source-entry: acref-9780192897497-e-488}
+careless and inconsiderate driving {source-entry: acref-9780192897497-e-489}
+careless statement → negligent misstatement {source-entry: acref-9780192897497-e-490}
+care order {source-entry: acref-9780192897497-e-492}
+care plan {source-entry: acref-9780192897497-e-493}
+care proceedings {source-entry: acref-9780192897497-e-494}
+Care Quality Commission for England {source-entry: acref-9780192897497-e-4397}
+carer’s allowance {source-entry: acref-9780192897497-e-495}
+Care Standards Tribunal {source-entry: acref-9780192897497-e-496}
+cargo {source-entry: acref-9780192897497-e-497}
+Carltona principle {source-entry: acref-9780192897497-e-4950}
+carriage of goods by air {source-entry: acref-9780192897497-e-498}
+carriageway {source-entry: acref-9780192897497-e-499}
+carrier {source-entry: acref-9780192897497-e-500}
+carrier’s lien {source-entry: acref-9780192897497-e-501}
+cartel {source-entry: acref-9780192897497-e-502}
+case {source-entry: acref-9780192897497-e-503}
+case law {source-entry: acref-9780192897497-e-504}
+case management {source-entry: acref-9780192897497-e-505}
+case management conference {source-entry: acref-9780192897497-e-506}
+case stated {source-entry: acref-9780192897497-e-507}
+casus belli {source-entry: acref-9780192897497-e-508}
+casus foederis {source-entry: acref-9780192897497-e-4637}
+casus omissus {source-entry: acref-9780192897497-e-509}
+catching bargain {source-entry: acref-9780192897497-e-510}
+causa causans {source-entry: acref-9780192897497-e-4638}
+causa sine qua non → causation {source-entry: acref-9780192897497-e-4399}
+causation {source-entry: acref-9780192897497-e-513}
+cause → causation {source-entry: acref-9780192897497-e-514}
+Cause Book {source-entry: acref-9780192897497-e-515}
+Cause List {source-entry: acref-9780192897497-e-516}
+cause of action {source-entry: acref-9780192897497-e-517}
+causing a child to watch a sexual act {source-entry: acref-9780192897497-e-518}
+causing death by careless driving when under the influence of drink or drugs {source-entry: acref-9780192897497-e-519}
+causing death by careless or inconsiderate driving {source-entry: acref-9780192897497-e-4400}
+causing death by dangerous driving {source-entry: acref-9780192897497-e-520}
+causing loss by unlawful means {source-entry: acref-9780192897497-e-4401}
+caution {source-entry: acref-9780192897497-e-521}
+caution against first registration {source-entry: acref-9780192897497-e-522}
+caveat {source-entry: acref-9780192897497-e-523}
+caveat actor {source-entry: acref-9780192897497-e-524}
+caveat emptor {source-entry: acref-9780192897497-e-525}
+caveat subscriptor {source-entry: acref-9780192897497-e-526}
+caveat venditor {source-entry: acref-9780192897497-e-527}
+CBO → Criminal Behaviour Order {source-entry: acref-9780192897497-e-4951}
+CCGs → Clinical Commissioning Groups {source-entry: acref-9780192897497-e-4639}
+CCRC → Criminal Cases Review Commission {source-entry: acref-9780192897497-e-4402}
+CE {source-entry: acref-9780192897497-e-528}
+Central Arbitration Committee {source-entry: acref-9780192897497-e-530}
+Central Criminal Court {source-entry: acref-9780192897497-e-531}
+Central Office {source-entry: acref-9780192897497-e-532}
+certainty {source-entry: acref-9780192897497-e-4830}
+certificate of incorporation {source-entry: acref-9780192897497-e-533}
+certificates of readiness {source-entry: acref-9780192897497-e-4831}
+Certification Officer {source-entry: acref-9780192897497-e-534}
+certiorari → quashing order {source-entry: acref-9780192897497-e-535}
+certum est quod certum reddi potest {source-entry: acref-9780192897497-e-536}
+cessante ratione legis, cessat lex ipsa {source-entry: acref-9780192897497-e-537}
+cessate grant {source-entry: acref-9780192897497-e-538}
+cesser {source-entry: acref-9780192897497-e-539}
+cesser clause {source-entry: acref-9780192897497-e-540}
+cession {source-entry: acref-9780192897497-e-541}
+cestui que trust {source-entry: acref-9780192897497-e-542}
+cestui que use {source-entry: acref-9780192897497-e-543}
+cestui que vie {source-entry: acref-9780192897497-e-544}
+CFP → Common Fisheries Policy {source-entry: acref-9780192897497-e-546}
+CFSP → European Union; Maastricht Treaty {source-entry: acref-9780192897497-e-547}
+CGT → capital gains tax {source-entry: acref-9780192897497-e-548}
+chain of executorship {source-entry: acref-9780192897497-e-549}
+chain of title {source-entry: acref-9780192897497-e-550}
+challenge to jury {source-entry: acref-9780192897497-e-551}
+chambers {source-entry: acref-9780192897497-e-552; unprocessed}
+champerty {source-entry: acref-9780192897497-e-553; unprocessed}
+Chancellor of the Exchequer {source-entry: acref-9780192897497-e-554; unprocessed}
+Chancery Division {source-entry: acref-9780192897497-e-555; unprocessed}
+Chancery Masters {source-entry: acref-9780192897497-e-556; unprocessed}
+change of circumstances {source-entry: acref-9780192897497-e-4952; unprocessed}
+change of name {source-entry: acref-9780192897497-e-557; unprocessed}
+change of position {source-entry: acref-9780192897497-e-4403; unprocessed}
+Chapter VII {source-entry: acref-9780192897497-e-558; unprocessed}
+character {source-entry: acref-9780192897497-e-559; unprocessed}
+charge {source-entry: acref-9780192897497-e-560; unprocessed}
+chargeable gain {source-entry: acref-9780192897497-e-561; unprocessed}
+charge by way of legal mortgage {source-entry: acref-9780192897497-e-562; unprocessed}
+chargé d’affaires {source-entry: acref-9780192897497-e-564; unprocessed}
+charge sheet {source-entry: acref-9780192897497-e-565; unprocessed}
+charges register {source-entry: acref-9780192897497-e-566; unprocessed}
+charging clause {source-entry: acref-9780192897497-e-567; unprocessed}
+charging order {source-entry: acref-9780192897497-e-568; unprocessed}
+charitable trust {source-entry: acref-9780192897497-e-569; unprocessed}
+charity {source-entry: acref-9780192897497-e-570; unprocessed}
+Charity Commission {source-entry: acref-9780192897497-e-571; unprocessed}
+Charity Tribunal {source-entry: acref-9780192897497-e-4404; unprocessed}
+charter {source-entry: acref-9780192897497-e-572; unprocessed}
+charter for demise {source-entry: acref-9780192897497-e-4640; unprocessed}
+Charter of Fundamental Rights {source-entry: acref-9780192897497-e-573; unprocessed}
+charterparty {source-entry: acref-9780192897497-e-574; unprocessed}
+chastisement {source-entry: acref-9780192897497-e-575; unprocessed}
+chattel {source-entry: acref-9780192897497-e-576; unprocessed}
+cheat {source-entry: acref-9780192897497-e-577; unprocessed}
+check-off {source-entry: acref-9780192897497-e-578; unprocessed}
+cheque {source-entry: acref-9780192897497-e-579; unprocessed}
+cheque card {source-entry: acref-9780192897497-e-580; unprocessed}
+Chicago School {source-entry: acref-9780192897497-e-581; unprocessed}
+chief constable {source-entry: acref-9780192897497-e-4641; unprocessed}
+chief rent {source-entry: acref-9780192897497-e-582; unprocessed}
+child {source-entry: acref-9780192897497-e-583; unprocessed}
+child abduction {source-entry: acref-9780192897497-e-584; unprocessed}
+child abuse {source-entry: acref-9780192897497-e-585; unprocessed}
+child arrangements order {source-entry: acref-9780192897497-e-4642; unprocessed}
+child assessment order {source-entry: acref-9780192897497-e-586; unprocessed}
+child being looked after by a local authority {source-entry: acref-9780192897497-e-587; unprocessed}
+child cruelty {source-entry: acref-9780192897497-e-4643; unprocessed}
+child destruction {source-entry: acref-9780192897497-e-588; unprocessed}
+child employee {source-entry: acref-9780192897497-e-589; unprocessed}
+child in care {source-entry: acref-9780192897497-e-590; unprocessed}
+Child Maintenance Service {source-entry: acref-9780192897497-e-4405; unprocessed}
+child of the family {source-entry: acref-9780192897497-e-591; unprocessed}
+child of unmarried parents {source-entry: acref-9780192897497-e-592; unprocessed}
+Child Protection Conference {source-entry: acref-9780192897497-e-593; unprocessed}
+child protection in divorce {source-entry: acref-9780192897497-e-594; unprocessed}
+Children and Family Court Advisory and Support Service {source-entry: acref-9780192897497-e-595; unprocessed}
+children and young people’s plan {source-entry: acref-9780192897497-e-596; unprocessed}
+children in care {source-entry: acref-9780192897497-e-597; unprocessed}
+children in need {source-entry: acref-9780192897497-e-598; unprocessed}
+children’s barred list {source-entry: acref-9780192897497-e-4953; unprocessed}
+Children’s Commissioner {source-entry: acref-9780192897497-e-600; unprocessed}
+children’s guardian {source-entry: acref-9780192897497-e-599; unprocessed}
+child safety order {source-entry: acref-9780192897497-e-601; unprocessed}
+child subjected to physical abuse {source-entry: acref-9780192897497-e-4954; unprocessed}
+child support maintenance {source-entry: acref-9780192897497-e-603; unprocessed}
+child tax credit {source-entry: acref-9780192897497-e-604; unprocessed}
+child witness {source-entry: acref-9780192897497-e-605; unprocessed}
+Chiltern Hundreds, stewardship of the {source-entry: acref-9780192897497-e-606; unprocessed}
+chose {source-entry: acref-9780192897497-e-607; unprocessed}
+Church of England {source-entry: acref-9780192897497-e-608; unprocessed}
+ {source-entry: acref-9780192897497-e-609; unprocessed}
+circuit administrator {source-entry: acref-9780192897497-e-610; unprocessed}
+circuit judge {source-entry: acref-9780192897497-e-611; unprocessed}
+circuit system {source-entry: acref-9780192897497-e-612; unprocessed}
+circumstantial evidence {source-entry: acref-9780192897497-e-613; unprocessed}
+CISG {source-entry: acref-9780192897497-e-4955; unprocessed}
+citation {source-entry: acref-9780192897497-e-614; unprocessed}
+citator {source-entry: acref-9780192897497-e-4406; unprocessed}
+citizen of the European Union {source-entry: acref-9780192897497-e-616; unprocessed}
+citizen’s arrest {source-entry: acref-9780192897497-e-615; unprocessed}
+citizenship of the UK and Colonies {source-entry: acref-9780192897497-e-617; unprocessed}
+City Code on Takeovers and Mergers {source-entry: acref-9780192897497-e-618; unprocessed}
+City of London {source-entry: acref-9780192897497-e-619; unprocessed}
+civil contingencies {source-entry: acref-9780192897497-e-4956; unprocessed}
+civil court {source-entry: acref-9780192897497-e-620; unprocessed}
+civil injunction {source-entry: acref-9780192897497-e-4957; unprocessed}
+civil law {source-entry: acref-9780192897497-e-621; unprocessed}
+civil liability contribution {source-entry: acref-9780192897497-e-622; unprocessed}
+Civil List {source-entry: acref-9780192897497-e-623; unprocessed}
+civil partnership {source-entry: acref-9780192897497-e-624; unprocessed}
+Civil Procedure Rules {source-entry: acref-9780192897497-e-625; unprocessed}
+civil remedy {source-entry: acref-9780192897497-e-627; unprocessed}
+Civil Service {source-entry: acref-9780192897497-e-628; unprocessed}
+Civil Service Commission {source-entry: acref-9780192897497-e-4644; unprocessed}
+civil wrong {source-entry: acref-9780192897497-e-629; unprocessed}
+claim {source-entry: acref-9780192897497-e-630; unprocessed}
+claimant {source-entry: acref-9780192897497-e-631; unprocessed}
+claim form {source-entry: acref-9780192897497-e-632; unprocessed}
+claim of privilege {source-entry: acref-9780192897497-e-633; unprocessed}
+Claim Production Centre {source-entry: acref-9780192897497-e-4645; unprocessed}
+class gift {source-entry: acref-9780192897497-e-634; unprocessed}
+classical school of criminology {source-entry: acref-9780192897497-e-4407; unprocessed}
+classification of animals {source-entry: acref-9780192897497-e-635; unprocessed}
+class rights {source-entry: acref-9780192897497-e-636; unprocessed}
+clause {source-entry: acref-9780192897497-e-637; unprocessed}
+clean break {source-entry: acref-9780192897497-e-638; unprocessed}
+clean hands {source-entry: acref-9780192897497-e-639; unprocessed}
+clearance {source-entry: acref-9780192897497-e-640; unprocessed}
+Clear Line of Sight Project {source-entry: acref-9780192897497-e-4832; unprocessed}
+Clerk of the House {source-entry: acref-9780192897497-e-641; unprocessed}
+Clerk of the Parliaments {source-entry: acref-9780192897497-e-642; unprocessed}
+clerk to the justices {source-entry: acref-9780192897497-e-643; unprocessed}
+client {source-entry: acref-9780192897497-e-644; unprocessed}
+climate change levy {source-entry: acref-9780192897497-e-645; unprocessed}
+Clinical Commissioning Groups {source-entry: acref-9780192897497-e-4646; unprocessed}
+clog or fetter on the equitable right to redeem {source-entry: acref-9780192897497-e-646; unprocessed}
+cloning {source-entry: acref-9780192897497-e-4408; unprocessed}
+CLOS {source-entry: acref-9780192897497-e-4833; unprocessed}
+close {source-entry: acref-9780192897497-e-647; unprocessed}
+close company {source-entry: acref-9780192897497-e-648; unprocessed}
+closed-shop agreement {source-entry: acref-9780192897497-e-649; unprocessed}
+close of pleadings {source-entry: acref-9780192897497-e-651; unprocessed}
+closure {source-entry: acref-9780192897497-e-653; unprocessed}
+CLS {source-entry: acref-9780192897497-e-654; unprocessed}
+club {source-entry: acref-9780192897497-e-655; unprocessed}
+CMA {source-entry: acref-9780192897497-e-4647; unprocessed}
+CMC {source-entry: acref-9780192897497-e-4409; unprocessed}
+Coase theorem {source-entry: acref-9780192897497-e-656; unprocessed}
+coastal waters {source-entry: acref-9780192897497-e-657; unprocessed}
+code {source-entry: acref-9780192897497-e-658; unprocessed}
+codecision procedure {source-entry: acref-9780192897497-e-659; unprocessed}
+Code for Crown Prosecutors {source-entry: acref-9780192897497-e-660; unprocessed}
+code of practice {source-entry: acref-9780192897497-e-661; unprocessed}
+codicil {source-entry: acref-9780192897497-e-662; unprocessed}
+codifying statute {source-entry: acref-9780192897497-e-663; unprocessed}
+coercion {source-entry: acref-9780192897497-e-664; unprocessed}
+cognates {source-entry: acref-9780192897497-e-665; unprocessed}
+cohabitants {source-entry: acref-9780192897497-e-666; unprocessed}
+co-imperium {source-entry: acref-9780192897497-e-667; unprocessed}
+collaborative law {source-entry: acref-9780192897497-e-4834; unprocessed}
+collateral {source-entry: acref-9780192897497-e-668; unprocessed}
+collateral advantage {source-entry: acref-9780192897497-e-4410; unprocessed}
+collateral benefits {source-entry: acref-9780192897497-e-669; unprocessed}
+collateral contract {source-entry: acref-9780192897497-e-670; unprocessed}
+collective bargaining {source-entry: acref-9780192897497-e-672; unprocessed}
+collective redundancy {source-entry: acref-9780192897497-e-673; unprocessed}
+collective responsibility {source-entry: acref-9780192897497-e-674; unprocessed}
+collective security {source-entry: acref-9780192897497-e-675; unprocessed}
+collective trespass {source-entry: acref-9780192897497-e-676; unprocessed}
+collision clause {source-entry: acref-9780192897497-e-677; unprocessed}
+collusion {source-entry: acref-9780192897497-e-678; unprocessed}
+colony {source-entry: acref-9780192897497-e-679; unprocessed}
+colourable {source-entry: acref-9780192897497-e-680; unprocessed}
+combat immunity {source-entry: acref-9780192897497-e-681; unprocessed}
+comfort letter {source-entry: acref-9780192897497-e-682; unprocessed}
+comitology {source-entry: acref-9780192897497-e-683; unprocessed}
+comity {source-entry: acref-9780192897497-e-684; unprocessed}
+Command Papers {source-entry: acref-9780192897497-e-685; unprocessed}
+command responsibility {source-entry: acref-9780192897497-e-686; unprocessed}
+commercial agent {source-entry: acref-9780192897497-e-687; unprocessed}
+Commercial Court {source-entry: acref-9780192897497-e-688; unprocessed}
+commission {source-entry: acref-9780192897497-e-689; unprocessed}
+Commissioner {source-entry: acref-9780192897497-e-690; unprocessed}
+commissioner for oaths {source-entry: acref-9780192897497-e-691; unprocessed}
+Commission for Local Administration in England {source-entry: acref-9780192897497-e-4411; unprocessed}
+Commission for Racial Equality {source-entry: acref-9780192897497-e-696; unprocessed}
+Commission of the European Communities {source-entry: acref-9780192897497-e-697; unprocessed}
+committal for sentence {source-entry: acref-9780192897497-e-699; unprocessed}
+committal in civil proceedings {source-entry: acref-9780192897497-e-700; unprocessed}
+committal proceedings {source-entry: acref-9780192897497-e-701; unprocessed}
+Committee of the Regions {source-entry: acref-9780192897497-e-4412; unprocessed}
+Committee of the whole House {source-entry: acref-9780192897497-e-702; unprocessed}
+common {source-entry: acref-9780192897497-e-703; unprocessed}
+Common Agricultural Policy {source-entry: acref-9780192897497-e-704; unprocessed}
+common assault {source-entry: acref-9780192897497-e-705; unprocessed}
+common carrier {source-entry: acref-9780192897497-e-707; unprocessed}
+common design {source-entry: acref-9780192897497-e-708; unprocessed}
+common duty of care {source-entry: acref-9780192897497-e-709; unprocessed}
+Common External Tariff {source-entry: acref-9780192897497-e-710; unprocessed}
+Common Fisheries Policy {source-entry: acref-9780192897497-e-711; unprocessed}
+common form probate {source-entry: acref-9780192897497-e-4648; unprocessed}
+common heritage of mankind principle {source-entry: acref-9780192897497-e-712; unprocessed}
+commonhold {source-entry: acref-9780192897497-e-713; unprocessed}
+common intention constructive trust {source-entry: acref-9780192897497-e-4835; unprocessed}
+common land {source-entry: acref-9780192897497-e-714; unprocessed}
+common law {source-entry: acref-9780192897497-e-715; unprocessed}
+common-law marriage {source-entry: acref-9780192897497-e-716; unprocessed}
+common mistake {source-entry: acref-9780192897497-e-717; unprocessed}
+common money bond {source-entry: acref-9780192897497-e-718; unprocessed}
+Common Serjeant {source-entry: acref-9780192897497-e-719; unprocessed}
+Commonwealth {source-entry: acref-9780192897497-e-720; unprocessed}
+Commonwealth citizen {source-entry: acref-9780192897497-e-721; unprocessed}
+commorientes {source-entry: acref-9780192897497-e-722; unprocessed}
+community {source-entry: acref-9780192897497-e-723; unprocessed}
+Community dimension {source-entry: acref-9780192897497-e-724; unprocessed}
+community home {source-entry: acref-9780192897497-e-725; unprocessed}
+community interest company {source-entry: acref-9780192897497-e-4413; unprocessed}
+Community law {source-entry: acref-9780192897497-e-726; unprocessed}
+Community Legal Service {source-entry: acref-9780192897497-e-727; unprocessed}
+Community legislation {source-entry: acref-9780192897497-e-728; unprocessed}
+community of assets {source-entry: acref-9780192897497-e-729; unprocessed}
+community order {source-entry: acref-9780192897497-e-730; unprocessed}
+Community Patent {source-entry: acref-9780192897497-e-4649; unprocessed}
+community patient {source-entry: acref-9780192897497-e-4414; unprocessed}
+community sentence {source-entry: acref-9780192897497-e-733; unprocessed}
+Community Trade Mark {source-entry: acref-9780192897497-e-734; unprocessed}
+Community Treatment Order {source-entry: acref-9780192897497-e-4415; unprocessed}
+commutation {source-entry: acref-9780192897497-e-735; unprocessed}
+commutative contract {source-entry: acref-9780192897497-e-736; unprocessed}
+Companies Court {source-entry: acref-9780192897497-e-737; unprocessed}
+Companies House {source-entry: acref-9780192897497-e-738; unprocessed}
+company {source-entry: acref-9780192897497-e-741; unprocessed}
+company meeting {source-entry: acref-9780192897497-e-742; unprocessed}
+company member {source-entry: acref-9780192897497-e-743; unprocessed}
+company name {source-entry: acref-9780192897497-e-744; unprocessed}
+company secretary {source-entry: acref-9780192897497-e-745; unprocessed}
+compellable witness {source-entry: acref-9780192897497-e-746; unprocessed}
+compensation {source-entry: acref-9780192897497-e-747; unprocessed}
+compensation culture {source-entry: acref-9780192897497-e-4416; unprocessed}
+competence {source-entry: acref-9780192897497-e-748; unprocessed}
+competent patient {source-entry: acref-9780192897497-e-4417; unprocessed}
+Competition and Markets Authority {source-entry: acref-9780192897497-e-4650; unprocessed}
+competition law {source-entry: acref-9780192897497-e-749; unprocessed}
+competitive tendering {source-entry: acref-9780192897497-e-750; unprocessed}
+complainant {source-entry: acref-9780192897497-e-751; unprocessed}
+complaint {source-entry: acref-9780192897497-e-752; unprocessed}
+completion {source-entry: acref-9780192897497-e-754; unprocessed}
+composition {source-entry: acref-9780192897497-e-755; unprocessed}
+compos mentis {source-entry: acref-9780192897497-e-4418; unprocessed}
+compound {source-entry: acref-9780192897497-e-756; unprocessed}
+compounding an offence {source-entry: acref-9780192897497-e-757; unprocessed}
+compound settlement {source-entry: acref-9780192897497-e-758; unprocessed}
+compromis d’arbitrage {source-entry: acref-9780192897497-e-759; unprocessed}
+compromise {source-entry: acref-9780192897497-e-760; unprocessed}
+compromise agreement {source-entry: acref-9780192897497-e-4651; unprocessed}
+compulsory jurisdiction {source-entry: acref-9780192897497-e-761; unprocessed}
+compulsory purchase {source-entry: acref-9780192897497-e-762; unprocessed}
+compulsory winding-up {source-entry: acref-9780192897497-e-763; unprocessed}
+computer documents {source-entry: acref-9780192897497-e-764; unprocessed}
+computer misuse {source-entry: acref-9780192897497-e-765; unprocessed}
+concealment {source-entry: acref-9780192897497-e-766; unprocessed}
+concealment of securities {source-entry: acref-9780192897497-e-767; unprocessed}
+concentration {source-entry: acref-9780192897497-e-768; unprocessed}
+concert party {source-entry: acref-9780192897497-e-769; unprocessed}
+conciliation {source-entry: acref-9780192897497-e-770; unprocessed}
+conclusive evidence {source-entry: acref-9780192897497-e-771; unprocessed}
+concurrent interests {source-entry: acref-9780192897497-e-772; unprocessed}
+concurrent jurisdiction {source-entry: acref-9780192897497-e-773; unprocessed}
+concurrent lease {source-entry: acref-9780192897497-e-774; unprocessed}
+concurrent planning {source-entry: acref-9780192897497-e-775; unprocessed}
+concurrent sentence {source-entry: acref-9780192897497-e-776; unprocessed}
+concurrent tortfeasors {source-entry: acref-9780192897497-e-777; unprocessed}
+condition {source-entry: acref-9780192897497-e-778; unprocessed}
+conditional admissibility {source-entry: acref-9780192897497-e-779; unprocessed}
+conditional agreement {source-entry: acref-9780192897497-e-780; unprocessed}
+conditional discharge {source-entry: acref-9780192897497-e-781; unprocessed}
+conditional fee agreement {source-entry: acref-9780192897497-e-782; unprocessed}
+conditional interest {source-entry: acref-9780192897497-e-783; unprocessed}
+conditional order {source-entry: acref-9780192897497-e-4958; unprocessed}
+conditional sale agreement {source-entry: acref-9780192897497-e-784; unprocessed}
+condition precedent {source-entry: acref-9780192897497-e-785; unprocessed}
+condition subsequent {source-entry: acref-9780192897497-e-786; unprocessed}
+condominium {source-entry: acref-9780192897497-e-787; unprocessed}
+confederation {source-entry: acref-9780192897497-e-789; unprocessed}
+conference {source-entry: acref-9780192897497-e-790; unprocessed}
+confession {source-entry: acref-9780192897497-e-791; unprocessed}
+confession {source-entry: acref-9780192897497-e-792; unprocessed}
+confidential communication {source-entry: acref-9780192897497-e-793; unprocessed}
+confidential information {source-entry: acref-9780192897497-e-794; unprocessed}
+confidentiality {source-entry: acref-9780192897497-e-4419; unprocessed}
+confiscation order {source-entry: acref-9780192897497-e-795; unprocessed}
+conflict of laws {source-entry: acref-9780192897497-e-796; unprocessed}
+confusion of goods {source-entry: acref-9780192897497-e-797; unprocessed}
+conjugal rights {source-entry: acref-9780192897497-e-798; unprocessed}
+conquest {source-entry: acref-9780192897497-e-800; unprocessed}
+consanguinity {source-entry: acref-9780192897497-e-801; unprocessed}
+conscience clause {source-entry: acref-9780192897497-e-4420; unprocessed}
+consecutive sentences {source-entry: acref-9780192897497-e-802; unprocessed}
+consensus ad idem {source-entry: acref-9780192897497-e-803; unprocessed}
+consent {source-entry: acref-9780192897497-e-804; unprocessed}
+consent mechanism {source-entry: acref-9780192897497-e-4959; unprocessed}
+conservation area {source-entry: acref-9780192897497-e-805; unprocessed}
+consideration {source-entry: acref-9780192897497-e-806; unprocessed}
+consistory court {source-entry: acref-9780192897497-e-807; unprocessed}
+Consolidated Criminal Practice Direction {source-entry: acref-9780192897497-e-808; unprocessed}
+Consolidated Fund {source-entry: acref-9780192897497-e-809; unprocessed}
+consolidating statute {source-entry: acref-9780192897497-e-810; unprocessed}
+consolidation of actions {source-entry: acref-9780192897497-e-811; unprocessed}
+consolidation of mortgages {source-entry: acref-9780192897497-e-812; unprocessed}
+consortium {source-entry: acref-9780192897497-e-813; unprocessed}
+conspiracy {source-entry: acref-9780192897497-e-814; unprocessed}
+constable {source-entry: acref-9780192897497-e-815; unprocessed}
+constituency {source-entry: acref-9780192897497-e-816; unprocessed}
+Constituency Members {source-entry: acref-9780192897497-e-817; unprocessed}
+constitution {source-entry: acref-9780192897497-e-818; unprocessed}
+constitutional conventions {source-entry: acref-9780192897497-e-819; unprocessed}
+Constitutional Treaty of the European Union {source-entry: acref-9780192897497-e-820; unprocessed}
+constitution of trusts {source-entry: acref-9780192897497-e-4836; unprocessed}
+constitutive theory {source-entry: acref-9780192897497-e-821; unprocessed}
+construction {source-entry: acref-9780192897497-e-822; unprocessed}
+Construction Industry Scheme {source-entry: acref-9780192897497-e-823; unprocessed}
+constructive {source-entry: acref-9780192897497-e-824; unprocessed}
+constructive desertion {source-entry: acref-9780192897497-e-825; unprocessed}
+constructive dismissal {source-entry: acref-9780192897497-e-826; unprocessed}
+constructive fraud {source-entry: acref-9780192897497-e-827; unprocessed}
+constructive notice {source-entry: acref-9780192897497-e-828; unprocessed}
+constructive total loss {source-entry: acref-9780192897497-e-829; unprocessed}
+constructive trust {source-entry: acref-9780192897497-e-830; unprocessed}
+constructive trustee {source-entry: acref-9780192897497-e-831; unprocessed}
+construe {source-entry: acref-9780192897497-e-832; unprocessed}
+consul {source-entry: acref-9780192897497-e-833; unprocessed}
+consumer {source-entry: acref-9780192897497-e-834; unprocessed}
+consumer-credit agreement {source-entry: acref-9780192897497-e-835; unprocessed}
+consumer-credit business {source-entry: acref-9780192897497-e-836; unprocessed}
+consumer-credit register {source-entry: acref-9780192897497-e-837; unprocessed}
+consumer goods {source-entry: acref-9780192897497-e-838; unprocessed}
+consumer-hire agreement {source-entry: acref-9780192897497-e-839; unprocessed}
+consumer-hire business {source-entry: acref-9780192897497-e-840; unprocessed}
+consumer protection {source-entry: acref-9780192897497-e-841; unprocessed}
+consumer trade practice {source-entry: acref-9780192897497-e-842; unprocessed}
+consummation of a marriage {source-entry: acref-9780192897497-e-843; unprocessed}
+contact {source-entry: acref-9780192897497-e-844; unprocessed}
+contact order {source-entry: acref-9780192897497-e-845; unprocessed}
+contemporanea expositio {source-entry: acref-9780192897497-e-846; unprocessed}
+contempt of court {source-entry: acref-9780192897497-e-847; unprocessed}
+contempt of Parliament {source-entry: acref-9780192897497-e-848; unprocessed}
+contemptuous damages {source-entry: acref-9780192897497-e-849; unprocessed}
+contentious business {source-entry: acref-9780192897497-e-850; unprocessed}
+contentious probate business {source-entry: acref-9780192897497-e-851; unprocessed}
+contiguous zone {source-entry: acref-9780192897497-e-852; unprocessed}
+continental shelf {source-entry: acref-9780192897497-e-853; unprocessed}
+contingency fee {source-entry: acref-9780192897497-e-854; unprocessed}
+contingent interest {source-entry: acref-9780192897497-e-855; unprocessed}
+contingent legacy {source-entry: acref-9780192897497-e-856; unprocessed}
+continuous bail {source-entry: acref-9780192897497-e-857; unprocessed}
+continuous employment {source-entry: acref-9780192897497-e-858; unprocessed}
+contraband {source-entry: acref-9780192897497-e-859; unprocessed}
+contra bonos mores {source-entry: acref-9780192897497-e-860; unprocessed}
+contract {source-entry: acref-9780192897497-e-861; unprocessed}
+contract of employment {source-entry: acref-9780192897497-e-862; unprocessed}
+contract of exchange {source-entry: acref-9780192897497-e-863; unprocessed}
+contract of record {source-entry: acref-9780192897497-e-864; unprocessed}
+contract of sale {source-entry: acref-9780192897497-e-865; unprocessed}
+contract of service {source-entry: acref-9780192897497-e-866; unprocessed}
+contractual tenancy {source-entry: acref-9780192897497-e-867; unprocessed}
+contra proferentem {source-entry: acref-9780192897497-e-868; unprocessed}
+contribution {source-entry: acref-9780192897497-e-869; unprocessed}
+contributory {source-entry: acref-9780192897497-e-870; unprocessed}
+contributory negligence {source-entry: acref-9780192897497-e-871; unprocessed}
+controlled drugs {source-entry: acref-9780192897497-e-872; unprocessed}
+controlled foreign company {source-entry: acref-9780192897497-e-4421; unprocessed}
+controlled trust {source-entry: acref-9780192897497-e-874; unprocessed}
+controller {source-entry: acref-9780192897497-e-875; unprocessed}
+control orders {source-entry: acref-9780192897497-e-876; unprocessed}
+contumacy {source-entry: acref-9780192897497-e-4422; unprocessed}
+convention {source-entry: acref-9780192897497-e-877; unprocessed}
+Convention adoption {source-entry: acref-9780192897497-e-4837; unprocessed}
+conventionality thesis {source-entry: acref-9780192897497-e-878; unprocessed}
+Convention right {source-entry: acref-9780192897497-e-879; unprocessed}
+conversion {source-entry: acref-9780192897497-e-880; unprocessed}
+conveyance {source-entry: acref-9780192897497-e-882; unprocessed}
+conveyancing {source-entry: acref-9780192897497-e-883; unprocessed}
+conviction {source-entry: acref-9780192897497-e-884; unprocessed}
+cooperation procedure {source-entry: acref-9780192897497-e-885; unprocessed}
+copyhold {source-entry: acref-9780192897497-e-886; unprocessed}
+copyright {source-entry: acref-9780192897497-e-887; unprocessed}
+co-respondent {source-entry: acref-9780192897497-e-888; unprocessed}
+coroner {source-entry: acref-9780192897497-e-889; unprocessed}
+corporate manslaughter {source-entry: acref-9780192897497-e-4652; unprocessed}
+corporate personality {source-entry: acref-9780192897497-e-890; unprocessed}
+corporate trustee {source-entry: acref-9780192897497-e-4423; unprocessed}
+corporation {source-entry: acref-9780192897497-e-892; unprocessed}
+corporation tax {source-entry: acref-9780192897497-e-893; unprocessed}
+corporeal hereditament {source-entry: acref-9780192897497-e-894; unprocessed}
+corpus delicti {source-entry: acref-9780192897497-e-4424; unprocessed}
+corroboration {source-entry: acref-9780192897497-e-895; unprocessed}
+corrupt and illegal practices {source-entry: acref-9780192897497-e-896; unprocessed}
+corruption {source-entry: acref-9780192897497-e-897; unprocessed}
+corruption of public morals {source-entry: acref-9780192897497-e-898; unprocessed}
+cost, insurance, freight {source-entry: acref-9780192897497-e-899; unprocessed}
+costs {source-entry: acref-9780192897497-e-900; unprocessed}
+costs draftsman {source-entry: acref-9780192897497-e-901; unprocessed}
+costs in any event {source-entry: acref-9780192897497-e-902; unprocessed}
+costs in the case {source-entry: acref-9780192897497-e-903; unprocessed}
+costs management {source-entry: acref-9780192897497-e-4653; unprocessed}
+costs officer {source-entry: acref-9780192897497-e-904; unprocessed}
+costs reserved {source-entry: acref-9780192897497-e-905; unprocessed}
+costs thrown away {source-entry: acref-9780192897497-e-906; unprocessed}
+Cotonou Agreement {source-entry: acref-9780192897497-e-4654; unprocessed}
+council housing {source-entry: acref-9780192897497-e-907; unprocessed}
+councillor {source-entry: acref-9780192897497-e-908; unprocessed}
+Council of Europe {source-entry: acref-9780192897497-e-909; unprocessed}
+Council of the European Union {source-entry: acref-9780192897497-e-911; unprocessed}
+Council of the Inns of Court {source-entry: acref-9780192897497-e-912; unprocessed}
+council tax {source-entry: acref-9780192897497-e-914; unprocessed}
+counsel {source-entry: acref-9780192897497-e-915; unprocessed}
+Counsellors of State {source-entry: acref-9780192897497-e-916; unprocessed}
+count {source-entry: acref-9780192897497-e-917; unprocessed}
+counterclaim {source-entry: acref-9780192897497-e-918; unprocessed}
+counterfeiting {source-entry: acref-9780192897497-e-4425; unprocessed}
+countermeasures {source-entry: acref-9780192897497-e-919; unprocessed}
+counteroffer {source-entry: acref-9780192897497-e-920; unprocessed}
+countertrade {source-entry: acref-9780192897497-e-921; unprocessed}
+county {source-entry: acref-9780192897497-e-922; unprocessed}
+county council {source-entry: acref-9780192897497-e-923; unprocessed}
+county court {source-entry: acref-9780192897497-e-924; unprocessed}
+County Court Bulk Centre {source-entry: acref-9780192897497-e-4655; unprocessed}
+course of employment {source-entry: acref-9780192897497-e-925; unprocessed}
+court {source-entry: acref-9780192897497-e-926; unprocessed}
+Court for Consideration of Crown Cases Reserved {source-entry: acref-9780192897497-e-927; unprocessed}
+Court Martial {source-entry: acref-9780192897497-e-928; unprocessed}
+Court of Appeal {source-entry: acref-9780192897497-e-929; unprocessed}
+Court of Arches {source-entry: acref-9780192897497-e-930; unprocessed}
+Court of Chancery {source-entry: acref-9780192897497-e-931; unprocessed}
+Court of Chivalry {source-entry: acref-9780192897497-e-932; unprocessed}
+Court of Common Pleas {source-entry: acref-9780192897497-e-933; unprocessed}
+Court of Criminal Appeal {source-entry: acref-9780192897497-e-934; unprocessed}
+Court of Ecclesiastical Causes Reserved {source-entry: acref-9780192897497-e-935; unprocessed}
+Court of Exchequer {source-entry: acref-9780192897497-e-936; unprocessed}
+court of first instance {source-entry: acref-9780192897497-e-937; unprocessed}
+Court of First Instance {source-entry: acref-9780192897497-e-938; unprocessed}
+Court of Justice of the European Union {source-entry: acref-9780192897497-e-939; unprocessed}
+court of last resort {source-entry: acref-9780192897497-e-940; unprocessed}
+Court of Probate {source-entry: acref-9780192897497-e-941; unprocessed}
+Court of Protection {source-entry: acref-9780192897497-e-942; unprocessed}
+Court of Queen’s Bench {source-entry: acref-9780192897497-e-943; unprocessed}
+court of record {source-entry: acref-9780192897497-e-944; unprocessed}
+Court of Session {source-entry: acref-9780192897497-e-945; unprocessed}
+court of summary jurisdiction {source-entry: acref-9780192897497-e-946; unprocessed}
+court order {source-entry: acref-9780192897497-e-947; unprocessed}
+Courts and Tribunals Service, HM {source-entry: acref-9780192897497-e-4656; unprocessed}
+covenant {source-entry: acref-9780192897497-e-948; unprocessed}
+covenant running with the land {source-entry: acref-9780192897497-e-949; unprocessed}
+covenant to repair {source-entry: acref-9780192897497-e-950; unprocessed}
+covenant to settle {source-entry: acref-9780192897497-e-4838; unprocessed}
+coverture {source-entry: acref-9780192897497-e-951; unprocessed}
+COVID-19 {source-entry: acref-9780192897497-e-4960; unprocessed}
+covin {source-entry: acref-9780192897497-e-4657; unprocessed}
+CPC {source-entry: acref-9780192897497-e-4658; unprocessed}
+CPR {source-entry: acref-9780192897497-e-952; unprocessed}
+CPS {source-entry: acref-9780192897497-e-953; unprocessed}
+credit {source-entry: acref-9780192897497-e-954; unprocessed}
+credit card {source-entry: acref-9780192897497-e-955; unprocessed}
+credit for guilty plea {source-entry: acref-9780192897497-e-4659; unprocessed}
+credit limit {source-entry: acref-9780192897497-e-956; unprocessed}
+creditor {source-entry: acref-9780192897497-e-957; unprocessed}
+creditors’ committee {source-entry: acref-9780192897497-e-958; unprocessed}
+credit sale agreement {source-entry: acref-9780192897497-e-959; unprocessed}
+crime {source-entry: acref-9780192897497-e-960; unprocessed}
+crimes against humanity {source-entry: acref-9780192897497-e-961; unprocessed}
+crimes against peace {source-entry: acref-9780192897497-e-962; unprocessed}
+Criminal Behaviour Order {source-entry: acref-9780192897497-e-4961; unprocessed}
+Criminal Cases Review Commission {source-entry: acref-9780192897497-e-4426; unprocessed}
+criminal conviction certificate {source-entry: acref-9780192897497-e-963; unprocessed}
+criminal court {source-entry: acref-9780192897497-e-964; unprocessed}
+criminal damage {source-entry: acref-9780192897497-e-965; unprocessed}
+Criminal Injuries Compensation Scheme {source-entry: acref-9780192897497-e-966; unprocessed}
+criminal injury {source-entry: acref-9780192897497-e-967; unprocessed}
+criminal investigation in Revenue matters {source-entry: acref-9780192897497-e-4427; unprocessed}
+criminal libel {source-entry: acref-9780192897497-e-968; unprocessed}
+Criminal Procedure Rules {source-entry: acref-9780192897497-e-969; unprocessed}
+Criminal Records Bureau {source-entry: acref-9780192897497-e-970; unprocessed}
+criminology {source-entry: acref-9780192897497-e-4428; unprocessed}
+critical criminology {source-entry: acref-9780192897497-e-4429; unprocessed}
+critical legal studies {source-entry: acref-9780192897497-e-971; unprocessed}
+critical race theory {source-entry: acref-9780192897497-e-972; unprocessed}
+cross-appeals {source-entry: acref-9780192897497-e-973; unprocessed}
+cross-class cram down {source-entry: acref-9780192897497-e-4962; unprocessed}
+cross-examination {source-entry: acref-9780192897497-e-974; unprocessed}
+cross offer {source-entry: acref-9780192897497-e-4963; unprocessed}
+Crown {source-entry: acref-9780192897497-e-975; unprocessed}
+Crown Agents for Overseas Governments and Administrations {source-entry: acref-9780192897497-e-976; unprocessed}
+Crown Court {source-entry: acref-9780192897497-e-977; unprocessed}
+Crown Court rules {source-entry: acref-9780192897497-e-978; unprocessed}
+Crown privilege {source-entry: acref-9780192897497-e-979; unprocessed}
+Crown proceedings {source-entry: acref-9780192897497-e-980; unprocessed}
+Crown Prosecution Service {source-entry: acref-9780192897497-e-981; unprocessed}
+Crown servant {source-entry: acref-9780192897497-e-982; unprocessed}
+CRT {source-entry: acref-9780192897497-e-983; unprocessed}
+cruelty {source-entry: acref-9780192897497-e-984; unprocessed}
+cryptoasset {source-entry: acref-9780192897497-e-4964; unprocessed}
+crystallization {source-entry: acref-9780192897497-e-985; unprocessed}
+CSA {source-entry: acref-9780192897497-e-986; unprocessed}
+CTO {source-entry: acref-9780192897497-e-4430; unprocessed}
+cuius est solum, eius est usque ad coelum et ad inferos {source-entry: acref-9780192897497-e-4660; unprocessed}
+culpa tenet suos auctores {source-entry: acref-9780192897497-e-4431; unprocessed}
+cum testamento annexo {source-entry: acref-9780192897497-e-988; unprocessed}
+cur. adv. vult {source-entry: acref-9780192897497-e-989; unprocessed}
+curfew requirement {source-entry: acref-9780192897497-e-990; unprocessed}
+curtain principle {source-entry: acref-9780192897497-e-4661; unprocessed}
+curtilage {source-entry: acref-9780192897497-e-4662; unprocessed}
+custodian trustee {source-entry: acref-9780192897497-e-992; unprocessed}
+custody {source-entry: acref-9780192897497-e-993; unprocessed}
+custody time limit {source-entry: acref-9780192897497-e-994; unprocessed}
+custom {source-entry: acref-9780192897497-e-995; unprocessed}
+customary international law {source-entry: acref-9780192897497-e-996; unprocessed}
+customer information order {source-entry: acref-9780192897497-e-997; unprocessed}
+customs duty {source-entry: acref-9780192897497-e-998; unprocessed}
+cybercrime {source-entry: acref-9780192897497-e-1000; unprocessed}
+cycle track {source-entry: acref-9780192897497-e-1001; unprocessed}
+cyngor {source-entry: acref-9780192897497-e-1002; unprocessed}
+cy-près doctrine {source-entry: acref-9780192897497-e-1003; unprocessed}
 
 ## D
 Daily Cause List → Cause List
