@@ -2,9 +2,7 @@
 
 **English-first, U.S.-law-first, Chinese-assisted.**
 
-OpenLegalLexicon 的主产品是一部以**美国法律英语**为核心的开放法律词典。英文法律词语、词组、程序表达和实务表达是词条主体；中文翻译和中文注释只用于帮助中文使用者理解，不再把主词典做成“中文法律概念 → 寻找英文译法”的中翻英词库。
-
-中国法律中的中文概念另行维护为独立的中文法律词典，并提供英文参考译法。不同法域的概念不得因为译名相似而自动视为等同。
+OpenLegalLexicon 的主产品是一部以**美国法律英语**为核心的开放法律词典。英文法律词语、词组、程序表达和实务表达是词条主体；中文翻译和中文注释用于帮助中文使用者理解。中国法律中的中文概念另行维护为独立的中文法律词典，并提供英文参考译法。
 
 ## 当前词典
 
@@ -14,81 +12,63 @@ OpenLegalLexicon 的主产品是一部以**美国法律英语**为核心的开�
 | `lexicon/chinese_legal_terms.csv` | 中文法律词典 | 中文 → English reference translation | **392 条迁移记录** |
 | `lexicon/legal_terms.csv` | 冻结的旧迁移源 | legacy | **392 条** |
 
-### US Legal English Dictionary
+## US Legal English Dictionary
 
-`lexicon/us_legal_english.csv` 是项目以后唯一的主成果和核心进度指标。
-
-基本结构：
-
-> **English legal term → U.S. legal meaning/context → Chinese reference translation**
-
-英文是 canonical headword。中文不是概念来源，只是辅助理解。词条首先回答“这个词在美国法律、法院、法学院、监管和律师实务中是什么意思、怎样使用”，然后再给中文参考译法。
-
-本轮先从旧词表中迁移了 **25 条国际交易英语**，例如 `closing`、`due diligence`、`term sheet`、`representations and warranties`、`material adverse change (MAC)` 等。它们全部标记为 `INTERNATIONAL_TRANSACTIONAL` 和 `migration_review`，只是 English-first 的迁移种子，**尚不能视为已经完成美国法权威来源复核**。
-
-后续只有在依据美国法或美国律师实务权威来源完成独立核验后，才升级为正式已审核的美国法律英语词条。
-
-### Chinese Legal Terms Dictionary
-
-`lexicon/chinese_legal_terms.csv` 是中文作为 canonical headword 的独立词典。
+`lexicon/us_legal_english.csv` 是项目以后唯一的美国法律英语主词典和核心进度指标。
 
 基本结构：
 
-> **中文法律词条 → 中文法域/制度语境 → English reference translation**
+> **English headword → Black's Law Dictionary baseline → U.S. legal verification/context → 中文参考翻译与说明**
 
-本轮为避免旧数据在改向时丢失，已把旧 `legal_terms.csv` 的 **392 条中文主词条全部迁入**。其中绝大多数是中国大陆法律制度词，也包含少量跨境交易中的中文实务表达，保留它们是为了中文检索和双向查找，不代表这些概念属于中国法法定术语。
+英文是 canonical headword。中文不是概念来源，只是辅助理解。
 
-中国法概念仍应以中国现行法律、司法解释和监管资料为依据；英文只作参考译法。
+### Black's Law Dictionary 基线
 
-## 跨法域原则
+美国主词典以后统一以 **Black's Law Dictionary** 作为首要词典基线。用户已经提供该词典，并已经整理过词目清单；后续扩词直接以该清单为主工作底稿，不再由 AI 自行发明词目体系或凭印象补写定义。
 
-两个词典独立维护。
+具体规则：
 
-例如旧词表中的 `合同 → contract`、`代理 → agency`、`胁迫 → duress`、`反诉 → counterclaim`、`要约 → offer` 都是按中国法语境编写的记录。它们已经保留在中文词典中，但**不会因为英文词形相同就直接搬进美国法律英语主词典**。
+1. 先依据 Black's 确认 headword、词形、义项和交叉参照；
+2. 再用美国宪法、法典、联邦规则、判例、法院或监管机构资料核验当前法律状态、法域和具体限制；
+3. 中文翻译、中文说明、使用提示和数据编排由 OpenLegalLexicon 独立整理；
+4. 不把 Black's 的整段原文释义直接复制进公开词典；
+5. 如 Black's 与现行法、州法或特定监管规则存在更新差异，以现行权威法源校正并注明；
+6. 当前 25 条旧数据迁移种子继续保留 `migration_review`，后续按 Black's 基线逐条重审。
 
-美国词典中的 `contract`、`agency`、`duress`、`counterclaim`、`offer` 等以后必须重新依据美国法权威来源独立编写。
+### A–Z 排序
 
-## 美国法律英语建设重点
+`us_legal_english.csv` 必须始终按 `英文词条` **A → Z** 排列，大小写不影响排序。
 
-主词典优先覆盖：
+- 主体扩词顺序也是 A → Z，而不是按部门法批次随意追加；
+- 新词条必须插入正确字母位置；
+- 相同 headword 的不同义项相邻排列，再按义项或法域区分；
+- 缩写、别名和交叉参照优先参考 Black's 的词条结构。
 
-- Contracts
-- Torts
-- Civil Procedure
-- Constitutional Law
-- Criminal Law
-- Criminal Procedure
-- Evidence
-- Property
-- Business Associations / Corporations / Agency
-- Securities Regulation
-- Bankruptcy
-- Intellectual Property
-- Antitrust
-- Employment & Labor
-- Tax
-- Administrative / Regulatory Law
-- Litigation and transactional drafting
-- Legal research, writing, court documents and common abbreviations
+当前 25 条迁移种子本身已经按 A–Z 排列。
 
-目标不是机械堆词，而是建立一套真正适用于**学习和使用美国法律**的法律英语体系。
+## Chinese Legal Terms Dictionary
 
-## 参考资料
+`lexicon/chinese_legal_terms.csv` 是中文作为 canonical headword 的独立词典：
 
-专业法律词典、教材和用户提供的资料可以用于发现候选词、比较用法和检查遗漏，但不整本复制受版权保护的释义、例句或独创编排。
+> **中文法律词条 → 中国法释义/法源 → English reference translation**
 
-`lexicon/oxford_dictionary_of_law_10e_reference.md` 仅作为英文候选词索引。Oxford 是英国法律词典，出现于该索引的词条必须重新判断是否适用于美国法，并以美国权威来源独立核验后才进入主词典。
+现有 392 条旧中文主词条已经完整迁入。中国法概念以中国现行法律、司法解释、法院和监管资料为依据；英文只作参考译法。不同法域概念不得因为译名相似而自动视为等同。
+
+## 参考资料层级
+
+- **Black's Law Dictionary**：美国主词典的首要词目与概念框架基线；
+- **美国现行权威法源**：用于核验、更新、限定法域和具体法律效果；
+- `lexicon/oxford_dictionary_of_law_10e_reference.md`：英国法词典候选索引，只作补充覆盖检查，不作为美国主词典定义基线。
+
+项目不是对 Black's 原文的逐字转载，而是以其词目和概念结构为基础，制作独立的英中法律学习词典，包括中文翻译、中文说明、美国法语境核验、标签和编排。
 
 历史台湾司法院及台湾智慧财产局双语数据已从当前仓库删除，并停止作为本项目的数据源和候选词来源。
 
 ## 开发规则
 
-今后优先投入词条内容本身：
-
-1. 先确认目标法域；
-2. 美国主词典先核对美国法含义，再写中文辅助翻译；
-3. 中文词典先核对中文概念和法源，再给英文参考译法；
+1. 美国主词典先核对 Black's，再做中文翻译和美国法语境核验；
+2. 主词典按 A → Z 连续推进，不按批次把新词堆到文件尾部；
+3. 中国词典与美国词典独立维护；
 4. 不因字面相似跨法域合并概念；
 5. 不把项目释译冒充官方译文；
-6. 不整本复制受版权保护的词典内容；
-7. 除非现有 CSV 已经无法维护，否则不新增 workflow、复杂 CI、分支体系或其他外围工程。
+6. 除非现有 CSV 已无法维护，否则不新增 workflow、复杂 CI、分支体系或其他外围工程。

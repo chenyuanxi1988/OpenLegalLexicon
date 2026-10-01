@@ -2,7 +2,7 @@
 
 ## 项目原创/编审内容
 
-OpenLegalLexicon 独立编写的释义、中文辅助说明、翻译、使用提示、词条结构和数据编排采用 **CC BY 4.0**，除非文件或具体条目另有明确说明。
+OpenLegalLexicon 独立编写或整理的中文翻译、中文辅助说明、学习提示、标签、词条结构、数据编排及项目自有释义采用 **CC BY 4.0**，除非具体文件或条目另有明确说明。
 
 当前正式目标文件：
 
@@ -15,20 +15,20 @@ OpenLegalLexicon 独立编写的释义、中文辅助说明、翻译、使用提
 
 `lexicon/chinese_legal_terms.csv` 当前完整承接旧词表 392 条项目编审记录，因此其中项目原创/编审内容继续采用 CC BY 4.0。
 
-`lexicon/us_legal_english.csv` 当前 25 条迁移种子为项目基于既有跨境交易实务内容重新编排和独立改写的 English-first 记录，采用 CC BY 4.0；其 `migration_review` 状态表示尚待补充美国权威来源，不表示这些条目来自第三方可再许可数据。
+`lexicon/us_legal_english.csv` 当前 25 条记录为旧数据迁移种子，仍标记 `migration_review`。后续将按 Black's Law Dictionary 的词目/义项体系重新核验，并结合美国现行法源完善。
 
-## 法律文本和第三方来源
+## Black's Law Dictionary 的使用方式
 
-CC BY 4.0 仅适用于 OpenLegalLexicon 自己创作或编审的内容，不改变所引用法律文本、法院材料、政府资料、书籍、词典或其他第三方材料自身的版权、开放许可或公有领域状态。
+Black's Law Dictionary 是美国主词典的首要词目与概念框架基线。项目利用其 headword、sense、词形、缩写、交叉参照和概念边界进行整理，并据此制作独立的中文翻译、中文说明、标签和数据结构。
 
-项目尽量只记录必要的法律名称、条文、引用和来源链接，不把第三方受版权保护的长篇正文作为项目原创数据重新许可。
+OpenLegalLexicon 不把 Black's 的整段原文释义逐字作为项目正文重新发布。Black's 原始文本本身不属于 OpenLegalLexicon 的 CC BY 4.0 授权范围；项目自有的翻译、说明、编排和独立整理内容按本文件所述许可发布。
 
-## 专业词典和参考书籍
+## 法律文本和其他第三方来源
 
-专业法律词典、教材和用户提供的受版权保护资料不作为整本可再分发数据源导入。项目仅将其用于研究、选词、概念核对和译法比较，并独立撰写项目内容。
+CC BY 4.0 仅适用于 OpenLegalLexicon 自己创作或编审的内容，不改变所引用法律文本、法院材料、政府资料、书籍、词典或其他第三方材料自身的权利状态。
 
-`lexicon/oxford_dictionary_of_law_10e_reference.md` 是候选词参考索引，不属于 OpenLegalLexicon 声称拥有第三方原始内容版权的资料；Oxford University Press 等原权利人的权利不受本项目许可影响。
+`lexicon/oxford_dictionary_of_law_10e_reference.md` 是候选词参考索引。Oxford University Press 等原权利人的原始内容权利不受本项目许可影响。
 
 ## 已删除的台湾参考数据
 
-历史台湾司法院和台湾智慧财产局双语词表已于 2026-09-30 从当前主分支删除，不再作为当前仓库的数据集发布或候选词来源。
+历史台湾司法院和台湾智慧财产局双语词表已从当前主分支删除，不再作为当前仓库的数据集发布或候选词来源。
