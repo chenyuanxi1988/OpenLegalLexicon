@@ -2,75 +2,45 @@
 
 更新：2026-10-01
 
-## 1. 项目方向
+## 1. 项目定位
 
 OpenLegalLexicon 的主项目是：
 
-> **English-first, U.S.-law-first, Chinese-assisted.**
+> **English-first, multi-jurisdiction, Chinese-assisted.**
 
-主词典用于学习和使用美国法律英语。英文法律概念是词条主体，中文翻译和中文注释仅作辅助理解。
+主产品是一部**英文法律词典**，不是“美国法律词典”。英文法律概念、法律短语、程序表达和实务表达是 canonical headword；中文翻译与中文说明只作为理解辅助。
 
-中国法律概念另由中文词典维护：
+中国大陆法律概念由 `lexicon/chinese_legal_terms.csv` 独立维护，不与英文主词典混成一个法域。
 
-> 中文法律词条 → 中国法释义/依据 → English reference translation
-
-两个词典相互独立，不因译名相似而合并概念。
-
-## 2. 英文词目来源架构
-
-美国主词典仍以 **Black's Law Dictionary** 为首要美国法概念基线，同时正式纳入仓库中已经整理好的 Oxford 词目层：
+## 2. 两个并列基础词典
 
 ### Black's Law Dictionary
 
-用于确认美国法 headword、sense、词形、交叉参照和核心概念边界；正式美国法释义还要结合美国现行法源核验。
+用于美国法、美国法律英语和普通法传统中的词目、义项、词形、交叉参照与概念边界。
 
 ### Oxford Dictionary of Law (10th ed., 2022)
 
-`lexicon/oxford_dictionary_of_law_10e_reference.md` 已整理出 **4,854 条主词条**，按原书 A–Z 排列。该文件从现在起不是被动参考，而是正式的第二词目层，全部进入后续去重、词形、交叉参照和覆盖处理。
+仓库已经整理 `lexicon/oxford_dictionary_of_law_10e_reference.md`，包含 **4,854 条** A–Z 词目。Oxford 对英国法、欧盟法、国际法、历史术语和普通法表达具有独立价值。
 
-Oxford 以英国法为主，因此：
+### 关系
 
-1. 与美国法重合或美国实务确实使用的词条，回到 Black's 和美国法源核验后进入/补强 `us_legal_english.csv`；
-2. 英国法、欧盟法或其他非美国法特有词保留参考法域标签，不计入美国法核心词条；
-3. 不因 Oxford 收录就自动认定为美国法概念；
-4. 直接使用现有 Oxford A–Z 文件，不再额外复制一个内容相同的词目清单。
+Black's 与 Oxford **并列作为英文法律词典的基础词典**。不再采用“Black's 是主基线、Oxford 只是覆盖检查”的旧方向。
 
-## 3. 主词典固定原则
+每个 headword 允许出现以下情况：
 
-### `lexicon/us_legal_english.csv`
+- 仅见于 Black's；
+- 仅见于 Oxford；
+- 两者均有但义项基本一致；
+- 两者均有但美国法/英国法义项不同；
+- 同词具有国际法、欧盟法、历史法、拉丁语或实务语境。
 
-1. 英文词条是 canonical headword；
-2. Black's 是美国法首要定义与概念边界基线；
-3. Oxford 是正式的第二词目层和覆盖来源；
-4. 美国宪法、法典、联邦规则、判例、法院和监管机构资料用于核验当前法律状态、法域和具体规则；
-5. 中文翻译、中文说明、学习提示、标签和数据编排由项目独立编审；
-6. 不把第三方词典整段原文释义逐字搬入公开词典；
-7. 中国法中同形英文词不得机械迁入美国主词典；
-8. `us_legal_english.csv` 始终按英文 headword A → Z 排列。
+不得把这些差异机械合并。
 
-当前 `us_legal_english.csv` 已有 **37 条记录**：12 条 Black's A 段首批记录 + 25 条旧数据迁移种子。
+## 3. 主词典
 
-## 4. A–Z 开发顺序
+目标文件：`lexicon/english_legal_dictionary.csv`
 
-从现在起，英文词典按统一 A–Z 队列推进：
-
-> **Oxford 4,854 词目覆盖层 + Black's 美国法基线 → 去重/法域判断 → 美国法源核验 → 中英文独立解释 → 写入正式主词典**
-
-每一批工作都应：
-
-1. 从当前字母段读取 Oxford 与 Black's headwords；
-2. 去重并识别不同 sense / cross-reference / abbreviation；
-3. 判断词条属于 US、UK、EU、国际实务或历史/拉丁法语境；
-4. 对美国法词条，以 Black's 为概念基线并核验现行美国法源；
-5. 制作中文参考翻译、独立英文解释和中文辅助说明；
-6. 按 A–Z 顺序写入 `us_legal_english.csv`；
-7. 同一 headword 的不同义项保持相邻。
-
-部门法标签继续用于检索和学习，但不决定文件主排序顺序。
-
-## 5. 美国主词典字段目标
-
-主词典应围绕以下信息维护：
+固定字段围绕以下内容维护：
 
 - 英文词条
 - 中文参考译法
@@ -83,58 +53,87 @@ Oxford 以英国法为主，因此：
 - 使用语境
 - 同义词或变体
 - 常见搭配
+- 词典基线（Black's / Oxford / both / legacy）
 - 权威来源
 - 条目 ID
 - 数据许可
 - 审核状态
 
-## 6. 中文法律词典
+## 4. A–Z 开发顺序
 
-`lexicon/chinese_legal_terms.csv` 独立维护中国大陆法律概念。
+英文词典严格按照 **A → Z** 推进。
 
-当前旧词表 **392/392 条**已经迁入。中文是 canonical headword，英文只作参考译法。当前暂时沿用旧词表的 17 字段结构，避免丢失来源、注释、审核和法源信息。
+统一流程：
 
-## 7. 旧词表状态
+1. 读取当前字母段的 Black's 与 Oxford headwords；
+2. 统一词形并识别重复 headword；
+3. 区分 sense、cross-reference、abbreviation；
+4. 判断法域与时代：US / UK / EU / INTERNATIONAL / HISTORICAL / LEGAL-LATIN / 其他；
+5. 对两本词典的概念边界进行对照；
+6. 编写独立、简洁的英文解释；
+7. 编写中文参考译法与中文辅助说明；
+8. 对会随法律变化的词条，用相应法域的现行法源校正；
+9. 按 A–Z 写入 `english_legal_dictionary.csv`；
+10. 同一 headword 的不同法域或不同义项保持相邻。
 
-`lexicon/legal_terms.csv` 已冻结为迁移审计源：
+## 5. 解释原则
 
-- 不再新增；
-- 392 条已全部进入中文词典；
-- 其中 25 条国际交易英语进入美国主词典作为迁移种子；
-- 旧文件暂时保留用于迁移完整性核验。
+英文解释不是简单“美式定义”或“英式定义”，而是根据词条来源和法域分别写清楚：
+
+- US 义项：结合 Black's 与美国现行法源；
+- UK 义项：结合 Oxford 与英国现行法源；
+- BOTH / COMMON-LAW：说明共同概念和必要差异；
+- EU / INTERNATIONAL：按对应制度解释；
+- HISTORICAL / LATIN：说明历史来源及现代使用价值。
+
+中文解释只帮助理解，不制造与中国法的虚假等同。
+
+## 6. Oxford 4,854 条的地位
+
+Oxford 4,854 条全部进入正式处理队列，而不是只作为参考索引。
+
+现有 `oxford_dictionary_of_law_10e_reference.md` 继续保留原始 A–Z 顺序、词性、交叉参照和缩写信息。正式词典处理时逐条将其分类为：
+
+- 已进入主词典；
+- 与 Black's 合并为同一 headword 的不同 sense；
+- UK/EU/International/Historical 独立词条；
+- cross-reference / abbreviation；
+- 暂缓（需进一步核验）。
+
+## 7. 旧数据
+
+- `lexicon/legal_terms.csv` 冻结，不再新增；
+- 392 条旧中文词条已迁入 `chinese_legal_terms.csv`；
+- 旧的 `us_legal_english.csv` 改名为 `english_legal_dictionary.csv`，以反映新定位；
+- 已迁移的国际交易英语继续保留，但按新的多法域规则复核。
 
 ## 8. 质量门槛
 
-美国主词典每个正式审核词条应满足：
+每个正式词条至少满足：
 
-- 已核对 Oxford / Black's 对应 headword 或 sense；
-- 英文词形和义项边界明确；
-- 法域明确；
-- 对美国法词条已用美国现行权威法源作必要校正；
-- 中文翻译只是辅助，不制造跨法域等同；
-- 对容易与中国法混淆的词写明差异；
-- 同义词、变体、缩写和常见搭配有必要时记录；
-- 权威来源可追溯；
-- 文件位置符合 A → Z 排序规则。
+- headword 与来源可追溯；
+- 英文解释不是来源原文的机械复制；
+- 中文译法清楚；
+- 法域或历史状态明确；
+- 不把 US/UK/EU/国际法不同制度误作同一概念；
+- 对现行法律变化敏感的词条完成必要的当前法源核验；
+- A–Z 顺序正确；
+- 条目 ID 不重复。
 
-## 9. 工程冻结规则
+## 9. 工程规则
 
-除非 CSV 已经无法继续维护，否则不再开发：
+继续执行内容优先原则：
 
-- 新 workflow；
-- 复杂 GitHub Actions；
-- 新分支体系；
-- 新测试框架；
-- 新报告系统；
-- 与词条内容无关的外围工程。
+- 不新增 workflow；
+- 不新建无必要 branch；
+- 不为每几条词建立 PR；
+- 不增加复杂测试/报告系统；
+- 批量整理、批量校验、少量清晰 commit 直接更新 `main`。
 
-每轮内容工作应尽量批量准备、统一审核，并以少量清晰 commit 提交。
+## 10. 当前执行顺序
 
-## 10. 当前下一步
+从 A 段继续，将 Black's 与 Oxford 合并处理，直到 Z：
 
-1. 先把现有 Oxford 4,854 条 A–Z 词目正式纳入英文处理队列；
-2. 从 A 段开始将 Oxford 与 Black's 对齐、去重和判断法域；
-3. 对美国法词条补充中文参考翻译、独立英文解释、中文辅助说明和现行美国法源；
-4. 同步重审现有 25 条 `migration_review`；
-5. 每次新增保持 `us_legal_english.csv` A → Z 有序；
-6. 保持中文词典与美国主词典独立扩展。
+> **A → B → C → ... → Z**
+
+最终完成标准是：两本基础词典的全部 headword 均已被处理为正式词条、交叉参照、缩写或明确的法域/历史参考记录；未处理队列为 0。

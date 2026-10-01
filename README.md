@@ -1,81 +1,58 @@
 # OpenLegalLexicon
 
-**English-first, U.S.-law-first, Chinese-assisted.**
+**English-first, multi-jurisdiction, Chinese-assisted.**
 
-OpenLegalLexicon 的主产品是一部以**美国法律英语**为核心的开放法律词典。英文法律词语、词组、程序表达和实务表达是词条主体；中文翻译和中文注释用于帮助中文使用者理解。中国法律中的中文概念另行维护为独立的中文法律词典，并提供英文参考译法。
+OpenLegalLexicon 的主产品是一部**英文法律词典**。英文法律词语、词组、程序表达和实务表达是词条主体；中文翻译和中文说明用于辅助中文使用者理解。项目不再把主词典限定为“美国法律词典”。
 
-## 当前词典
+## 当前结构
 
-| 文件 | 定位 | 方向 | 当前规模 |
-| --- | --- | --- | ---: |
-| `lexicon/us_legal_english.csv` | **主词典**：美国法律英语 | English → 中文参考翻译 | **37 条当前记录**（12 条 Black's A 段 + 25 条迁移种子） |
-| `lexicon/oxford_dictionary_of_law_10e_reference.md` | **Oxford 英文词目层** | A–Z 英文词目/交叉参照 | **4,854 条** |
-| `lexicon/chinese_legal_terms.csv` | 中文法律词典 | 中文 → English reference translation | **392 条迁移记录** |
-| `lexicon/legal_terms.csv` | 冻结的旧迁移源 | legacy | **392 条** |
+| 文件 | 定位 |
+| --- | --- |
+| `lexicon/english_legal_dictionary.csv` | **英文法律主词典**：English → 中文参考翻译 + English explanation + 中文说明 |
+| `lexicon/oxford_dictionary_of_law_10e_reference.md` | Oxford 10e 的 4,854 条 A–Z 词目索引 |
+| `lexicon/chinese_legal_terms.csv` | 中国法律中文词典：中文 → English reference translation |
+| `lexicon/legal_terms.csv` | 冻结的旧迁移源 |
 
-## US Legal English Dictionary
+## 英文法律词典的两大基础词典
 
-`lexicon/us_legal_english.csv` 是项目的美国法律英语主词典和核心进度指标。
+### Black's Law Dictionary
 
-基本结构：
+Black's 是美国法、美国法律英语和普通法传统的重要基础词典。它用于确认美国法语境中的 headword、sense、词形、交叉参照和概念边界。
 
-> **English headword → Black's Law Dictionary baseline → U.S. legal verification/context → 中文参考翻译与说明**
+### Oxford Dictionary of Law
 
-英文是 canonical headword。中文不是概念来源，只是辅助理解。
+Oxford 同样是主词典的重要基础来源，而不是次要补充。仓库已经整理出第 10 版（2022）的 **4,854 条** A–Z 词目。Oxford 主要反映英国法，同时包含欧盟法、国际法、历史术语和普通法表达。
 
-### 两层英文词目来源
+### 核心原则
 
-项目现在同时使用两层英文词目来源：
+Black's 与 Oxford **并列作为英文法律词典的基础词目与概念来源**，但各自保留法域信息：
 
-1. **Black's Law Dictionary**：美国主词典的首要词目、义项和概念边界基线；
-2. **Oxford Dictionary of Law (10th ed., 2022)**：已经整理好的 **4,854 条 A–Z 英文词目层**，从现在起正式进入处理队列，不再只是被动覆盖检查。
+- Black's 不等于“所有词都是美国专属”；
+- Oxford 不等于“所有词都是英国专属”；
+- 同一 headword 可同时存在美国法、英国法、国际法或历史义项；
+- 不因为译名相似就把不同法域的法律概念强行合并；
+- 对现行法律效果，由相应法域的成文法、规则、判例、法院或监管机构资料校正。
 
-Oxford 词目全部保留并参与去重、词形、交叉参照和覆盖检查；但 Oxford 以英国法为主，因此：
+主词典的目标流程是：
 
-- 与美国法重合或在美国实务中成立的词条，回到 Black's 和美国现行法源核验后进入/补强 `us_legal_english.csv`；
-- 英国法、欧盟法或其他非美国法特有词可以保留为 `UK_REFERENCE` / 相应参考法域，不计入美国法核心词条；
-- 不因 Oxford 收录某个词就自动把它标成美国法；
-- 不重复再建一份人工复制的 Oxford 词目文件，直接使用现有 `lexicon/oxford_dictionary_of_law_10e_reference.md` 作为正式 Oxford 词目层。
+> **English headword → Black's / Oxford sense → jurisdiction → independent English explanation → 中文参考翻译 → 中文辅助说明 → current-law verification where needed**
 
-### Black's Law Dictionary 基线
+## A–Z 排序
 
-美国主词典统一以 **Black's Law Dictionary** 作为首要定义与概念边界基线。用户已经提供该词典；后续不由 AI 脱离 Black's 自行发明核心词目体系或凭印象补写定义。
+英文主词典始终按英文 headword **A → Z** 排列。Black's 和 Oxford 的词目统一进入同一 A–Z 工作队列；同一 headword 的不同义项相邻，并通过法域和 sense 区分。
 
-具体规则：
+## 中国法律中文词典
 
-1. 先确认 Oxford/Black's 是否存在对应 headword、词形、义项和交叉参照；
-2. 对美国法词条，以 Black's 为首要概念基线；
-3. 再用美国宪法、法典、联邦规则、判例、法院或监管机构资料核验当前法律状态、法域和具体限制；
-4. 中文翻译、中文说明、使用提示和数据编排由 OpenLegalLexicon 独立整理；
-5. 不把第三方词典的整段原文释义直接复制进公开词典；
-6. 如词典表述与现行法、州法或特定监管规则存在时间差，以现行权威法源校正并注明。
-
-### A–Z 排序
-
-所有英文词目按 **A → Z** 处理。
-
-- Oxford 4,854 条保留其原书 A–Z 顺序；
-- Black's 新增/补充词条也按 A–Z 插入；
-- 同一 headword 的不同义项相邻排列，再按义项或法域区分；
-- 缩写、别名和交叉参照保留来源关系；
-- `us_legal_english.csv` 的正式记录保持 A–Z 有序。
-
-## Chinese Legal Terms Dictionary
-
-`lexicon/chinese_legal_terms.csv` 是中文作为 canonical headword 的独立词典：
-
-> **中文法律词条 → 中国法释义/法源 → English reference translation**
-
-现有 392 条旧中文主词条已经完整迁入。中国法概念以中国现行法律、司法解释、法院和监管资料为依据；英文只作参考译法。不同法域概念不得因为译名相似而自动视为等同。
+`lexicon/chinese_legal_terms.csv` 独立维护中国大陆法律概念。中文是 canonical headword，英文只作参考译法。它与英文法律主词典不互相替代。
 
 ## 开发规则
 
-1. 英文词目先按 Oxford + Black's A–Z 覆盖整理；
-2. 美国法正式释义以 Black's 为首要基线，并由美国现行法源核验；
-3. Oxford 特有英国法词条不冒充美国法核心词；
-4. 中国词典与美国词典独立维护；
-5. 不因字面相似跨法域合并概念；
-6. 不把项目释译冒充官方译文；
-7. 除非现有数据结构已无法维护，否则不新增 workflow、复杂 CI、分支体系或其他外围工程。
+1. Black's 与 Oxford 都是主基础词典，不设“Black's 主、Oxford 次”的固定等级；
+2. 英文词条按 A–Z 连续推进；
+3. 每个正式词条尽量写明法域；
+4. 英文解释应是 OpenLegalLexicon 的独立编审表达，而不是机械复制来源原文；
+5. 中文翻译和中文说明只用于辅助理解；
+6. 历史术语、拉丁语、英国法特有词、美国法特有词都可收录，只要正确标注法域/时代；
+7. 不新增无必要的 workflow、branch、PR 或外围工程；内容更新尽量批量整理后直接提交 `main`。
 
-历史台湾司法院及台湾智慧财产局双语数据已从当前仓库删除，并停止作为本项目的数据源和候选词来源。
+历史台湾双语数据已经删除，不再作为项目来源。
