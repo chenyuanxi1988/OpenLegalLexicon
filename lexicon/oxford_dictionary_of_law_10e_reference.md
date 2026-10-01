@@ -4,376 +4,376 @@
 
 共识别 **4,854** 个主词条，按 A–Z 排列。原书完整释义、例句、案例及法条说明受版权保护，本公开仓库不转载。未带 `→`/`=` 的词条表示原书有实体释义，后续应由 OpenLegalLexicon 依据开放来源、现行法源和项目自身编写形成独立释义；`→` 仅表示交叉参照，`=` 表示缩写展开。词性如 `[n.]` 按原书标注。
 
-统计：实体释义 3,714；交叉参照 935；缩写/展开 205。该书以英国法为主，不能直接作为中国大陆法的官方译法或定义。
+原始提取统计：实体释义 3,714；交叉参照 935；缩写/展开 205（含自动识别误差，不能作为复核后的分类总数）。A 段现已按用户提供 EPUB 核对并补充 source-entry ID；B–Z 的 `=` 暂为未经复核的提取标记，不得直接当作缩写证据。该书以英国法为主，不能直接作为中国大陆法的官方译法或定义。
 
 ## A
-abandonment [n.]
-abatement [n.]
-abduction [n.]
-abet [vb.] → aid and abet
-ABH → actual bodily harm
-ab initio
-ab intestato
-abortion [n.]
-absconding [n.]
-absence [n.]
-absente reo
-absent-mindedness [n.] → non-insane automatism
-absent parent
-absolute [adj.]
-absolute assignment → assignment
-absolute discharge → discharge
-absolute privilege
-absolute right
-absolute theory of sovereign immunity
-absolute title
-abstracting electricity
-abstraction of water
-abstract of title
-abus de droit = European Court of Justice
-abuse of a dominant position
-abuse of a position of trust
-abuse of process
-abusive behaviour → threatening behaviour
-abutter [n.]
-ABWOR
-ACAS → Advisory Conciliation and Arbitration Service
-acceleration [n.]
-acceptance [n.]
-acceptance of a bill
-acceptance supra protest
-accession [n.]
-access land
-accessory [n.]
-accessory liability in breach of trust
-access to neighbouring land
-accident [n.] → fatal accidents；mistake；road traffic accidents
-accomenda [n.]
-accommodation bill
-accomplice [n.]
-accord and satisfaction
-account [n.]
-accounting period
-accounting practice = generally accepted accounting practice
-accounting records → books of account
-account monitoring order
-account of profits
-accounts [pl. n.]
-accreditation [n.]
-accretion [n.]
-accrue [vb.]
-accruer [n.]
-accumulation [n.]
-accusare nemo se debet
-accusatorial procedure
-acid attacks
-acknowledgment [n.]
-acknowledgment and undertaking
-acknowledgment of service = Civil Procedure Rules
-a coelo usque ad centrum
-ACP Group → African, Caribbean, Pacific Group
-acquiescence [n.]
-acquired rights → relevant transfer
-acquis communautaire
-acquittal [n.]
-acte clair
-act in pais
-action [n.]
-actio personalis moritur cum persona
-actio popularis
-actio quanti minoris
-active trust
-Activities of Transnational Corporations Treaty
-activity directions and conditions
-activity requirement
-act of a stranger
-act of God
-Act of Parliament
-act of state
-actual bodily harm = actual bodily harm
-actual military service → privileged will
-actual notice
-actual total loss
-actus non facit reum nisi mens sit rea
-actus reus
-ad colligenda bona
-additional voluntary contribution = additional voluntary contribution
-address for service
-adduce [vb.]
-ademption [n.]
-adhesion contract → standard-form contract
-ad hoc
-ad idem
-ADIZ → Air Defence Identification Zone
-adjective law
-adjournment [n.]
-adjudication [n.]
-adjudication order
-adjustment [n.]
-ad litem
-administration [n.]
-administration action
-administration bond
-administration of poison → poison
-administration order
-administration pending suit → pendente lite
-administration period
-Administrative Court
-Administrative Justice and Tribunals Council
-administrative law
-administrative letter → comfort letter
-administrative powers
-administrative receiver
-administrative tribunal
-administrator [n.]
-Admiralty Court
-Admiralty law → maritime law
-admissibility of evidence
-admissibility of records
-admission [n.]
-admonition [n.]
-adoption
-adoption agency
-adoption leave
-adoption service
-adoption society
-adoptive relationship
-ADR → alternative dispute resolution
-ad referendum
-adulteration [n.]
-adultery [n.]
-ad valorem
-advance decision
-advance indication of sentence
-advance information → Initial Details of the Prosecution Case
-advancement [n.]
-adversary procedure → accusatorial procedure
-adverse inference
-adverse occupation
-adverse possession
-adverse witness
-advice on evidence
-Advisory Conciliation and Arbitration Service = Advisory Conciliation and Arbitration Service
-advisory jurisdiction
-ad vitam aut culpam
-advocacy qualification
-advocate [n.]
-Advocates-General
-advowson [n.]
-aequitas est quasi aequalitas → equality is equity
-affidavit [n.]
-affiliation order
-affinity [n.]
-affirm [vb.]
-affirmative resolution → delegated legislation
-affray [n.]
-affreightment [n.]
-African, Caribbean, Pacific Group = African, Caribbean, Pacific Group
-AGA → authorized guarantee agreement
-age discrimination
-agency [n.]
-agency workers
-agent [n.]
-agent provocateur
-age of consent
-aggravated assault → assault
-aggravated burglary → burglary
-aggravated damages
-aggravated trespass → trespass
-aggravated vehicle-taking
-aggregates levy → environmental taxes
-aggression [n.]
-agreement [n.]
-agreement for a lease
-agrément [n.]
-agricultural holding
-Agricultural Land and Drainage = Agricultural Land and Drainage
-agricultural property relief
-aid and abet
-Air Defence Identification Zone = Air Defence Identification Zone
-air force law → service law
-air pollution → pollution
-air rage
-airspace [n.]
-alcohol treatment requirement
-alderman [n.]
-aleatory contract
-alibi [n.]
-alien [n.]
-alienable [adj.]
-alienation [n.]
-alieni juris
-Alignment Project = Clear Line of Sight Project
-alimentary trust → protective trust
-alimony [n.]
-aliunde [adj.]
-allegation [n.]
-allegiance [n.]
-allocation [n.]
-allocation questionnaire
-allocution [n.]
-allograph [n.]
-allotment [n.]
-all-ports warning system
-alluvion [n.]
-alteration [n.]
-alteration of share capital
-alternative dispute resolution = alternative dispute resolution
-alternative finance arrangements
-Alternative Investment Market = Alternative Investment Market
-alternative verdict
-ambiguity [n.]
-ambulatory [adj .]
-ameliorating waste
-amendment [n.]
-amerce [vb.]
-AMHP → approved mental health professional
-amicus curiae
-amnesty [n.]
-Amsterdam Treaty
-analytical jurisprudence
-ancient lights
-ancillary credit business
-ancillary probate
-ancillary relief
-ancillary restraint
-angary [n.]
-animals [pl. n.]
-animus [n.]
-animus testandi
-annexation [n.]
-annual general meeting = annual general meeting
-annual return
-annual value of land
-annuity [n.]
-annulment [n.]
-annus et dies
-answer [n.]
-antecedents [pl. n.]
-ante litem motam
-antenuptial agreement → prenuptial agreement
-antenuptial settlement → marriage settlement
-anti-avoidance provisions
-anticipatory breach → breach of contract
-anticipatory self-defence
-anticompetitive practice
-antidumping [n.] → dumping
-antisocial behaviour order → ASBO
-antitrust law [n.] → competition law
-Anton Piller order → search order
-apology [n.]
-a posteriori
-appeal [n.]
-appeal in Revenue matters
-appeals system → appellate jurisdiction
-Appeal Tribunal
-appellant [n.]
-Appellate Committee → House of Lords
-appellate jurisdiction
-applicable law
-applicant [n.]
-applying the proviso → proviso
-appointed day
-appointee [n.]
-appointment [n.] → power of appointment
-appointor [n.]
-approbate and reprobate
-appropriation [n.]
-appropriation of payments
-appropriations in aid
-approved clinician
-approved mental health professional = approved mental health professional
-Approved Premises
-approximation of laws
-appurtenant [adj.]
-a priori
-arbitrary punishment → punishment
-arbitration [n.]
-arbitration agreement
-arbitration clause
-archipelago [n.]
-Area, the → deep seabed area
-arguendo [adv.]
-argumentative affidavit
-armchair principle
-arraign [vb.]
-arrangement [n.]
-array [n.] → challenge to jury
-arrest [n.]
-arrestable offence
-arrested development
-arrived ship → lay days
-arson [n.]
-article [n.]
-Article 50
-Article 101
-Article 102
-Article 267
-articles of association
-artificial insemination → assisted reproduction
-artificial nutrition and hydration
-artificial person → juristic person
-ASBO
-ascertained goods → unascertained goods
-asportation [n.] → larceny
-assault [n.]
-assault by penetration
-assault of a child under 13 by penetration
-assault on a police constable in the execution of his duty
-Assembly of the European Communities → European Parliament
-assent [n.]
-assent procedure
-assessment of costs
-assessor [n.]
-assets [pl. n.]
-assignment [n.]
-assisted reproduction
-assisted suicide
-assize [n.]
-associated operations
-association agreement
-assumpsit [n.]
-assurance [n.] → insurance
-assured agricultural occupancy
-assured shorthold tenancy
-assured tenancy
-asylum [n.]
-at sea → privileged will
-attachment [n.]
-attachment of earnings
-attempt [n.]
-attendance centre
-attestation [n.]
-attorney [n.]
-Attorney General
-attornment [n.]
-auction [n.]
-auction ring
-audi alteram partem → natural justice
-Audit Commission
-audit exemption
-auditor [n.]
-authentication [n.]
-authority [n.]
-authorized capital
-authorized guarantee agreement = authorized guarantee agreement
-authorized investments
-authorized securities → authorized investments
-automatic reservation
-automatism [n.] → insanity；non-insane automatism
-autopsy [n.]
-aut punire aut dedere
-autrefois acquit
-autrefois convict
-autre vie → estate pur (or per) autre vie
-auxiliary jurisdiction
-AVC → additional voluntary contribution
-aver [vb.]
-average [n.]
-avoid [vb.]
-avoidance of disposition order
-avulsion [n.]
-award [n.] → arbitration
+abandonment {source-entry: acref-9780192897497-e-1}
+abatement {source-entry: acref-9780192897497-e-2}
+abduction {source-entry: acref-9780192897497-e-3}
+abet → aid and abet {source-entry: acref-9780192897497-e-4}
+ABH → actual bodily harm {source-entry: acref-9780192897497-e-5}
+ab initio {source-entry: acref-9780192897497-e-6}
+ab intestato {source-entry: acref-9780192897497-e-4358}
+abortion {source-entry: acref-9780192897497-e-7}
+absconding {source-entry: acref-9780192897497-e-8}
+absence {source-entry: acref-9780192897497-e-9}
+absente reo {source-entry: acref-9780192897497-e-4359}
+absent-mindedness → non-insane automatism {source-entry: acref-9780192897497-e-10}
+absent parent {source-entry: acref-9780192897497-e-11}
+absolute {source-entry: acref-9780192897497-e-12}
+absolute assignment → assignment {source-entry: acref-9780192897497-e-13}
+absolute discharge → discharge {source-entry: acref-9780192897497-e-14}
+absolute privilege {source-entry: acref-9780192897497-e-16}
+absolute right {source-entry: acref-9780192897497-e-17}
+absolute theory of sovereign immunity {source-entry: acref-9780192897497-e-18}
+absolute title {source-entry: acref-9780192897497-e-19}
+abstracting electricity {source-entry: acref-9780192897497-e-20}
+abstraction of water {source-entry: acref-9780192897497-e-21}
+abstract of title {source-entry: acref-9780192897497-e-22}
+abus de droit {source-entry: acref-9780192897497-e-4820}
+abuse of a dominant position {source-entry: acref-9780192897497-e-23}
+abuse of a position of trust {source-entry: acref-9780192897497-e-24}
+abuse of process {source-entry: acref-9780192897497-e-25}
+abusive behaviour → threatening behaviour {source-entry: acref-9780192897497-e-26}
+abutter {source-entry: acref-9780192897497-e-4360}
+ABWOR {source-entry: acref-9780192897497-e-27}
+ACAS → Advisory Conciliation and Arbitration Service {source-entry: acref-9780192897497-e-28}
+acceleration {source-entry: acref-9780192897497-e-29}
+acceptance {source-entry: acref-9780192897497-e-30}
+acceptance of a bill {source-entry: acref-9780192897497-e-31}
+acceptance supra protest {source-entry: acref-9780192897497-e-32}
+accession {source-entry: acref-9780192897497-e-34}
+access land {source-entry: acref-9780192897497-e-35}
+accessory {source-entry: acref-9780192897497-e-36}
+accessory liability in breach of trust {source-entry: acref-9780192897497-e-37}
+access to neighbouring land {source-entry: acref-9780192897497-e-4617}
+accident → fatal accidents; mistake; road traffic accidents {source-entry: acref-9780192897497-e-38}
+accomenda {source-entry: acref-9780192897497-e-40}
+accommodation bill {source-entry: acref-9780192897497-e-41}
+accomplice {source-entry: acref-9780192897497-e-42}
+accord and satisfaction {source-entry: acref-9780192897497-e-43}
+account {source-entry: acref-9780192897497-e-44}
+accounting period {source-entry: acref-9780192897497-e-45}
+accounting practice {source-entry: acref-9780192897497-e-46}
+accounting records → books of account {source-entry: acref-9780192897497-e-47}
+account monitoring order {source-entry: acref-9780192897497-e-48}
+account of profits {source-entry: acref-9780192897497-e-49}
+accounts {source-entry: acref-9780192897497-e-50}
+accreditation {source-entry: acref-9780192897497-e-51}
+accretion {source-entry: acref-9780192897497-e-52}
+accrue {source-entry: acref-9780192897497-e-4618}
+accruer {source-entry: acref-9780192897497-e-53}
+accumulation {source-entry: acref-9780192897497-e-54}
+accusare nemo se debet {source-entry: acref-9780192897497-e-56}
+accusatorial procedure {source-entry: acref-9780192897497-e-57}
+acid attacks {source-entry: acref-9780192897497-e-4935}
+acknowledgment {source-entry: acref-9780192897497-e-58}
+acknowledgment and undertaking {source-entry: acref-9780192897497-e-59}
+acknowledgment of service {source-entry: acref-9780192897497-e-60}
+a coelo usque ad centrum → cuius est solum, eius est usque ad coelum et ad inferos {source-entry: acref-9780192897497-e-61}
+ACP Group → African, Caribbean, Pacific Group {source-entry: acref-9780192897497-e-62}
+acquiescence {source-entry: acref-9780192897497-e-63}
+acquired rights → relevant transfer {source-entry: acref-9780192897497-e-64}
+acquis communautaire {source-entry: acref-9780192897497-e-65}
+acquittal {source-entry: acref-9780192897497-e-66}
+acte clair {source-entry: acref-9780192897497-e-4362}
+act in pais {source-entry: acref-9780192897497-e-67}
+action {source-entry: acref-9780192897497-e-68}
+actio personalis moritur cum persona {source-entry: acref-9780192897497-e-4363}
+actio popularis {source-entry: acref-9780192897497-e-4619}
+actio quanti minoris {source-entry: acref-9780192897497-e-4364}
+active trust {source-entry: acref-9780192897497-e-70}
+Activities of Transnational Corporations Treaty {source-entry: acref-9780192897497-e-4936}
+activity directions and conditions {source-entry: acref-9780192897497-e-4821}
+activity requirement {source-entry: acref-9780192897497-e-71}
+act of a stranger {source-entry: acref-9780192897497-e-4365}
+act of God {source-entry: acref-9780192897497-e-72}
+Act of Parliament {source-entry: acref-9780192897497-e-73}
+act of state {source-entry: acref-9780192897497-e-74}
+actual bodily harm {source-entry: acref-9780192897497-e-75}
+actual military service → privileged will {source-entry: acref-9780192897497-e-76}
+actual notice {source-entry: acref-9780192897497-e-77}
+actual total loss {source-entry: acref-9780192897497-e-78}
+actus non facit reum nisi mens sit rea {source-entry: acref-9780192897497-e-80}
+actus reus {source-entry: acref-9780192897497-e-79}
+ad colligenda bona {source-entry: acref-9780192897497-e-81}
+additional voluntary contribution {source-entry: acref-9780192897497-e-82}
+address for service {source-entry: acref-9780192897497-e-83}
+adduce {source-entry: acref-9780192897497-e-84}
+ademption {source-entry: acref-9780192897497-e-85}
+adhesion contract → standard-form contract {source-entry: acref-9780192897497-e-4822}
+ad hoc {source-entry: acref-9780192897497-e-4620}
+ad idem {source-entry: acref-9780192897497-e-86}
+ADIZ → Air Defence Identification Zone {source-entry: acref-9780192897497-e-87}
+adjective law {source-entry: acref-9780192897497-e-88}
+adjournment {source-entry: acref-9780192897497-e-89}
+adjudication {source-entry: acref-9780192897497-e-90}
+adjudication order {source-entry: acref-9780192897497-e-91}
+adjustment {source-entry: acref-9780192897497-e-92}
+ad litem {source-entry: acref-9780192897497-e-93}
+administration {source-entry: acref-9780192897497-e-94}
+administration action {source-entry: acref-9780192897497-e-95}
+administration bond {source-entry: acref-9780192897497-e-96}
+administration of poison → poison {source-entry: acref-9780192897497-e-97}
+administration order {source-entry: acref-9780192897497-e-98}
+administration pending suit → pendente lite {source-entry: acref-9780192897497-e-99}
+administration period {source-entry: acref-9780192897497-e-100}
+Administrative Court {source-entry: acref-9780192897497-e-4366}
+Administrative Justice and Tribunals Council {source-entry: acref-9780192897497-e-4367}
+administrative law {source-entry: acref-9780192897497-e-101}
+administrative letter → comfort letter {source-entry: acref-9780192897497-e-102}
+administrative powers {source-entry: acref-9780192897497-e-103}
+administrative receiver {source-entry: acref-9780192897497-e-104}
+administrative tribunal {source-entry: acref-9780192897497-e-105}
+administrator {source-entry: acref-9780192897497-e-106}
+Admiralty Court {source-entry: acref-9780192897497-e-107}
+Admiralty law → maritime law {source-entry: acref-9780192897497-e-4937}
+admissibility of evidence {source-entry: acref-9780192897497-e-108}
+admissibility of records {source-entry: acref-9780192897497-e-109}
+admission {source-entry: acref-9780192897497-e-110}
+admonition {source-entry: acref-9780192897497-e-111}
+adoption {source-entry: acref-9780192897497-e-112}
+adoption agency {source-entry: acref-9780192897497-e-113}
+adoption leave {source-entry: acref-9780192897497-e-114}
+adoption service {source-entry: acref-9780192897497-e-115}
+adoption society {source-entry: acref-9780192897497-e-116}
+adoptive relationship {source-entry: acref-9780192897497-e-117}
+ADR → alternative dispute resolution {source-entry: acref-9780192897497-e-118}
+ad referendum {source-entry: acref-9780192897497-e-119}
+adulteration {source-entry: acref-9780192897497-e-120}
+adultery {source-entry: acref-9780192897497-e-121}
+ad valorem {source-entry: acref-9780192897497-e-4621}
+advance decision {source-entry: acref-9780192897497-e-4368}
+advance indication of sentence {source-entry: acref-9780192897497-e-4938}
+advance information → Initial Details of the Prosecution Case {source-entry: acref-9780192897497-e-122}
+advancement {source-entry: acref-9780192897497-e-123}
+adversary procedure → accusatorial procedure {source-entry: acref-9780192897497-e-124}
+adverse inference {source-entry: acref-9780192897497-e-4369}
+adverse occupation {source-entry: acref-9780192897497-e-125}
+adverse possession {source-entry: acref-9780192897497-e-126}
+adverse witness {source-entry: acref-9780192897497-e-127}
+advice on evidence {source-entry: acref-9780192897497-e-128}
+Advisory Conciliation and Arbitration Service {source-entry: acref-9780192897497-e-4939}
+advisory jurisdiction {source-entry: acref-9780192897497-e-129}
+ad vitam aut culpam {source-entry: acref-9780192897497-e-4622}
+advocacy qualification {source-entry: acref-9780192897497-e-130}
+advocate {source-entry: acref-9780192897497-e-131}
+Advocates-General {source-entry: acref-9780192897497-e-132}
+advowson {source-entry: acref-9780192897497-e-133}
+aequitas est quasi aequalitas → equality is equity {source-entry: acref-9780192897497-e-134}
+affidavit {source-entry: acref-9780192897497-e-135}
+affiliation order {source-entry: acref-9780192897497-e-136}
+affinity {source-entry: acref-9780192897497-e-137}
+affirm {source-entry: acref-9780192897497-e-138}
+affirmative resolution → delegated legislation {source-entry: acref-9780192897497-e-139}
+affray {source-entry: acref-9780192897497-e-140}
+affreightment {source-entry: acref-9780192897497-e-141}
+African, Caribbean, Pacific Group {source-entry: acref-9780192897497-e-4623}
+AGA → authorized guarantee agreement {source-entry: acref-9780192897497-e-4370}
+age discrimination {source-entry: acref-9780192897497-e-4371}
+agency {source-entry: acref-9780192897497-e-142}
+agency workers {source-entry: acref-9780192897497-e-143}
+agent {source-entry: acref-9780192897497-e-144}
+agent provocateur {source-entry: acref-9780192897497-e-145}
+age of consent {source-entry: acref-9780192897497-e-146}
+aggravated assault → assault {source-entry: acref-9780192897497-e-147}
+aggravated burglary → burglary {source-entry: acref-9780192897497-e-148}
+aggravated damages {source-entry: acref-9780192897497-e-149}
+aggravated trespass → trespass {source-entry: acref-9780192897497-e-150}
+aggravated vehicle-taking {source-entry: acref-9780192897497-e-151}
+aggregates levy → environmental taxes {source-entry: acref-9780192897497-e-152}
+aggression {source-entry: acref-9780192897497-e-153}
+agreement → treaty {source-entry: acref-9780192897497-e-154}
+agreement for a lease {source-entry: acref-9780192897497-e-155}
+agrément {source-entry: acref-9780192897497-e-156}
+agricultural holding {source-entry: acref-9780192897497-e-158}
+Agricultural Land and Drainage {source-entry: acref-9780192897497-e-159}
+agricultural property relief {source-entry: acref-9780192897497-e-160}
+aid and abet {source-entry: acref-9780192897497-e-161}
+Air Defence Identification Zone {source-entry: acref-9780192897497-e-162}
+air force law → service law {source-entry: acref-9780192897497-e-163}
+air pollution → pollution {source-entry: acref-9780192897497-e-164}
+air rage {source-entry: acref-9780192897497-e-4940}
+airspace {source-entry: acref-9780192897497-e-165}
+alcohol treatment requirement {source-entry: acref-9780192897497-e-166}
+alderman {source-entry: acref-9780192897497-e-167}
+aleatory contract {source-entry: acref-9780192897497-e-4373}
+alibi {source-entry: acref-9780192897497-e-168}
+alien {source-entry: acref-9780192897497-e-169}
+alienable {source-entry: acref-9780192897497-e-170}
+alienation {source-entry: acref-9780192897497-e-171}
+alieni juris {source-entry: acref-9780192897497-e-172}
+Alignment Project {source-entry: acref-9780192897497-e-4823}
+alimentary trust → protective trust {source-entry: acref-9780192897497-e-173}
+alimony {source-entry: acref-9780192897497-e-174}
+aliunde {source-entry: acref-9780192897497-e-4374}
+allegation {source-entry: acref-9780192897497-e-175}
+allegiance {source-entry: acref-9780192897497-e-176}
+allocation {source-entry: acref-9780192897497-e-177}
+allocation questionnaire {source-entry: acref-9780192897497-e-178}
+allocution {source-entry: acref-9780192897497-e-4625}
+allograph {source-entry: acref-9780192897497-e-4375}
+allotment {source-entry: acref-9780192897497-e-179}
+all-ports warning system {source-entry: acref-9780192897497-e-4376}
+alluvion {source-entry: acref-9780192897497-e-180}
+alteration {source-entry: acref-9780192897497-e-181}
+alteration of share capital {source-entry: acref-9780192897497-e-182}
+alternative dispute resolution {source-entry: acref-9780192897497-e-183}
+alternative finance arrangements {source-entry: acref-9780192897497-e-184}
+Alternative Investment Market → Stock Exchange {source-entry: acref-9780192897497-e-185}
+alternative verdict {source-entry: acref-9780192897497-e-186}
+ambiguity {source-entry: acref-9780192897497-e-187}
+ambulatory {source-entry: acref-9780192897497-e-188}
+ameliorating waste {source-entry: acref-9780192897497-e-189}
+amendment {source-entry: acref-9780192897497-e-190}
+amerce {source-entry: acref-9780192897497-e-4626}
+AMHP → approved mental health professional {source-entry: acref-9780192897497-e-4377}
+amicus curiae {source-entry: acref-9780192897497-e-192}
+amnesty {source-entry: acref-9780192897497-e-193}
+Amsterdam Treaty {source-entry: acref-9780192897497-e-194}
+analytical jurisprudence {source-entry: acref-9780192897497-e-195}
+ancient lights {source-entry: acref-9780192897497-e-196}
+ancillary credit business {source-entry: acref-9780192897497-e-197}
+ancillary probate {source-entry: acref-9780192897497-e-198}
+ancillary relief {source-entry: acref-9780192897497-e-199}
+ancillary restraint {source-entry: acref-9780192897497-e-200}
+angary {source-entry: acref-9780192897497-e-201}
+animals {source-entry: acref-9780192897497-e-202}
+animus {source-entry: acref-9780192897497-e-203}
+animus testandi → testamentary intention {source-entry: acref-9780192897497-e-4378}
+annexation {source-entry: acref-9780192897497-e-204}
+annual general meeting {source-entry: acref-9780192897497-e-205}
+annual return {source-entry: acref-9780192897497-e-206}
+annual value of land {source-entry: acref-9780192897497-e-207}
+annuity {source-entry: acref-9780192897497-e-208}
+annulment {source-entry: acref-9780192897497-e-209}
+annus et dies {source-entry: acref-9780192897497-e-210}
+answer {source-entry: acref-9780192897497-e-211}
+antecedents {source-entry: acref-9780192897497-e-212}
+ante litem motam {source-entry: acref-9780192897497-e-4627}
+antenuptial agreement → prenuptial agreement {source-entry: acref-9780192897497-e-4628}
+antenuptial settlement → marriage settlement {source-entry: acref-9780192897497-e-213}
+anti-avoidance provisions {source-entry: acref-9780192897497-e-214}
+anticipatory breach → breach of contract {source-entry: acref-9780192897497-e-215}
+anticipatory self-defence {source-entry: acref-9780192897497-e-216}
+anticompetitive practice {source-entry: acref-9780192897497-e-217}
+antidumping → dumping {source-entry: acref-9780192897497-e-218}
+antisocial behaviour order → ASBO {source-entry: acref-9780192897497-e-219}
+antitrust law → competition law {source-entry: acref-9780192897497-e-220}
+Anton Piller order → search order {source-entry: acref-9780192897497-e-221}
+apology {source-entry: acref-9780192897497-e-222}
+a posteriori {source-entry: acref-9780192897497-e-223}
+appeal {source-entry: acref-9780192897497-e-224}
+appeal in Revenue matters {source-entry: acref-9780192897497-e-225}
+appeals system → appellate jurisdiction {source-entry: acref-9780192897497-e-4346}
+Appeal Tribunal {source-entry: acref-9780192897497-e-226}
+appellant {source-entry: acref-9780192897497-e-227}
+Appellate Committee → House of Lords {source-entry: acref-9780192897497-e-228}
+appellate jurisdiction {source-entry: acref-9780192897497-e-229}
+applicable law {source-entry: acref-9780192897497-e-230}
+applicant {source-entry: acref-9780192897497-e-231}
+applying the proviso → proviso {source-entry: acref-9780192897497-e-232}
+appointed day {source-entry: acref-9780192897497-e-233}
+appointee {source-entry: acref-9780192897497-e-234}
+appointment → power of appointment {source-entry: acref-9780192897497-e-235}
+appointor {source-entry: acref-9780192897497-e-236}
+approbate and reprobate {source-entry: acref-9780192897497-e-237}
+appropriation {source-entry: acref-9780192897497-e-238}
+appropriation of payments {source-entry: acref-9780192897497-e-239}
+appropriations in aid {source-entry: acref-9780192897497-e-240}
+approved clinician {source-entry: acref-9780192897497-e-4380}
+approved mental health professional {source-entry: acref-9780192897497-e-4381}
+Approved Premises {source-entry: acref-9780192897497-e-4941}
+approximation of laws {source-entry: acref-9780192897497-e-241}
+appurtenant {source-entry: acref-9780192897497-e-242}
+a priori {source-entry: acref-9780192897497-e-243}
+arbitrary punishment → punishment {source-entry: acref-9780192897497-e-244}
+arbitration {source-entry: acref-9780192897497-e-245}
+arbitration agreement {source-entry: acref-9780192897497-e-246}
+arbitration clause {source-entry: acref-9780192897497-e-247}
+archipelago {source-entry: acref-9780192897497-e-248}
+Area, the → deep seabed area {source-entry: acref-9780192897497-e-4942}
+arguendo {source-entry: acref-9780192897497-e-4382}
+argumentative affidavit {source-entry: acref-9780192897497-e-250}
+armchair principle {source-entry: acref-9780192897497-e-251}
+arraign {source-entry: acref-9780192897497-e-252}
+arrangement → treaty; deed of arrangement; scheme of arrangement; voluntary arrangement {source-entry: acref-9780192897497-e-253}
+array → challenge to jury {source-entry: acref-9780192897497-e-254}
+arrest {source-entry: acref-9780192897497-e-255}
+arrestable offence {source-entry: acref-9780192897497-e-256}
+arrested development {source-entry: acref-9780192897497-e-257}
+arrived ship → lay days {source-entry: acref-9780192897497-e-258}
+arson {source-entry: acref-9780192897497-e-259}
+article {source-entry: acref-9780192897497-e-260}
+Article 50 {source-entry: acref-9780192897497-e-4824}
+Article 101 {source-entry: acref-9780192897497-e-261}
+Article 102 {source-entry: acref-9780192897497-e-262}
+Article 267 {source-entry: acref-9780192897497-e-263}
+articles of association {source-entry: acref-9780192897497-e-264}
+artificial insemination → assisted reproduction {source-entry: acref-9780192897497-e-265}
+artificial nutrition and hydration {source-entry: acref-9780192897497-e-4383}
+artificial person → juristic person {source-entry: acref-9780192897497-e-266}
+ASBO {source-entry: acref-9780192897497-e-267}
+ascertained goods → unascertained goods {source-entry: acref-9780192897497-e-268}
+asportation → larceny {source-entry: acref-9780192897497-e-4384}
+assault {source-entry: acref-9780192897497-e-269}
+assault by penetration {source-entry: acref-9780192897497-e-270}
+assault of a child under 13 by penetration {source-entry: acref-9780192897497-e-271}
+assault on a police constable in the execution of his duty {source-entry: acref-9780192897497-e-4629}
+Assembly of the European Communities → European Parliament {source-entry: acref-9780192897497-e-272}
+assent {source-entry: acref-9780192897497-e-273}
+assent procedure {source-entry: acref-9780192897497-e-274}
+assessment of costs {source-entry: acref-9780192897497-e-275}
+assessor {source-entry: acref-9780192897497-e-276}
+assets {source-entry: acref-9780192897497-e-277}
+assignment {source-entry: acref-9780192897497-e-278}
+assisted reproduction {source-entry: acref-9780192897497-e-4825}
+assisted suicide {source-entry: acref-9780192897497-e-4385}
+assize {source-entry: acref-9780192897497-e-279}
+associated operations {source-entry: acref-9780192897497-e-280}
+association agreement {source-entry: acref-9780192897497-e-281}
+assumpsit {source-entry: acref-9780192897497-e-4630}
+assurance → insurance {source-entry: acref-9780192897497-e-282}
+assured agricultural occupancy {source-entry: acref-9780192897497-e-283}
+assured shorthold tenancy {source-entry: acref-9780192897497-e-284}
+assured tenancy {source-entry: acref-9780192897497-e-285}
+asylum {source-entry: acref-9780192897497-e-286}
+at sea → privileged will {source-entry: acref-9780192897497-e-288}
+attachment {source-entry: acref-9780192897497-e-289}
+attachment of earnings {source-entry: acref-9780192897497-e-290}
+attempt {source-entry: acref-9780192897497-e-291}
+attendance centre {source-entry: acref-9780192897497-e-292}
+attestation {source-entry: acref-9780192897497-e-293}
+attorney {source-entry: acref-9780192897497-e-294}
+Attorney General {source-entry: acref-9780192897497-e-295}
+attornment {source-entry: acref-9780192897497-e-296}
+auction {source-entry: acref-9780192897497-e-297}
+auction ring {source-entry: acref-9780192897497-e-298}
+audi alteram partem → natural justice {source-entry: acref-9780192897497-e-299}
+Audit Commission {source-entry: acref-9780192897497-e-300}
+audit exemption {source-entry: acref-9780192897497-e-301}
+auditor {source-entry: acref-9780192897497-e-302}
+authentication {source-entry: acref-9780192897497-e-303}
+authority {source-entry: acref-9780192897497-e-304}
+authorized capital {source-entry: acref-9780192897497-e-305}
+authorized guarantee agreement {source-entry: acref-9780192897497-e-4386}
+authorized investments {source-entry: acref-9780192897497-e-306}
+authorized securities → authorized investments {source-entry: acref-9780192897497-e-307}
+automatic reservation {source-entry: acref-9780192897497-e-308}
+automatism → insanity; non-insane automatism {source-entry: acref-9780192897497-e-309}
+autopsy {source-entry: acref-9780192897497-e-310}
+aut punire aut dedere {source-entry: acref-9780192897497-e-311}
+autrefois acquit {source-entry: acref-9780192897497-e-312}
+autrefois convict {source-entry: acref-9780192897497-e-313}
+autre vie → estate pur (or per) autre vie {source-entry: acref-9780192897497-e-314}
+auxiliary jurisdiction {source-entry: acref-9780192897497-e-315}
+AVC → additional voluntary contribution {source-entry: acref-9780192897497-e-316}
+aver {source-entry: acref-9780192897497-e-317}
+average {source-entry: acref-9780192897497-e-318}
+avoid {source-entry: acref-9780192897497-e-320}
+avoidance of disposition order {source-entry: acref-9780192897497-e-321}
+avulsion {source-entry: acref-9780192897497-e-322}
+award → arbitration {source-entry: acref-9780192897497-e-323}
 
 ## B
 backed for bail
